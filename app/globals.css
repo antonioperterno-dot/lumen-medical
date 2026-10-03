@@ -1,0 +1,325 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========================================================================
+   LUMEN — global canvas
+   Green #39FF88 · canvas #0A0A0A · iOS-native feel
+   ========================================================================== */
+
+@layer base {
+  :root {
+    --lumen-green: #39ff88;
+    --lumen-canvas: #0a0a0a;
+    --lumen-glass: rgba(255, 255, 255, 0.1);
+    --lumen-glass-border: rgba(255, 255, 255, 0.14);
+    --lumen-text-dim: rgba(255, 255, 255, 0.62);
+    --lumen-text-faint: rgba(255, 255, 255, 0.42);
+
+    /* Height of the bottom nav incl. the iOS home-indicator safe area.
+       Pages pad against this so content is never hidden behind the nav. */
+    --nav-height: calc(64px + env(safe-area-inset-bottom));
+
+    /* Horizontal page gutter. Every screen and every sticky header reads this
+       single value, which is what lets `.page-bleed` pull a scroller or a
+       header back out to the true screen edge — no per-breakpoint magic
+       numbers, and no drift between the header and the list underneath it. */
+    --page-x: 1.25rem;
+
+    /* Width of the desktop navigation rail. Zero on phones, where the bottom
+       tab bar does the job instead. */
+    --sidebar-width: 0px;
+  }
+
+  html[data-theme="light"] {
+    --lumen-canvas: #f4f7f5;
+    --lumen-glass: rgba(255, 255, 255, 0.82);
+    --lumen-glass-border: rgba(12, 40, 24, 0.14);
+    --lumen-text-dim: rgba(12, 24, 16, 0.68);
+    --lumen-text-faint: rgba(12, 24, 16, 0.48);
+  }
+
+  html[data-theme="light"] body {
+    color: #102017;
+  }
+
+  /* Tablet — more room on screen, so the content gets more air. */
+  @media (min-width: 768px) {
+    :root {
+      --page-x: 1.75rem;
+    }
+  }
+
+  /* Desktop — the bottom tab bar becomes a rail down the left-hand side. */
+  @media (min-width: 1024px) {
+    :root {
+      --page-x: 2rem;
+      --sidebar-width: 248px;
+    }
+  }
+
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html {
+    /* Prevent iOS from auto-inflating text in landscape. */
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-canvas text-white antialiased;
+    font-family:
+      var(--font-inter),
+      Inter,
+      -apple-system,
+      BlinkMacSystemFont,
+      system-ui,
+      sans-serif;
+    /* Crisper type on iOS, same as native apps. */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overscroll-behavior-y: none;
+    /* Stop the whole page rubber-banding when a modal is open. */
+    min-height: 100dvh;
+  }
+
+  /* Remove the default iOS button styling so our components look native. */
+  button,
+  input,
+  textarea,
+  select {
+    font: inherit;
+    color: inherit;
+  }
+
+  /* Accessibility: always show a visible focus ring for keyboard users,
+     but never for touch taps. */
+  :focus-visible {
+    outline: 2px solid var(--lumen-green);
+    outline-offset: 2px;
+    border-radius: 8px;
+  }
+
+  ::selection {
+    background: rgba(57, 255, 136, 0.3);
+  }
+
+  /* Thin, dark scrollbars on desktop. */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.14);
+    border-radius: 999px;
+  }
+}
+
+@layer components {
+  /* ---------------------------------------------------------------------
+     Glassmorphism card — the reusable surface used across the entire app.
+     Translucent white 10% + backdrop-blur + rounded-2xl.
+     --------------------------------------------------------------------- */
+  .glass {
+    background: var(--lumen-glass);
+    border: 1px solid var(--lumen-glass-border);
+    -webkit-backdrop-filter: blur(20px) saturate(160%);
+    backdrop-filter: blur(20px) saturate(160%);
+    border-radius: 1rem;
+  }
+
+  .glass-strong {
+    background: rgba(255, 255, 255, 0.14);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    -webkit-backdrop-filter: blur(28px) saturate(180%);
+    backdrop-filter: blur(28px) saturate(180%);
+  }
+
+  /* Press feedback: the card scales down slightly, like an iOS cell. */
+  .glass-pressable {
+    transition:
+      transform 0.18s cubic-bezier(0.2, 0.8, 0.2, 1),
+      background 0.18s ease,
+      border-color 0.18s ease;
+  }
+  .glass-pressable:active {
+    transform: scale(0.975);
+    background: rgba(255, 255, 255, 0.16);
+  }
+
+  /* ---------------------------------------------------------------------
+     Skeleton shimmer
+     A moving highlight sweeps across the placeholder block.
+     --------------------------------------------------------------------- */
+  .skeleton {
+    position: relative;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.07);
+    border-radius: 0.75rem;
+    /* Respect users who ask for reduced motion — show a flat block instead. */
+    contain: paint;
+  }
+
+  .skeleton::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    transform: translateX(-100%);
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.06) 20%,
+      rgba(57, 255, 136, 0.12) 50%,
+      rgba(255, 255, 255, 0.06) 80%,
+      transparent 100%
+    );
+    animation: skeleton-sweep 1.6s infinite;
+  }
+
+  @keyframes skeleton-sweep {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+
+  /* The green "trending" pill. */
+  .pill-trending {
+    @apply inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide;
+    background: rgba(57, 255, 136, 0.14);
+    color: var(--lumen-green);
+    border: 1px solid rgba(57, 255, 136, 0.3);
+  }
+
+  .pill-muted {
+    @apply inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-medium;
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--lumen-text-dim);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  /* Bottom-nav item label + icon pairing. */
+  .nav-item {
+    @apply relative flex flex-1 flex-col items-center justify-center gap-1 py-2;
+    color: var(--lumen-text-faint);
+    transition: color 0.2s ease;
+  }
+  .nav-item[data-active="true"] {
+    color: var(--lumen-green);
+  }
+}
+
+@layer utilities {
+  .text-dim {
+    color: var(--lumen-text-dim);
+  }
+  .text-faint {
+    color: var(--lumen-text-faint);
+  }
+
+  /* Page bottom padding that clears the blurred tab bar. On desktop the
+     navigation is a side rail, so nothing occupies the bottom of the screen
+     and the page just needs normal breathing room. */
+  .pb-nav {
+    padding-bottom: calc(var(--nav-height) + 1.5rem);
+  }
+  @media (min-width: 1024px) {
+    .pb-nav {
+      padding-bottom: 4rem;
+    }
+  }
+
+  .pt-safe {
+    padding-top: calc(env(safe-area-inset-top) + 0.5rem);
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  /* Faint green radial ambience behind the header. */
+  .lumen-aurora {
+    background:
+      radial-gradient(
+        60% 45% at 15% 0%,
+        rgba(57, 255, 136, 0.16) 0%,
+        transparent 70%
+      ),
+      radial-gradient(
+        50% 40% at 95% 5%,
+        rgba(57, 255, 136, 0.08) 0%,
+        transparent 70%
+      );
+  }
+}
+
+/* Honour "Reduce Motion" on iOS: kill the shimmer and transitions. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+  .skeleton::after {
+    display: none;
+  }
+}
+/* ==========================================================================
+   Layout primitives — the responsive skeleton every screen is built on
+   ==========================================================================
+   `--page-x` is the single horizontal gutter the whole app shares (1.25rem on
+   a phone, 1.75rem on a tablet, 2rem on a desktop). `.page-x` applies it, and
+   `.page-bleed` cancels it again so that a horizontally-scrolling rail or a
+   sticky header can span the full width of the column while keeping its
+   content aligned with everything else on the page.
+   ========================================================================== */
+@layer components {
+  .page-x {
+    padding-left: var(--page-x);
+    padding-right: var(--page-x);
+  }
+
+  .page-bleed {
+    margin-left: calc(var(--page-x) * -1);
+    margin-right: calc(var(--page-x) * -1);
+    padding-left: var(--page-x);
+    padding-right: var(--page-x);
+  }
+
+  /* Long-form reading gets a measure, not just a container width: at 15px this
+     lands around 70 characters, which is where clinical text stays comfortable
+     even on a wide desktop monitor. */
+  .read-measure {
+    max-width: 46rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* A row in the desktop navigation rail. */
+  .nav-rail-item {
+    @apply relative flex items-center gap-3 rounded-xl px-3 py-2.5 text-[13px] font-medium;
+    color: var(--lumen-text-dim);
+    transition:
+      color 0.2s ease,
+      background 0.2s ease;
+  }
+  .nav-rail-item:hover {
+    background: rgba(255, 255, 255, 0.06);
+    color: #ffffff;
+  }
+  .nav-rail-item[data-active="true"] {
+    background: rgba(57, 255, 136, 0.12);
+    color: var(--lumen-green);
+  }
+}

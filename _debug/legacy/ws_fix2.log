@@ -1,0 +1,10 @@
+=== fix2 === 
+node_modules/@firebase/firestore => dist,lite,package.json
+node_modules/@firebase/firestore/dist => firestore,index.cjs.js,index.cjs.js.map,index.esm2017.js,index.esm2017.js.map,index.node.cjs.js,index.rn.js,lite
+node_modules/firebase/firestore/dist => ai,analytics,app,app-check,auth,compat,data-connect,database,esm,firestore,functions,index.cjs.js,index.cjs.js.map,index.mjs,index.mjs.map,installations,messaging,performance,remote-config,storage,vertexai
+node_modules/unrs-resolver FAIL: ENOENT: no such file or directory, open 'C:\Users\antonio perterno\LUMEN\node_modules\unrs-resolver\package.json'
+node_modules/sharp version=0.33.5
+node_modules/protobufjs version=7.6.6
+protobufjs/dist files: light,minimal,protobuf.js,protobuf.js.map,protobuf.min.js,protobuf.min.js.map
+FIX2_EXIT=0 
+FIX2_DONE 

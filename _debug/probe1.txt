@@ -1,0 +1,55 @@
+﻿C:\Users\antonio perterno\LUMEN\components\CategoryGrid.tsx:37: Seven collections · progress shown per subject
+C:\Users\antonio perterno\LUMEN\lib\firebase\client.ts:3: // Firestore is loaded lazily (see getDb) because the bundled
+C:\Users\antonio perterno\LUMEN\lib\firebase\client.ts:4: // "firebase/firestore" entry in this install is a stub re-export whose
+C:\Users\antonio perterno\LUMEN\lib\firebase\client.ts:5: // dist only re-exports @firebase/firestore. Static analysis (tsc + Next's
+C:\Users\antonio perterno\LUMEN\lib\firebase\client.ts:9: import type { Firestore } from "firebase/firestore";
+C:\Users\antonio perterno\LUMEN\lib\firebase\client.ts:62: export async function getDb(): Promise<Firestore> {
+C:\Users\antonio perterno\LUMEN\lib\firebase\client.ts:66: const { getFirestore: getFirestoreImpl } = await import("firebase/firestore");
+C:\Users\antonio perterno\LUMEN\lib\firebase\client.ts:73: export const COLLECTIONS = {
+--- firestore entry d.ts (first 20) ---
+/**
+ * @license
+ * Copyright 2020 Google LLC
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+export * from '@firebase/firestore';
+--- firebase/firestore/package.json ---
+{
+  "name": "firebase/firestore",
+  "main": "dist/index.cjs.js",
+  "browser": "dist/esm/index.esm.js",
+  "module": "dist/esm/index.esm.js",
+  "typings": "dist/firestore/index.d.ts"
+}
+ai
+analytics
+app
+app-check
+auth
+compat
+data-connect
+database
+esm
+firestore
+functions
+installations
+messaging
+performance
+remote-config
+storage
+vertexai
+index.cjs.js
+index.cjs.js.map
+index.mjs
+index.mjs.map

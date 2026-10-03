@@ -1,0 +1,6 @@
+size=106189312 mtime=Thu Oct 01 2026 01:20:21 GMT+0300 (East Africa Time)
+magic bytes: 4d5a7800 (want 4d5a9000 = MZ)
+node: v24.19.0 arch: x64
+direct load: loads ok
+
+INFO_EXIT=0 

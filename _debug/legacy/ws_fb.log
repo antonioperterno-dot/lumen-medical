@@ -1,0 +1,51 @@
+
+Name         Mode  
+----         ----  
+dist         d-----
+lite         d-----
+package.json -a----
+
+
+
+
+Name             Length
+----             ------
+ai                     
+analytics              
+app                    
+app-check              
+auth                   
+compat                 
+data-connect           
+database               
+esm                    
+firestore              
+functions              
+installations          
+messaging              
+performance            
+remote-config          
+storage                
+vertexai               
+index.cjs.js     375   
+index.cjs.js.map 106   
+index.mjs        72    
+index.mjs.map    90    
+
+
+
+---firestore-sub---
+
+Name      
+----      
+lite      
+index.d.ts
+
+
+
+---index-mjs-head---
+export * from '@firebase/firestore';
+//# sourceMappingURL=index.mjs.map
+
+
+FB_EXIT=0 

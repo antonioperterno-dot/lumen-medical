@@ -1,0 +1,357 @@
+{
+  "id": "firstaid-paper-001",
+  "courseUnit": "first-aid",
+  "title": "First Aid Paper 1: Basic First Aid and Casualty Care",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-03T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from the provided Year I Semester I 2026/27 Nursing and First Aid sample paper; additional emergency-care items aligned with Resuscitation Council UK 2025 First Aid Guidelines and American Red Cross first aid guidance.",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "firstaid-paper-001-q01",
+      "question": "The medical term emesis means:",
+      "options": [
+        "Vomiting",
+        "Coughing blood",
+        "Indigestion",
+        "Regurgitation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Emesis is the act of vomiting.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-001-q02",
+      "question": "According to the historical account in the sample paper, nursing services in Uganda began in 1897 at:",
+      "options": [
+        "Mengo",
+        "Nsambya",
+        "Mulago",
+        "Butabika"
+      ],
+      "answerIndex": 0,
+      "explanation": "The sample identifies Mengo; Mengo Hospital's history dates its first clinic to 1897.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q03",
+      "question": "First aid is best described as:",
+      "options": [
+        "Immediate basic care given to an injured or suddenly ill person before professional medical care",
+        "A complete course of hospital treatment",
+        "Routine treatment given only by a doctor",
+        "Long-term rehabilitation after discharge"
+      ],
+      "answerIndex": 0,
+      "explanation": "First aid is immediate assistance provided until appropriate medical care is available.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-001-q04",
+      "question": "A first aider should hand over care when:",
+      "options": [
+        "The casualty has been transferred to an appropriate healthcare professional or emergency team",
+        "The casualty first becomes conscious",
+        "A bystander asks to take over without assessment",
+        "The first aider has applied one dressing"
+      ],
+      "answerIndex": 0,
+      "explanation": "Continue appropriate first aid until care is safely handed to a qualified responder or the casualty recovers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q05",
+      "question": "Using the adult Rule of Nines, what percentage of total body surface area is represented by both complete legs?",
+      "options": [
+        "9%",
+        "18%",
+        "27%",
+        "36%"
+      ],
+      "answerIndex": 3,
+      "explanation": "In the adult Rule of Nines, one complete leg is approximately 18%, so both legs are approximately 36%.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q06",
+      "question": "A possible sign of a venomous snakebite at the bite site is:",
+      "options": [
+        "One or two puncture marks",
+        "A row of six evenly spaced punctures",
+        "A clean surgical incision",
+        "A painless bruise in every case"
+      ],
+      "answerIndex": 0,
+      "explanation": "One or two fang punctures may be present, but their appearance alone cannot confirm envenoming.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q07",
+      "question": "Using a bed screen while providing care mainly protects the patient's:",
+      "options": [
+        "Privacy",
+        "Autonomy",
+        "Consent",
+        "Mobility"
+      ],
+      "answerIndex": 0,
+      "explanation": "A screen helps protect privacy and dignity during care.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-001-q08",
+      "question": "When direct contact with blood or body fluids is anticipated, which item is a basic form of personal protective equipment?",
+      "options": [
+        "Disposable gloves",
+        "Adhesive bandage",
+        "Cotton wool",
+        "Thermometer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gloves protect hands when contact with blood, body fluids, mucous membranes or non-intact skin is anticipated.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-001-q09",
+      "question": "Which sequence best represents the initial primary survey?",
+      "options": [
+        "Danger, Response, Airway, Breathing, Circulation",
+        "Response, Danger, Breathing, Airway, Circulation",
+        "Airway, Breathing, Danger, Circulation, Response",
+        "Danger, Circulation, Response, Airway, Breathing"
+      ],
+      "answerIndex": 0,
+      "explanation": "DRABC means Danger, Response, Airway, Breathing and Circulation; follow current local training and emergency protocols.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q10",
+      "question": "When checking an unresponsive casualty for normal breathing, the breathing check should take:",
+      "options": [
+        "No more than 10 seconds",
+        "About 30 seconds",
+        "Exactly one minute",
+        "At least two minutes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Assess breathing promptly; do not spend more than 10 seconds before acting on abnormal or absent breathing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q11",
+      "question": "Severe blood loss may lead to:",
+      "options": [
+        "Hypovolaemic shock",
+        "Hypoglycaemia only",
+        "Anaphylaxis",
+        "Hypothermia only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Major blood loss reduces circulating blood volume and can cause hypovolaemic shock.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-001-q12",
+      "question": "An open fracture is one in which:",
+      "options": [
+        "A wound communicates with the fracture, sometimes with bone visible",
+        "The bone is bent but unbroken",
+        "The bone ends move but the skin is intact",
+        "A joint is dislocated without a wound"
+      ],
+      "answerIndex": 0,
+      "explanation": "An open fracture involves a wound communicating with the fracture; bone may or may not be visible.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q13",
+      "question": "For a nosebleed, the casualty should generally be told to:",
+      "options": [
+        "Sit leaning forward and pinch the soft part of the nose",
+        "Lie flat and tilt the head backwards",
+        "Blow the nose repeatedly",
+        "Pinch the bridge of the nose while leaning backwards"
+      ],
+      "answerIndex": 0,
+      "explanation": "Leaning forward reduces blood flowing into the throat; pinch the soft part of the nose continuously.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q14",
+      "question": "A typical normal resting respiratory rate for a healthy adult is approximately:",
+      "options": [
+        "4–8 breaths per minute",
+        "12–20 breaths per minute",
+        "25–35 breaths per minute",
+        "40–60 breaths per minute"
+      ],
+      "answerIndex": 1,
+      "explanation": "A commonly used adult resting reference range is 12–20 breaths per minute.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-001-q15",
+      "question": "For an unresponsive casualty without suspected neck injury, the usual manoeuvre to open the airway is:",
+      "options": [
+        "Head-tilt/chin-lift",
+        "Abdominal thrust",
+        "Blind finger sweep",
+        "Pressure on the throat"
+      ],
+      "answerIndex": 0,
+      "explanation": "The head-tilt/chin-lift opens the airway when spinal injury is not suspected; use a trained alternative if trauma is suspected.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q16",
+      "question": "What is the safest immediate first aid for a suspected snakebite?",
+      "options": [
+        "Keep the person still, immobilise the bitten limb and arrange urgent transport for medical care",
+        "Cut the bite and suck out the venom",
+        "Apply a tight tourniquet above the bite",
+        "Make the casualty walk quickly to the clinic"
+      ],
+      "answerIndex": 0,
+      "explanation": "Keep the person calm and still, immobilise the limb and arrange urgent medical care; cutting, suction and tight tourniquets are harmful or ineffective.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "firstaid-paper-001-q17",
+      "question": "In the RICE approach traditionally taught for a sprain, the letters stand for:",
+      "options": [
+        "Rest, Ice, Compression, Elevation",
+        "Rub, Immobilise, Cover, Exercise",
+        "Rest, Irrigate, Clean, Extend",
+        "Raise, Inspect, Cool, Examine"
+      ],
+      "answerIndex": 0,
+      "explanation": "RICE is commonly expanded as Rest, Ice, Compression and Elevation; protect the skin from direct ice and follow local clinical guidance.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-001-q18",
+      "question": "The main first-aid aim when a fracture is suspected is to:",
+      "options": [
+        "Support and immobilise the injured part in the position found",
+        "Push any visible bone back under the skin",
+        "Straighten the limb forcefully",
+        "Test the fracture by repeatedly moving it"
+      ],
+      "answerIndex": 0,
+      "explanation": "Support and immobilise the injury as found; do not attempt to realign a fracture.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-001-q19",
+      "question": "Which of the following is not personal protective equipment?",
+      "options": [
+        "Plastic apron",
+        "Gloves",
+        "Face mask",
+        "Cleaning detergent"
+      ],
+      "answerIndex": 3,
+      "explanation": "Detergent is a cleaning product, not protective clothing or equipment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-001-q20",
+      "question": "Which is not a primary aim of first aid?",
+      "options": [
+        "Preserve life",
+        "Prevent the condition from worsening",
+        "Promote recovery",
+        "Provide definitive cure for the casualty"
+      ],
+      "answerIndex": 3,
+      "explanation": "First aid aims to preserve life, prevent deterioration and promote recovery; definitive cure is not its role.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "firstaid-paper-001-b01",
+      "question": "Answer all parts. (a) Define infection prevention. (2 marks) (b) Explain the principles of infection control. (8 marks) (c) Name ten items of protective equipment and state one application for each. (10 marks)",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Defines infection prevention as measures that prevent or reduce transmission of infectious agents: 2 marks.",
+        "(b) Hand hygiene at appropriate moments: 2 marks.",
+        "(b) Apply standard precautions to every patient, based on exposure risk: 1 mark.",
+        "(b) Use task-appropriate PPE and safe donning/removal: 1 mark.",
+        "(b) Clean, disinfect or sterilise reusable equipment and surfaces appropriately: 1 mark.",
+        "(b) Dispose of sharps and clinical waste safely; never recap used needles: 1 mark.",
+        "(b) Use respiratory hygiene and additional isolation precautions when indicated: 1 mark.",
+        "(b) Handle linen and contaminated materials safely: 1 mark.",
+        "(c) Award 1 mark each for ten suitable items paired with a correct use: 10 marks."
+      ],
+      "modelAnswer": "(a) Infection prevention is the set of actions used to prevent or reduce the spread of infectious agents between people and through the care environment. (b) Perform hand hygiene before and after patient contact and after contact with potentially contaminated materials; use standard precautions for every patient; assess likely exposure and select suitable PPE; use safe injection and sharps practices; clean, disinfect or sterilise equipment appropriately; manage linen and waste safely; use respiratory hygiene; and apply additional transmission-based precautions when indicated. (c) Examples: disposable gloves—anticipated hand contact with blood or body fluids; utility gloves—cleaning contaminated equipment; plastic apron—protect clothing from splashes; gown—protect arms and clothing during extensive contact; surgical mask—droplet or splash risk to nose and mouth; fit-tested respirator—airborne exposure when indicated by protocol; goggles—eye splash protection; face shield—face protection from sprays; head cover—tasks with risk of gross contamination; shoe covers or boots—tasks with likely heavy floor contamination. Choose PPE by task and risk, and remove it safely."
+    },
+    {
+      "id": "firstaid-paper-001-b02",
+      "question": "Answer all parts. (a) Describe three types of wound dressing used in nursing. (6 marks) (b) Explain three indications for bandaging. (6 marks) (c) Describe first aid for suspected paracetamol poisoning. (6 marks) (d) Give two uses of a reef knot in first aid. (2 marks)",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Describes a sterile dry dressing and its use to cover/protect a wound: 2 marks.",
+        "(a) Describes an absorbent dressing and its use to absorb wound exudate: 2 marks.",
+        "(a) Describes an appropriate non-adherent or occlusive dressing and its use: 2 marks.",
+        "(b) Bandage secures a dressing in place: 2 marks.",
+        "(b) Bandage supports or immobilises an injured part: 2 marks.",
+        "(b) Bandage can provide gentle pressure to help control bleeding or swelling, without impairing circulation: 2 marks.",
+        "(c) Seek urgent medical/poison service assistance immediately, even if the person feels well: 2 marks.",
+        "(c) Do not induce vomiting or give food/drink; keep the person under observation: 1 mark.",
+        "(c) Find and take the medicine packaging; record the amount and time if known: 1 mark.",
+        "(c) Monitor airway, breathing and responsiveness; recovery position if unconscious but breathing, CPR if not breathing normally: 2 marks.",
+        "(d) Uses reef knot to tie two bandage ends or secure a dressing: 1 mark.",
+        "(d) Uses reef knot to tie two ends of similar material when appropriate, with a safe, non-constricting finish: 1 mark."
+      ],
+      "modelAnswer": "(a) A sterile dry dressing covers and protects a wound. An absorbent dressing soaks up blood or exudate. A non-adherent dressing is used over delicate or lightly exuding wounds so it is less likely to stick; an occlusive dressing may be used where clinically indicated to provide a sealed cover. (b) Bandages can secure a dressing, support or immobilise an injured area, and apply gentle pressure to help control bleeding or swelling. Check circulation beyond the bandage and loosen it if it becomes too tight. (c) Treat suspected paracetamol overdose as urgent even if there are no symptoms: contact emergency medical services or a poison advice service and arrange immediate assessment. Do not make the person vomit or give food or drink. Keep the medicine packet and note what was taken and when. Monitor responsiveness and breathing; place an unconscious but breathing person in the recovery position, and begin CPR if they are not breathing normally and you are trained. (d) A reef knot can tie the ends of a bandage or secure a dressing. Use it only where appropriate and ensure it does not constrict the casualty."
+    },
+    {
+      "id": "firstaid-paper-001-b03",
+      "question": "An adult is found unresponsive. Describe how you would assess the situation and organise immediate help, including what you would do if the person is not breathing normally.",
+      "marks": 20,
+      "markingGuide": [
+        "Checks scene safety and uses appropriate PPE/consent where possible: 3 marks.",
+        "Checks responsiveness and calls for emergency help early, asking a bystander to assist/get an AED if available: 4 marks.",
+        "Opens/assesses airway and checks breathing promptly: 4 marks.",
+        "If unresponsive with abnormal or absent normal breathing, starts CPR and uses an AED as soon as available, following training/call-handler instructions: 5 marks.",
+        "If unresponsive but breathing normally, places in recovery position when appropriate and monitors while awaiting help: 2 marks.",
+        "Continues reassessment and safe handover: 2 marks."
+      ],
+      "modelAnswer": "Ensure the scene is safe. Check responsiveness and summon emergency help early; ask someone to call and retrieve an AED if available. Open and assess the airway and determine whether breathing is normal. If the adult is unresponsive and not breathing normally, begin CPR and use an AED as soon as available, following training and emergency call-handler directions. If unresponsive but breathing normally and there is no reason to avoid movement, use the recovery position and monitor breathing until help arrives. Continue reassessment and hand over findings."
+    },
+    {
+      "id": "firstaid-paper-001-b04",
+      "question": "Outline first aid for life-threatening external bleeding and explain when a tourniquet may be appropriate.",
+      "marks": 20,
+      "markingGuide": [
+        "Ensures safety/PPE and summons emergency medical help: 3 marks.",
+        "Applies firm direct pressure to the wound with a suitable dressing or clean material: 5 marks.",
+        "Maintains pressure and secures a pressure dressing when bleeding is controlled: 3 marks.",
+        "For life-threatening limb bleeding not controlled by direct pressure, describes tourniquet use only if available/trained or in line with local guidance; places above wound, not over a joint: 4 marks.",
+        "Records application time and does not loosen/release it; follows training and urgent transport: 3 marks.",
+        "Monitors the casualty and for shock: 2 marks."
+      ],
+      "modelAnswer": "Use PPE when available and call emergency services. Apply firm, direct pressure over the bleeding site with a dressing or clean material and maintain it. Once controlled, secure a pressure dressing and monitor the casualty. For life-threatening bleeding from a limb that is not controlled by direct pressure, use a tourniquet when available and within training/local guidance, positioned above the injury and not over a joint. Record the time and do not release it; urgent medical care is required. Keep reassessing for deterioration or shock."
+    },
+    {
+      "id": "firstaid-paper-001-b05",
+      "question": "Describe first aid for a thermal burn and identify features that require urgent medical assessment.",
+      "marks": 20,
+      "markingGuide": [
+        "Makes the scene safe and stops ongoing burning without putting the first aider at risk: 3 marks.",
+        "Removes jewellery or clothing near the burn if not stuck to skin: 3 marks.",
+        "Cools with clean, cool running water for an appropriate period (5–20 minutes in Red Cross guidance); avoids ice and greasy substances: 5 marks.",
+        "Protects the cooled area with a clean, loose, non-adherent covering when appropriate: 3 marks.",
+        "Recognises urgent features such as deep/large burns, face/hands/feet/joints/groin, circumferential, electrical/chemical burns, or breathing difficulty and seeks emergency care: 4 marks.",
+        "Monitors for shock/hypothermia and arranges assessment: 2 marks."
+      ],
+      "modelAnswer": "Make the area safe and stop the burning process. Remove jewellery and clothing near the burn unless it is stuck. Cool the burn with clean, cool running water; Red Cross guidance describes 5–20 minutes. Do not use ice or greasy substances. Protect the area loosely with a clean dressing if appropriate, and seek urgent medical care for deep or extensive burns, burns to critical areas, electrical or chemical burns, or breathing difficulty. Monitor the person and avoid chilling them while cooling a large area."
+    }
+  ]
+}

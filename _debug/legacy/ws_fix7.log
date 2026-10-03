@@ -1,0 +1,22 @@
+=== typecheck8 + dev === 
+
+> lumen-medical@1.0.0 typecheck
+> tsc --noEmit
+
+lib/firebase/client.ts(9,15): error TS2305: Module '"firebase/firestore"' has no exported member 'Firestore'.
+lib/firebase/client.ts(66,13): error TS2339: Property 'getFirestore' does not exist on type '{ default: typeof import("C:/Users/antonio perterno/LUMEN/node_modules/firebase/firestore/dist/firestore/index"); }'.
+TYPECHECK_EXIT=2 
+=== dev log === 
+
+> lumen-medical@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.23
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+> [PWA] PWA support is disabled
+> [PWA] PWA support is disabled
+ ✓ Ready in 6.4s
+FIX7_DONE 

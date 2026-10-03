@@ -1,0 +1,49 @@
+{
+  "name": "lumen-medical",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LUMEN - Offline-first medical education PWA for medical students in Uganda",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "seed:turso": "node --env-file=.env.local scripts/seed-turso.mjs",
+    "invite:create": "node --env-file=.env.local scripts/create-invites.mjs",
+    "paper:import": "node --env-file=.env.local scripts/import-paper.mjs",
+    "icons": "node scripts/generate-icons.mjs",
+    "deploy": "next build && firebase deploy"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "firebase": "^11.1.0",
+    "firebase-admin": "^13.0.2",
+    "next": "14.2.23",
+    "next-pwa": "^5.6.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.12",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.2.23",
+    "postcss": "^8.4.49",
+    "sharp": "^0.33.5",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "//allowScripts": "npm 11 blocks install/postinstall scripts unless a package is listed here. sharp and unrs-resolver need theirs to resolve native binaries (icon generation, lint resolver); protobufjs generates the type stubs that firebase-admin's gRPC stack relies on.",
+  "allowScripts": {
+    "@firebase/util@1.12.1": true,
+    "protobufjs@7.6.6": true,
+    "sharp@0.33.5": true,
+    "unrs-resolver@1.12.2": true
+  }
+}

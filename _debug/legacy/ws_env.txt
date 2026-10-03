@@ -1,0 +1,3 @@
+﻿v24.19.0
+node_modules exists: False
+env.local exists: False

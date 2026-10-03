@@ -1,0 +1,186 @@
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+node:internal/errors:985
+  const err = new Error(message);
+              ^
+
+Error: Command failed: npm.cmd install --no-audit --no-fund --loglevel=silly --prefer-offline 2>&1 || true
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+
+    at genericNodeError (node:internal/errors:985:15)
+    at wrappedFn (node:internal/errors:539:14)
+    at checkExecSyncError (node:child_process:942:11)
+    at execSync (node:child_process:1014:15)
+    at file:///C:/Users/antonio%20perterno/LUMEN/ws_silly.mjs:3:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:439:25)
+    at async node:internal/modules/esm/loader:643:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5) {
+  status: 1,
+  signal: null,
+  output: [
+    null,
+    'npm verbose cli C:\\Program Files\\nodejs\\node.exe C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js\n' +
+      'npm info using npm@11.17.0\n' +
+      'npm info using node@v24.19.0\n' +
+      'npm silly config load:file:C:\\Program Files\\nodejs\\node_modules\\npm\\npmrc\n' +
+      'npm silly config load:file:C:\\Users\\antonio perterno\\LUMEN\\.npmrc\n' +
+      'npm silly config load:file:C:\\Users\\antonio perterno\\.npmrc\n' +
+      'npm silly config load:file:C:\\Users\\antonio perterno\\AppData\\Roaming\\npm\\etc\\npmrc\n' +
+      'npm verbose title npm install\n' +
+      'npm verbose argv "install" "--no-audit" "--no-fund" "--loglevel" "silly" "--prefer-offline"\n' +
+      'npm verbose logfile logs-max:10 dir:C:\\Users\\antonio perterno\\AppData\\Local\\npm-cache\\_logs\\2026-09-30T22_02_04_257Z-\n' +
+      'npm verbose logfile C:\\Users\\antonio perterno\\AppData\\Local\\npm-cache\\_logs\\2026-09-30T22_02_04_257Z-debug-0.log\n' +
+      'npm silly logfile start cleaning logs, removing 1 files\n' +
+      'npm silly logfile done cleaning log files\n' +
+      'npm silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736\n' +
+      'npm silly idealTree buildDeps\n' +
+      'npm silly fetch manifest browserslist@^4.24.0\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/browserslist cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/browserslist 1182ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/browserslist set size:530436 disposed:false\n' +
+      'npm silly placeDep node_modules/@babel/helper-compilation-targets browserslist@4.29.3 OK for: @babel/helper-compilation-targets@7.29.7 want: ^4.24.0\n' +
+      'npm silly fetch manifest electron-to-chromium@^1.5.439\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/electron-to-chromium cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/electron-to-chromium 31ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/electron-to-chromium set size:4979269 disposed:false\n' +
+      'npm silly fetch manifest @firebase/auth@1.10.8\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@firebase%2fauth cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/@firebase%2fauth 104ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@firebase%2fauth set size:18093534 disposed:false\n' +
+      'npm silly fetch manifest @firebase/app@0.x\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@firebase%2fapp cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/@firebase%2fapp 76ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@firebase%2fapp set size:15082927 disposed:false\n' +
+      'npm silly fetch manifest @react-native-async-storage/async-storage@^1.18.1\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@react-native-async-storage%2fasync-storage cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/@react-native-async-storage%2fasync-storage 17ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@react-native-async-storage%2fasync-storage set size:421043 disposed:false\n' +
+      'npm silly fetch manifest react-native@^0.0.0-0 || >=0.60 <1.0\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/react-native cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/react-native 57ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/react-native set size:15904064 disposed:false\n' +
+      'npm silly fetch manifest @types/react@^19.1.1\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@types%2freact cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/@types%2freact 21ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@types%2freact set size:2642161 disposed:false\n' +
+      'npm silly fetch manifest react@^19.2.3\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/react cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/react 64ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/react set size:7011585 disposed:false\n' +
+      'npm silly placeDep node_modules/@firebase/auth-compat @firebase/auth@1.10.8 REPLACE for: @firebase/auth-compat@0.5.28 want: 1.10.8\n' +
+      'npm silly fetch manifest @types/estree@0.0.39\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@types%2festree cache-miss\n' +
+      'npm http fetch GET 200 https://registry.npmjs.org/@types%2festree 9ms (cache stale)\n' +
+      'npm silly packumentCache full:https://registry.npmjs.org/@types%2festree set size:76072 disposed:false\n' +
+      'npm silly placeDep ROOT @types/estree@0.0.39 OK for: @rollup/pluginutils@3.1.0 want: 0.0.39\n' +
+      'npm verbose stack TypeError: Invalid Version: \n' +
+      'npm verbose stack     at new SemVer (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\semver\\classes\\semver.js:56:13)\n' +
+      'npm verbose stack     at compare (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\semver\\functions\\compare.js:5:32)\n' +
+      'npm verbose stack     at Object.eq (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\semver\\functions\\eq.js:4:29)\n' +
+      'npm verbose stack     at Node.canDedupe (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\node.js:1137:32)\n' +
+      'npm verbose stack     at PlaceDep.pruneDedupable (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\place-dep.js:426:14)\n' +
+      'npm verbose stack     at new PlaceDep (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\place-dep.js:278:14)\n' +
+      'npm verbose stack     at #buildDepStep (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\arborist\\build-ideal-tree.js:1001:18)\n' +
+      'npm verbose stack     at async Arborist.buildIdealTree (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\arborist\\build-ideal-tree.js:179:7)\n' +
+      'npm verbose stack     at async Promise.all (index 1)\n' +
+      'npm verbose stack     at async Arborist.reify (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\arborist\\reify.js:112:5)\n' +
+      'npm error Invalid Version: \n' +
+      'npm silly unfinished npm timer reify 1790805725748\n' +
+      'npm silly unfinished npm timer reify:loadTrees 1790805725749\n' +
+      'npm silly unfinished npm timer idealTree:buildDeps 1790805727334\n' +
+      'npm silly unfinished npm timer idealTree:node_modules/@rollup/pluginutils 1790805729605\n' +
+      'npm verbose cwd C:\\Users\\antonio perterno\\LUMEN\n' +
+      'npm verbose os Windows_NT 10.0.22000\n' +
+      'npm verbose node v24.19.0\n' +
+      'npm verbose npm  v11.17.0\n' +
+      'npm verbose exit 1\n' +
+      'npm verbose code 1\n' +
+      'npm error A complete log of this run can be found in: C:\\Users\\antonio perterno\\AppData\\Local\\npm-cache\\_logs\\2026-09-30T22_02_04_257Z-debug-0.log\n',
+    "'true' is not recognized as an internal or external command,\r\n" +
+      'operable program or batch file.\r\n'
+  ],
+  pid: 10700,
+  stdout: 'npm verbose cli C:\\Program Files\\nodejs\\node.exe C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js\n' +
+    'npm info using npm@11.17.0\n' +
+    'npm info using node@v24.19.0\n' +
+    'npm silly config load:file:C:\\Program Files\\nodejs\\node_modules\\npm\\npmrc\n' +
+    'npm silly config load:file:C:\\Users\\antonio perterno\\LUMEN\\.npmrc\n' +
+    'npm silly config load:file:C:\\Users\\antonio perterno\\.npmrc\n' +
+    'npm silly config load:file:C:\\Users\\antonio perterno\\AppData\\Roaming\\npm\\etc\\npmrc\n' +
+    'npm verbose title npm install\n' +
+    'npm verbose argv "install" "--no-audit" "--no-fund" "--loglevel" "silly" "--prefer-offline"\n' +
+    'npm verbose logfile logs-max:10 dir:C:\\Users\\antonio perterno\\AppData\\Local\\npm-cache\\_logs\\2026-09-30T22_02_04_257Z-\n' +
+    'npm verbose logfile C:\\Users\\antonio perterno\\AppData\\Local\\npm-cache\\_logs\\2026-09-30T22_02_04_257Z-debug-0.log\n' +
+    'npm silly logfile start cleaning logs, removing 1 files\n' +
+    'npm silly logfile done cleaning log files\n' +
+    'npm silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736\n' +
+    'npm silly idealTree buildDeps\n' +
+    'npm silly fetch manifest browserslist@^4.24.0\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/browserslist cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/browserslist 1182ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/browserslist set size:530436 disposed:false\n' +
+    'npm silly placeDep node_modules/@babel/helper-compilation-targets browserslist@4.29.3 OK for: @babel/helper-compilation-targets@7.29.7 want: ^4.24.0\n' +
+    'npm silly fetch manifest electron-to-chromium@^1.5.439\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/electron-to-chromium cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/electron-to-chromium 31ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/electron-to-chromium set size:4979269 disposed:false\n' +
+    'npm silly fetch manifest @firebase/auth@1.10.8\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@firebase%2fauth cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/@firebase%2fauth 104ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@firebase%2fauth set size:18093534 disposed:false\n' +
+    'npm silly fetch manifest @firebase/app@0.x\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@firebase%2fapp cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/@firebase%2fapp 76ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@firebase%2fapp set size:15082927 disposed:false\n' +
+    'npm silly fetch manifest @react-native-async-storage/async-storage@^1.18.1\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@react-native-async-storage%2fasync-storage cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/@react-native-async-storage%2fasync-storage 17ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@react-native-async-storage%2fasync-storage set size:421043 disposed:false\n' +
+    'npm silly fetch manifest react-native@^0.0.0-0 || >=0.60 <1.0\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/react-native cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/react-native 57ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/react-native set size:15904064 disposed:false\n' +
+    'npm silly fetch manifest @types/react@^19.1.1\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@types%2freact cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/@types%2freact 21ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@types%2freact set size:2642161 disposed:false\n' +
+    'npm silly fetch manifest react@^19.2.3\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/react cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/react 64ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/react set size:7011585 disposed:false\n' +
+    'npm silly placeDep node_modules/@firebase/auth-compat @firebase/auth@1.10.8 REPLACE for: @firebase/auth-compat@0.5.28 want: 1.10.8\n' +
+    'npm silly fetch manifest @types/estree@0.0.39\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@types%2festree cache-miss\n' +
+    'npm http fetch GET 200 https://registry.npmjs.org/@types%2festree 9ms (cache stale)\n' +
+    'npm silly packumentCache full:https://registry.npmjs.org/@types%2festree set size:76072 disposed:false\n' +
+    'npm silly placeDep ROOT @types/estree@0.0.39 OK for: @rollup/pluginutils@3.1.0 want: 0.0.39\n' +
+    'npm verbose stack TypeError: Invalid Version: \n' +
+    'npm verbose stack     at new SemVer (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\semver\\classes\\semver.js:56:13)\n' +
+    'npm verbose stack     at compare (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\semver\\functions\\compare.js:5:32)\n' +
+    'npm verbose stack     at Object.eq (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\semver\\functions\\eq.js:4:29)\n' +
+    'npm verbose stack     at Node.canDedupe (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\node.js:1137:32)\n' +
+    'npm verbose stack     at PlaceDep.pruneDedupable (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\place-dep.js:426:14)\n' +
+    'npm verbose stack     at new PlaceDep (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\place-dep.js:278:14)\n' +
+    'npm verbose stack     at #buildDepStep (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\arborist\\build-ideal-tree.js:1001:18)\n' +
+    'npm verbose stack     at async Arborist.buildIdealTree (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\arborist\\build-ideal-tree.js:179:7)\n' +
+    'npm verbose stack     at async Promise.all (index 1)\n' +
+    'npm verbose stack     at async Arborist.reify (C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\arborist\\lib\\arborist\\reify.js:112:5)\n' +
+    'npm error Invalid Version: \n' +
+    'npm silly unfinished npm timer reify 1790805725748\n' +
+    'npm silly unfinished npm timer reify:loadTrees 1790805725749\n' +
+    'npm silly unfinished npm timer idealTree:buildDeps 1790805727334\n' +
+    'npm silly unfinished npm timer idealTree:node_modules/@rollup/pluginutils 1790805729605\n' +
+    'npm verbose cwd C:\\Users\\antonio perterno\\LUMEN\n' +
+    'npm verbose os Windows_NT 10.0.22000\n' +
+    'npm verbose node v24.19.0\n' +
+    'npm verbose npm  v11.17.0\n' +
+    'npm verbose exit 1\n' +
+    'npm verbose code 1\n' +
+    'npm error A complete log of this run can be found in: C:\\Users\\antonio perterno\\AppData\\Local\\npm-cache\\_logs\\2026-09-30T22_02_04_257Z-debug-0.log\n',
+  stderr: "'true' is not recognized as an internal or external command,\r\n" +
+    'operable program or batch file.\r\n'
+}
+
+Node.js v24.19.0
+SILLY_EXIT=1 

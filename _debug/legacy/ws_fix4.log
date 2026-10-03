@@ -1,0 +1,18 @@
+=== fix4 === 
+progress.ts queuePending: no-change
+api.ts fetchCategoryIndex: no-change
+client.ts imports: "import { initializeApp, getApps, getApp, type FirebaseApp } from \"firebase/app\"; | import { getAuth, type Auth } from \"firebase/auth\"; | // @ts-expect-error — firebase/firestore ships its own types; @firebase/firestore | // is the same package but its dist .d.ts was pruned in this install. | import { getFirestore } from \"@firebase/firestore\"; | // @ts-expect-error — see above; Firestore is only used as a return type here. | import type { Firestore } from \"@firebase/firestore\"; | "
+FIX4_EXIT=0 
+=== typecheck5 === 
+
+> lumen-medical@1.0.0 typecheck
+> tsc --noEmit
+
+lib/offline/progress.ts(183,3): error TS2322: Type '({ kind: "progress"; at: number; payload: ProgressRecord; } | { kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; })[]' is not assignable to type 'PendingWrite[]'.
+  Type '{ kind: "progress"; at: number; payload: ProgressRecord; } | { kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type 'PendingWrite'.
+    Type '{ kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type 'PendingWrite'.
+      Type '{ kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type '{ kind: "quiz"; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }'.
+        Types of property 'kind' are incompatible.
+          Type 'string' is not assignable to type '"quiz"'.
+TYPECHECK_EXIT=2 
+FIX4_DONE 

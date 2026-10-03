@@ -1,0 +1,20 @@
+plugin-babel version=5.3.1
+plugin-node-resolve version=11.2.1
+plugin-replace version=2.4.2
+pluginutils version=3.1.0
+nested: C:\Users\antonio perterno\LUMEN\node_modules\@rollup\pluginutils\package.json
+nested: C:\Users\antonio perterno\LUMEN\node_modules\@rollup\pluginutils\dist\es\package.json
+
+npm ls:
+lumen-medical@1.0.0 C:\Users\antonio perterno\LUMEN
+└─┬ next-pwa@5.6.0
+  └─┬ workbox-webpack-plugin@6.6.0
+    └─┬ workbox-build@6.6.0
+      ├─┬ @rollup/plugin-babel@5.3.1
+      │ └── @rollup/pluginutils@3.1.0
+      ├─┬ @rollup/plugin-node-resolve@11.2.1
+      │ └── @rollup/pluginutils@3.1.0 deduped
+      └─┬ @rollup/plugin-replace@2.4.2
+        └── @rollup/pluginutils@3.1.0 deduped
+
+

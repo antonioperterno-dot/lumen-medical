@@ -1,0 +1,11 @@
+C:\Users\antonio perterno\LUMEN\app\globals.css
+C:\Users\antonio perterno\LUMEN\app\layout.tsx
+C:\Users\antonio perterno\LUMEN\lib\firebase
+C:\Users\antonio perterno\LUMEN\lib\turso
+C:\Users\antonio perterno\LUMEN\lib\firebase\client.ts
+C:\Users\antonio perterno\LUMEN\lib\firebase\types.ts
+C:\Users\antonio perterno\LUMEN\lib\turso\client.ts
+C:\Users\antonio perterno\LUMEN\lib\turso\index.ts
+C:\Users\antonio perterno\LUMEN\lib\turso\resources.ts
+C:\Users\antonio perterno\LUMEN\lib\turso\schema.ts
+File Not Found

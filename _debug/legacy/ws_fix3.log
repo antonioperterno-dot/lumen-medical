@@ -1,0 +1,30 @@
+=== approve + fix3 === 
+4 packages have install scripts not yet covered by allowScripts:
+  @firebase/util@1.12.1 (postinstall: node ./postinstall.js)
+  unrs-resolver@1.12.2 (postinstall: node postinstall.js)
+  protobufjs@7.6.6 (postinstall: node scripts/postinstall)
+  sharp@0.33.5 (install: node install/check)
+
+Run `npm approve-scripts <pkg>` to allow, or `npm deny-scripts <pkg>` to deny.
+APPROVE_EXIT=0 
+lib/api.ts: no-change
+lib/offline/progress.ts: PATCHED
+lib/firebase/client.ts: PATCHED
+FIX3_EXIT=0 
+=== typecheck4 === 
+
+> lumen-medical@1.0.0 typecheck
+> tsc --noEmit
+
+lib/firebase/client.ts(3,30): error TS7016: Could not find a declaration file for module '@firebase/firestore'. 'C:/Users/antonio perterno/LUMEN/node_modules/@firebase/firestore/dist/index.esm2017.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/firebase__firestore` if it exists or add a new declaration (.d.ts) file containing `declare module '@firebase/firestore';`
+lib/firebase/client.ts(4,32): error TS7016: Could not find a declaration file for module '@firebase/firestore'. 'C:/Users/antonio perterno/LUMEN/node_modules/@firebase/firestore/dist/index.esm2017.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/firebase__firestore` if it exists or add a new declaration (.d.ts) file containing `declare module '@firebase/firestore';`
+lib/offline/progress.ts(183,3): error TS2322: Type '({ kind: "progress"; at: number; payload: ProgressRecord; } | { kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; })[]' is not assignable to type 'PendingWrite[]'.
+  Type '{ kind: "progress"; at: number; payload: ProgressRecord; } | { kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type 'PendingWrite'.
+    Type '{ kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type 'PendingWrite'.
+      Type '{ kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type '{ kind: "quiz"; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }'.
+        Types of property 'kind' are incompatible.
+          Type 'string' is not assignable to type '"quiz"'.
+TYPECHECK_EXIT=2 
+FIX3_DONE 

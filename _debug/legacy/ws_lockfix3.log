@@ -1,0 +1,14 @@
+integrity corrected
+LOCKFIX_EXIT=0 
+=== install === 
+
+added 60 packages, removed 13 packages, and changed 15 packages in 38s
+npm warn allow-scripts 4 packages have install scripts not yet covered by allowScripts:
+npm warn allow-scripts   @firebase/util@1.12.1 (postinstall: node ./postinstall.js)
+npm warn allow-scripts   unrs-resolver@1.12.2 (postinstall: node postinstall.js)
+npm warn allow-scripts   protobufjs@7.6.6 (postinstall: node scripts/postinstall)
+npm warn allow-scripts   sharp@0.33.5 (install: node install/check)
+npm warn allow-scripts
+npm warn allow-scripts Run `npm approve-scripts --allow-scripts-pending` to review, or `npm approve-scripts <pkg>` to allow.
+INSTALL_EXIT=0 
+LOCKFIX_DONE 

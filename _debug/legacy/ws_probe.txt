@@ -1,0 +1,9 @@
+node_modules: False
+procs: 1  cpu: 42.3
+log: 2026-09-30T14_09_05_578Z-debug-0.log size 95304
+1199 silly fetch manifest @typescript-eslint/types@8.71.0
+1200 silly packumentCache full:https://registry.npmjs.org/@typescript-eslint%2ftypes cache-miss
+1201 http fetch GET 200 https://registry.npmjs.org/@typescript-eslint%2ftype-utils 30603ms (cache miss)
+1202 silly packumentCache full:https://registry.npmjs.org/@typescript-eslint%2ftype-utils set size:undefined disposed:false
+1203 silly fetch manifest @typescript-eslint/scope-manager@8.71.0
+1204 silly packumentCache full:https://registry.npmjs.org/@typescript-eslint%2fscope-manager cache-miss

@@ -1,0 +1,7 @@
+lockfile patched: 3 nested workbox-build entries restored
+LOCKFIX_EXIT=0 
+=== install === 
+npm error Invalid Version: 
+npm error A complete log of this run can be found in: C:\Users\antonio perterno\AppData\Local\npm-cache\_logs\2026-09-30T21_59_31_063Z-debug-0.log
+INSTALL_EXIT=1 
+LOCKFIX_DONE 

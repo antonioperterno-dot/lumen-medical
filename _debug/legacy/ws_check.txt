@@ -1,0 +1,6 @@
+seed exit: 0
+icons exit: 0
+--- install probe ---
+node_modules: False
+node procs: 1
+--- log tail ---

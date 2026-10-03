@@ -1,0 +1,15 @@
+=== add leven+jsonpointer === 
+
+added 2 packages in 7s
+npm warn allow-scripts 2 packages have install scripts not yet covered by allowScripts:
+npm warn allow-scripts   @firebase/util@1.12.1 (postinstall: node ./postinstall.js)
+npm warn allow-scripts   protobufjs@7.6.6 (postinstall: node scripts/postinstall)
+npm warn allow-scripts
+npm warn allow-scripts Run `npm approve-scripts --allow-scripts-pending` to review, or `npm approve-scripts <pkg>` to allow.
+INSTALL_EXIT=0 
+=== dev log === 
+
+> lumen-medical@1.0.0 dev
+> next dev
+
+FINAL3_DONE 

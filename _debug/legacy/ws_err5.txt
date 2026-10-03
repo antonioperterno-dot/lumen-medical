@@ -1,0 +1,50 @@
+6205 http fetch GET 200 https://registry.npmjs.org/@firebase/auth-compat/-/auth-compat-0.5.28.tgz 83018ms (cache miss)
+6206 http fetch GET 200 https://registry.npmjs.org/flat-cache/-/flat-cache-3.2.0.tgz 86222ms (cache miss)
+6207 http fetch GET 200 https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz 86290ms (cache miss)
+6208 http fetch GET 200 https://registry.npmjs.org/@firebase/app/-/app-0.13.2.tgz 86325ms (cache miss)
+6209 http fetch GET 200 https://registry.npmjs.org/iterator.prototype/-/iterator.prototype-1.1.5.tgz 86374ms (cache miss)
+6210 http fetch GET 200 https://registry.npmjs.org/esrecurse/-/esrecurse-4.3.0.tgz 86377ms (cache miss)
+6211 http fetch GET 200 https://registry.npmjs.org/string.prototype.repeat/-/string.prototype.repeat-1.0.0.tgz 86473ms (cache miss)
+6212 http fetch GET 200 https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz 86930ms (cache miss)
+6213 http fetch GET 200 https://registry.npmjs.org/string.prototype.matchall/-/string.prototype.matchall-4.1.0.tgz 87020ms (cache miss)
+6214 http fetch GET 200 https://registry.npmjs.org/object.entries/-/object.entries-1.1.9.tgz 88850ms (cache miss)
+6215 http fetch GET 200 https://registry.npmjs.org/es-iterator-helpers/-/es-iterator-helpers-1.4.0.tgz 89373ms (cache miss)
+6216 http fetch GET 200 https://registry.npmjs.org/array.prototype.tosorted/-/array.prototype.tosorted-1.1.4.tgz 89576ms (cache miss)
+6217 http fetch GET 200 https://registry.npmjs.org/array.prototype.findlast/-/array.prototype.findlast-1.2.5.tgz 89734ms (cache miss)
+6218 http fetch GET 200 https://registry.npmjs.org/string.prototype.includes/-/string.prototype.includes-2.0.1.tgz 89756ms (cache miss)
+6219 http fetch GET 200 https://registry.npmjs.org/language-tags/-/language-tags-1.0.9.tgz 89773ms (cache miss)
+6220 http fetch GET 200 https://registry.npmjs.org/@firebase/ai/-/ai-1.4.1.tgz 90841ms (cache miss)
+6221 http fetch GET 200 https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz 90976ms (cache miss)
+6222 http fetch GET 200 https://registry.npmjs.org/jsx-ast-utils/-/jsx-ast-utils-3.3.5.tgz 91249ms (cache miss)
+6223 http fetch GET 200 https://registry.npmjs.org/axobject-query/-/axobject-query-4.1.0.tgz 92410ms (cache miss)
+6224 http fetch GET 200 https://registry.npmjs.org/ast-types-flow/-/ast-types-flow-0.0.8.tgz 92416ms (cache miss)
+6225 http fetch GET 200 https://registry.npmjs.org/typed-array-byte-offset/-/typed-array-byte-offset-1.0.5.tgz 92513ms (cache miss)
+6226 http fetch GET 200 https://registry.npmjs.org/which-typed-array/-/which-typed-array-1.1.24.tgz 92599ms (cache miss)
+6227 http fetch GET 200 https://registry.npmjs.org/estraverse/-/estraverse-5.3.0.tgz 92966ms (cache miss)
+6228 http fetch GET 200 https://registry.npmjs.org/es-shim-unscopables/-/es-shim-unscopables-1.1.0.tgz 93018ms (cache miss)
+6229 http fetch GET 200 https://registry.npmjs.org/aria-query/-/aria-query-5.3.2.tgz 93460ms (cache miss)
+6230 http fetch GET 200 https://registry.npmjs.org/tsconfig-paths/-/tsconfig-paths-3.15.0.tgz 93542ms (cache miss)
+6231 http fetch GET 200 https://registry.npmjs.org/object.values/-/object.values-1.2.1.tgz 93827ms (cache miss)
+6232 http fetch GET 200 https://registry.npmjs.org/object.groupby/-/object.groupby-1.0.3.tgz 94334ms (cache miss)
+6233 http fetch GET 200 https://registry.npmjs.org/object.fromentries/-/object.fromentries-2.0.8.tgz 94385ms (cache miss)
+6234 http fetch GET 200 https://registry.npmjs.org/array.prototype.flatmap/-/array.prototype.flatmap-1.3.3.tgz 94478ms (cache miss)
+6235 http fetch GET 200 https://registry.npmjs.org/eslint-module-utils/-/eslint-module-utils-2.14.0.tgz 94555ms (cache miss)
+6236 http fetch GET 200 https://registry.npmjs.org/array.prototype.flat/-/array.prototype.flat-1.3.3.tgz 96109ms (cache miss)
+6237 http fetch GET 200 https://registry.npmjs.org/array.prototype.findlastindex/-/array.prototype.findlastindex-1.2.6.tgz 96260ms (cache miss)
+6238 http fetch GET 200 https://registry.npmjs.org/array-includes/-/array-includes-3.2.0.tgz 101737ms (cache miss)
+6239 http fetch GET https://registry.npmjs.org/unrs-resolver/-/unrs-resolver-1.12.2.tgz attempt 1 failed with ECONNRESET
+6240 http fetch GET https://registry.npmjs.org/is-bun-module/-/is-bun-module-2.0.0.tgz attempt 1 failed with ECONNRESET
+6241 http fetch GET https://registry.npmjs.org/stable-hash/-/stable-hash-0.0.5.tgz attempt 1 failed with ECONNRESET
+6242 http fetch GET https://registry.npmjs.org/@nolyfill/is-core-module/-/is-core-module-1.0.39.tgz attempt 1 failed with ECONNRESET
+6243 http fetch GET https://registry.npmjs.org/resolve/-/resolve-2.0.0-next.7.tgz attempt 1 failed with ECONNRESET
+6244 http fetch GET https://registry.npmjs.org/@typescript-eslint/project-service/-/project-service-8.71.0.tgz attempt 1 failed with ECONNRESET
+6245 http fetch GET 200 https://registry.npmjs.org/@rtsao/scc/-/scc-1.1.0.tgz 109356ms (cache miss)
+6246 http fetch GET https://registry.npmjs.org/@typescript-eslint/typescript-estree/-/typescript-estree-8.71.0.tgz attempt 1 failed with ECONNRESET
+6247 http fetch GET https://registry.npmjs.org/@typescript-eslint/types/-/types-8.71.0.tgz attempt 1 failed with ECONNRESET
+6248 verbose cwd C:\Users\antonio perterno\LUMEN
+6249 verbose os Windows_NT 10.0.22000
+6250 verbose node v24.19.0
+6251 verbose npm  v11.17.0
+6252 verbose exit 1
+6253 verbose code 1
+6254 error A complete log of this run can be found in: C:\Users\antonio perterno\AppData\Local\npm-cache\_logs\2026-09-30T14_09_05_578Z-debug-0.log

@@ -1,0 +1,19 @@
+=== typecheck === 
+
+> lumen-medical@1.0.0 typecheck
+> tsc --noEmit
+
+error TS2688: Cannot find type definition file for 'trusted-types'.
+  The file is in the program because:
+    Entry point for implicit type library 'trusted-types'
+TYPECHECK_EXIT=2 
+=== icons === 
+  ✓ public/icons/icon-192.png  (192×192)
+  ✓ public/icons/icon-512.png  (512×512)
+  ✓ public/icons/icon-maskable-512.png  (512×512)
+  ✓ public/icons/apple-touch-icon.png  (180×180)
+  ✓ public/icons/splash.png  (1170×2532)
+
+LUMEN icons written to C:\Users\antonio perterno\LUMEN\public\icons
+ICONS_EXIT=0 
+VERIFY_DONE 

@@ -1,0 +1,341 @@
+{
+  "id": "psychology-paper-003",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 3: Research, Social Behaviour and Stress",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-03T05:00:00+03:00",
+  "durationMinutes": 120,
+  "source": "Adapted from the user-provided Psychology paper photographs; additional questions authored for LUMEN.",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-003-q01",
+      "question": "Obsessive-compulsive disorder (OCD) involves:",
+      "options": [
+        "Only hallucinations",
+        "Obsessions and/or compulsions",
+        "Multiple personalities in every case",
+        "Loss of intelligence"
+      ],
+      "answerIndex": 1,
+      "explanation": "OCD is characterised by obsessions, compulsions, or both; symptoms and diagnosis require professional assessment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q02",
+      "question": "Cognitive-behavioral therapy focuses on relationships among:",
+      "options": [
+        "Dreams and instincts",
+        "Thoughts, feelings, and behaviors",
+        "Hormones and digestion",
+        "Genetics and height"
+      ],
+      "answerIndex": 1,
+      "explanation": "CBT examines and works with links among thoughts, feelings, and behaviors.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q03",
+      "question": "A research method involving detailed investigation of one person or a small group is a:",
+      "options": [
+        "Case study",
+        "Survey",
+        "Experiment",
+        "Census"
+      ],
+      "answerIndex": 0,
+      "explanation": "A case study provides an in-depth account of an individual, group, or bounded case.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q04",
+      "question": "In an experiment, the variable deliberately changed by the researcher is the:",
+      "options": [
+        "Dependent variable",
+        "Independent variable",
+        "Control variable",
+        "Extraneous result"
+      ],
+      "answerIndex": 1,
+      "explanation": "The independent variable is deliberately manipulated to examine its effect.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q05",
+      "question": "The outcome measured in an experiment is the:",
+      "options": [
+        "Independent variable",
+        "Dependent variable",
+        "Random variable",
+        "Control group"
+      ],
+      "answerIndex": 1,
+      "explanation": "The dependent variable is measured to assess a possible effect of the independent variable.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q06",
+      "question": "A correlation coefficient of +1.0 indicates:",
+      "options": [
+        "No relationship",
+        "A perfect positive relationship",
+        "A perfect negative relationship",
+        "A weak relationship"
+      ],
+      "answerIndex": 1,
+      "explanation": "A correlation of +1.0 indicates a perfect positive linear association.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q07",
+      "question": "A correlation between two variables means that:",
+      "options": [
+        "One variable necessarily causes the other",
+        "The variables are related in some way",
+        "The variables are identical",
+        "The study is invalid"
+      ],
+      "answerIndex": 1,
+      "explanation": "Correlation indicates association; it does not by itself establish causation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q08",
+      "question": "A sample that reflects important characteristics of its target population is called a:",
+      "options": [
+        "Biased sample",
+        "Representative sample",
+        "Convenience error",
+        "Control group"
+      ],
+      "answerIndex": 1,
+      "explanation": "A representative sample resembles the population on relevant characteristics.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-003-q09",
+      "question": "In psychological research, informed consent means participants:",
+      "options": [
+        "Must finish every task",
+        "Receive relevant information and voluntarily agree to participate",
+        "Must receive payment",
+        "Cannot withdraw"
+      ],
+      "answerIndex": 1,
+      "explanation": "Informed consent requires understandable relevant information and voluntary agreement, subject to applicable ethics rules.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q10",
+      "question": "Social psychology primarily studies:",
+      "options": [
+        "How people think about and influence one another",
+        "Brain anatomy only",
+        "Childhood development only",
+        "Sleep patterns only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Social psychology studies how people think, feel, and behave in social contexts.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q11",
+      "question": "Conformity occurs when a person:",
+      "options": [
+        "Changes behavior or expressed opinions to align with a group",
+        "Refuses to interact with others",
+        "Acts without awareness",
+        "Becomes unconscious"
+      ],
+      "answerIndex": 0,
+      "explanation": "Conformity is adjustment toward a group's norms or expectations.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q12",
+      "question": "Prejudice is best described as:",
+      "options": [
+        "Neutral observation",
+        "An attitude or judgment toward a group, often based on stereotypes",
+        "A scientific experiment",
+        "A memory disorder"
+      ],
+      "answerIndex": 1,
+      "explanation": "Prejudice is an evaluative attitude toward people based on group membership; stereotypes are beliefs and discrimination is behavior.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-003-q13",
+      "question": "Stress is best described as:",
+      "options": [
+        "Always a mental illness",
+        "A response to demands or challenges",
+        "A type of intelligence",
+        "A personality trait"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stress is a response that can arise when a person appraises demands as challenging or taxing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q14",
+      "question": "Which strategy can support stress management for many people?",
+      "options": [
+        "Avoid all social contact",
+        "Regular physical activity and relaxation techniques",
+        "Increase sleep deprivation",
+        "Ignore all problems"
+      ],
+      "answerIndex": 1,
+      "explanation": "Physical activity and relaxation practices can support stress management; needs vary between people.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q15",
+      "question": "The study of how people think, feel, and behave in groups is most closely related to:",
+      "options": [
+        "Social psychology",
+        "Biological psychology",
+        "Neuropsychology",
+        "Forensic pathology"
+      ],
+      "answerIndex": 0,
+      "explanation": "Social psychology examines how social situations and other people influence thought, feeling, and behavior.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-003-q01",
+      "question": "A researcher defines 'study time' as the number of minutes each student spends reviewing notes. This is an example of a(n):",
+      "options": [
+        "Operational definition",
+        "Dependent sample",
+        "Placebo effect",
+        "Random error"
+      ],
+      "answerIndex": 0,
+      "explanation": "An operational definition states exactly how a concept is measured or manipulated in a study.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-003-q02",
+      "question": "Randomly assigning participants to experimental groups mainly helps to:",
+      "options": [
+        "Guarantee that every result is significant",
+        "Reduce systematic pre-existing differences between groups",
+        "Prove the hypothesis before data collection",
+        "Eliminate the need for consent"
+      ],
+      "answerIndex": 1,
+      "explanation": "Random assignment tends to distribute participant differences across groups, improving comparability.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-003-q03",
+      "question": "A correlation of -0.80 indicates that, in the sample:",
+      "options": [
+        "Higher values of one variable tend to accompany lower values of the other",
+        "The variables have no association",
+        "One variable definitely causes the other",
+        "Both variables always decrease over time"
+      ],
+      "answerIndex": 0,
+      "explanation": "A strong negative correlation means the variables tend to move in opposite directions; it does not prove causation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-003-q04",
+      "question": "Groupthink is most likely when a group:",
+      "options": [
+        "Encourages careful disagreement",
+        "Values agreement so strongly that it suppresses realistic evaluation",
+        "Uses a representative sample",
+        "Measures a dependent variable"
+      ],
+      "answerIndex": 1,
+      "explanation": "Groupthink describes impaired decision-making when the pressure for unanimity discourages critical appraisal.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-003-q05",
+      "question": "Compared with a brief stress response, chronic stress is more concerning because it:",
+      "options": [
+        "Continues over time and may affect health and functioning",
+        "Always improves memory",
+        "Is identical to a phobia",
+        "Cannot be influenced by circumstances"
+      ],
+      "answerIndex": 0,
+      "explanation": "Prolonged stress can affect wellbeing and functioning; effects vary and support may help.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-003-b01",
+      "question": "A researcher studies whether daily revision time is related to quiz scores. Identify a suitable operational definition for each variable and explain one limitation of a correlational design.",
+      "marks": 10,
+      "markingGuide": [
+        "Provides a measurable operational definition of revision time: 2 marks.",
+        "Provides a measurable operational definition of quiz performance: 2 marks.",
+        "Explains that correlation measures association/direction/strength: 2 marks.",
+        "States that correlation alone cannot establish causation and gives a reason: 3 marks.",
+        "Clear application: 1 mark."
+      ],
+      "modelAnswer": "Revision time could be measured as self-recorded or logged minutes spent revising during a defined week. Quiz performance could be the score on the same standardised quiz. A correlational analysis estimates the direction and strength of association. It cannot alone show that revision caused higher scores because other factors, such as prior knowledge or sleep, may influence both variables."
+    },
+    {
+      "id": "psychology-paper-003-b02",
+      "question": "Compare an experiment, a survey, and a case study as psychological research methods. Give one strength and one limitation of each.",
+      "marks": 10,
+      "markingGuide": [
+        "Accurately describes an experiment and one strength/limitation: 3 marks.",
+        "Accurately describes a survey and one strength/limitation: 3 marks.",
+        "Accurately describes a case study and one strength/limitation: 3 marks.",
+        "Clear comparison: 1 mark."
+      ],
+      "modelAnswer": "An experiment manipulates an independent variable and measures an outcome; controlled conditions can support causal inference, but artificial settings or ethical limits may constrain it. A survey collects self-reports from many people efficiently, but responses can be affected by memory, wording, or social desirability. A case study examines a person or small group in depth, producing rich detail but often limiting generalisation and causal conclusions."
+    },
+    {
+      "id": "psychology-paper-003-b03",
+      "question": "Describe four ethical protections that should be considered when people participate in a psychological study.",
+      "marks": 10,
+      "markingGuide": [
+        "Informed, voluntary consent: 2 marks.",
+        "Confidentiality/privacy: 2 marks.",
+        "Right to withdraw without unfair penalty: 2 marks.",
+        "Minimisation of harm and appropriate risk review: 2 marks.",
+        "Debriefing when appropriate and clear explanation: 2 marks."
+      ],
+      "modelAnswer": "Researchers should provide understandable information and obtain voluntary informed consent, protect privacy and confidentiality, allow participants to withdraw without unfair penalty, minimise foreseeable harm, and obtain appropriate ethics review. When deception is justified and approved, participants should be debriefed as appropriate."
+    },
+    {
+      "id": "psychology-paper-003-b04",
+      "question": "Distinguish a stereotype, prejudice, and discrimination, and explain how conformity differs from each.",
+      "marks": 10,
+      "markingGuide": [
+        "Defines stereotype as a belief/generalisation about a group: 2 marks.",
+        "Defines prejudice as an evaluative attitude toward a group: 2 marks.",
+        "Defines discrimination as behavior/treatment based on group membership: 2 marks.",
+        "Defines conformity as adjusting to group norms or pressure: 2 marks.",
+        "Gives a clear distinction or example: 2 marks."
+      ],
+      "modelAnswer": "A stereotype is a belief or generalisation about a group. Prejudice is an attitude or evaluation toward a group. Discrimination is behavior that treats people differently because of group membership. Conformity is changing or aligning behavior or expressed views with a group's norms or pressure; it is a social influence process and is not the same as prejudice."
+    },
+    {
+      "id": "psychology-paper-003-b05",
+      "question": "Define stress and compare one problem-focused and one emotion-focused way of coping with a manageable academic stressor.",
+      "marks": 10,
+      "markingGuide": [
+        "Defines stress as a response arising from perceived demands/challenges: 2 marks.",
+        "Explains a practical problem-focused strategy: 3 marks.",
+        "Explains an emotion-focused strategy: 3 marks.",
+        "Applies both strategies appropriately and notes that coping needs vary: 2 marks."
+      ],
+      "modelAnswer": "Stress is a response that can occur when a person appraises demands as challenging or taxing. Problem-focused coping changes the stressor, for example dividing a large assignment into scheduled steps and seeking clarification. Emotion-focused coping aims to manage the emotional response, for example paced breathing or talking with a trusted person. The most useful approach depends on whether the stressor can be changed and on the individual's circumstances."
+    }
+  ]
+}

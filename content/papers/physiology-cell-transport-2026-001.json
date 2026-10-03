@@ -1,0 +1,345 @@
+{
+  "id": "physiology-cell-transport-2026-001",
+  "courseUnit": "physiology",
+  "title": "Physiology Paper 1: Cell Physiology, Transport and Homeostasis",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-03T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from the provided Year I Semester I 2026/27 physiology sample paper",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "physiology-cell-transport-2026-001-q01",
+      "question": "The membrane that surrounds a cell is called the:",
+      "options": [
+        "Cell membrane",
+        "Epithelial membrane",
+        "Mucous membrane",
+        "Nuclear membrane"
+      ],
+      "answerIndex": 0,
+      "explanation": "The plasma or cell membrane forms the boundary around the cell.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q02",
+      "question": "The two major parts of a typical human cell are the:",
+      "options": [
+        "Nucleus and cytoplasm",
+        "Nucleus and nucleolus",
+        "Mitochondria and cytoplasm",
+        "Cell membrane and nucleus"
+      ],
+      "answerIndex": 0,
+      "explanation": "A typical cell is described as having a nucleus and cytoplasm, enclosed by a plasma membrane.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q03",
+      "question": "Which approximate composition of the cell membrane is commonly given in introductory physiology?",
+      "options": [
+        "Protein 55%, lipids 40%, carbohydrates 5%",
+        "Protein 40%, lipids 5%, carbohydrates 55%",
+        "Carbohydrates 5%, protein 40%, lipids 55%",
+        "Fats 5%, glucose 40%, protein 55%"
+      ],
+      "answerIndex": 0,
+      "explanation": "A commonly cited approximation is 55% protein, 40% lipid and 5% carbohydrate; exact proportions vary by membrane.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q04",
+      "question": "The principal components of the cell membrane lipid bilayer are:",
+      "options": [
+        "Phospholipids and cholesterol",
+        "Fats and by-lipids",
+        "Phospholipids and intercellular fat",
+        "Triglycerides and glucose"
+      ],
+      "answerIndex": 0,
+      "explanation": "Phospholipids form the bilayer, while cholesterol is interspersed among them and affects membrane properties.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q05",
+      "question": "Which substance normally cannot pass directly through the hydrophobic lipid bilayer?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Alcohol",
+        "Protein"
+      ],
+      "answerIndex": 3,
+      "explanation": "Large molecules such as proteins cannot diffuse directly through the hydrophobic core of the lipid bilayer.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q06",
+      "question": "The two broad classes of cell membrane proteins are:",
+      "options": [
+        "Integral and peripheral proteins",
+        "Plasma and poly-proteins",
+        "Interstitial and plasma proteins",
+        "Fibrous and nuclear proteins"
+      ],
+      "answerIndex": 0,
+      "explanation": "Membrane proteins are broadly classified as integral (including transmembrane) or peripheral.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q07",
+      "question": "Which cell normally lacks a Golgi apparatus when mature?",
+      "options": [
+        "Red blood cell",
+        "White blood cell",
+        "Kidney epithelial cell",
+        "Pancreatic acinar cell"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mature human red blood cells lose their nucleus and membrane-bound organelles, including the Golgi apparatus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q08",
+      "question": "The rough endoplasmic reticulum is chiefly involved in the synthesis of:",
+      "options": [
+        "Steroids",
+        "Glucose",
+        "Proteins for secretion or membranes",
+        "Fatty acids only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ribosomes attached to rough endoplasmic reticulum synthesize proteins destined for secretion, membranes or certain organelles.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q09",
+      "question": "After processing in the Golgi apparatus, many proteins destined for release from a cell are packaged into:",
+      "options": [
+        "Cristae",
+        "Reticular fibres",
+        "Secretory vesicles",
+        "Nucleoli"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Golgi sorts and packages secretory proteins into vesicles that can fuse with the plasma membrane.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q10",
+      "question": "Nuclear pores allow regulated movement of molecules:",
+      "options": [
+        "Into the nucleus only",
+        "Out of the nucleus only",
+        "Into and out of the nucleus",
+        "Only between mitochondria and cytoplasm"
+      ],
+      "answerIndex": 2,
+      "explanation": "Nuclear pores regulate bidirectional transport between the nucleus and cytoplasm.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q11",
+      "question": "Across a cell membrane, transport refers to the movement or exchange of substances:",
+      "options": [
+        "Into and out of the cell across its membrane",
+        "Only into the cell membrane",
+        "Only out of the nucleus",
+        "Only within the cytoplasm"
+      ],
+      "answerIndex": 0,
+      "explanation": "Membrane transport is the movement of substances across the cell membrane, into or out of the cell.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q12",
+      "question": "Which statement best describes the selective permeability of a cell membrane?",
+      "options": [
+        "Every substance passes freely through it",
+        "No substances can cross it",
+        "Some substances cross at different rates while others cannot cross directly",
+        "Only water can cross it"
+      ],
+      "answerIndex": 2,
+      "explanation": "Selective permeability allows some substances to cross readily or slowly while restricting others.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q13",
+      "question": "A basic homeostatic control system consists of a:",
+      "options": [
+        "Detector, control centre and effector",
+        "Detector, responder and receptor only",
+        "Set point and positive feedback only",
+        "Physiological value and non-physiological value"
+      ],
+      "answerIndex": 0,
+      "explanation": "A receptor or detector senses a change, the control centre integrates information and an effector produces a response.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q14",
+      "question": "The normal arterial blood pH is approximately:",
+      "options": [
+        "7.32",
+        "7.40",
+        "7.42",
+        "7.33"
+      ],
+      "answerIndex": 1,
+      "explanation": "Normal arterial blood pH is maintained within about 7.35–7.45, with a midpoint near 7.40.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q15",
+      "question": "Which expression gives the bicarbonate form of the Henderson–Hasselbalch equation for blood?",
+      "options": [
+        "pH = pK + log10([HCO3−]/[dissolved CO2])",
+        "pH = pK − log10([HCO3−]/[dissolved CO2])",
+        "pH = pK × log10([CO2]/[HCO3−])",
+        "pH = [HCO3−] + [CO2]"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Henderson–Hasselbalch relationship is pH = pK + log10(base/acid); in blood the ratio is bicarbonate to dissolved carbon dioxide.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q16",
+      "question": "True or false: An acid is a substance that can donate or liberate hydrogen ions (H+).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "In the Brønsted–Lowry definition, an acid donates a proton (H+).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q17",
+      "question": "True or false: Despite continuous acid production in the body, blood pH is not kept within a narrow range.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Buffer systems, the lungs and the kidneys help keep blood pH within a narrow physiological range.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q18",
+      "question": "True or false: Osmotic pressure is the pressure required to prevent net water movement across a semipermeable membrane because of a solute concentration difference.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "This is the standard definition of osmotic pressure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q19",
+      "question": "True or false: Phagocytosis brings large particles into a cell by engulfing them in membrane-bound vesicles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Phagocytosis is a form of endocytosis in which a cell engulfs large particles.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-q20",
+      "question": "True or false: In sodium cotransport (symport), sodium and another substance move across a membrane in the same direction.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Symport carries two or more substances in the same direction; sodium-glucose cotransport is an example.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "physiology-cell-transport-2026-001-b01",
+      "question": "Answer all parts. (a) Define transport. (2 marks) (b) Describe the mechanism of active transport across a cell membrane. (6 marks) (c) Explain primary and secondary active transport, giving two examples of each. (12 marks)",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Defines transport as movement of substances across a cell membrane: 2 marks.",
+        "(b) Identifies movement against an electrochemical gradient: 1 mark.",
+        "(b) Describes specific carrier or pump binding the substance: 1 mark.",
+        "(b) Explains energy use, directly from ATP or indirectly from an ion gradient: 1 mark.",
+        "(b) Describes carrier conformational change and release on the opposite side: 1 mark.",
+        "(b) Notes specificity: 1 mark.",
+        "(b) Notes saturation or competition: 1 mark.",
+        "(c) Defines primary active transport as direct use of ATP by the transporter: 2 marks.",
+        "(c) Gives two correct primary examples, such as Na+/K+ ATPase and Ca2+ ATPase: 2 marks.",
+        "(c) Defines secondary active transport as movement driven by an ion gradient established by primary active transport: 2 marks.",
+        "(c) Explains symport and antiport as same-direction and opposite-direction coupled transport: 2 marks.",
+        "(c) Gives two correct secondary examples, such as Na+-glucose symport and Na+/H+ antiport: 4 marks."
+      ],
+      "modelAnswer": "(a) Transport is the movement of substances across a cell membrane. (b) In active transport, a specific membrane carrier binds a substance and moves it against its concentration or electrochemical gradient. The carrier changes conformation and releases the substance on the other side. Energy is required, directly from ATP hydrolysis or indirectly from an ion gradient. The process is selective and can become saturated. (c) Primary active transport uses ATP directly at the transporter; examples include the Na+/K+ ATPase and Ca2+ ATPase. Secondary active transport uses energy stored in an ion gradient, commonly the Na+ gradient created by the Na+/K+ ATPase. In symport, both substances move in the same direction, as in Na+-glucose cotransport. In antiport, they move in opposite directions, as in Na+/H+ exchange. Other valid examples include Na+-amino-acid cotransport and Na+/Ca2+ exchange."
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-b02",
+      "question": "Answer all parts. (a) Define homeostasis. (2 marks) (b) Explain the main buffer systems in the body. (6 marks) (c) Describe how the respiratory system contributes to acid–base balance. (8 marks) (d) Define acidosis and alkalosis. (4 marks)",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Defines homeostasis as maintenance of a relatively stable internal environment despite change: 2 marks.",
+        "(b) Bicarbonate buffer: identifies H2CO3/HCO3− and explains binding or release of H+: 2 marks.",
+        "(b) Phosphate buffer: identifies HPO4^2−/H2PO4− and its role, especially intracellularly or in renal tubules: 2 marks.",
+        "(b) Protein buffer: explains that proteins, including haemoglobin, bind or release H+: 2 marks.",
+        "(c) Gives the CO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3− relationship: 2 marks.",
+        "(c) Explains that raised CO2/H+ stimulates chemoreceptor-driven ventilation: 2 marks.",
+        "(c) Explains that increased ventilation removes CO2 and tends to lower H+, while reduced ventilation retains CO2 and tends to raise H+: 3 marks.",
+        "(c) Notes rapid respiratory compensation and its limits compared with renal regulation: 1 mark.",
+        "(d) Defines acidosis as a process tending to lower pH and acidemia as arterial pH below 7.35: 2 marks.",
+        "(d) Defines alkalosis as a process tending to raise pH and alkalemia as arterial pH above 7.45: 2 marks."
+      ],
+      "modelAnswer": "(a) Homeostasis is the maintenance of a relatively stable internal environment within physiological limits despite change. (b) The bicarbonate buffer consists of carbonic acid and bicarbonate (H2CO3/HCO3−) and is the main extracellular buffer. The phosphate pair (HPO4^2−/H2PO4−) buffers intracellular fluid and renal tubular fluid. Proteins, especially haemoglobin, buffer by accepting or releasing H+. (c) The reaction CO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3− links ventilation to pH. Increased CO2 or H+ stimulates respiratory control through chemoreceptors, increasing ventilation. More CO2 is exhaled, shifting the reaction left and lowering H+; when ventilation falls, CO2 is retained and H+ tends to rise. Respiratory compensation begins quickly but cannot fully replace renal regulation. (d) Acidosis is a process that tends to lower body-fluid pH; alkalosis tends to raise it. Acidemia is arterial blood pH below 7.35, while alkalemia is above 7.45. Distinguish the underlying process (acidosis/alkalosis) from the measured blood state (acidemia/alkalemia)."
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-b03",
+      "question": "Describe the fluid-mosaic structure of the plasma membrane and explain how its components contribute to selective permeability.",
+      "marks": 20,
+      "markingGuide": [
+        "Describes phospholipid bilayer with hydrophilic heads and hydrophobic tails: 6 marks.",
+        "Explains integral/peripheral proteins and transport/receptor roles: 5 marks.",
+        "Mentions cholesterol and its contribution to membrane fluidity/stability where relevant: 3 marks.",
+        "Explains selective permeability and gives examples of substances with differing ease of passage: 4 marks.",
+        "Clear organisation: 2 marks."
+      ],
+      "modelAnswer": "The plasma membrane is a dynamic phospholipid bilayer. Hydrophilic heads face aqueous fluid and hydrophobic tails face inward. Integral proteins can form channels, carriers, pumps, or receptors; peripheral proteins support signalling or structure. Cholesterol affects membrane fluidity and stability. Small non-polar molecules pass more readily through the lipid region, while ions and many polar solutes require specific proteins, giving the membrane selective permeability."
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-b04",
+      "question": "Define osmosis and compare the effects of isotonic, hypotonic, and hypertonic solutions on a red blood cell.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines osmosis as net water movement across a selectively permeable membrane down its water-potential gradient: 4 marks.",
+        "Explains isotonic solution and stable cell volume: 4 marks.",
+        "Explains hypotonic solution, water entry, swelling and possible haemolysis: 4 marks.",
+        "Explains hypertonic solution, water loss and crenation: 4 marks.",
+        "Uses correct direction of water movement: 4 marks."
+      ],
+      "modelAnswer": "Osmosis is net movement of water across a selectively permeable membrane from higher water potential (lower effective solute concentration) toward lower water potential. In an isotonic solution there is no net water movement and red-cell volume stays about the same. In a hypotonic solution water enters, causing swelling and possibly haemolysis. In a hypertonic solution water leaves and the cell shrinks (crenates)."
+    },
+    {
+      "id": "physiology-cell-transport-2026-001-b05",
+      "question": "Outline the phases of a neuronal action potential and explain how it propagates along an axon.",
+      "marks": 20,
+      "markingGuide": [
+        "States resting membrane potential and role of ion gradients/permeability: 4 marks.",
+        "Explains threshold and voltage-gated sodium channel opening/depolarisation: 5 marks.",
+        "Explains sodium channel inactivation and potassium efflux/repolarisation: 5 marks.",
+        "Explains refractory period and one-way propagation: 3 marks.",
+        "Notes saltatory conduction in myelinated axons where appropriate: 3 marks."
+      ],
+      "modelAnswer": "At rest, ion gradients and selective membrane permeability produce a negative intracellular potential. If depolarisation reaches threshold, voltage-gated sodium channels open and sodium enters, producing rapid depolarisation. Sodium channels then inactivate while voltage-gated potassium channels allow potassium to leave, repolarising the membrane; brief hyperpolarisation may follow. Refractory periods limit immediate re-firing and help the impulse travel forward. In myelinated axons, current spreads between nodes of Ranvier, enabling saltatory conduction."
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "id": "psychology-paper-002",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 2: Biological Foundations and Learning",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-03T05:00:00+03:00",
+  "durationMinutes": 120,
+  "source": "Adapted from the user-provided Psychology paper photographs; additional questions authored for LUMEN.",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-002-q01",
+      "question": "Who is widely regarded as the founder of the first psychology laboratory?",
+      "options": [
+        "Sigmund Freud",
+        "John Watson",
+        "Wilhelm Wundt",
+        "B. F. Skinner"
+      ],
+      "answerIndex": 2,
+      "explanation": "Wilhelm Wundt established a psychology laboratory in Leipzig in 1879, often treated as the start of psychology as an experimental discipline.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q02",
+      "question": "Which perspective emphasizes unconscious conflicts and early childhood experiences?",
+      "options": [
+        "Behavioral",
+        "Cognitive",
+        "Psychodynamic",
+        "Humanistic"
+      ],
+      "answerIndex": 2,
+      "explanation": "Psychodynamic approaches emphasize unconscious processes and the influence of early experience.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q03",
+      "question": "The process by which people organise and interpret sensory information is called:",
+      "options": [
+        "Motivation",
+        "Perception",
+        "Conditioning",
+        "Cognition"
+      ],
+      "answerIndex": 1,
+      "explanation": "Perception is the organisation and interpretation of sensory information.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q04",
+      "question": "The basic information-processing cell of the nervous system is the:",
+      "options": [
+        "Hormone",
+        "Neuron",
+        "Gland",
+        "Reflex"
+      ],
+      "answerIndex": 1,
+      "explanation": "A neuron is a specialised cell that receives and transmits information in the nervous system.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q05",
+      "question": "Which part of a neuron usually receives signals from other neurons?",
+      "options": [
+        "Axon",
+        "Myelin sheath",
+        "Dendrites",
+        "Terminal buttons"
+      ],
+      "answerIndex": 2,
+      "explanation": "Dendrites receive many incoming signals and carry them toward the cell body.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q06",
+      "question": "Which neurotransmitter is important in skeletal-muscle activation and is also involved in memory?",
+      "options": [
+        "Acetylcholine",
+        "Dopamine",
+        "Serotonin",
+        "Endorphin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Acetylcholine acts at the neuromuscular junction and also has roles in attention and memory.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-002-q07",
+      "question": "Which brain structure is especially important for balance and coordination?",
+      "options": [
+        "Cerebellum",
+        "Hypothalamus",
+        "Amygdala",
+        "Medulla"
+      ],
+      "answerIndex": 0,
+      "explanation": "The cerebellum helps coordinate movement, balance, and motor learning.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q08",
+      "question": "The frontal lobe is particularly involved in:",
+      "options": [
+        "Vision",
+        "Hearing",
+        "Planning and decision-making",
+        "Balance"
+      ],
+      "answerIndex": 2,
+      "explanation": "Frontal regions contribute to planning, decision-making, and other executive functions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q09",
+      "question": "The body's rapid fight-or-flight response is primarily associated with activation of the:",
+      "options": [
+        "Parasympathetic nervous system",
+        "Sympathetic nervous system",
+        "Somatic nervous system",
+        "Enteric nervous system"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sympathetic division mobilises the body during acute challenge; the parasympathetic division supports recovery and routine maintenance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-002-q10",
+      "question": "Classical conditioning is most closely associated with:",
+      "options": [
+        "Ivan Pavlov",
+        "Abraham Maslow",
+        "Jean Piaget",
+        "Carl Rogers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pavlov's work on learned associations is central to the history of classical conditioning.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q11",
+      "question": "Operant conditioning focuses primarily on how behavior is shaped by:",
+      "options": [
+        "Dreams",
+        "Consequences of behavior",
+        "Biological inheritance",
+        "Sensory adaptation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Operant conditioning studies how consequences influence the future likelihood of behavior.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q12",
+      "question": "Which is an example of positive reinforcement?",
+      "options": [
+        "Removing a task after unwanted behavior",
+        "Praising a student after they complete work",
+        "Taking away a phone after rule-breaking",
+        "Ignoring a behavior"
+      ],
+      "answerIndex": 1,
+      "explanation": "Positive reinforcement adds a consequence, such as praise, that increases a behavior.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-002-q13",
+      "question": "Learning by observing and imitating another person is called:",
+      "options": [
+        "Latent learning",
+        "Observational learning",
+        "Classical conditioning",
+        "Insight learning"
+      ],
+      "answerIndex": 1,
+      "explanation": "Observational learning occurs when a person learns by watching others and the consequences of their actions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q14",
+      "question": "The main processes involved in memory are:",
+      "options": [
+        "Encoding, storage, and retrieval",
+        "Sensation, perception, and motivation",
+        "Thinking, emotion, and personality",
+        "Reinforcement, punishment, and extinction"
+      ],
+      "answerIndex": 0,
+      "explanation": "Memory involves encoding information, storing it, and later retrieving it.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q15",
+      "question": "A psychologist whose work focuses on assessing and providing psychological care for mental disorders is typically a:",
+      "options": [
+        "Clinical psychologist",
+        "School principal",
+        "Physiologist",
+        "Sociologist"
+      ],
+      "answerIndex": 0,
+      "explanation": "Clinical psychologists specialise in psychological assessment and care; professional scope varies by jurisdiction and qualification.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-002-q16",
+      "question": "The small junction where one neuron communicates with another is called the:",
+      "options": [
+        "Synapse",
+        "Myelin sheath",
+        "Cell body",
+        "Gland"
+      ],
+      "answerIndex": 0,
+      "explanation": "A synapse is the junction where a neuron communicates with another cell, often using neurotransmitters.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q17",
+      "question": "Which brain structure is especially important for forming many new declarative memories?",
+      "options": [
+        "Hippocampus",
+        "Cerebellar vermis",
+        "Occipital cortex",
+        "Medulla"
+      ],
+      "answerIndex": 0,
+      "explanation": "The hippocampus is important in forming and consolidating many new declarative memories.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-002-q18",
+      "question": "The hypothalamus contributes most directly to regulating:",
+      "options": [
+        "Body temperature, hunger, and thirst",
+        "Visual acuity only",
+        "Voluntary speech only",
+        "Fine finger movement only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The hypothalamus helps regulate homeostasis, including temperature, hunger, thirst, and endocrine activity.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-002-q19",
+      "question": "The body's approximate 24-hour sleep-wake rhythm is known as a:",
+      "options": [
+        "Circadian rhythm",
+        "Conditioned reflex",
+        "Fixed interval",
+        "Sensory threshold"
+      ],
+      "answerIndex": 0,
+      "explanation": "Circadian rhythms are biological cycles of roughly 24 hours, coordinated in part by light-sensitive brain systems.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-002-q20",
+      "question": "When a constant, unchanging stimulus becomes less noticeable over time, this is called:",
+      "options": [
+        "Sensory adaptation",
+        "Positive reinforcement",
+        "Projection",
+        "Random assignment"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sensory adaptation is reduced responsiveness to a constant or repeated stimulus.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-002-b01",
+      "question": "Describe the main parts of a neuron and explain how a signal can pass from one neuron to another at a synapse.",
+      "marks": 10,
+      "markingGuide": [
+        "Identifies dendrites, cell body, and axon with appropriate roles: 3 marks.",
+        "Explains electrical impulse travel along the axon: 2 marks.",
+        "Explains neurotransmitter release and receptor binding across the synapse: 3 marks.",
+        "Notes that the receiving cell's response may be excitatory or inhibitory: 2 marks."
+      ],
+      "modelAnswer": "Dendrites receive many inputs, the cell body integrates signals, and the axon carries an action potential toward its terminals. At a chemical synapse, arrival of the impulse leads to neurotransmitter release. The transmitter crosses the synaptic cleft and binds receptors on the next cell, changing its activity. The effect may increase or decrease the likelihood of firing."
+    },
+    {
+      "id": "psychology-paper-002-b02",
+      "question": "Distinguish sensation from perception and use one everyday example to show how they work together.",
+      "marks": 10,
+      "markingGuide": [
+        "Defines sensation as detection/transduction of physical stimulation: 3 marks.",
+        "Defines perception as organisation and interpretation of sensory input: 3 marks.",
+        "Gives a relevant example showing both processes: 3 marks.",
+        "Clear distinction: 1 mark."
+      ],
+      "modelAnswer": "Sensation is the detection of physical energy by sensory receptors and its conversion into neural signals. Perception is the organisation and interpretation of those signals. For example, the eyes detect changing light from letters (sensation), and the brain organises the letters into a meaningful word (perception)."
+    },
+    {
+      "id": "psychology-paper-002-b03",
+      "question": "Compare classical conditioning, operant conditioning, and observational learning. Give one accurate example of each.",
+      "marks": 10,
+      "markingGuide": [
+        "Explains association between stimuli in classical conditioning and gives example: 3 marks.",
+        "Explains consequences shape behavior in operant conditioning and gives example: 3 marks.",
+        "Explains learning by observing a model and gives example: 3 marks.",
+        "Accurate comparison: 1 mark."
+      ],
+      "modelAnswer": "Classical conditioning involves learning an association between stimuli, such as a sound becoming associated with an event. Operant conditioning changes behavior through its consequences, such as praise increasing completion of homework. Observational learning occurs by watching a model, such as a child imitating a safe procedure demonstrated by a teacher."
+    },
+    {
+      "id": "psychology-paper-002-b04",
+      "question": "Explain the general roles of the sympathetic and parasympathetic divisions of the autonomic nervous system during and after a short-lived challenge.",
+      "marks": 10,
+      "markingGuide": [
+        "Identifies the autonomic nervous system as regulating involuntary functions: 2 marks.",
+        "Explains sympathetic mobilisation during challenge: 3 marks.",
+        "Explains parasympathetic recovery/maintenance after challenge: 3 marks.",
+        "Provides a relevant example and avoids suggesting the divisions work as a simple on/off switch: 2 marks."
+      ],
+      "modelAnswer": "The autonomic nervous system helps regulate functions such as heart rate and digestion. During a challenge, sympathetic activity can increase readiness by supporting faster heart rate and energy mobilisation. After the challenge, parasympathetic activity supports recovery and routine functions such as digestion. The two divisions interact continuously rather than acting as a simple on/off switch."
+    },
+    {
+      "id": "psychology-paper-002-b05",
+      "question": "Describe two ways biological processes can influence sleep and alertness, using circadian timing and one brain or body system in your answer.",
+      "marks": 10,
+      "markingGuide": [
+        "Explains circadian rhythms as roughly daily timing processes: 3 marks.",
+        "Explains the role of light-sensitive timing systems or the suprachiasmatic nucleus: 3 marks.",
+        "Accurately describes one other influence, such as sleep pressure or melatonin timing: 3 marks.",
+        "Clear application to sleep/alertness: 1 mark."
+      ],
+      "modelAnswer": "Circadian rhythms organise sleep and alertness over an approximately 24-hour cycle. Light information helps synchronise the suprachiasmatic nucleus in the hypothalamus with the day-night cycle, influencing signals such as melatonin timing. Sleep pressure also builds with time awake and falls during sleep. These systems interact, so timing and prior sleep both affect alertness."
+    }
+  ]
+}

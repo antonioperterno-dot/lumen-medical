@@ -1,0 +1,21 @@
+=== approve-all + reinstall nested === 
+Nothing to approve; allowScripts unchanged.
+APPROVE_EXIT=0 
+
+up to date in 6s
+npm warn allow-scripts 2 packages have install scripts not yet covered by allowScripts:
+npm warn allow-scripts   @firebase/util@1.12.1 (postinstall: node ./postinstall.js)
+npm warn allow-scripts   protobufjs@7.6.6 (postinstall: node scripts/postinstall)
+npm warn allow-scripts
+npm warn allow-scripts Run `npm approve-scripts --allow-scripts-pending` to review, or `npm approve-scripts <pkg>` to allow.
+INSTALL_EXIT=0 
+OK   node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/package.json
+OK   node_modules/workbox-build/node_modules/ajv/package.json
+OK   node_modules/workbox-build/node_modules/source-map/package.json
+OK   node_modules/workbox-build/node_modules/glob/package.json
+MISS node_modules/workbox-build/node_modules/ajv/node_modules/fast-uri/package.json
+MISS node_modules/workbox-build/node_modules/json-schema-traverse/package.json
+MISS node_modules/workbox-build/node_modules/require-from-string/package.json
+OK   node_modules/ajv/package.json
+MISS node_modules/leven/package.json
+FINAL2_DONE 

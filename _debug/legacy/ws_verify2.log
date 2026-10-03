@@ -1,0 +1,38 @@
+=== typecheck2 === 
+
+> lumen-medical@1.0.0 typecheck
+> tsc --noEmit
+
+app/quiz/page.tsx(2,10): error TS2614: Module '"@/components/DailyQuiz"' has no exported member 'DailyQuiz'. Did you mean to use 'import DailyQuiz from "@/components/DailyQuiz"' instead?
+lib/api.ts(178,3): error TS2322: Type 'Promise<ResourcePayload>' is not assignable to type 'Promise<{ data: Resource[]; meta: ResourceMeta & { categories: Category[]; counts: Record<string, number>; }; }>'.
+  Type 'ResourcePayload' is not assignable to type '{ data: Resource[]; meta: ResourceMeta & { categories: Category[]; counts: Record<string, number>; }; }'.
+    Types of property 'meta' are incompatible.
+      Type 'ResourceMeta' is not assignable to type 'ResourceMeta & { categories: Category[]; counts: Record<string, number>; }'.
+        Type 'ResourceMeta' is not assignable to type '{ categories: Category[]; counts: Record<string, number>; }'.
+          Types of property 'categories' are incompatible.
+            Type 'Category[] | undefined' is not assignable to type 'Category[]'.
+              Type 'undefined' is not assignable to type 'Category[]'.
+lib/firebase/client.ts(3,10): error TS2305: Module '"firebase/firestore"' has no exported member 'getFirestore'.
+lib/firebase/client.ts(3,29): error TS2305: Module '"firebase/firestore"' has no exported member 'Firestore'.
+lib/offline/progress.ts(154,3): error TS2322: Type '({ kind: "quiz"; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; } | { kind: string; at: number; payload: ProgressRecord; })[]' is not assignable to type 'PendingWrite[]'.
+  Type '{ kind: "quiz"; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; } | { kind: string; at: number; payload: ProgressRecord; }' is not assignable to type 'PendingWrite'.
+    Type '{ kind: string; at: number; payload: ProgressRecord; }' is not assignable to type 'PendingWrite'.
+      Type '{ kind: string; at: number; payload: ProgressRecord; }' is not assignable to type '{ kind: "quiz"; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }'.
+        Types of property 'kind' are incompatible.
+          Type 'string' is not assignable to type '"quiz"'.
+lib/offline/progress.ts(183,3): error TS2322: Type '({ kind: "progress"; at: number; payload: ProgressRecord; } | { kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; })[]' is not assignable to type 'PendingWrite[]'.
+  Type '{ kind: "progress"; at: number; payload: ProgressRecord; } | { kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type 'PendingWrite'.
+    Type '{ kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type 'PendingWrite'.
+      Type '{ kind: string; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }' is not assignable to type '{ kind: "quiz"; at: number; payload: { questionId: string; chosenIndex: number; correct: boolean; answeredAt: string; }; }'.
+        Types of property 'kind' are incompatible.
+          Type 'string' is not assignable to type '"quiz"'.
+lib/turso/client.ts(80,27): error TS2345: Argument of type '{ sql: string; args?: InValue[] | undefined; }[]' is not assignable to parameter of type 'InStatement[]'.
+  Type '{ sql: string; args?: InValue[] | undefined; }' is not assignable to type 'InStatement'.
+    Type '{ sql: string; args?: InValue[] | undefined; }' is not assignable to type '{ sql: string; args: InArgs; }'.
+      Types of property 'args' are incompatible.
+        Type 'InValue[] | undefined' is not assignable to type 'InArgs'.
+          Type 'undefined' is not assignable to type 'InArgs'.
+lib/turso/resources.ts(97,34): error TS2304: Cannot find name 'filterFallback'.
+lib/turso/resources.ts(741,10): error TS2304: Cannot find name 'filterFallback'.
+TYPECHECK_EXIT=2 
+VERIFY_DONE 

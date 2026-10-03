@@ -1,0 +1,16 @@
+node_modules/@apideck/better-ajv-errors/package.json: FAIL ENOENT: no such file or directory, open 'C:\Users\antonio perterno\LUMEN\node_modules\@apideck\better-ajv-errors\package.json'
+node_modules/workbox-build/package.json: name=workbox-build version="6.6.0"
+node_modules/ajv/package.json: name=ajv version="6.15.0"
+empty-version pkgs:
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\module_dir\zmodules\bbb\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\resolver\baz\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\resolver\browser_field\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\resolver\dot_main\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\resolver\dot_slash_main\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\resolver\false_main\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\resolver\incorrect_main\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\resolver\invalid_main\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\helper-define-polyfill-provider\node_modules\resolve\test\resolver\symlinked\package\package.json
+C:\Users\antonio perterno\LUMEN\node_modules\@babel\preset-env\data\package.json
+
+SCAN_EXIT=0 

@@ -1,0 +1,86 @@
+116|/** Subscribes to local changes; returns the unsubscribe function. */
+117|export function subscribe(listener: () => void): () => void {
+118|  if (typeof window === "undefined") return () => undefined;
+119|  window.addEventListener(PROGRESS_CHANGED_EVENT, listener);
+120|  return () => window.removeEventListener(PROGRESS_CHANGED_EVENT, listener);
+121|}
+122|
+123|/* -------------------------------------------------------------------------- */
+124|/* Writes                                                                      */
+125|/* -------------------------------------------------------------------------- */
+126|
+127|export function recordProgress(input: {
+128|  resourceId: string;
+129|  categorySlug: string;
+130|  percent: number;
+131|  secondsSpent?: number;
+132|}): LocalState {
+133|  const state = loadState();
+134|  const previous = state.records[input.resourceId];
+135|  const percent = Math.max(
+136|    previous?.percent ?? 0,
+137|    Math.max(0, Math.min(100, Math.round(input.percent))),
+138|  );
+139|
+140|  const record: ProgressRecord = {
+141|    resourceId: input.resourceId,
+142|    categorySlug: input.categorySlug,
+143|    percent,
+144|    // 92% counts as complete: chasing the last 8% of an article that ends in
+145|    // references is not a good use of a student's attention.
+146|    completed: percent >= 92,
+147|    lastOpenedAt: new Date().toISOString(),
+148|    secondsSpent: Math.round(
+149|      (previous?.secondsSpent ?? 0) + (input.secondsSpent ?? 0),
+150|    ),
+151|  };
+152|
+153|  state.records[input.resourceId] = record;
+154|  state.pending = [
+155|    ...state.pending.filter(
+156|      (p) =>
+157|        !(p.kind === "progress" && p.payload.resourceId === record.resourceId),
+158|    ),
+159|    { kind: "progress", at: Date.now(), payload: record } as PendingWrite,
+160|  ].slice(-200);
+161|
+162|  return saveState(state);
+163|}
+164|
+165|export function recordQuizAnswer(input: {
+166|  questionId: string;
+167|  chosenIndex: number;
+168|  correct: boolean;
+169|  onDay: string;
+170|}): LocalState {
+171|  const state = loadState();
+172|  const answeredAt = new Date().toISOString();
+173|
+174|  state.quiz = {
+175|    answered: state.quiz.answered + 1,
+176|    correct: state.quiz.correct + (input.correct ? 1 : 0),
+177|    byDay: {
+178|      ...state.quiz.byDay,
+179|      [input.onDay]: (state.quiz.byDay[input.onDay] ?? 0) + 1,
+180|    },
+181|  };
+182|
+183|  state.pending = [
+184|    ...state.pending,
+185|    {
+186|      kind: "quiz",
+187|      at: Date.now(),
+188|      payload: {
+189|        questionId: input.questionId,
+190|        chosenIndex: input.chosenIndex,
+191|        correct: input.correct,
+192|        answeredAt,
+193|      },
+194|    },
+195|  ].slice(-200);
+196|
+197|  return saveState(state);
+198|}
+199|
+200|export function setProfile(
+DUMP_EXIT=0 

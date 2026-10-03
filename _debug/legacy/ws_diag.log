@@ -1,0 +1,16 @@
+@apideck/better-ajv-errors@0.3.1 =>
+version = '0.3.1'
+dist.tarball = 'https://registry.npmjs.org/@apideck/better-ajv-errors/-/better-ajv-errors-0.3.1.tgz'
+dist.integrity = 'sha512-6RMV31esAxqlDIvVCG/CJxY/s8dFNVOI5w8RWIfDMhjg/iwqnawko9tJXau/leqC4+T1Bu8et99QVWCwU5wk+g=='
+
+ajv@8.6.0 =>
+version = '8.6.0'
+dist.tarball = 'https://registry.npmjs.org/ajv/-/ajv-8.6.0.tgz'
+dist.integrity = 'sha512-cnUG4NSBiM4YFBxgZIj/In3/6KX+rQ2l2YPRVcvAMQGWEPKuXoPIhxzwqh31jA3IPbI4qEOp/5ILI4ynioXsGQ=='
+
+source-map@0.8.0 =>
+version = '0.8.0'
+dist.tarball = 'https://registry.npmjs.org/source-map/-/source-map-0.8.0.tgz'
+dist.integrity = 'sha512-d8EqvL+k/SOXCreS/SUzg2ciyHqBBLcN/yuRjFsbvVhHTE2pgei7oAhmPM7kWFbkX6OSMQfUq4KbkF3au9lhYQ=='
+
+DIAG_EXIT=0 

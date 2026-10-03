@@ -1,0 +1,26 @@
+=== probe === 
+out-file : The process cannot access the file 'C:\Users\antonio perterno\LUMEN\ws_probe.log' because it is being used 
+by another process.
+At line:1 char:231
++ ... e.log } catch { 'HOME_FAIL=' + $_.Exception.Message >> ws_probe.log }
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], IOException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : The process cannot access the file 'C:\Users\antonio perterno\LUMEN\ws_probe.log' because it is being used 
+by another process.
+At line:1 char:251
++ ... be.log } catch { 'API_FAIL=' + $_.Exception.Message >> ws_probe.log }
++                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], IOException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : The process cannot access the file 'C:\Users\antonio perterno\LUMEN\ws_probe.log' because it is being used 
+by another process.
+At line:1 char:247
++ ... e.log } catch { 'QUIZ_FAIL=' + $_.Exception.Message >> ws_probe.log }
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], IOException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+PROBE_DONE 

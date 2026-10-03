@@ -1,0 +1,338 @@
+{
+  "id": "psychology-paper-001",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 1: Foundations and Learning",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-03T05:00:00+03:00",
+  "durationMinutes": 120,
+  "source": "Provided psychology paper",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-001-q01",
+      "question": "Which type of memory temporarily holds information needed for an ongoing task?",
+      "options": [
+        "Long-term memory",
+        "Procedural memory",
+        "Working memory",
+        "Sensory memory"
+      ],
+      "answerIndex": 2,
+      "explanation": "Working memory temporarily holds and manipulates information needed for an ongoing task.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q02",
+      "question": "Forgetting information because new information interferes with previously learned information is called:",
+      "options": [
+        "Retroactive interference",
+        "Repression",
+        "Recognition",
+        "Habituation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Retroactive interference occurs when newer learning disrupts recall of older information.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-001-q03",
+      "question": "The ability to solve problems and adapt to new situations is commonly associated with:",
+      "options": [
+        "Intelligence",
+        "Reflexes",
+        "Sensation",
+        "Instinct"
+      ],
+      "answerIndex": 0,
+      "explanation": "Intelligence includes problem solving, reasoning, and adaptation to new situations.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q04",
+      "question": "A standardized test designed to measure cognitive abilities is an:",
+      "options": [
+        "Personality test",
+        "Intelligence test",
+        "Projective test",
+        "Achievement diary"
+      ],
+      "answerIndex": 1,
+      "explanation": "An intelligence test is standardized to assess selected cognitive abilities.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q05",
+      "question": "According to Piaget, children in the sensorimotor stage primarily learn through:",
+      "options": [
+        "Abstract reasoning",
+        "Sensory experiences and actions",
+        "Formal logic",
+        "Moral reasoning"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sensorimotor learning occurs through sensory exploration and physical actions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q06",
+      "question": "Adolescents typically enter Piaget's:",
+      "options": [
+        "Sensorimotor stage",
+        "Preoperational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "answerIndex": 3,
+      "explanation": "Formal operational thinking generally begins around adolescence and includes abstract reasoning.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q07",
+      "question": "Erikson's theory focuses primarily on:",
+      "options": [
+        "Psychosexual development",
+        "Psychosocial development",
+        "Classical conditioning",
+        "Intelligence"
+      ],
+      "answerIndex": 1,
+      "explanation": "Erikson described development as a sequence of psychosocial conflicts across the lifespan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q08",
+      "question": "In Maslow's hierarchy, the most basic level of needs includes:",
+      "options": [
+        "Esteem",
+        "Self-actualization",
+        "Physiological needs",
+        "Belongingness"
+      ],
+      "answerIndex": 2,
+      "explanation": "Physiological needs such as food, water, and sleep form the base of Maslow's hierarchy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q09",
+      "question": "Motivation refers to:",
+      "options": [
+        "The process that directs and energizes behavior",
+        "The inability to learn",
+        "A type of memory",
+        "A brain disorder"
+      ],
+      "answerIndex": 0,
+      "explanation": "Motivation directs, energizes, and sustains goal-oriented behavior.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q10",
+      "question": "Emotion is best described as:",
+      "options": [
+        "A purely biological reflex",
+        "A complex state involving feelings, physiological responses, and behavior",
+        "A type of intelligence",
+        "A form of conditioning"
+      ],
+      "answerIndex": 1,
+      "explanation": "Emotion combines subjective feelings, bodily responses, and behavioral expression.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-001-q11",
+      "question": "The part of the brain strongly associated with fear and emotional processing is the:",
+      "options": [
+        "Amygdala",
+        "Cerebellum",
+        "Occipital lobe",
+        "Medulla"
+      ],
+      "answerIndex": 0,
+      "explanation": "The amygdala is strongly involved in fear learning and emotional processing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q12",
+      "question": "Personality refers to:",
+      "options": [
+        "Temporary emotional states",
+        "Relatively enduring patterns of thoughts, feelings, and behavior",
+        "Intelligence alone",
+        "Physical appearance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Personality describes relatively stable patterns of thoughts, feelings, and behavior.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q13",
+      "question": "Which of the following is one of the Big Five personality traits?",
+      "options": [
+        "Openness",
+        "Aggression",
+        "Intelligence",
+        "Memory"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Big Five include openness, conscientiousness, extraversion, agreeableness, and neuroticism.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q14",
+      "question": "Freud proposed that personality consists of:",
+      "options": [
+        "Brain, mind, and body",
+        "Id, ego, and superego",
+        "Conscious, sensory, and motor systems",
+        "Self, society, and culture"
+      ],
+      "answerIndex": 1,
+      "explanation": "Freud's structural model consists of the id, ego, and superego.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q15",
+      "question": "A defense mechanism in which unacceptable thoughts are pushed out of conscious awareness is:",
+      "options": [
+        "Projection",
+        "Repression",
+        "Sublimation",
+        "Rationalization"
+      ],
+      "answerIndex": 1,
+      "explanation": "Repression involves keeping distressing or unacceptable thoughts outside conscious awareness.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-001-q16",
+      "question": "A psychological disorder characterized by persistent sadness and loss of interest is:",
+      "options": [
+        "Depression",
+        "Phobia",
+        "Schizophrenia",
+        "Mania"
+      ],
+      "answerIndex": 0,
+      "explanation": "Depression commonly includes persistent low mood and loss of interest or pleasure.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q17",
+      "question": "An intense, irrational fear of a particular object or situation is called:",
+      "options": [
+        "Obsession",
+        "Phobia",
+        "Delusion",
+        "Compulsion"
+      ],
+      "answerIndex": 1,
+      "explanation": "A phobia is an intense and disproportionate fear linked to a specific object or situation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q18",
+      "question": "Schizophrenia is commonly associated with:",
+      "options": [
+        "Hallucinations and delusions",
+        "Memory improvement",
+        "Increased physical strength",
+        "Normal mood fluctuations only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hallucinations and delusions are examples of positive psychotic symptoms.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-001-q19",
+      "question": "Which of the following is an example of classical conditioning?",
+      "options": [
+        "Learning by observing a role model",
+        "Learning to fear a sound after it has been paired with an unpleasant event",
+        "Learning through punishment only",
+        "Solving a problem through reasoning"
+      ],
+      "answerIndex": 1,
+      "explanation": "Classical conditioning occurs when a previously neutral stimulus becomes associated with an outcome.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-001-q20",
+      "question": "Which statement best describes learning?",
+      "options": [
+        "A relatively permanent change in behavior or knowledge due to experience",
+        "A temporary emotional reaction",
+        "A physical reflex only",
+        "A personality trait"
+      ],
+      "answerIndex": 0,
+      "explanation": "Learning is a relatively lasting change caused by experience or practice.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-001-b01",
+      "question": "Define psychology and state any three major goals of psychology.",
+      "marks": 10,
+      "markingGuide": [
+        "Defines psychology as the scientific study of behavior and mental processes.",
+        "States three goals: describe, explain, predict, or control/change behavior.",
+        "Uses clear and relevant wording."
+      ],
+      "modelAnswer": "Psychology is the scientific study of behavior and mental processes. Its major goals are to describe behavior, explain why it occurs, predict future behavior, and influence or improve behavior. Any three receive credit."
+    },
+    {
+      "id": "psychology-paper-001-b02",
+      "question": "Explain operant conditioning and briefly describe the roles of reinforcement and punishment.",
+      "marks": 10,
+      "markingGuide": [
+        "Explains that behavior is shaped by its consequences.",
+        "Defines reinforcement as a consequence that increases behavior.",
+        "Defines punishment as a consequence that decreases behavior.",
+        "May distinguish positive and negative forms with an accurate example."
+      ],
+      "modelAnswer": "Operant conditioning is learning in which behavior changes because of its consequences. Reinforcement increases the likelihood of a behavior, while punishment decreases it. Positive means adding a consequence; negative means removing one."
+    },
+    {
+      "id": "psychology-paper-001-b03",
+      "question": "Describe sensory, short-term (working), and long-term memory. Give one feature or example of each.",
+      "marks": 10,
+      "markingGuide": [
+        "Identifies sensory memory as a very brief record of sensory input: 2 marks.",
+        "Describes short-term/working memory as temporarily holding and using a limited amount of information: 3 marks.",
+        "Describes long-term memory as relatively durable storage, with a relevant example: 3 marks.",
+        "Clearly distinguishes the three systems: 2 marks."
+      ],
+      "modelAnswer": "Sensory memory briefly retains incoming sights, sounds, or other sensations. Short-term or working memory holds a small amount of information for immediate use, such as keeping a number in mind while dialling. Long-term memory stores information for longer periods, such as the meaning of familiar words or a learned skill."
+    },
+    {
+      "id": "psychology-paper-001-b04",
+      "question": "Name Piaget's four stages of cognitive development in order and describe one characteristic of any two stages.",
+      "marks": 10,
+      "markingGuide": [
+        "Names sensorimotor, preoperational, concrete operational, and formal operational stages in the correct order: 4 marks.",
+        "Accurately describes a characteristic of one stage: 2 marks.",
+        "Accurately describes a characteristic of a second stage: 2 marks.",
+        "Uses clear age-appropriate examples or wording: 2 marks."
+      ],
+      "modelAnswer": "The stages are sensorimotor, preoperational, concrete operational, and formal operational. Infants in the sensorimotor stage learn through sensing and acting on the world. In the preoperational stage, symbolic thought develops but reasoning is not yet consistently logical. Concrete operational children reason logically about concrete events. Formal operational adolescents can reason about abstract possibilities. Any two accurate descriptions receive credit."
+    },
+    {
+      "id": "psychology-paper-001-b05",
+      "question": "Explain Freud's structural model of personality by describing the id, ego, and superego, and give a brief example of how they may conflict.",
+      "marks": 10,
+      "markingGuide": [
+        "Describes the id as seeking immediate gratification: 2 marks.",
+        "Describes the ego as considering reality and practical consequences: 2 marks.",
+        "Describes the superego as representing internalised rules or moral standards: 2 marks.",
+        "Gives a coherent example showing a conflict and how the ego may mediate: 3 marks.",
+        "Clear explanation: 1 mark."
+      ],
+      "modelAnswer": "In Freud's model, the id seeks immediate satisfaction, the superego represents internalised moral standards, and the ego tries to manage their demands in light of reality. For example, a student may want to copy an answer (id), recognise that cheating is wrong (superego), and choose to attempt the question independently or ask for help (ego). This is a historical theoretical model rather than a complete modern account of personality."
+    }
+  ]
+}

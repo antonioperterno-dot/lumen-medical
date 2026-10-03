@@ -1,0 +1,116 @@
+=== typecheck7 === 
+
+> lumen-medical@1.0.0 typecheck
+> tsc --noEmit
+
+TYPECHECK_EXIT=0 
+=== dev log === 
+
+> lumen-medical@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.23
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+> [PWA] PWA support is disabled
+> [PWA] PWA support is disabled
+ ✓ Ready in 6s
+ ○ Compiling / ...
+ ⨯ ./lib/firebase/client.ts:5:1
+Module not found: Can't resolve '@firebase/firestore'
+[0m [90m 3 |[39m [90m// @ts-expect-error — firebase/firestore ships its own types; @firebase/firestore[39m[0m
+[0m [90m 4 |[39m [90m// is the same package but its dist .d.ts was pruned in this install.[39m[0m
+[0m[31m[1m>[22m[39m[90m 5 |[39m [36mimport[39m { getFirestore } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m   |[39m [31m[1m^[22m[39m[0m
+[0m [90m 6 |[39m [90m// @ts-expect-error — see above; Firestore is only used as a return type here.[39m[0m
+[0m [90m 7 |[39m [36mimport[39m type { [33mFirestore[39m } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m 8 |[39m[0m
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./lib/firebase/AuthContext.tsx
+ ⨯ ./lib/firebase/client.ts:5:1
+Module not found: Can't resolve '@firebase/firestore'
+[0m [90m 3 |[39m [90m// @ts-expect-error — firebase/firestore ships its own types; @firebase/firestore[39m[0m
+[0m [90m 4 |[39m [90m// is the same package but its dist .d.ts was pruned in this install.[39m[0m
+[0m[31m[1m>[22m[39m[90m 5 |[39m [36mimport[39m { getFirestore } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m   |[39m [31m[1m^[22m[39m[0m
+[0m [90m 6 |[39m [90m// @ts-expect-error — see above; Firestore is only used as a return type here.[39m[0m
+[0m [90m 7 |[39m [36mimport[39m type { [33mFirestore[39m } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m 8 |[39m[0m
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./lib/firebase/AuthContext.tsx
+ ⨯ ./lib/firebase/client.ts:5:1
+Module not found: Can't resolve '@firebase/firestore'
+[0m [90m 3 |[39m [90m// @ts-expect-error — firebase/firestore ships its own types; @firebase/firestore[39m[0m
+[0m [90m 4 |[39m [90m// is the same package but its dist .d.ts was pruned in this install.[39m[0m
+[0m[31m[1m>[22m[39m[90m 5 |[39m [36mimport[39m { getFirestore } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m   |[39m [31m[1m^[22m[39m[0m
+[0m [90m 6 |[39m [90m// @ts-expect-error — see above; Firestore is only used as a return type here.[39m[0m
+[0m [90m 7 |[39m [36mimport[39m type { [33mFirestore[39m } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m 8 |[39m[0m
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./lib/firebase/AuthContext.tsx
+ GET / 500 in 46236ms
+ ⨯ ./lib/firebase/client.ts:5:1
+Module not found: Can't resolve '@firebase/firestore'
+[0m [90m 3 |[39m [90m// @ts-expect-error — firebase/firestore ships its own types; @firebase/firestore[39m[0m
+[0m [90m 4 |[39m [90m// is the same package but its dist .d.ts was pruned in this install.[39m[0m
+[0m[31m[1m>[22m[39m[90m 5 |[39m [36mimport[39m { getFirestore } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m   |[39m [31m[1m^[22m[39m[0m
+[0m [90m 6 |[39m [90m// @ts-expect-error — see above; Firestore is only used as a return type here.[39m[0m
+[0m [90m 7 |[39m [36mimport[39m type { [33mFirestore[39m } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m 8 |[39m[0m
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./lib/firebase/AuthContext.tsx
+ GET /api/resources?limit=3 500 in 802ms
+ ⨯ ./lib/firebase/client.ts:5:1
+Module not found: Can't resolve '@firebase/firestore'
+[0m [90m 3 |[39m [90m// @ts-expect-error — firebase/firestore ships its own types; @firebase/firestore[39m[0m
+[0m [90m 4 |[39m [90m// is the same package but its dist .d.ts was pruned in this install.[39m[0m
+[0m[31m[1m>[22m[39m[90m 5 |[39m [36mimport[39m { getFirestore } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m   |[39m [31m[1m^[22m[39m[0m
+[0m [90m 6 |[39m [90m// @ts-expect-error — see above; Firestore is only used as a return type here.[39m[0m
+[0m [90m 7 |[39m [36mimport[39m type { [33mFirestore[39m } [36mfrom[39m [32m"@firebase/firestore"[39m[33m;[39m[0m
+[0m [90m 8 |[39m[0m
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./lib/firebase/AuthContext.tsx
+ GET /api/quiz?count=2 500 in 485ms
+ ⨯ ./node_modules/firebase/firestore/dist/index.mjs:1:1
+Module not found: Can't resolve '@firebase/firestore'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./lib/firebase/client.ts
+./lib/firebase/AuthContext.tsx
+ ✓ Compiled /api/quiz in 1773ms (535 modules)
+[?25h
+
+> lumen-medical@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.23
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+> [PWA] PWA support is disabled
+> [PWA] PWA support is disabled
+ ✓ Ready in 5.8s
+FIX6_DONE 
