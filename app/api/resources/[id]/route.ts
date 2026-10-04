@@ -16,9 +16,10 @@ export const revalidate = 300;
 
 export async function GET(
   _request: Request,
-  { params }: { params: { id: string } },
+  { params }: { params: Promise<{ id: string }> },
 ) {
-  const id = decodeURIComponent(params.id);
+  const { id: routeId } = await params;
+  const id = decodeURIComponent(routeId);
 
   try {
     const resource = await getResourceById(id);

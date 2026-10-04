@@ -11,14 +11,10 @@ next-env.d.ts
 # production
 /build
 
-# generated service worker (next-pwa writes these into /public at build time)
+    # generated service worker (Serwist writes these into /public at build time)                    
 /public/sw.js
-/public/sw.js.map
-/public/workbox-*.js
-/public/workbox-*.js.map
-/public/fallback-*.js
-/public/fallback-*.js.map
-/public/worker-*.js
+/public/sw*
+/public/swe-worker*         
 
 # misc
 .DS_Store
@@ -42,3 +38,4 @@ serviceAccountKey.json
 .firebase/
 firebase-debug.log
 firestore-debug.log
+.env*

@@ -1,0 +1,10 @@
+.env*
+!.env.local.example
+.vercel/
+.next/
+node_modules/
+_debug/
+buildlog.txt
+*.log
+*.pem
+serviceAccountKey.json

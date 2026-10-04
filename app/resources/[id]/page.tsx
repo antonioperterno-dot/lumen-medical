@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   description: "Offline-first medical study resource.",
 };
 
-export default function ResourcePage({ params }: { params: { id: string } }) {
-  return <ResourceReader id={params.id} />;
+export default async function ResourcePage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  return <ResourceReader id={id} />;
 }

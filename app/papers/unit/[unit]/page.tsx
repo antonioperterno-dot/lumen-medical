@@ -14,16 +14,18 @@ const UNITS: Record<string, string> = {
   "medical-journals": "Medical Journals",
 };
 
-export async function generateMetadata({ params }: { params: { unit: string } }): Promise<Metadata> {
-  const name = UNITS[params.unit] ?? params.unit.replace(/-/g, " ");
+export async function generateMetadata({ params }: { params: Promise<{ unit: string }> }): Promise<Metadata> {
+  const { unit } = await params;
+  const name = UNITS[unit] ?? unit.replace(/-/g, " ");
   return { title: `${name} Quizzes | LUMEN`, description: `Course quizzes for ${name}, grouped by level.` };
 }
 
-export default async function CourseUnitQuizzesPage({ params }: { params: { unit: string } }) {
-  const name = UNITS[params.unit];
+export default async function CourseUnitQuizzesPage({ params }: { params: Promise<{ unit: string }> }) {
+  const { unit } = await params;
+  const name = UNITS[unit];
   if (!name) return <main className="px-5"><ScreenHeader title="Course unit not found" back="/papers" /></main>;
 
-  const papers = await getPapers(params.unit);
+  const papers = await getPapers(unit);
   const byLevel = new Map<number, typeof papers>();
   for (const paper of papers) {
     const group = byLevel.get(paper.level) ?? [];

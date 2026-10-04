@@ -5,13 +5,15 @@ import { getPaper } from "@/lib/papers";
 
 export const runtime = "nodejs";
 
-export async function generateMetadata({ params }: { params: { id: string } }): Promise<Metadata> {
-  const paper = await getPaper(params.id);
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
+  const { id } = await params;
+  const paper = await getPaper(id);
   return { title: paper ? `${paper.title} - LUMEN` : "Paper - LUMEN" };
 }
 
-export default async function PaperPage({ params }: { params: { id: string } }) {
-  const paper = await getPaper(params.id);
+export default async function PaperPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const paper = await getPaper(id);
   if (!paper) notFound();
   return <PaperPlayer paper={paper} />;
 }

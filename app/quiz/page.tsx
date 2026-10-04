@@ -30,13 +30,14 @@ export const metadata = {
   description: "Latest course-unit quizzes plus daily practice.",
 };
 
-export default function QuizPage({
+export default async function QuizPage({
   searchParams,
 }: {
-  searchParams: { category?: string; mode?: string };
+  searchParams: Promise<{ category?: string; mode?: string }>;
 }) {
-  const category = searchParams.category?.trim() || undefined;
-  const quick = searchParams.mode === "quick";
+  const { category: rawCategory, mode } = await searchParams;
+  const category = rawCategory?.trim() || undefined;
+  const quick = mode === "quick";
 
   return (
     <div className="px-5">
