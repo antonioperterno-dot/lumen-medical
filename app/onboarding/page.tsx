@@ -61,7 +61,7 @@ export default function OnboardingPage() {
                 onChange={(event) => (setter as (value: string) => void)(event.target.value)}
                 placeholder={placeholder as string}
                 type={label === "Email" ? "email" : "text"}
-                className="w-full rounded-xl border border-white/10 bg-white/5 px-3 py-2.5 text-[14px] text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
+                className="glass-input w-full rounded-xl border border-white/10 px-3 py-2.5 text-[14px] text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
               />
             </label>
           ))}

@@ -1,0 +1,233 @@
+{
+  "id": "pharmacology-paper-004",
+  "courseUnit": "pharmacology",
+  "title": "Pharmacology Paper 4: Analgesics, Prescribing and Rational Use",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T08:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Pharmacology assessments PAGES 140, 143-144, 148 and analgesic sets",
+  "textbookReference": {
+    "label": "OpenStax Pharmacology for Nurses",
+    "url": "https://openstax.org/details/books/pharmacology-nurses"
+  },
+  "objective": [
+    {
+      "id": "pharmacology-paper-004-q01",
+      "question": "Which one is an example of a phenyl derivative?",
+      "options": ["Diclofenac", "Paracetamol", "Ibuprofen", "ASA (Aspirin)"],
+      "answerIndex": 3,
+      "explanation": "Aspirin (acetylsalicylic acid) is a salicylate phenyl derivative in this classification set.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q02",
+      "question": "The right dose of aspirin for a child of 6 years is:",
+      "options": ["600 mg", "300 mg", "150 mg", "Not recommended"],
+      "answerIndex": 3,
+      "explanation": "Aspirin is generally avoided in children because of Reye syndrome risk; paracetamol or ibuprofen are preferred where appropriate.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q03",
+      "question": "Which of the following drugs is NOT an animal derivative?",
+      "options": ["Digoxin", "Insulin", "Adrenaline", "Heparin"],
+      "answerIndex": 0,
+      "explanation": "Digoxin comes from foxglove plants; insulin and heparin have animal sources and adrenaline is endogenous/synthetic.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-004-q04",
+      "question": "Which statement best defines a counterfeit medicine?",
+      "options": ["A medicine deliberately and fraudulently mislabelled as to identity or source","Any generic medicine","A medicine dispensed without a brand name","A medicine with a spelling variation only"],
+      "answerIndex": 0,
+      "explanation": "A counterfeit/falsified medicine deliberately misrepresents its identity, composition or source; a misspelling alone does not establish counterfeiting.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q05",
+      "question": "Which of the following is NOT an NSAID?",
+      "options": ["Diclofenac", "ASA (Aspirin)", "Piroxicam", "Tramadol"],
+      "answerIndex": 3,
+      "explanation": "Tramadol is an opioid-like analgesic, not an NSAID; diclofenac, aspirin and piroxicam are NSAIDs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q06",
+      "question": "The following are examples of narcotic/opioid drugs except:",
+      "options": ["Nalorphine", "Cocaine", "Methadone", "Buscopan (hyoscine butylbromide)"],
+      "answerIndex": 3,
+      "explanation": "Buscopan is an antispasmodic, not a narcotic/opioid; the others are opioid-related or controlled substances in this set.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-004-q07",
+      "question": "Which one of the following is an example of a hypnotic/sedative?",
+      "options": ["Diazepam", "Ergometrine", "Ethambutol", "Propranolol"],
+      "answerIndex": 0,
+      "explanation": "Diazepam is a benzodiazepine with sedative-hypnotic and anxiolytic effects.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q08",
+      "question": "Which of the following drugs is NOT an anti-acid?",
+      "options": ["Magnesium trisilicate", "Omeprazole", "Sodium bicarbonate", "Dexamethasone"],
+      "answerIndex": 3,
+      "explanation": "Dexamethasone is a corticosteroid, not an antacid; the others reduce or neutralise acid.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q09",
+      "question": "Which of the following is a penicillinase resistant penicillin?",
+      "options": ["Flucloxacillin", "Amoxicillin", "Penicillin V", "Ampicillin"],
+      "answerIndex": 0,
+      "explanation": "Flucloxacillin resists staphylococcal penicillinase; amoxicillin and ampicillin do not.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-004-q10",
+      "question": "Drugs used on the skin are known as:",
+      "options": ["Syrups", "Ointments", "Suspensions", "Injections"],
+      "answerIndex": 1,
+      "explanation": "Ointments are semisolid preparations for skin application.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q11",
+      "question": "Which route can cause the most rapid and severe systemic reaction if a patient is already sensitised to an allergen in the medicine?",
+      "options": ["Intravenous", "Intramuscular", "Oral route", "Topical route"],
+      "answerIndex": 0,
+      "explanation": "Anaphylaxis risk depends on the drug and sensitisation, not route alone; IV administration can produce the most rapid systemic exposure and reaction.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q12",
+      "question": "If an infant cannot take oral medicine, which listed option is an antipyretic formulation rather than a medicine for seizures?",
+      "options": ["IV diazepam", "Rectal diazepam", "IV diclofenac", "Rectal paracetamol suppository"],
+      "answerIndex": 3,
+      "explanation": "Paracetamol is an antipyretic and may be given rectally when appropriate. Diazepam treats seizures, not fever; use age- and weight-appropriate local guidance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-004-q13",
+      "question": "The strongest opioid among the following is:",
+      "options": ["Pethidine", "Codeine", "Morphine", "Tramadol"],
+      "answerIndex": 2,
+      "explanation": "Morphine is the reference strong opioid in this set; codeine and tramadol are weaker.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q14",
+      "question": "Which of the following is not an NSAID analgesic?",
+      "options": ["Paracetamol", "Tramadol", "Piroxicam", "Ibuprofen"],
+      "answerIndex": 1,
+      "explanation": "Tramadol is an opioid-like analgesic; paracetamol is often grouped separately but piroxicam and ibuprofen are NSAIDs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q15",
+      "question": "Which drug in this list is an opioid analgesic rather than an NSAID or non-opioid analgesic?",
+      "options": ["Paracetamol", "Tramadol", "Piroxicam", "Ibuprofen"],
+      "answerIndex": 1,
+      "explanation": "Tramadol is an opioid analgesic. ‘Most potent’ is not well-defined across drugs with different mechanisms and dose scales, so the item is clarified to test class.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-004-q16",
+      "question": "The commonest route of opioid excretion is:",
+      "options": ["Kidney", "Liver", "GIT", "Skin"],
+      "answerIndex": 0,
+      "explanation": "Opioids and metabolites are mainly excreted by the kidney in urine.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q17",
+      "question": "Anaphylaxis is characterized by the following except:",
+      "options": ["Drop in blood pressure", "Wheezing", "Confusion", "Itching"],
+      "answerIndex": 2,
+      "explanation": "Hypotension, bronchospasm/wheezing and itching/urticaria are typical; confusion alone is not characteristic.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q18",
+      "question": "The intensity of drug required to produce a desired effect in one half of all patients is called:",
+      "options": ["Median effective dose (ED50)", "Median toxic dose (TD50)", "Loading dose", "Maintenance dose"],
+      "answerIndex": 0,
+      "explanation": "ED50 is the dose producing the specified effect in 50 percent of the population.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q19",
+      "question": "Which of the following can be used as a relative indicator of the margin of safety of a drug?",
+      "options": ["LD50", "ED50", "Therapeutic index", "TD50 alone"],
+      "answerIndex": 2,
+      "explanation": "Therapeutic index compares toxic and effective doses and indicates relative safety.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-004-q20",
+      "question": "During prescription of drugs to patients, the preferred drug name by most health professionals is:",
+      "options": ["Brand name", "Chemical name", "Generic name", "Traditional name"],
+      "answerIndex": 2,
+      "explanation": "The generic (international non-proprietary) name is preferred for clear, safe prescribing.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "pharmacology-paper-004-b01",
+      "question": "(a) List four properties of NSAIDs. (4 marks) (b) Outline the mechanism of action of NSAIDs. (8 marks)",
+      "marks": 12,
+      "markingGuide": [
+        "Four properties e.g. analgesic, antipyretic, anti-inflammatory, antiplatelet: 4 marks.",
+        "Inhibition of COX and reduced prostaglandin synthesis: 4 marks.",
+        "Therapeutic and adverse consequences of prostaglandin inhibition: 4 marks."
+      ],
+      "modelAnswer": "NSAIDs have analgesic, antipyretic and anti-inflammatory properties; some also inhibit platelet aggregation. They act mainly by inhibiting cyclooxygenase (COX-1 and COX-2), reducing prostaglandin and thromboxane synthesis. This reduces pain, fever and inflammation but can also cause gastric, renal and bleeding-related adverse effects."
+    },
+    {
+      "id": "pharmacology-paper-004-b02",
+      "question": "Mention four indications of opioid analgesics. Outline four properties of an ideal drug. (8 marks)",
+      "marks": 8,
+      "markingGuide": [
+        "Four opioid indications e.g. severe acute pain, cancer pain, dyspnoea, diarrhoea/cough where appropriate: 4 marks.",
+        "Four ideal-drug properties e.g. effective, safe, selective, affordable, stable: 4 marks."
+      ],
+      "modelAnswer": "Opioid analgesics are indicated for moderate to severe acute pain, cancer pain, and selected cases such as dyspnoea, diarrhoea or cough where benefit outweighs risk. An ideal drug is effective, safe, selective, affordable, stable, easy to administer and has predictable pharmacokinetics."
+    },
+    {
+      "id": "pharmacology-paper-004-b03",
+      "question": "(a) Define essential medicine. (1 mark) (b) List five qualities of essential medicines. (5 marks) (c) State four qualities of a good drug. (4 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Defines essential medicine as satisfying priority health needs of the population: 1 mark.",
+        "Five qualities e.g. evidence-based, safe, effective, affordable, available: 5 marks.",
+        "Four good-drug qualities e.g. effective, safe, stable, convenient: 4 marks."
+      ],
+      "modelAnswer": "Essential medicines satisfy the priority health-care needs of the population. They should be evidence-based, safe, effective, quality-assured, affordable, available and in appropriate formulations. A good drug is effective, safe, selective, stable, convenient and affordable."
+    },
+    {
+      "id": "pharmacology-paper-004-b04",
+      "question": "(a) What is compliance? (2 marks) (b) Discuss factors that affect compliance. (6 marks) (c) Define rational drug use and state causes and rewards of rational use. (8 marks)",
+      "marks": 16,
+      "markingGuide": [
+        "Defines compliance/adherence as following prescribed treatment: 2 marks.",
+        "Factors e.g. cost, side effects, complexity, understanding, access, beliefs: 6 marks.",
+        "Defines rational use and gives causes of irrational use and benefits of rational use: 8 marks."
+      ],
+      "modelAnswer": "Compliance (adherence) is the extent to which a patient follows prescribed treatment. It is affected by cost, access, regimen complexity, side effects, understanding, beliefs, support and follow-up. Rational drug use means the right medicine, dose, duration and cost for the clinical need. Irrational use arises from polypharmacy, unnecessary antibiotics or injections, poor guidance, demand and weak systems; rational use improves outcomes, safety and cost-effectiveness."
+    },
+    {
+      "id": "pharmacology-paper-004-b05",
+      "question": "Discuss the routes of drug administration, giving advantages and disadvantages of enteral and parenteral routes. Include the 6 Rs of medicine administration. (12 marks)",
+      "marks": 12,
+      "markingGuide": [
+        "Names enteral routes e.g. oral, sublingual, rectal with examples: 3 marks.",
+        "Names parenteral routes e.g. IV, IM, subcutaneous with examples: 3 marks.",
+        "Advantages/disadvantages of enteral vs parenteral: 3 marks.",
+        "6 Rs: right patient, medicine, dose, route, time and documentation: 3 marks."
+      ],
+      "modelAnswer": "Enteral routes include oral, buccal/sublingual and rectal; they are convenient but may have variable absorption and first-pass metabolism. Parenteral routes include intravenous, intramuscular and subcutaneous; they can be rapid and predictable but are invasive and require skill and sterility. The 6 Rs are the right patient, right medicine, right dose, right route, right time and right documentation."
+    }
+  ]
+}

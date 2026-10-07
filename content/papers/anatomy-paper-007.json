@@ -1,0 +1,338 @@
+{
+  "id": "anatomy-paper-007",
+  "courseUnit": "anatomy",
+  "title": "Anatomy Paper 7: Neuroanatomy, Development and Body Organisation",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Anatomy pages)",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "anatomy-paper-007-q01",
+      "question": "The nervous cells are called:",
+      "options": [
+        "Nerves",
+        "Myelin sheaths",
+        "Neurons",
+        "Axons"
+      ],
+      "answerIndex": 2,
+      "explanation": "Neurons (nerve cells) are the structural and functional units of nervous tissue; axons and myelin sheaths are parts of a neuron and nerves are bundles of fibres.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q02",
+      "question": "Any muscle of the human body has:",
+      "options": [
+        "Origin and insertion",
+        "Body and stem",
+        "Head and neck only",
+        "Bone and collagen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Skeletal muscles are described by their origin (more fixed attachment) and insertion (more movable attachment).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q03",
+      "question": "Foot inversion is the movement in which the sole turns:",
+      "options": [
+        "Laterally",
+        "Medially",
+        "Posteriorly",
+        "Superiorly"
+      ],
+      "answerIndex": 1,
+      "explanation": "Inversion turns the plantar surface medially. It is one component of supination, which also includes adduction and plantar flexion.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-007-q04",
+      "question": "The small intestine is divided into:",
+      "options": [
+        "Stomach, gall bladder and jejunum",
+        "Duodenum, jejunum and ileum",
+        "Pylorus and fundus",
+        "Fundus and pylorus"
+      ],
+      "answerIndex": 1,
+      "explanation": "The small intestine consists of the duodenum, jejunum and ileum; pylorus and fundus are parts of the stomach.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q05",
+      "question": "Coronal and sagittal planes are examples of:",
+      "options": [
+        "Oblique planes",
+        "Axial planes",
+        "Anatomical planes",
+        "Flowing planes"
+      ],
+      "answerIndex": 2,
+      "explanation": "The coronal, sagittal, transverse (horizontal) and median planes are the standard anatomical planes used to describe sections of the body.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q06",
+      "question": "The tissue types include:",
+      "options": [
+        "Epithelial, connective, muscle and nervous tissue",
+        "Bone only",
+        "Cartilage only",
+        "Blood only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The body has four basic tissue types: epithelial, connective (including bone, cartilage and blood), muscle and nervous tissue.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q07",
+      "question": "Which nerve innervates the quadriceps femoris muscle group?",
+      "options": [
+        "Obturator nerve",
+        "Femoral nerve",
+        "Tibial nerve",
+        "Superior gluteal nerve"
+      ],
+      "answerIndex": 1,
+      "explanation": "The femoral nerve supplies the quadriceps femoris in the anterior compartment of the thigh.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-007-q08",
+      "question": "Which bone forms the lateral malleolus at the ankle?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Talus",
+        "Calcaneus"
+      ],
+      "answerIndex": 1,
+      "explanation": "The distal fibula forms the lateral malleolus; the distal tibia forms the medial malleolus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q09",
+      "question": "The largest nerve in the human body is the:",
+      "options": [
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Obturator nerve",
+        "Vagus nerve"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sciatic nerve (L4-S3), formed in the greater sciatic foramen, is the largest and thickest nerve of the body.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q10",
+      "question": "The head of the humerus articulates with the:",
+      "options": [
+        "Glenoid cavity",
+        "Acromion process",
+        "Coracoid process",
+        "Supraspinous fossa"
+      ],
+      "answerIndex": 0,
+      "explanation": "The rounded head of the humerus fits into the shallow glenoid cavity of the scapula to form the shoulder joint.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q11",
+      "question": "During the second week of development, the embryonic disc consists of:",
+      "options": [
+        "Ectoderm and mesoderm",
+        "Epiblast and hypoblast",
+        "Trophoblast and blastocyst",
+        "Bone and cartilage"
+      ],
+      "answerIndex": 1,
+      "explanation": "In the second week the bilaminar embryonic disc is formed of epiblast and hypoblast; the germ layers (ectoderm, mesoderm, endoderm) appear in the third week.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "anatomy-paper-007-q12",
+      "question": "HCG stands for:",
+      "options": [
+        "Human chorionic gonadotropin",
+        "Human cell growth",
+        "Human central growth",
+        "Human connective gonad"
+      ],
+      "answerIndex": 0,
+      "explanation": "Human chorionic gonadotropin is secreted by the trophoblast/placenta and is the hormone detected in pregnancy tests.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q13",
+      "question": "The median plane divides the body into:",
+      "options": [
+        "Anterior and posterior parts",
+        "Right and left parts",
+        "Superior and inferior parts",
+        "Internal and external parts"
+      ],
+      "answerIndex": 1,
+      "explanation": "The median (midsagittal) plane runs longitudinally through the midline, dividing the body into equal right and left parts.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q14",
+      "question": "Cranial nerves are so called because they:",
+      "options": [
+        "Are part of the central nervous system",
+        "Originate from the brain",
+        "Are all autonomic nerves",
+        "Are peripheral nerves only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The twelve cranial nerves emerge directly from the brain (brainstem), in contrast to the spinal nerves that arise from the spinal cord.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q15",
+      "question": "White blood cells are divided into:",
+      "options": [
+        "Lymphocytes and basophils",
+        "Granulocytes and agranulocytes",
+        "Platelets and plasma",
+        "Neurons and glia"
+      ],
+      "answerIndex": 1,
+      "explanation": "Leucocytes are classified as granulocytes (neutrophils, eosinophils, basophils) and agranulocytes (lymphocytes, monocytes).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-007-q16",
+      "question": "The tenth cranial nerve is the:",
+      "options": [
+        "Hypoglossal",
+        "Trochlear",
+        "Vagus",
+        "Trigeminal"
+      ],
+      "answerIndex": 2,
+      "explanation": "The vagus nerve (CN X) is the tenth cranial nerve and supplies the pharynx, larynx and thoracic and abdominal viscera.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q17",
+      "question": "The central nervous system is divided into:",
+      "options": [
+        "Afferent and efferent",
+        "Central and peripheral",
+        "Autonomic and peripheral",
+        "Brain and spinal cord"
+      ],
+      "answerIndex": 3,
+      "explanation": "The central nervous system comprises the brain and the spinal cord; the peripheral nervous system contains the cranial and spinal nerves.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-007-q18",
+      "question": "The two divisions of the pelvic cavity are the:",
+      "options": [
+        "Open and narrow cavities",
+        "Deep and shallow cavities",
+        "Greater (false) and lesser (true) pelvis",
+        "Extensive and diminished cavities"
+      ],
+      "answerIndex": 2,
+      "explanation": "The greater (false) pelvis lies above the pelvic brim and is continuous with the abdomen; the lesser (true) pelvis lies below the brim.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-007-q19",
+      "question": "Which bone contains the sella turcica that houses the pituitary gland?",
+      "options": [
+        "Ethmoid",
+        "Sphenoid",
+        "Temporal",
+        "Occipital"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sella turcica is a depression in the sphenoid bone that contains the pituitary gland.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-007-q20",
+      "question": "Which lymphatic duct drains the right side of the head and neck?",
+      "options": [
+        "Thoracic duct",
+        "Right lymphatic duct",
+        "Cisterna chyli",
+        "Left bronchomediastinal trunk"
+      ],
+      "answerIndex": 1,
+      "explanation": "The right lymphatic duct receives lymph from the right upper quadrant, including the right side of the head and neck.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "anatomy-paper-007-b01",
+      "question": "Name the four rotator cuff muscles. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis"
+      ],
+      "modelAnswer": "The rotator cuff muscles are the supraspinatus, infraspinatus, teres minor and subscapularis (mnemonic SITS); they stabilise the shoulder joint by holding the head of the humerus in the glenoid cavity."
+    },
+    {
+      "id": "anatomy-paper-007-b02",
+      "question": "Draw and label the structure of the stomach. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Drawing showing cardia, fundus, body, pyloric antrum and pylorus",
+        "Labels for lesser and greater curvatures",
+        "Labels for cardiac, pyloric and sphincters/oesophageal opening",
+        "One mark for a labelled drawing, one per correct set of labels"
+      ],
+      "modelAnswer": "The stomach is a J-shaped organ with a cardia (where the oesophagus enters), a dome-shaped fundus, a body, and a pyloric part (antrum and canal) ending at the pylorus; it has a lesser and a greater curvature and its openings (cardiac and pyloric) are guarded by sphincters."
+    },
+    {
+      "id": "anatomy-paper-007-b03",
+      "question": "Give the names of the major abdominal organs. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Stomach, liver, gall bladder, pancreas",
+        "Small intestine (duodenum, jejunum, ileum)",
+        "Large intestine (caecum, colon, rectum)",
+        "Spleen and kidneys/ureters (credit any four correct organs)"
+      ],
+      "modelAnswer": "The major abdominal organs are the stomach, liver, gall bladder, pancreas, spleen, the small intestine (duodenum, jejunum and ileum) and the large intestine (caecum, colon and rectum), together with the kidneys and ureters."
+    },
+    {
+      "id": "anatomy-paper-007-b04",
+      "question": "Draw and label the structure of a neurone. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Drawing showing cell body (soma) with nucleus and dendrites",
+        "Label for the axon with its myelin sheath and nodes of Ranvier",
+        "Label for terminal branches/end bulbs (synaptic knobs)",
+        "Labels for axon hillock and Schwann cell as appropriate"
+      ],
+      "modelAnswer": "A neurone consists of a cell body (soma) containing the nucleus with branching dendrites receiving impulses; a single long axon, often insulated by a myelin sheath with nodes of Ranvier; and terminal branches ending in synaptic knobs that release neurotransmitter at the synapse."
+    },
+    {
+      "id": "anatomy-paper-007-b05",
+      "question": "Name the tarsal bones and the wrist bones (carpal bones). (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Tarsals: calcaneus, talus, navicular, cuboid and the three cuneiforms",
+        "Carpals: scaphoid, lunate, triquetrum, pisiform, trapezium, trapezoid, capitate and hamate",
+        "Two marks for each complete or near-complete list",
+        "Accept spelling variants"
+      ],
+      "modelAnswer": "The seven tarsal bones are the calcaneus, talus, navicular, cuboid and medial, intermediate and lateral cuneiforms. The eight carpal bones of the wrist are the scaphoid, lunate, triquetrum, pisiform, trapezium, trapezoid, capitate and hamate, arranged in proximal and distal rows."
+    }
+  ]
+}

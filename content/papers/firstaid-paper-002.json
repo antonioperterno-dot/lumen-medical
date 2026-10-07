@@ -1,0 +1,326 @@
+{
+  "id": "firstaid-paper-002",
+  "courseUnit": "first-aid",
+  "title": "First Aid Paper 2: Nursing Process, Observations and Bleeding",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided First Aid and Nursing question banks",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "firstaid-paper-002-q01",
+      "question": "The purpose of nursing process is?",
+      "options": [
+        "Apologise to the patient for what cannot be done",
+        "Delegate some task to others to complete",
+        "Identify client health care needs",
+        "Interact with patients appropriately"
+      ],
+      "answerIndex": 2,
+      "explanation": "The nursing process identifies client health care needs and plans care.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q02",
+      "question": "Personal protective equipment includes .............. to protect your hands from blood and other fluids:",
+      "options": [
+        "Mask",
+        "Eye mask",
+        "Gloves",
+        "Gowns"
+      ],
+      "answerIndex": 2,
+      "explanation": "Gloves protect the hands from blood and body fluids.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q03",
+      "question": "The third stage in the problem solving process is?",
+      "options": [
+        "Implementation",
+        "Evaluation",
+        "Assessment",
+        "Planning"
+      ],
+      "answerIndex": 3,
+      "explanation": "Problem solving follows assessment, diagnosis then planning as the third stage.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q04",
+      "question": "Fever is caused by?",
+      "options": [
+        "The hypothalamus",
+        "Pons and medulla",
+        "Rise in metabolism",
+        "Stress on the body"
+      ],
+      "answerIndex": 0,
+      "explanation": "The hypothalamus regulates body temperature.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q05",
+      "question": "If a victim is showing signs of shock you should help the victim lie on his back and?",
+      "options": [
+        "Raise his hands",
+        "Raise his legs 8 inches",
+        "Raise his hand and legs",
+        "Raise his legs 12 inches"
+      ],
+      "answerIndex": 3,
+      "explanation": "Raising the legs about 12 inches supports circulation in shock.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q06",
+      "question": "To help stop bleeding that you can see, you?",
+      "options": [
+        "Put a dressing on the bleeding area",
+        "Put pressure on a dressing over the bleeding area",
+        "Put a bandage over the bleeding area",
+        "Put your hand over the bleeding area"
+      ],
+      "answerIndex": 1,
+      "explanation": "Apply direct pressure over a dressing on the bleeding area.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q07",
+      "question": "What are the observations mostly used to indicate the state of health of an individual?",
+      "options": [
+        "General observation",
+        "Vital observation",
+        "Specific observation",
+        "Medical observation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Vital observations indicate health status.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q08",
+      "question": "First Aid for a small burn on an arm is?",
+      "options": [
+        "Cooling the burn with ice cold water",
+        "Cooling the burn with a sisal sack",
+        "Cooling the burn with cool water",
+        "Cooling the burn with soil"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cool a small burn with cool running water; avoid ice and soil.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q09",
+      "question": "The following are steps in basic life support except:",
+      "options": [
+        "Check responsiveness",
+        "Position the unresponsive patient",
+        "Stop bleeding",
+        "Check pulse"
+      ],
+      "answerIndex": 2,
+      "explanation": "Stop bleeding is not a BLS step in this list.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q10",
+      "question": "Systolic blood pressure is the pressure?",
+      "options": [
+        "Exerted on the artery when the heart is at rest",
+        "Equal to that in the arteries at any given time",
+        "In the arteries when intra thoracic pressure is greatest",
+        "Exerted on the artery during left ventricular contraction"
+      ],
+      "answerIndex": 3,
+      "explanation": "Systolic pressure occurs during ventricular contraction.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q11",
+      "question": "Most first aid kits have green, white, red or star of life on them so that it can easily be:",
+      "options": [
+        "Transported",
+        "Opened",
+        "Recognized",
+        "Safely stored"
+      ],
+      "answerIndex": 2,
+      "explanation": "Markings help kits to be recognized.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q12",
+      "question": "Abnormally slow breathing rate is:",
+      "options": [
+        "Tachycardia",
+        "Bradypnoea",
+        "Bradycardia",
+        "Tachypnea"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bradypnoea is abnormally slow breathing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q13",
+      "question": "The most common cause of airway obstruction is:",
+      "options": [
+        "Mucus",
+        "Foreign bodies",
+        "Inflammation",
+        "Tongue"
+      ],
+      "answerIndex": 3,
+      "explanation": "The tongue is the commonest cause in an unresponsive casualty.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q14",
+      "question": "The following are signs of decubitus ulcer except:",
+      "options": [
+        "Sloughing of the skin",
+        "Tenderness",
+        "Firm and resilient skin",
+        "Local oedema"
+      ],
+      "answerIndex": 2,
+      "explanation": "Firm resilient skin is normal, not a pressure-sore sign.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q15",
+      "question": "Complications of bed sores include the following except:",
+      "options": [
+        "Cellulitis",
+        "Endometritis",
+        "Sepsis",
+        "Bone and joint infections"
+      ],
+      "answerIndex": 1,
+      "explanation": "Endometritis is uterine infection, not a bed-sore complication.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q16",
+      "question": "Syncope means?",
+      "options": [
+        "Choking",
+        "Fainting",
+        "Epistaxis",
+        "Unconsciousness"
+      ],
+      "answerIndex": 1,
+      "explanation": "Syncope is fainting.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q17",
+      "question": "What is the main cause of death resulting from drowning?",
+      "options": [
+        "Suffocation",
+        "Asphyxia",
+        "Hypoglycemia",
+        "Anaemia"
+      ],
+      "answerIndex": 1,
+      "explanation": "Asphyxia from water in airways causes death.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q18",
+      "question": "The blockage of the upper airway by food or other objects is?",
+      "options": [
+        "Fainting",
+        "Asphyxia",
+        "Apnea",
+        "Choking"
+      ],
+      "answerIndex": 3,
+      "explanation": "Choking is upper airway blockage.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q19",
+      "question": "The following are factors that determine the severity of burns except:",
+      "options": [
+        "Size of the burn",
+        "Age of the victim",
+        "Depth of the burn",
+        "Amount of fire"
+      ],
+      "answerIndex": 3,
+      "explanation": "Size, age and depth determine severity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-002-q20",
+      "question": "Pathogens in a hospital setting can be transmitted through:",
+      "options": [
+        "Mosquito bites",
+        "Domestic animals to patients",
+        "Improperly cleaned instruments and equipment",
+        "Food preparation"
+      ],
+      "answerIndex": 2,
+      "explanation": "Contaminated instruments transmit pathogens.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "firstaid-paper-002-b01",
+      "question": "Give one example for each of the links of the chain of infection: causative agent, reservoir, portal of exit, mode of transmission, portal of entry. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "One correct example for each link: 5 marks."
+      ],
+      "modelAnswer": "Agent e.g. Staphylococcus; reservoir e.g. patient; exit e.g. wound; transmission e.g. hands; entry e.g. broken skin."
+    },
+    {
+      "id": "firstaid-paper-002-b02",
+      "question": "State five aims of first aid. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Five aims such as preserve life and prevent worsening: 5 marks."
+      ],
+      "modelAnswer": "Preserve life, prevent worsening, promote recovery, relieve pain and arrange care."
+    },
+    {
+      "id": "firstaid-paper-002-b03",
+      "question": "Explain the meaning of AVPU code. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Alert, Voice, Pain, Unresponsive explained: 5 marks."
+      ],
+      "modelAnswer": "Alert, responds to Voice, responds to Pain, Unresponsive."
+    },
+    {
+      "id": "firstaid-paper-002-b04",
+      "question": "Describe different positions used for various examination and treatment. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Positions such as supine, lateral, prone, lithotomy, Sims: 10 marks."
+      ],
+      "modelAnswer": "Supine, prone, lateral, Fowler, lithotomy and Sims positions for different needs."
+    },
+    {
+      "id": "firstaid-paper-002-b05",
+      "question": "A crash victim has abdominal pain, leg bleeding, restlessness, pale cool moist skin and nausea. a) Emergency? b) Cause? c) Other causes? d) Steps to help? (15 marks)",
+      "marks": 15,
+      "markingGuide": [
+        "Identifies shock: 2 marks.",
+        "Cause of shock: 1 mark.",
+        "Other causes: 2 marks.",
+        "Steps of care: 10 marks."
+      ],
+      "modelAnswer": "Likely hypovolemic shock from bleeding; manage airway, breathing, bleeding, shock position and urgent referral."
+    }
+  ]
+}

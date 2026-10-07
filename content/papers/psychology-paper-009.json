@@ -1,0 +1,343 @@
+{
+  "id": "psychology-paper-009",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 9: Learning, Memory and Human Development",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Psychology pages)",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-009-q01",
+      "question": "The word psychology refers to the scientific study of:",
+      "options": [
+        "Behaviour and mental processes",
+        "Bones and muscles",
+        "Drugs only",
+        "Cells only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Psychology comes from the Greek 'psyche' (mind) and 'logos' (study) and is the science of behaviour and mental processes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q02",
+      "question": "Which is a goal of psychology as a science?",
+      "options": [
+        "Confabulation",
+        "Criticism",
+        "Prediction",
+        "Decoration"
+      ],
+      "answerIndex": 2,
+      "explanation": "The scientific goals of psychology are to describe, explain, predict and control behaviour; prediction is the listed goal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q03",
+      "question": "Which school of thought is associated with John B. Watson?",
+      "options": [
+        "Behaviourism",
+        "Psychoanalysis",
+        "Structuralism",
+        "Gestalt"
+      ],
+      "answerIndex": 0,
+      "explanation": "John B. Watson founded behaviourism, which studies observable behaviour rather than conscious experience.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q04",
+      "question": "Which hormone regulates the sleep cycle?",
+      "options": [
+        "Melatonin",
+        "Oestrogen",
+        "Insulin",
+        "Dopamine"
+      ],
+      "answerIndex": 0,
+      "explanation": "Melatonin, secreted by the pineal gland in response to darkness, helps regulate the sleep-wake (circadian) rhythm.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q05",
+      "question": "Which gland produces the hormone that raises blood glucose during times of stress?",
+      "options": [
+        "Pancreas",
+        "Adrenal gland",
+        "Pineal gland",
+        "Thyroid gland"
+      ],
+      "answerIndex": 1,
+      "explanation": "During stress the adrenal glands release cortisol (and adrenaline), which raises blood glucose to provide energy; the pancreas lowers glucose with insulin.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-009-q06",
+      "question": "Which hormone/action is associated with the involuntary process that prepares the body in threatening situations?",
+      "options": [
+        "Corticosteroid / stress response",
+        "Insulin",
+        "Melatonin",
+        "Oestrogen"
+      ],
+      "answerIndex": 0,
+      "explanation": "The stress response is driven by corticosteroids and adrenaline from the adrenal gland, preparing the body for fight or flight.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q07",
+      "question": "John Locke described the mind at birth as a:",
+      "options": [
+        "Tabula rasa (blank slate)",
+        "Schema",
+        "Conscious mind",
+        "Cognitive map"
+      ],
+      "answerIndex": 0,
+      "explanation": "Locke proposed that the mind at birth is a blank slate (tabula rasa) written on by experience, a key idea of empiricism.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-009-q08",
+      "question": "According to Erikson, the stage of later life that involves coming to terms with one's past experiences is:",
+      "options": [
+        "Identity vs role confusion",
+        "Autonomy vs shame and doubt",
+        "Integrity vs despair",
+        "Intimacy vs isolation"
+      ],
+      "answerIndex": 2,
+      "explanation": "In old age Erikson's final stage is ego integrity vs despair: accepting one's life as it was lived brings wisdom, while regret leads to despair.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-009-q09",
+      "question": "The SQ3R approach includes all of the following EXCEPT:",
+      "options": [
+        "Survey",
+        "Question",
+        "Read",
+        "Reflect"
+      ],
+      "answerIndex": 3,
+      "explanation": "SQ3R stands for Survey, Question, Read, Recite and Review; 'Reflect' is not one of the five steps.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q10",
+      "question": "Grouping digits or words to utilize the limited capacity of short-term memory is called:",
+      "options": [
+        "Mnemonics",
+        "Categorisation",
+        "Chunking",
+        "Rehearsing"
+      ],
+      "answerIndex": 2,
+      "explanation": "Chunking groups separate items into larger meaningful units so that more information fits within the ~7-item capacity of short-term memory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q11",
+      "question": "Which of the following is NOT a learning style?",
+      "options": [
+        "Listening",
+        "Doing",
+        "Looking",
+        "Smelling"
+      ],
+      "answerIndex": 3,
+      "explanation": "Common learning styles are visual (looking), auditory (listening) and kinesthetic (doing); smelling is not recognised as a learning style.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q12",
+      "question": "Kinesthetic learning involves the following EXCEPT:",
+      "options": [
+        "Touching",
+        "Looking",
+        "Moving",
+        "Doing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Kinesthetic learners learn by touching, moving and doing; looking is a visual learning strategy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q13",
+      "question": "The level of development that links school, family and peers is the:",
+      "options": [
+        "Meso-system",
+        "Macro-system",
+        "Micro-system",
+        "Exo-system"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mesosystem comprises the connections between a person's immediate settings, such as the interaction between family and school.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "psychology-paper-009-q14",
+      "question": "Sigmund Freud's personality structure concerned with the reality principle is the:",
+      "options": [
+        "Ego",
+        "Id",
+        "Gratification",
+        "Superego"
+      ],
+      "answerIndex": 0,
+      "explanation": "The ego operates on the reality principle, mediating between the instinctual demands of the id, the morality of the superego and the real world.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-009-q15",
+      "question": "According to the psychodynamic model, material unavailable to a person's conscious thought is called:",
+      "options": [
+        "Preconscious",
+        "Unconscious",
+        "Conscious",
+        "Cognitive"
+      ],
+      "answerIndex": 1,
+      "explanation": "The unconscious holds wishes, memories and conflicts that are not accessible to awareness, in contrast to the preconscious, which can be recalled with effort.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-009-q16",
+      "question": "The ability to differentiate between a conditioned stimulus and other similar stimuli is called:",
+      "options": [
+        "Stimulus generalisation",
+        "Extinction",
+        "Stimulus discrimination",
+        "Spontaneous recovery"
+      ],
+      "answerIndex": 2,
+      "explanation": "Stimulus discrimination is learning to respond to the conditioned stimulus but not to similar stimuli, the opposite of stimulus generalisation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-009-q17",
+      "question": "Regaining a previously lost or forgotten response after extinction is an example of:",
+      "options": [
+        "Spontaneous recovery",
+        "Stimulus generalisation",
+        "Remembering",
+        "Stimulus discrimination"
+      ],
+      "answerIndex": 0,
+      "explanation": "Spontaneous recovery is the reappearance of a conditioned response after a rest period, even though it had been extinguished.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-009-q18",
+      "question": "A personality characterised by hurriedness, hostility and impatience, and more prone to stress, is:",
+      "options": [
+        "Type A behaviour pattern",
+        "Type B behaviour pattern",
+        "Type C behaviour pattern",
+        "Antisocial personality pattern"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Type A pattern - competitiveness, time pressure, hostility and impatience - is associated with higher stress and cardiovascular risk; Type B is relaxed and unhurried.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q19",
+      "question": "Thinking that everything revolves around oneself is known as:",
+      "options": [
+        "Ethnocentrism",
+        "Parochialism",
+        "Egocentrism",
+        "Ego ideal"
+      ],
+      "answerIndex": 2,
+      "explanation": "Egocentrism is seeing the world only from one's own perspective; ethnocentrism is judging other cultures by one's own, and an ego ideal is one's imagined perfect self.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-009-q20",
+      "question": "Which of the following is associated with effective communication and time management?",
+      "options": [
+        "Appropriate communication and planning",
+        "Avoiding communication",
+        "Increasing conflict",
+        "Ignoring schedules"
+      ],
+      "answerIndex": 0,
+      "explanation": "Planning and using appropriate communication channels allow tasks and messages to be handled on time, improving performance; the other options undermine both.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-009-b01",
+      "question": "(a) Define socialisation. (1 mark)\n(b) Differentiate between socialisation and enculturation. (2 marks)\n(c) Give two examples of each. (2 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "(a) Process by which people learn and internalise the norms, values and skills of their society",
+        "(b) Socialisation is learning to take the role of others/behave socially; enculturation is learning the specific culture of one's own group",
+        "(b) Socialisation is universal, enculturation is culture-specific",
+        "(c) Examples of socialisation: learning language, learning gender roles",
+        "(c) Examples of enculturation: learning table manners of one's ethnic group, learning local rites of passage"
+      ],
+      "modelAnswer": "(a) Socialisation is the lifelong process through which a person learns the norms, values, skills and roles of society. (b) Socialisation refers to learning how to behave as a member of society generally and is universal, while enculturation is the process of acquiring the particular culture, traditions and practices of one's own group, so it is culture-specific. (c) Examples of socialisation include a child learning language and gender roles; examples of enculturation include learning one's culture's food etiquette and ceremonies."
+    },
+    {
+      "id": "psychology-paper-009-b02",
+      "question": "(a) Explain the four major stages of socialisation according to Tuckman as presented in the source. (3 marks)\n(b) State one characteristic of each stage. (2 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Stages: forming, storming, norming and performing",
+        "Forming - members are oriented, polite and dependent on guidance",
+        "Storming - conflict and competition as differences emerge",
+        "Norming - cohesion develops, rules and shared norms are agreed",
+        "Performing - the group is mature, focused on tasks and works productively"
+      ],
+      "modelAnswer": "(a) Tuckman's model describes four stages of group socialisation: forming, storming, norming and performing. (b) In forming, members are cautious and seek direction; in storming, conflict arises as individuals compete for influence; in norming, the group establishes norms, roles and cohesion; and in performing, the well-established group directs its energy to achieving its tasks."
+    },
+    {
+      "id": "psychology-paper-009-b03",
+      "question": "(a) Describe the three levels of socialisation between young and older people according to Margaret Mead. (3 marks)\n(b) Give one example of each level. (2 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Post-conformist (youth teach the elderly about new/future situations)",
+        "Co-conformist (young and old learn together from peers)",
+        "Pre-conformist (the elderly teach the young, as in stable/traditional societies)",
+        "One example per level",
+        "Award a mark for correct attribution to Margaret Mead"
+      ],
+      "modelAnswer": "(a) Margaret Mead described three possible relationships between generations: post-conformist, in which the young teach the old about an unfamiliar future; co-conformist, in which young and old learn together as peers; and pre-conformist, in which the old teach the young the culture of the past. (b) Examples: a grandson teaching his grandmother to use a smartphone (post-conformist); neighbours of different ages attending a community training course together (co-conformist); an elder teaching young people traditional songs and customs (pre-conformist)."
+    },
+    {
+      "id": "psychology-paper-009-b04",
+      "question": "(a) Define stress. (1 mark)\n(b) Explain the three stages of the General Adaptation Syndrome (GAS). (3 marks)\n(c) State two effects of stress on physical health. (1 mark)",
+      "marks": 5,
+      "markingGuide": [
+        "(a) State of tension when demands exceed a person's resources",
+        "(b) Alarm - body recognises the stressor and activates fight-or-flight",
+        "(b) Resistance - body adapts and copes, resources are used to resist",
+        "(b) Exhaustion - prolonged stress depletes resources, breakdown and illness",
+        "(c) Effects such as hypertension, ulcers, headaches, lowered immunity"
+      ],
+      "modelAnswer": "(a) Stress is the state of tension experienced when perceived demands exceed a person's ability to cope. (b) Selye's General Adaptation Syndrome has three stages: the alarm stage, in which the body recognises the stressor and mobilises its defences; the resistance stage, in which adaptation and coping attempts are sustained; and the exhaustion stage, in which prolonged stress depletes the body's resources and resistance collapses. (c) Physical effects include raised blood pressure (hypertension) and heart disease, and lowered immunity with increased susceptibility to infection."
+    },
+    {
+      "id": "psychology-paper-009-b05",
+      "question": "(a) Outline four components/processes of effective communication. (2 marks)\n(b) Explain how effective time management can lead to effective communication and improved performance. (3 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "(a) Sender, message, encoding, channel, receiver, decoding, feedback (any four)",
+        "(b) Planning and prioritising tasks frees time for careful message preparation",
+        "(b) Meeting deadlines and avoiding rushed or delayed messages",
+        "(b) Reduces stress and conflict, allowing clearer expression and better feedback",
+        "Credit a coherent explanation linking time management to communication quality"
+      ],
+      "modelAnswer": "(a) The main components of communication are the sender who formulates the idea, encoding of the message, the channel used, the receiver who decodes it, and feedback that confirms understanding; effective communication also requires clarity, active listening and appropriate non-verbal signals. (b) Time management supports communication because planning and prioritising tasks allow the communicator to prepare messages carefully, deliver them at the right time and meet deadlines; rushed or postponed messages cause misunderstanding, whereas well-managed time reduces stress and conflict, creates room for listening and feedback, and therefore improves both communication quality and overall performance."
+    }
+  ]
+}

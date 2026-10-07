@@ -1,0 +1,918 @@
+{
+  "id": "physiology-paper-004",
+  "courseUnit": "physiology",
+  "title": "Physiology Paper 4: Cellular, Cardiovascular and Respiratory Physiology",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Physiology II assessments and progressive tests",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "physiology-paper-004-q01",
+      "question": "The organelle responsible for most cellular energy metabolism and ATP production is the:",
+      "options": [
+        "Golgi apparatus",
+        "Lysosome",
+        "Mitochondrion",
+        "ATPase enzyme"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mitochondria carry out the citric acid cycle and oxidative phosphorylation, producing most cellular ATP.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q02",
+      "question": "During protein synthesis, transcription of nuclear genes occurs in the:",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Endoplasmic reticulum",
+        "Golgi apparatus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Transcription copies DNA into RNA in the nucleus; translation (protein synthesis) occurs at ribosomes in the cytoplasm or on rough ER.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q03",
+      "question": "During interphase, chromatin is generally:",
+      "options": [
+        "Condensed into metaphase chromosomes",
+        "Decondensed and distributed through the nucleus",
+        "Separating toward opposite poles",
+        "Absent from the nucleus"
+      ],
+      "answerIndex": 1,
+      "explanation": "Interphase chromatin is largely decondensed; chromosomes become conspicuously condensed during prophase.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q04",
+      "question": "A transporter that moves two different substances across a membrane in the same direction is a:",
+      "options": [
+        "Symporter",
+        "Secondary active transporter only",
+        "Antiporter",
+        "Uniporter"
+      ],
+      "answerIndex": 0,
+      "explanation": "A symporter cotransports two or more substances in the same direction. Symport may use secondary active transport, but the transporter's directional class is symport.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q05",
+      "question": "Exchange in which one solute moves into a cell while another moves out is called:",
+      "options": [
+        "Cotransport",
+        "Counter-transport (antiport)",
+        "Symport",
+        "Uniport"
+      ],
+      "answerIndex": 1,
+      "explanation": "Counter-transport, or antiport, moves substances in opposite directions across a membrane.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q06",
+      "question": "Programmed cell death is known as:",
+      "options": [
+        "Atrophy",
+        "Apoptosis",
+        "Necrosis",
+        "Lymphosis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Apoptosis is regulated/programmed cell death; necrosis is uncontrolled cell injury and death.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q07",
+      "question": "Compared with intracellular fluid, extracellular fluid contains a higher concentration of:",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Phosphate",
+        "Protein-bound fatty acids"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sodium is the major extracellular cation; potassium is the major intracellular cation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q08",
+      "question": "A person with blood group A normally has:",
+      "options": [
+        "A antigen on red cells and anti-B antibody in plasma",
+        "A antibody on red cells and A antigen in plasma",
+        "Anti-A antibody in plasma only",
+        "No ABO antigens or antibodies"
+      ],
+      "answerIndex": 0,
+      "explanation": "Group A red cells express A antigen, and plasma normally contains anti-B antibodies.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q09",
+      "question": "Heparin prevents coagulation mainly by enhancing the activity of:",
+      "options": [
+        "Antithrombin against thrombin and factor Xa",
+        "Calcium in platelet granules",
+        "Plasminogen activator inhibitor",
+        "Fibrinogen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Heparin potentiates antithrombin, which inhibits thrombin and factor Xa. Serum is plasma after clotting and fibrinogen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q10",
+      "question": "Which is NOT a typical feature of bleeding from a small skin cut?",
+      "options": [
+        "Local vascular spasm can occur",
+        "It often comes from capillaries or small veins",
+        "Firm direct pressure can help control it",
+        "It is specifically caused by cold skin"
+      ],
+      "answerIndex": 3,
+      "explanation": "Cold skin is not the defining cause of bleeding. Small-vessel bleeding can be limited by vasoconstriction, platelet plug formation and direct pressure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q11",
+      "question": "During repolarisation of a typical neuronal action potential, potassium movement and membrane potential usually change how?",
+      "options": [
+        "K+ enters and the inside becomes less negative",
+        "K+ leaves and the inside becomes more negative",
+        "Na+ enters and the inside becomes more negative",
+        "Calcium leaves and the inside becomes positive"
+      ],
+      "answerIndex": 1,
+      "explanation": "Voltage-gated potassium efflux repolarises the membrane and may briefly cause after-hyperpolarisation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q12",
+      "question": "Approximately what proportion of total body water is extracellular fluid?",
+      "options": [
+        "About one third",
+        "About two thirds",
+        "About 90 percent",
+        "About 5 percent"
+      ],
+      "answerIndex": 0,
+      "explanation": "Extracellular fluid is approximately one third of total body water; intracellular fluid is approximately two thirds.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q13",
+      "question": "Which platelet granules are especially rich in ADP, calcium and other small molecules that promote platelet activation and aggregation?",
+      "options": [
+        "Dense granules",
+        "Microtubules",
+        "Alpha granules",
+        "Lysosomes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dense (delta) granules contain ADP/ATP, calcium and serotonin; alpha granules contain proteins including fibrinogen and von Willebrand factor.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q14",
+      "question": "A condition in which the immune system mistakenly attacks the body's own cells or tissues is:",
+      "options": [
+        "Immunodeficiency",
+        "Hypersensitivity",
+        "Anaphylaxis",
+        "Autoimmunity"
+      ],
+      "answerIndex": 3,
+      "explanation": "Autoimmunity is an immune response directed against self-antigens.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q15",
+      "question": "Which molecule crosses the lipid bilayer most readily by simple diffusion?",
+      "options": [
+        "Oxygen",
+        "Glucose",
+        "A large protein",
+        "Sodium ion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Small non-polar molecules such as oxygen and carbon dioxide diffuse readily through the lipid bilayer. Steroids are lipid soluble and also cross readily; this item uses oxygen as the clear answer.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q16",
+      "question": "A major role of the liver is:",
+      "options": [
+        "Detoxification and biotransformation of substances",
+        "Metabolism of cells in every organ",
+        "Storage of all body fat",
+        "Production of lymphocytes as its sole function"
+      ],
+      "answerIndex": 0,
+      "explanation": "The liver performs detoxification/biotransformation as well as many metabolic, synthetic and storage functions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q17",
+      "question": "Humoral (antibody-mediated) immunity principally involves:",
+      "options": [
+        "Antibodies produced by B-cell-derived plasma cells",
+        "Cytotoxic T cells only",
+        "Neutrophils only",
+        "Natural killer cells only"
+      ],
+      "answerIndex": 0,
+      "explanation": "B lymphocytes differentiate into plasma cells that secrete antibodies in humoral immunity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q18",
+      "question": "Which is an accessory digestive organ rather than part of the alimentary canal?",
+      "options": [
+        "Small intestine",
+        "Salivary glands",
+        "Pharynx",
+        "Stomach"
+      ],
+      "answerIndex": 1,
+      "explanation": "Salivary glands are accessory organs; the small intestine, pharynx and stomach form sections of the alimentary canal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q19",
+      "question": "Which is not a movement of mastication?",
+      "options": [
+        "Deglutition (swallowing)",
+        "Protrusion and retrusion of the jaw",
+        "Elevation and depression of the jaw",
+        "Lateral excursion of the jaw"
+      ],
+      "answerIndex": 0,
+      "explanation": "Deglutition is swallowing; jaw movements used in mastication include elevation, depression, protrusion, retrusion and lateral excursion.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q20",
+      "question": "Which statement about cell structure and function is incorrect?",
+      "options": [
+        "Mitochondria participate in cellular energy metabolism",
+        "The Golgi apparatus modifies and sorts proteins",
+        "Ribosomes are the site of protein synthesis",
+        "Human cells contain a cell wall"
+      ],
+      "answerIndex": 3,
+      "explanation": "Human cells have a plasma membrane but no cell wall; the other three statements are correct.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q21",
+      "question": "Which property best distinguishes endocrine signalling from nervous signalling?",
+      "options": [
+        "It is always faster and shorter acting",
+        "It uses chemical messengers released into the circulation",
+        "It produces action potentials in the blood",
+        "It uses only direct cell-to-cell contact"
+      ],
+      "answerIndex": 1,
+      "explanation": "Endocrine cells release hormones into extracellular fluid and usually the bloodstream; effects are often slower in onset and longer lasting.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q22",
+      "question": "Which is a common form of local cell-to-cell communication?",
+      "options": [
+        "Direct contact only",
+        "Autocrine signalling only",
+        "Paracrine signalling",
+        "Endocrine signalling only"
+      ],
+      "answerIndex": 2,
+      "explanation": "Paracrine signals act locally on nearby cells and are a common mode of local communication.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q23",
+      "question": "The resting membrane potential of a typical neuron is approximately:",
+      "options": [
+        "−70 mV, with the inside negative relative to outside",
+        "+30 mV, with the inside positive",
+        "−55 mV at all times",
+        "0 mV"
+      ],
+      "answerIndex": 0,
+      "explanation": "A typical neuronal resting membrane potential is near −70 mV; values vary by cell type and conditions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q24",
+      "question": "The ability of a single cardiac cell to depolarise spontaneously is called:",
+      "options": [
+        "Automaticity",
+        "Rhythmicity",
+        "Conductivity",
+        "Contractility"
+      ],
+      "answerIndex": 0,
+      "explanation": "Automaticity is the ability to generate spontaneous depolarisations; rhythmicity describes regularity of those events.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q25",
+      "question": "The second heart sound (S2) is associated with:",
+      "options": [
+        "Closure of atrioventricular valves",
+        "Closure of semilunar valves",
+        "Opening of atrioventricular valves",
+        "Opening of semilunar valves"
+      ],
+      "answerIndex": 1,
+      "explanation": "S2 is produced by closure of the aortic and pulmonary semilunar valves at the beginning of ventricular diastole.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q26",
+      "question": "Peristalsis primarily:",
+      "options": [
+        "Moves contents along the alimentary canal",
+        "Is a form of segmentation only",
+        "Is controlled by the somatic nervous system",
+        "Occurs only in the oesophagus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Peristaltic waves propel contents along the gastrointestinal tract; they are coordinated mainly by enteric and autonomic pathways.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q27",
+      "question": "Frank-Starling's law of the heart states that, within physiological limits:",
+      "options": [
+        "Greater initial myocardial fibre length increases force of contraction",
+        "Heart rate is directly proportional to venous return",
+        "Cardiac output equals blood pressure multiplied by heart rate",
+        "Ventricular force is independent of filling"
+      ],
+      "answerIndex": 0,
+      "explanation": "Increased end-diastolic filling stretches myocardial fibres and increases force and stroke volume within physiological limits.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q28",
+      "question": "The volume of blood pumped by each ventricle per minute is called:",
+      "options": [
+        "Stroke volume",
+        "Cardiac output",
+        "Heart rate",
+        "Ejection fraction"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cardiac output is the volume ejected by one ventricle each minute; CO = heart rate × stroke volume.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q29",
+      "question": "Which receptors detect changes in arterial carbon dioxide and pH to help regulate ventilation?",
+      "options": [
+        "Baroreceptors",
+        "Central and peripheral chemoreceptors",
+        "Muscle spindles",
+        "Thermoreceptors"
+      ],
+      "answerIndex": 1,
+      "explanation": "Central and peripheral chemoreceptors respond to carbon dioxide and hydrogen-ion changes and adjust respiratory drive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q30",
+      "question": "The volume of air inspired or expired in a normal quiet breath is:",
+      "options": [
+        "Tidal volume",
+        "Inspiratory reserve volume",
+        "Expiratory reserve volume",
+        "Residual volume"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tidal volume is the air moved in or out during a normal breath.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q31",
+      "question": "A spirometer is used to measure:",
+      "options": [
+        "Lung volumes and capacities that can be expired or inspired",
+        "Blood pressure",
+        "Heart sounds",
+        "Blood oxygen saturation directly"
+      ],
+      "answerIndex": 0,
+      "explanation": "Spirometry measures inspired and expired volumes and derived capacities; it cannot directly measure residual volume or capacities that include it.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q32",
+      "question": "Blood pressure is measured using a:",
+      "options": [
+        "Sphygmomanometer",
+        "Stethoscope alone",
+        "Electrocardiograph",
+        "Spirometer"
+      ],
+      "answerIndex": 0,
+      "explanation": "A sphygmomanometer measures arterial blood pressure, usually with a cuff and auscultation or an automated sensor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q33",
+      "question": "An acute increase in carbon dioxide in blood, before renal compensation, tends to:",
+      "options": [
+        "Increase pH",
+        "Decrease pH",
+        "Have no effect on pH",
+        "Convert all bicarbonate to oxygen"
+      ],
+      "answerIndex": 1,
+      "explanation": "CO2 combines with water to form carbonic acid and hydrogen ions, tending to lower pH; renal compensation develops more slowly.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q34",
+      "question": "Haemoglobin's affinity for oxygen increases when:",
+      "options": [
+        "pH decreases",
+        "Temperature increases",
+        "CO2 increases",
+        "Temperature decreases"
+      ],
+      "answerIndex": 3,
+      "explanation": "Lower temperature shifts the oxygen-haemoglobin dissociation curve left and increases haemoglobin's oxygen affinity.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q35",
+      "question": "Which variable is calculated by multiplying heart rate by stroke volume?",
+      "options": [
+        "Ejection fraction",
+        "Cardiac output",
+        "End-diastolic volume",
+        "Mean arterial pressure"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cardiac output is the volume pumped by a ventricle per minute and equals heart rate multiplied by stroke volume.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q36",
+      "question": "The Cushing response of hypertension with reflex bradycardia is associated with:",
+      "options": [
+        "Exercise",
+        "Increased intracranial pressure",
+        "Haemorrhage",
+        "Increased body temperature"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Cushing response to raised intracranial pressure includes increased arterial pressure and reflex slowing of heart rate.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q37",
+      "question": "Which plasma protein is most important for maintaining colloid osmotic pressure?",
+      "options": [
+        "Fibrinogen",
+        "Albumin",
+        "Immunoglobulin M",
+        "Transferrin"
+      ],
+      "answerIndex": 1,
+      "explanation": "Albumin is the most abundant plasma protein and contributes most to plasma oncotic pressure.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q38",
+      "question": "Under ordinary physiological conditions, blood flow to active skeletal muscle is determined mainly by:",
+      "options": [
+        "Sympathetic nerves",
+        "Angiotensin II",
+        "Vasopressin",
+        "Local metabolic needs"
+      ],
+      "answerIndex": 3,
+      "explanation": "Local metabolites in active muscle cause vasodilation and are major regulators of its perfusion.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q39",
+      "question": "Which lipid profile finding is associated with increased cardiovascular risk?",
+      "options": [
+        "Decreased LDL cholesterol",
+        "Decreased HDL cholesterol",
+        "Female sex alone",
+        "Moderate hypotension"
+      ],
+      "answerIndex": 1,
+      "explanation": "Low HDL is associated with increased cardiovascular risk; risk assessment should consider the full clinical profile rather than sex or a single measurement alone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q40",
+      "question": "Which is NOT a route by which carbon dioxide is transported in blood?",
+      "options": [
+        "Dissolved in plasma",
+        "As carbamino compounds",
+        "As bicarbonate",
+        "Bound to haemoglobin as oxyhaemoglobin"
+      ],
+      "answerIndex": 3,
+      "explanation": "CO2 is transported dissolved, as bicarbonate, and bound to proteins as carbamino compounds; oxyhaemoglobin carries oxygen.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q41",
+      "question": "Compared with typical healthy lungs, residual volume generally:",
+      "options": [
+        "Increases in emphysema and may decrease in pulmonary fibrosis",
+        "Decreases in emphysema and increases in pulmonary fibrosis",
+        "Remains zero after maximal expiration",
+        "Is identical in obstructive and restrictive disease"
+      ],
+      "answerIndex": 0,
+      "explanation": "Air trapping in emphysema often increases residual volume; restrictive disease such as pulmonary fibrosis tends to reduce lung volumes, including residual volume.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q42",
+      "question": "The process of moving air into and out of the lungs is called:",
+      "options": [
+        "Ventilation",
+        "Respiration",
+        "Diffusion",
+        "Perfusion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pulmonary ventilation is bulk movement of air into and out of the lungs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q43",
+      "question": "During inspiration, the diaphragm normally:",
+      "options": [
+        "Contracts and moves downward",
+        "Relaxes and moves upward",
+        "Contracts and moves upward",
+        "Remains fixed"
+      ],
+      "answerIndex": 0,
+      "explanation": "Diaphragm contraction flattens and descends, increasing thoracic volume.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q44",
+      "question": "The pressure-volume relationship used to explain airflow when temperature is constant is:",
+      "options": [
+        "Boyle's law",
+        "Charles's law",
+        "Ohm's law",
+        "Mendel's law"
+      ],
+      "answerIndex": 0,
+      "explanation": "Boyle's law states that pressure varies inversely with volume at constant temperature.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q45",
+      "question": "Which statement about endocrine signalling is correct?",
+      "options": [
+        "It uses hormones as chemical messengers",
+        "It is always faster than nervous signalling",
+        "It communicates only through action potentials",
+        "It occurs only by direct cell contact"
+      ],
+      "answerIndex": 0,
+      "explanation": "Endocrine signalling uses hormones released into the extracellular fluid and commonly the bloodstream.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q46",
+      "question": "The products of conception formed when a male gamete fuses with a female gamete are first called a:",
+      "options": [
+        "Zygote",
+        "Blastula",
+        "Gastrula",
+        "Foetus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fertilisation produces a zygote.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q47",
+      "question": "In a phospholipid bilayer, the hydrophilic heads face:",
+      "options": [
+        "The aqueous environments on either side of the membrane",
+        "The hydrophobic core only",
+        "The cytoskeleton only",
+        "Away from all water"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hydrophilic heads face the extracellular and intracellular aqueous fluids; hydrophobic tails face inward.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q48",
+      "question": "The hormone primarily responsible for milk ejection (let-down) is:",
+      "options": [
+        "Oxytocin",
+        "Prolactin",
+        "Oestrogen",
+        "Progesterone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oxytocin contracts myoepithelial cells around mammary alveoli to eject milk; prolactin promotes milk production.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q49",
+      "question": "The neurotransmitter released at the skeletal neuromuscular junction is:",
+      "options": [
+        "Acetylcholine",
+        "Dopamine",
+        "Noradrenaline",
+        "Serotonin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Somatic motor neurons release acetylcholine at the neuromuscular junction.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q50",
+      "question": "During which mitotic phase do chromosomes align at the cell equator?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chromosomes align at the metaphase plate during metaphase.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q51",
+      "question": "Osmosis is the net movement of water across a selectively permeable membrane from:",
+      "options": [
+        "Higher water potential toward lower water potential",
+        "Lower water potential toward higher water potential",
+        "Higher solute concentration toward lower solute concentration without a membrane",
+        "Any direction without a gradient"
+      ],
+      "answerIndex": 0,
+      "explanation": "Water moves down its water-potential gradient toward the side with higher effective solute concentration.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q52",
+      "question": "Which is an example of a negative feedback process?",
+      "options": [
+        "Thermoregulation restoring body temperature toward its set range",
+        "Oxytocin intensifying uterine contractions during labour",
+        "Platelet activation amplifying clot formation",
+        "A depolarisation-triggered action potential"
+      ],
+      "answerIndex": 0,
+      "explanation": "Negative feedback opposes a deviation from a regulated set point; temperature regulation is a standard example.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q53",
+      "question": "Which process is a classic positive feedback mechanism?",
+      "options": [
+        "Blood clotting cascade",
+        "Blood glucose regulation by insulin",
+        "Body temperature regulation",
+        "Blood pressure baroreflex"
+      ],
+      "answerIndex": 0,
+      "explanation": "Coagulation amplifies clotting-factor activation until a clot forms; labour contractions are another example.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q54",
+      "question": "The expected arterial blood pH is approximately:",
+      "options": [
+        "7.40",
+        "7.20",
+        "7.00",
+        "7.80"
+      ],
+      "answerIndex": 0,
+      "explanation": "Normal arterial pH is approximately 7.35–7.45, centred near 7.40.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q55",
+      "question": "Respiratory acidosis is most commonly caused by:",
+      "options": [
+        "Hypoventilation with CO2 retention",
+        "Hyperventilation",
+        "Loss of gastric acid through vomiting",
+        "Excess bicarbonate retention alone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hypoventilation retains carbon dioxide, increasing carbonic acid and lowering pH.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q56",
+      "question": "Persistent vomiting most commonly predisposes to:",
+      "options": [
+        "Metabolic alkalosis",
+        "Metabolic acidosis",
+        "Respiratory acidosis",
+        "Diabetic ketoacidosis"
+      ],
+      "answerIndex": 0,
+      "explanation": "Loss of gastric hydrochloric acid can produce metabolic alkalosis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-004-q57",
+      "question": "In sickle-cell disease, the primary haemoglobin abnormality is in the:",
+      "options": [
+        "Beta globin chain",
+        "Alpha globin chain",
+        "Delta globin chain",
+        "Alpha and beta chains equally"
+      ],
+      "answerIndex": 0,
+      "explanation": "HbS results from a beta-globin gene variant that substitutes valine for glutamic acid in the beta chain.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q58",
+      "question": "The most abundant white blood cells at an acute site of bacterial inflammation are usually:",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Basophils",
+        "Monocytes only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Neutrophils are rapidly recruited and predominate early in acute bacterial inflammation; monocytes/macrophages become important later.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q59",
+      "question": "Which white blood cells are particularly associated with parasitic infection and allergic responses?",
+      "options": [
+        "Eosinophils",
+        "Monocytes",
+        "Neutrophils",
+        "Erythrocytes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Eosinophils participate in defence against helminths and modulate allergic inflammation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-004-q60",
+      "question": "Polycythaemia generally refers to an abnormal increase in:",
+      "options": [
+        "Red-cell mass or packed cell volume",
+        "Mean red-cell diameter only",
+        "White-cell count only",
+        "Platelet aggregation only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Polycythaemia is an increased red-cell mass, commonly reflected by elevated haemoglobin/haematocrit.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "physiology-paper-004-b01",
+      "question": "Define exocrine glands, cartilage, endocrine glands and epithelium. State three functions of cartilage.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines exocrine glands and distinguishes duct delivery: 4 marks.",
+        "Defines cartilage as specialised supportive connective tissue with chondrocytes in matrix: 4 marks.",
+        "Defines endocrine glands as ductless hormone-secreting glands entering interstitial fluid/blood: 4 marks.",
+        "Defines epithelium as closely packed covering/lining or gland-forming tissue: 4 marks.",
+        "Any three cartilage functions (support, flexible framework, smooth joint surface, growth template, shock absorption): 4 marks."
+      ],
+      "modelAnswer": "Exocrine glands release their products through ducts onto an epithelial surface or into a lumen. Cartilage is specialised supportive connective tissue in which chondrocytes lie in an extracellular matrix rich in collagen and proteoglycans. Endocrine glands are ductless and release hormones into interstitial fluid and then blood. Epithelium is closely packed tissue that covers body surfaces, lines cavities and forms glands. Cartilage supports structures while remaining flexible, provides smooth low-friction articular surfaces, serves as a growth template for many bones and absorbs mechanical stress."
+    },
+    {
+      "id": "physiology-paper-004-b02",
+      "question": "Compare positive and negative feedback, internal and external respiration, and osmosis and active transport.",
+      "marks": 20,
+      "markingGuide": [
+        "Negative vs positive feedback: negative opposes deviation; positive amplifies it to a terminating event: 7 marks.",
+        "External respiration at alveolar-pulmonary capillary interface vs internal respiration at systemic capillary-tissue interface: 5 marks.",
+        "Osmosis is passive net water movement across selectively permeable membrane down water-potential gradient: 4 marks.",
+        "Active transport uses energy directly or indirectly to move solute against electrochemical gradient: 4 marks."
+      ],
+      "modelAnswer": "Negative feedback detects a deviation and produces responses that oppose it, helping maintain homeostasis. Positive feedback amplifies an initial change until a specific endpoint, such as labour or clot formation. External respiration is gas exchange between alveoli and pulmonary capillary blood; internal respiration is exchange between systemic capillary blood and tissues. Osmosis is passive net movement of water across a selectively permeable membrane down its water-potential gradient. Active transport moves solutes against an electrochemical gradient using ATP directly or energy stored in another ion gradient."
+    },
+    {
+      "id": "physiology-paper-004-b03",
+      "question": "Explain the process of cystogenesis as written in the supplied paper. If the intended term is cytogenesis, define it and describe the main cell-renewal mechanisms.",
+      "marks": 10,
+      "markingGuide": [
+        "Notes that cystogenesis is not a standard general physiology term and seeks/recognises the intended term: 2 marks.",
+        "If cytogenesis intended, defines formation of cells from precursor cells: 2 marks.",
+        "Explains mitosis and differentiation in tissue growth/renewal: 3 marks.",
+        "Provides appropriate example such as haematopoiesis or epithelial renewal: 2 marks.",
+        "Clear terminology caveat: 1 mark."
+      ],
+      "modelAnswer": "‘Cystogenesis’ is not a standard general physiology process name and may be a transcription error. If ‘cytogenesis’ was intended, it is the formation of cells from precursor cells. In many tissues, stem or progenitor cells divide by mitosis; daughter cells then differentiate and mature to replace cells or form new tissue. Haematopoiesis in bone marrow and renewal of intestinal epithelium are examples. If a specific cyst-formation topic was intended, the question needs clarification."
+    },
+    {
+      "id": "physiology-paper-004-b04",
+      "question": "Describe digestion and absorption of fats in the small intestine, including the steps represented in the supplied fill-in passage.",
+      "marks": 20,
+      "markingGuide": [
+        "Bile salts emulsify fats and increase surface area: 3 marks.",
+        "Pancreatic lipase/colipase hydrolyse triglycerides to monoglycerides and free fatty acids: 4 marks.",
+        "Products form mixed micelles with bile salts and reach brush border: 3 marks.",
+        "Lipids enterocytes and are re-esterified in smooth ER: 3 marks.",
+        "Triglycerides combine with cholesterol, phospholipids and apoproteins to form chylomicrons: 3 marks.",
+        "Chylomicrons leave via exocytosis into lacteals/lymph then enter venous blood: 4 marks."
+      ],
+      "modelAnswer": "Bile salts emulsify dietary fat into small droplets. Pancreatic lipase, aided by colipase, hydrolyses triglycerides mainly to monoglycerides and free fatty acids. These products associate with bile salts to form mixed micelles, which deliver lipids to the intestinal brush border. Lipids enterocytes, are re-esterified to triglycerides in the smooth endoplasmic reticulum, and are packaged with cholesterol, phospholipids and apoproteins in the Golgi pathway into chylomicrons. Chylomicrons are exocytosed into intestinal lacteals, travel through lymphatic vessels and the thoracic duct, and enter the bloodstream at the venous angle. The source fill-in passage has obscured/misaligned blanks; accept equivalent correct descriptions of these steps."
+    },
+    {
+      "id": "physiology-paper-004-b05",
+      "question": "Explain the events of the cardiac cycle, the regulation/control of the cycle, and the significance of the second heart sound.",
+      "marks": 20,
+      "markingGuide": [
+        "Atrial systole completes ventricular filling: 3 marks.",
+        "Isovolumetric ventricular contraction and AV valve closure/S1: 3 marks.",
+        "Ventricular ejection through semilunar valves: 3 marks.",
+        "Isovolumetric relaxation, semilunar closure/S2 and filling: 3 marks.",
+        "SA node, AV delay, His-Purkinje conduction sequence: 4 marks.",
+        "Autonomic/hormonal regulation and preload/Frank-Starling effect: 4 marks."
+      ],
+      "modelAnswer": "During late diastole, blood flows passively into ventricles; atrial systole completes filling. Ventricular systole begins with isovolumetric contraction, closing the AV valves and producing S1. When ventricular pressure exceeds aortic and pulmonary arterial pressure, semilunar valves open and ejection occurs. Ventricular relaxation closes the semilunar valves, producing S2, followed by isovolumetric relaxation. When ventricular pressure falls below atrial pressure, AV valves open and filling resumes. The SA node initiates the impulse, which spreads through atria, pauses at the AV node, then travels via the bundle of His, bundle branches and Purkinje fibres. Sympathetic and parasympathetic inputs alter rate and conduction; circulating hormones and preload also influence cardiac performance. Frank-Starling behaviour links increased filling within physiological limits to stronger contraction and stroke volume."
+    },
+    {
+      "id": "physiology-paper-004-b06",
+      "question": "(a) State three requirements for effective gaseous exchange. (b) Define respiration and describe ventilation, external and internal gas exchange. (c) Describe the two main divisions of the respiratory system.",
+      "marks": 20,
+      "markingGuide": [
+        "Any three requirements: large surface area, thin moist membrane, maintained partial-pressure gradient/perfusion and ventilation: 6 marks.",
+        "Defines respiration and distinguishes ventilation, external and internal exchange: 5 marks.",
+        "Explains diffusion of O2 and CO2 along partial-pressure gradients: 4 marks.",
+        "Divides respiratory system into upper and lower tracts with examples: 5 marks."
+      ],
+      "modelAnswer": "Effective gaseous exchange requires a large surface area, a thin moist diffusion barrier and maintained partial-pressure gradients through ventilation and blood perfusion. Respiration includes ventilation and gas exchange: pulmonary ventilation moves air in and out; external respiration exchanges O2 and CO2 between alveoli and pulmonary blood; internal respiration exchanges gases between systemic blood and tissues. O2 diffuses down its partial-pressure gradient into blood and CO2 diffuses toward alveoli for expiration. The upper respiratory tract includes the nose/nasal cavity, paranasal sinuses and pharynx; the lower tract includes the larynx, trachea, bronchi, bronchioles and lungs/alveoli."
+    },
+    {
+      "id": "physiology-paper-004-b07",
+      "question": "Define physiology, cell, tissue, organ, homeostasis, cell division, mitosis, meiosis, diffusion, osmosis, active transport, membrane potential, resting membrane potential, action potential, synapse, neurotransmitter and hormone. State normal blood pH.",
+      "marks": 20,
+      "markingGuide": [
+        "Accurate concise definitions of physiology, cell, tissue and organ: 4 marks.",
+        "Homeostasis and feedback/cell division terms: 4 marks.",
+        "Mitosis, meiosis and stages of mitosis: 3 marks.",
+        "Diffusion, osmosis and active transport: 3 marks.",
+        "Membrane potential, resting potential (about −70 mV neuron), action potential, synapse and neurotransmitter: 4 marks.",
+        "Hormone/endocrine system and blood pH about 7.35–7.45: 2 marks."
+      ],
+      "modelAnswer": "Physiology studies function. A cell is the basic structural and functional unit of life; a tissue is a group of related cells and matrix performing functions; an organ combines tissues for specific functions. Homeostasis maintains a relatively stable internal environment. Cell division produces daughter cells; mitosis produces two genetically similar daughter cells, while meiosis produces haploid gametes after two divisions. Diffusion is net movement down a concentration gradient; osmosis is water movement across a selectively permeable membrane; active transport uses energy to move solutes against a gradient. Membrane potential is voltage across a membrane; a typical neuron's resting potential is near −70 mV. An action potential is a rapid regenerative change in membrane voltage. A synapse is a junction for communication between cells; a neurotransmitter is a chemical messenger released there. A hormone is a chemical messenger carried to target cells. Normal arterial blood pH is approximately 7.35–7.45."
+    },
+    {
+      "id": "physiology-paper-004-b08",
+      "question": "Describe the process of urine formation and list three differences between positive and negative feedback. Give three physiological positive-feedback examples.",
+      "marks": 20,
+      "markingGuide": [
+        "Glomerular filtration: 4 marks.",
+        "Tubular reabsorption: 4 marks.",
+        "Tubular secretion and concentration/excretion: 4 marks.",
+        "Three accurate positive/negative feedback contrasts: 4 marks.",
+        "Three examples such as labour, blood clotting, action-potential upstroke or lactation let-down: 4 marks."
+      ],
+      "modelAnswer": "Urine formation begins with glomerular filtration of water and small solutes from glomerular capillaries into Bowman's space. Selective tubular reabsorption returns needed water, electrolytes, glucose and other solutes to blood. Tubular secretion transfers selected ions, drugs and wastes into tubular fluid; countercurrent mechanisms and hormones such as ADH and aldosterone adjust final water and electrolyte content before excretion. Negative feedback opposes an initial deviation and stabilises a variable; positive feedback reinforces the change until an endpoint. Examples of positive feedback include labour contractions via oxytocin, platelet/coagulation amplification and the rapid depolarisation phase of an action potential; milk let-down is another example."
+    },
+    {
+      "id": "physiology-paper-004-b09",
+      "question": "State the components of blood and describe the major formed elements and plasma proteins. Explain ABO compatibility basics, haemostasis, sickle-cell disease, polycythaemia, and leukocyte roles in acute inflammation and allergy.",
+      "marks": 20,
+      "markingGuide": [
+        "Blood consists of plasma and formed elements: 2 marks.",
+        "RBC, WBC and platelet functions: 4 marks.",
+        "Plasma proteins albumin, globulins and fibrinogen with roles: 4 marks.",
+        "ABO antigens/antibodies and safe compatibility principles: 3 marks.",
+        "Haemostasis phases and platelet/coagulation role: 3 marks.",
+        "Sickle-cell beta-chain mutation and polycythaemia definition: 2 marks.",
+        "Neutrophil acute inflammation; eosinophil parasite/allergy role: 2 marks."
+      ],
+      "modelAnswer": "Blood consists of plasma and formed elements: erythrocytes, leukocytes and platelets. Red cells transport respiratory gases; leukocytes provide immune defence; platelets support haemostasis. Albumin maintains colloid osmotic pressure and transports substances; globulins include antibodies and transport proteins; fibrinogen is a coagulation protein. Group A red cells carry A antigen and plasma anti-B; group B carries B and anti-A; AB has both antigens and usually neither antibody; O has neither antigen and both antibodies. Transfusion compatibility requires matching donor red-cell antigens with recipient antibodies and crossmatching. Haemostasis involves vascular spasm, platelet plug formation and coagulation/fibrin stabilisation. Sickle-cell disease is caused by a beta-globin variant; polycythaemia is increased red-cell mass/haematocrit. Neutrophils predominate early in many acute bacterial inflammatory responses; eosinophils are important in helminth defence and allergic inflammation."
+    }
+  ]
+}

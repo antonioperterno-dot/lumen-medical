@@ -30,7 +30,6 @@ import { getFirebaseAuth, isFirebaseConfigured } from "./client";
  */
 
 export type AuthMode = "firebase" | "local";
-const REQUIRE_INVITE = process.env.NEXT_PUBLIC_REQUIRE_INVITE === "true";
 
 type AuthContextValue = {
   user: User | null;
@@ -43,8 +42,6 @@ type AuthContextValue = {
   firebaseEnabled: boolean;
   /** The current ID token, or null in local mode. */
   getIdToken: () => Promise<string | null>;
-  /** Creates the device's anonymous Firebase identity only after code entry. */
-  signInForInvite: () => Promise<User | null>;
   signOut: () => Promise<void>;
 };
 
@@ -84,7 +81,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
         // Give the SDK a moment to restore a persisted session before we
         // create a brand-new anonymous account on every cold start.
-        if (!REQUIRE_INVITE && !auth.currentUser && !signInAttempted.current) {
+        if (!auth.currentUser && !signInAttempted.current) {
           signInAttempted.current = true;
           try {
             await signInAnonymously(auth);
@@ -119,19 +116,6 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     }
   }, []);
 
-  const signInForInvite = useCallback(async (): Promise<User | null> => {
-    if (!isFirebaseConfigured) return null;
-    const auth = getFirebaseAuth();
-    if (auth.currentUser) return auth.currentUser;
-    try {
-      const { signInAnonymously } = await import("firebase/auth");
-      const credential = await signInAnonymously(auth);
-      return credential.user;
-    } catch {
-      return null;
-    }
-  }, []);
-
   const signOut = useCallback(async () => {
     if (!isFirebaseConfigured) return;
     try {
@@ -153,10 +137,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       mode,
       firebaseEnabled: isFirebaseConfigured,
       getIdToken,
-      signInForInvite,
       signOut,
     }),
-    [user, profile, loading, mode, getIdToken, signInForInvite, signOut],
+    [user, profile, loading, mode, getIdToken, signOut],
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

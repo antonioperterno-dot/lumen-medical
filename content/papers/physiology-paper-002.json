@@ -1,0 +1,341 @@
+{
+  "id": "physiology-paper-002",
+  "courseUnit": "physiology",
+  "title": "Physiology Paper 2: Membranes, Cardiovascular and Respiratory Physiology",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from the user-provided Physiology Paper 1 and Paper 2 questions",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "physiology-paper-002-q01",
+      "question": "Which is a location where simple cuboidal epithelium is found?",
+      "options": ["Blood vessels", "Uterus", "Kidneys", "Digestive tract"],
+      "answerIndex": 2,
+      "explanation": "Simple cuboidal epithelium commonly lines kidney tubules.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q02",
+      "question": "Which cells are found in dense connective tissue?",
+      "options": ["Chondrocytes", "Osteocytes", "Fibroblasts", "Osteoblasts"],
+      "answerIndex": 2,
+      "explanation": "Fibroblasts produce the collagen-rich extracellular matrix in dense connective tissue.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q03",
+      "question": "The following are types of muscle tissue except:",
+      "options": [
+        "Skeletal tissue",
+        "Cardiac tissue",
+        "Smooth tissue",
+        "Connective tissue"
+      ],
+      "answerIndex": 3,
+      "explanation": "Connective tissue is a basic tissue type but is not a muscle tissue type.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q04",
+      "question": "Which characteristic of a biological membrane is most influenced by its cholesterol content?",
+      "options": ["Thickness", "Ion permeability", "Fluidity", "Glycosylation"],
+      "answerIndex": 2,
+      "explanation": "Cholesterol modulates membrane fluidity and stability.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q05",
+      "question": "A red blood cell will swell most when placed in a solution containing:",
+      "options": [
+        "100 mmol calcium chloride",
+        "150 mmol sodium chloride",
+        "200 mmol potassium chloride",
+        "250 mmol urea"
+      ],
+      "answerIndex": 3,
+      "explanation": "Urea is a permeant solute in this context; a 250 mmol/L urea solution is effectively hypotonic compared with normal plasma, so water enters red cells. Exact tonicity depends on the full solution composition.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "physiology-paper-002-q06",
+      "question": "Which change increases membrane excitability by the greatest amount?",
+      "options": [
+        "Increasing extracellular Na+",
+        "Increasing extracellular K+",
+        "Decreasing extracellular Cl−",
+        "Decreasing extracellular Ca2+"
+      ],
+      "answerIndex": 3,
+      "explanation": "Lowering extracellular calcium reduces its stabilising effect on voltage-gated sodium channels, increasing excitability.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "physiology-paper-002-q07",
+      "question": "During dynamic exercise, which usually increases?",
+      "options": [
+        "Stroke volume",
+        "Diastolic pressure",
+        "Venous compliance",
+        "Total peripheral resistance"
+      ],
+      "answerIndex": 0,
+      "explanation": "Stroke volume commonly increases during dynamic exercise; diastolic pressure and total peripheral resistance often remain stable or decrease.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-002-q08",
+      "question": "Blood pressure increases while heart rate decreases in response to:",
+      "options": [
+        "Exercise",
+        "Increased intracranial pressure",
+        "Haemorrhage",
+        "Increased body temperature"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Cushing response to raised intracranial pressure includes hypertension with reflex bradycardia.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-002-q09",
+      "question": "Which plasma substance contributes most to plasma colloid osmotic pressure?",
+      "options": ["Sodium chloride", "Glucose", "Albumin", "Cholesterol"],
+      "answerIndex": 2,
+      "explanation": "Albumin is the most abundant plasma protein and the principal contributor to colloid oncotic pressure.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q10",
+      "question": "Under normal physiological conditions, blood flow to skeletal muscle is determined mainly by:",
+      "options": [
+        "Sympathetic nerves",
+        "Angiotensin II",
+        "Vasopressin",
+        "Metabolic needs"
+      ],
+      "answerIndex": 3,
+      "explanation": "Local metabolic vasodilation is the main regulator of active skeletal-muscle perfusion under ordinary conditions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-002-q11",
+      "question": "Which is associated with increased risk of adverse cardiac events?",
+      "options": [
+        "Decreased blood LDL",
+        "Decreased blood HDL",
+        "Female sex",
+        "Moderate hypotension"
+      ],
+      "answerIndex": 1,
+      "explanation": "Low HDL cholesterol is associated with increased cardiovascular risk.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q12",
+      "question": "To which term would ‘white cell’ not apply?",
+      "options": ["Erythrocyte", "Leucocyte", "Lymphocyte", "Monocyte"],
+      "answerIndex": 0,
+      "explanation": "An erythrocyte is a red blood cell, not a white blood cell.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q13",
+      "question": "The function of ciliated cells of the respiratory epithelium is to:",
+      "options": [
+        "Trap inhaled particles not removed by the nasal cavity",
+        "Secrete a mucus layer",
+        "Move mucus and trapped particles up the bronchial tree",
+        "Secrete surfactant"
+      ],
+      "answerIndex": 2,
+      "explanation": "Coordinated ciliary movement transports mucus and trapped particles toward the pharynx.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q14",
+      "question": "The walls of the following structures are supported by cartilage, except:",
+      "options": ["Bronchioles", "Trachea", "Bronchi", "Larynx"],
+      "answerIndex": 0,
+      "explanation": "Bronchioles lack cartilage; the trachea, bronchi and larynx contain cartilage.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q15",
+      "question": "The term cellular respiration refers to:",
+      "options": [
+        "Exchange of gases in the lungs",
+        "Ventilation of the lungs",
+        "Exchange of gases in body tissues",
+        "Production of ATP"
+      ],
+      "answerIndex": 3,
+      "explanation": "Cellular respiration is the metabolic process by which cells generate ATP, primarily through oxidation of fuels.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q16",
+      "question": "Which change normally stimulates increased respiratory activity most strongly?",
+      "options": [
+        "Decreased blood CO2",
+        "Decreased blood O2",
+        "Increased blood CO2",
+        "Increased blood pH"
+      ],
+      "answerIndex": 2,
+      "explanation": "Increased arterial carbon dioxide raises hydrogen ion concentration and stimulates ventilation through chemoreceptors.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q17",
+      "question": "Which of the following is not a cell?",
+      "options": ["Platelets", "Leucocytes", "Macrophages", "Osteoblasts"],
+      "answerIndex": 0,
+      "explanation": "Platelets are anucleate cell fragments derived from megakaryocytes; the other choices are cells.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-002-q18",
+      "question": "The body's ability to maintain a relatively constant internal temperature is an example of:",
+      "options": [
+        "Respiratory heat loss",
+        "Homeostasis",
+        "Vasodilation and evaporative heat loss",
+        "Positive feedback"
+      ],
+      "answerIndex": 1,
+      "explanation": "Maintaining internal temperature within a regulated range is homeostasis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q19",
+      "question": "The body returns toward a healthy state after stressful stimuli mainly by:",
+      "options": [
+        "Positive feedback",
+        "Metabolism",
+        "Anabolism",
+        "Negative feedback"
+      ],
+      "answerIndex": 3,
+      "explanation": "Negative feedback opposes deviation from a regulated set point.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-002-q20",
+      "question": "Which form of transport through the plasma membrane requires cellular energy?",
+      "options": [
+        "Facilitated diffusion",
+        "Osmosis",
+        "Active transport",
+        "Simple diffusion"
+      ],
+      "answerIndex": 2,
+      "explanation": "Active transport uses energy to move substances against an electrochemical gradient.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "physiology-paper-002-b01",
+      "question": "State the functions of mitochondria, Golgi apparatus and endoplasmic reticulum.",
+      "marks": 10,
+      "markingGuide": [
+        "Mitochondria: ATP production through aerobic metabolism; 2 marks.",
+        "Golgi apparatus: modifies, sorts and packages proteins/lipids into vesicles; 2 marks.",
+        "Rough ER: synthesis/processing of secreted and membrane proteins; 2 marks.",
+        "Smooth ER: lipid synthesis, detoxification and calcium storage; 2 marks.",
+        "Clear distinction of organelle functions: 2 marks."
+      ],
+      "modelAnswer": "Mitochondria generate most cellular ATP by oxidative phosphorylation and participate in metabolism and apoptosis. The Golgi apparatus modifies, sorts and packages proteins and lipids for secretion or delivery to cellular destinations. Rough endoplasmic reticulum synthesises and begins processing proteins for membranes and secretion; smooth ER synthesises lipids, participates in detoxification and stores calcium."
+    },
+    {
+      "id": "physiology-paper-002-b02",
+      "question": "(a) State the function of red blood cells. (b) Define stroke volume, cardiac output and peripheral resistance.",
+      "marks": 10,
+      "markingGuide": [
+        "RBC transport oxygen and contribute to carbon dioxide transport: 2 marks.",
+        "Stroke volume: blood ejected by one ventricle per beat: 2 marks.",
+        "Cardiac output: volume ejected by one ventricle per minute; CO = HR × SV: 2 marks.",
+        "Peripheral resistance: opposition to blood flow in systemic vessels, principally arterioles: 2 marks.",
+        "Correct units or clear definitions: 2 marks."
+      ],
+      "modelAnswer": "Red blood cells transport oxygen from the lungs to tissues and carry some carbon dioxide back to the lungs. Stroke volume is the volume of blood ejected by one ventricle per heartbeat. Cardiac output is the volume pumped by one ventricle per minute and equals heart rate multiplied by stroke volume. Peripheral resistance is the opposition to flow offered by systemic blood vessels, especially arterioles."
+    },
+    {
+      "id": "physiology-paper-002-b03",
+      "question": "Define residual volume and vital capacity. Outline two factors that affect the rate of diffusion.",
+      "marks": 10,
+      "markingGuide": [
+        "Residual volume: air remaining after maximal forced expiration: 2 marks.",
+        "Vital capacity: maximum air expired after maximal inspiration; TV + IRV + ERV: 2 marks.",
+        "Any two diffusion factors with explanation: concentration/partial-pressure gradient, surface area, diffusion distance, permeability, temperature or molecular size: 6 marks."
+      ],
+      "modelAnswer": "Residual volume is the air remaining in the lungs after a maximal forced expiration. Vital capacity is the maximum volume that can be expired after a maximal inspiration; it equals tidal volume plus inspiratory reserve volume plus expiratory reserve volume. Diffusion increases with a steeper concentration or partial-pressure gradient and larger surface area, and decreases with greater diffusion distance or larger molecular size."
+    },
+    {
+      "id": "physiology-paper-002-b04",
+      "question": "State four main structural or functional differences between skeletal muscle and cardiac muscle.",
+      "marks": 10,
+      "markingGuide": [
+        "Any four accurate contrasts, 2.5 marks each: voluntary vs involuntary; long cylindrical unbranched vs short branched cells; multiple peripheral nuclei vs usually one central nucleus; absent vs present intercalated discs; skeletal fibres independently controlled vs cardiac cells electrically coupled; skeletal muscle has no intrinsic pacemaker vs cardiac autorhythmicity."
+      ],
+      "modelAnswer": "Skeletal muscle is generally voluntary, made of long cylindrical unbranched multinucleated fibres with peripheral nuclei, and lacks intercalated discs. Cardiac muscle is involuntary, consists of shorter branched cells usually with one central nucleus, has intercalated discs that electrically and mechanically couple cells, and can generate intrinsic rhythmic activity."
+    },
+    {
+      "id": "physiology-paper-002-b05",
+      "question": "(a) Describe the general functions of the small intestine. (b) Name its three parts. (c) Describe the structures that increase its surface area.",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Digestion, neutralisation/mixing, absorption of nutrients, water, electrolytes and vitamins, immune/barrier functions: 8 marks.",
+        "(b) Duodenum, jejunum and ileum in order: 3 marks.",
+        "(c) Circular folds, villi and microvilli, with explanation of surface-area contribution: 9 marks."
+      ],
+      "modelAnswer": "The small intestine completes chemical digestion, mixes chyme with bile and pancreatic and intestinal secretions, neutralises acidic chyme, and absorbs most nutrients, water, electrolytes and vitamins. It also provides mucosal barrier and immune functions. Its three parts are duodenum, jejunum and ileum. Surface area is increased by circular folds (plicae circulares), finger-like villi covered by absorptive enterocytes, and microscopic microvilli forming the brush border; these structures greatly expand the area available for digestion and absorption."
+    },
+    {
+      "id": "physiology-paper-002-b06",
+      "question": "(a) Explain four major phases of the cardiac cycle. (b) Explain gaseous exchange in the lungs.",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Atrial systole and ventricular filling: 3 marks.",
+        "(a) Isovolumetric ventricular contraction with AV valve closure: 3 marks.",
+        "(a) Ventricular ejection after semilunar valve opening: 3 marks.",
+        "(a) Isovolumetric relaxation, semilunar closure and filling: 3 marks.",
+        "(b) Alveolar-capillary diffusion down partial-pressure gradients: 4 marks.",
+        "(b) O2 diffuses into blood and binds haemoglobin: 2 marks.",
+        "(b) CO2 diffuses from blood into alveoli for expiration: 2 marks."
+      ],
+      "modelAnswer": "During atrial systole, atria contract and complete ventricular filling while AV valves are open. Ventricular systole begins with isovolumetric contraction: rising pressure closes the AV valves; when ventricular pressure exceeds arterial pressure, semilunar valves open and ejection occurs. During early diastole, ventricles relax; semilunar valves close, followed by isovolumetric relaxation. When ventricular pressure falls below atrial pressure, AV valves open and passive filling resumes. In the lungs, oxygen diffuses from alveolar gas, where its partial pressure is higher, across the thin alveolar-capillary membrane into pulmonary blood and binds haemoglobin. Carbon dioxide diffuses in the opposite direction from blood to alveoli and is removed by expiration."
+    },
+    {
+      "id": "physiology-paper-002-b07",
+      "question": "(a) Describe the four stages of mitosis. (b) Explain four reasons mitosis is important.",
+      "marks": 20,
+      "markingGuide": [
+        "Prophase: chromosome condensation and spindle formation: 3 marks.",
+        "Metaphase: chromosomes align at equator: 3 marks.",
+        "Anaphase: sister chromatids separate to opposite poles: 3 marks.",
+        "Telophase/cytokinesis: nuclei reform and cytoplasm divides: 3 marks.",
+        "Any four valid roles: growth, tissue repair, replacement, asexual reproduction, genetic stability: 8 marks."
+      ],
+      "modelAnswer": "In prophase, chromatin condenses into visible chromosomes and the mitotic spindle forms. In metaphase, chromosomes align at the cell equator with kinetochores attached to spindle microtubules. In anaphase, sister chromatids separate and move toward opposite poles. In telophase, chromosomes decondense, nuclear envelopes reform and cytokinesis divides the cell. Mitosis enables growth, replacement of worn or damaged cells, tissue repair, asexual reproduction in some organisms, and maintenance of chromosome number and genetic continuity."
+    },
+    {
+      "id": "physiology-paper-002-b08",
+      "question": "(a) Define respiration. (b) Describe inspiration and expiration. (c) Describe capillary fluid dynamics.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines respiration and distinguishes ventilation/gas exchange/cellular respiration: 3 marks.",
+        "Inspiration: diaphragm/external intercostals, thoracic volume increases, pressure falls, air enters: 4 marks.",
+        "Expiration: quiet passive recoil; forced expiration uses expiratory muscles: 4 marks.",
+        "Explains hydrostatic pressure driving filtration and plasma oncotic pressure favouring reabsorption: 5 marks.",
+        "Explains net filtration, lymphatic return and Starling forces: 4 marks."
+      ],
+      "modelAnswer": "Respiration broadly describes gas exchange between the environment and tissues; it includes pulmonary ventilation, external gas exchange at lungs, internal exchange at tissues and cellular oxygen use. During inspiration, the diaphragm contracts and descends and external intercostals elevate the ribs, increasing thoracic volume and lowering alveolar pressure so air flows inward. Quiet expiration is mainly passive elastic recoil, decreasing thoracic volume and raising alveolar pressure; forced expiration recruits abdominal and internal intercostal muscles. At capillaries, hydrostatic pressure tends to push fluid outward, while plasma colloid osmotic pressure (mainly from albumin) draws fluid inward. Their balance, together with interstitial pressures and permeability (Starling forces), determines net filtration or absorption; excess interstitial fluid returns through lymphatics."
+    }
+  ]
+}

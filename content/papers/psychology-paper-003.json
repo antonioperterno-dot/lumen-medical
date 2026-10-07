@@ -208,7 +208,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "psychology-paper-003-q01",
+      "id": "psychology-paper-003-q16",
       "question": "A researcher defines 'study time' as the number of minutes each student spends reviewing notes. This is an example of a(n):",
       "options": [
         "Operational definition",
@@ -221,7 +221,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "psychology-paper-003-q02",
+      "id": "psychology-paper-003-q17",
       "question": "Randomly assigning participants to experimental groups mainly helps to:",
       "options": [
         "Guarantee that every result is significant",
@@ -234,7 +234,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "psychology-paper-003-q03",
+      "id": "psychology-paper-003-q18",
       "question": "A correlation of -0.80 indicates that, in the sample:",
       "options": [
         "Higher values of one variable tend to accompany lower values of the other",
@@ -247,7 +247,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "psychology-paper-003-q04",
+      "id": "psychology-paper-003-q19",
       "question": "Groupthink is most likely when a group:",
       "options": [
         "Encourages careful disagreement",
@@ -260,7 +260,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "psychology-paper-003-q05",
+      "id": "psychology-paper-003-q20",
       "question": "Compared with a brief stress response, chronic stress is more concerning because it:",
       "options": [
         "Continues over time and may affect health and functioning",

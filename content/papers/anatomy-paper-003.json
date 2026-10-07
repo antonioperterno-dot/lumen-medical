@@ -1,0 +1,371 @@
+{
+  "id": "anatomy-paper-003",
+  "courseUnit": "anatomy",
+  "title": "Anatomy Paper 3: Cardiopulmonary, Blood and Musculoskeletal Anatomy",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided anatomy quizzes and examination questions",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "anatomy-paper-003-q01",
+      "question": "Diffusion of oxygen through the alveoli into the bloodstream is facilitated by which epithelium?",
+      "options": [
+        "Simple cuboidal",
+        "Simple columnar",
+        "Simple squamous (pavement)",
+        "Stratified squamous"
+      ],
+      "answerIndex": 2,
+      "explanation": "The thin simple squamous alveolar epithelium minimises diffusion distance.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q02",
+      "question": "The lungs are found in the ______ cavity.",
+      "options": ["Pelvic", "Abdominal", "Cranial", "Thoracic"],
+      "answerIndex": 3,
+      "explanation": "The lungs occupy the right and left pleural cavities within the thorax.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q03",
+      "question": "Which organ is located in the mediastinum?",
+      "options": ["Lungs", "Heart", "Brain", "Stomach"],
+      "answerIndex": 1,
+      "explanation": "The heart lies in the middle mediastinum, enclosed by the pericardium.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q04",
+      "question": "The myocardium is thickest at the:",
+      "options": ["Base", "Apex", "Costal surface", "Medial surface"],
+      "answerIndex": 1,
+      "explanation": "The left ventricular myocardium is thickest, particularly toward the apex, reflecting the high pressure required for systemic circulation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-003-q05",
+      "question": "Complete cardiac diastole means:",
+      "options": [
+        "Contraction of the atria",
+        "Contraction of the ventricles",
+        "Relaxation of both atria and ventricles",
+        "Transmission of impulses from atria to ventricles"
+      ],
+      "answerIndex": 2,
+      "explanation": "During complete cardiac diastole, all four chambers are relaxed.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q06",
+      "question": "Closure of the aortic and pulmonary valves produces which heart sound and marks the start of which phase?",
+      "options": [
+        "S1 (‘lub’), ventricular diastole",
+        "S2 (‘dub’), ventricular diastole",
+        "S2 (‘dub’), ventricular systole",
+        "S1 (‘lub’), atrial systole"
+      ],
+      "answerIndex": 1,
+      "explanation": "S2 (‘dub’) is caused by closure of the semilunar valves at the beginning of ventricular diastole. AV-valve closure produces S1 (‘lub’) at the beginning of ventricular systole.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-003-q07",
+      "question": "Which abdominopelvic region commonly contains much of the jejunum and ileum and part of the transverse colon?",
+      "options": [
+        "Right hypochondriac",
+        "Right iliac",
+        "Umbilical",
+        "Epigastric"
+      ],
+      "answerIndex": 2,
+      "explanation": "The umbilical region commonly overlies loops of small intestine and part of the transverse colon; abdominal contents may extend across regions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-003-q08",
+      "question": "Which main bronchus is more likely to receive an aspirated foreign body?",
+      "options": ["Right", "Left", "Both equally", "Neither"],
+      "answerIndex": 0,
+      "explanation": "The right main bronchus is wider, shorter and more vertical than the left.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q09",
+      "question": "Why is the right main bronchus more likely to be blocked by an aspirated foreign body?",
+      "options": [
+        "It is wider, shorter and more vertical",
+        "The left bronchus is wider, shorter and more vertical",
+        "Both bronchi are equally wide and vertical",
+        "Neither bronchus has a direct path from the trachea"
+      ],
+      "answerIndex": 0,
+      "explanation": "Its wider, shorter and more vertical course makes the right main bronchus a more direct continuation of the trachea.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q10",
+      "question": "The cardiac cycle is the sequence of events in one:",
+      "options": [
+        "Heartbeat",
+        "Relaxation only",
+        "Contraction only",
+        "Blood vessel"
+      ],
+      "answerIndex": 0,
+      "explanation": "The cardiac cycle comprises the coordinated electrical and mechanical events of one heartbeat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q11",
+      "question": "The term ‘windpipe’ refers to the:",
+      "options": ["Bronchi", "Trachea", "Bronchioles", "Nose and pharynx"],
+      "answerIndex": 1,
+      "explanation": "The trachea is commonly called the windpipe.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q12",
+      "question": "Which part of the heart's conduction system initiates the normal cardiac impulse?",
+      "options": [
+        "Atrioventricular node",
+        "Sinoatrial node",
+        "Bundle of His",
+        "Purkinje fibres"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sinoatrial node is the normal pacemaker of the heart.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q13",
+      "question": "During ______ the ventricles contract and eject blood; during ______ they relax and fill.",
+      "options": [
+        "Diastole; systole",
+        "Systole; diastole",
+        "Inhalation; exhalation",
+        "Pulmonary; systemic circulation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ventricular systole is contraction/ejection; ventricular diastole is relaxation/filling.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q14",
+      "question": "Cardiac output is determined by:",
+      "options": [
+        "Heart rate and blood pressure",
+        "Oxygen consumption and carbon dioxide secretion",
+        "Stroke volume and heart rate",
+        "Ventricular contraction alone"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cardiac output equals heart rate multiplied by stroke volume.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q15",
+      "question": "The volume of blood ejected by each ventricle per minute is called:",
+      "options": [
+        "Stroke volume",
+        "Cardiac output",
+        "Heart rate",
+        "Blood pressure"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cardiac output is the volume pumped by one ventricle per minute.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q16",
+      "question": "The purpose of heart valves is to:",
+      "options": [
+        "Filter debris from blood",
+        "Ensure unidirectional blood flow",
+        "Move blood through arteries",
+        "Perform all of these functions"
+      ],
+      "answerIndex": 1,
+      "explanation": "Heart valves prevent backflow and maintain unidirectional blood flow.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q17",
+      "question": "The scaphoid is best classified as a ______ bone.",
+      "options": ["Sesamoid", "Long", "Short", "Flat"],
+      "answerIndex": 2,
+      "explanation": "The scaphoid is one of the short carpal bones.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-003-q18",
+      "question": "Turning the soles of the feet to face laterally is called:",
+      "options": ["Eversion", "Inversion", "Dorsiflexion", "Plantar flexion"],
+      "answerIndex": 0,
+      "explanation": "Eversion turns the plantar surface away from the body's midline.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "anatomy-paper-003-q20",
+      "question": "Skeletal muscle fibres are organised into bundles called:",
+      "options": ["Aponeuroses", "Sarcomeres", "Fascicles", "Myofibrils"],
+      "answerIndex": 2,
+      "explanation": "A fascicle is a bundle of skeletal muscle fibres surrounded by perimysium.",
+      "difficulty": "easy"
+    },
+    {"id":"anatomy-paper-003-q21","question":"Which artery most commonly supplies the sinoatrial node?","options":["Posterior ventricular artery","Posterior interventricular artery","Right coronary artery","Circumflex artery"],"answerIndex":2,"explanation":"The SA nodal artery most commonly arises from the right coronary artery, although it arises from the circumflex artery in a substantial minority of people.","difficulty":"medium"},
+    {"id":"anatomy-paper-003-q23","question":"Which organ listed contains smooth muscle in its wall?","options":["Uterus","Heart","Skeletal tendon","Bone"],"answerIndex":0,"explanation":"The uterine myometrium is smooth muscle. The original stem also listed lungs and trachea, which both contain airway smooth muscle, so that version had multiple correct choices; this wording makes the keyed choice unambiguous.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q24","question":"Which is a muscle of the abdominal wall?","options":["Brachialis","Deltoid","Rectus abdominis","Soleus"],"answerIndex":2,"explanation":"Rectus abdominis is an anterior abdominal-wall muscle.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q25","question":"Which bone is located in the distal row of the carpus?","options":["Scaphoid","Lunate","Triquetrum","Hamate"],"answerIndex":3,"explanation":"The hamate is in the distal carpal row; scaphoid, lunate and triquetrum are proximal-row bones.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q26","question":"Which of these limb bones is the odd one out because it is a carpal rather than a tarsal bone?","options":["Navicular","Calcaneus","Pisiform","Talus (astragalus)"],"answerIndex":2,"explanation":"Pisiform is a carpal bone of the wrist; navicular, calcaneus and talus are tarsal bones of the foot.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q27","question":"Blood leaves the left ventricle through which valve?","options":["Aortic semilunar","Pulmonary semilunar","Mitral","Tricuspid"],"answerIndex":0,"explanation":"The aortic valve guards the outlet from the left ventricle into the aorta.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q28","question":"Before birth, blood can pass from the right atrium to the left atrium through the:","options":["Foramen ovale","Interatrial septum","Coronary sinus","Fossa ovalis"],"answerIndex":0,"explanation":"The fetal foramen ovale permits right-to-left atrial blood flow; after birth it closes and leaves the fossa ovalis.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q29","question":"Cardiac output is calculated as:","options":["Heart rate × stroke volume","Heart rate × blood pressure","Oxygen consumption × carbon dioxide production","Ventricular contraction × venous return"],"answerIndex":0,"explanation":"Cardiac output equals heart rate multiplied by stroke volume. Venous return influences stroke volume but is not the defining calculation.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q30","question":"Which is not a structural part of a neuron?","options":["Axon","Cell body","Nodes of Ranvier","Neuralgia"],"answerIndex":3,"explanation":"Neuralgia means nerve pain; it is not an anatomical part of a neuron.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q31","question":"The major abductor muscle of the arm after the initial 15 degrees is the:","options":["Deltoid","Supinator","Subscapularis","Brachioradialis"],"answerIndex":0,"explanation":"Supraspinatus initiates the first approximately 15 degrees of abduction; the deltoid is the principal abductor through the subsequent range. This incorporates the repeated arm-abductor item only once.","difficulty":"easy"},
+
+    {"id":"anatomy-paper-003-q32","question":"Circumduction is a circular movement in which the distal end moves while the proximal end is relatively:","options":["Rotated","Stationary","Abducted","Adducted"],"answerIndex":1,"explanation":"In circumduction, the distal end traces a circle while the proximal end remains relatively stationary.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q33","question":"The brachiocephalic trunk divides into the:","options":["Aorta and internal carotid artery","Axillary and brachial arteries","Right common carotid and right subclavian arteries","Left common carotid and left subclavian arteries"],"answerIndex":2,"explanation":"The brachiocephalic trunk divides into the right common carotid and right subclavian arteries.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q34","question":"Turning the sole of the foot medially is called:","options":["Eversion","Inversion","Dorsiflexion","Plantar flexion"],"answerIndex":1,"explanation":"Inversion turns the plantar surface toward the midline.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q35","question":"External intercostal muscles are attached between ribs so that they elevate the rib below from the:","options":["Superior surface of the rib below","Inferior surface of the rib above","Inferior surface of the rib below","Superior surface of the rib above"],"answerIndex":1,"explanation":"External intercostal fibres run inferoanteriorly from the inferior border of the rib above to the superior border of the rib below.","difficulty":"medium"},
+    {"id":"anatomy-paper-003-q36","question":"Which cartilage forms the epiphyseal (growth) plate?","options":["Hyaline cartilage","Fibrocartilage","Elastic cartilage","Chondroid matrix"],"answerIndex":0,"explanation":"The epiphyseal plate is composed of hyaline cartilage.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q37","question":"Nails and hair are derived from which body system?","options":["Excretory","Respiratory","Integumentary","Lymphatic"],"answerIndex":2,"explanation":"Hair and nails are epidermal derivatives of the integumentary system.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q38","question":"The sternum is also called the:","options":["Cheek bone","Bone of mastication","Breastbone","Shoulder bone"],"answerIndex":2,"explanation":"The sternum is commonly called the breastbone.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q39","question":"Melanocytes and tactile (Merkel) cells are found in which epidermal stratum?","options":["Basale","Spinosum","Granulosum","Corneum"],"answerIndex":0,"explanation":"Melanocytes and Merkel cells are associated with the stratum basale. This replaces the repeated epidermal-cell item already covered earlier in this paper.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q40","question":"Which muscle does not insert on the greater tubercle of the humerus?","options":["Subscapularis","Teres minor","Teres major","Infraspinatus"],"answerIndex":0,"explanation":"Subscapularis inserts on the lesser tubercle. Teres minor and infraspinatus insert on the greater tubercle; teres major inserts on the medial lip of the intertubercular sulcus.","difficulty":"medium"},
+    {"id":"anatomy-paper-003-q41","question":"Which blood cells are tiny biconcave discs that are thinner centrally than at their rims?","options":["Eosinophils","Erythrocytes","Kupffer cells","Leukocytes"],"answerIndex":1,"explanation":"Erythrocytes have a biconcave disc shape.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q42","question":"Which is not typically classified as a muscle of the anterior compartment of the thigh?","options":["Sartorius","Pectineus","Quadriceps femoris","Articularis genu"],"answerIndex":1,"explanation":"Pectineus is usually grouped with the medial thigh compartment, though it has dual innervation and may be considered a transitional muscle. The others are anterior-compartment muscles.","difficulty":"medium"},
+    {"id":"anatomy-paper-003-q43","question":"The larynx is the voice box and lies:","options":["At the side of the hyoid bone","Below the hyoid bone","Within the nasal cavity","Inside the oral cavity"],"answerIndex":1,"explanation":"The larynx lies inferior to the hyoid bone and connects the laryngopharynx to the trachea.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q44","question":"The gastrocnemius is a major:","options":["Dorsiflexor of the foot","Abductor of the foot","Adductor of the foot","Plantar flexor of the foot"],"answerIndex":3,"explanation":"Gastrocnemius plantar-flexes the ankle and also flexes the knee.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q45","question":"The hyoid bone lies:","options":["Below the temporal bone","Adjacent to the maxilla","At the base of the tongue","Between the nasal and frontal bones"],"answerIndex":2,"explanation":"The hyoid is in the anterior neck, suspended below the mandible and associated with the base of the tongue.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q46","question":"The glenoid cavity accommodates the:","options":["Brachial plexus nerves","Venous complex of the shoulder","Head of the humerus","Scapular spine"],"answerIndex":2,"explanation":"The glenoid cavity articulates with the head of the humerus to form the shoulder joint.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q47","question":"The atlas is the first ______ vertebra.","options":["Thoracic","Lumbar","Cervical","Sacral"],"answerIndex":2,"explanation":"The atlas is the first cervical vertebra, C1.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q48","question":"The pharynx is divided into the:","options":["Nasopharynx and oropharynx only","Nasopharynx, oropharynx and laryngopharynx","Larynx and trachea","Nasal cavity and oral cavity"],"answerIndex":1,"explanation":"The pharynx has three regions: nasopharynx, oropharynx and laryngopharynx.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q49","question":"The deltoid muscle inserts on the:","options":["Lateral epicondyle of the humerus","Head of the humerus","Patella","Deltoid tuberosity of the humerus"],"answerIndex":3,"explanation":"The deltoid inserts on the deltoid tuberosity; it originates from the clavicle and scapula.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q50","question":"The lungs are:","options":["Two and equal in size","The same structure as the pleura","Two but not equal in size","Located mainly in the abdominal cavity"],"answerIndex":2,"explanation":"There are two lungs, but the left is smaller to accommodate the heart.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q51","question":"Which motions are allowed by the wrist joint?","options":["Flexion","Extension","Circumduction","All of these"],"answerIndex":3,"explanation":"The wrist permits flexion, extension, abduction, adduction and circumduction.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q52","question":"Which list contains the main components of blood?","options":["Platelets, red blood cells, plasma and white blood cells","Red blood cells and platelets only","Proteins, plasma and neutrophils","White blood cells, red blood cells and oxygen"],"answerIndex":0,"explanation":"Blood consists of plasma and formed elements: erythrocytes, leukocytes and platelets.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q53","question":"All of the following are white blood cells except:","options":["Neutrophils","Lymphocytes","T cells","Platelets"],"answerIndex":3,"explanation":"Platelets are cell fragments involved in haemostasis, not leukocytes.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q54","question":"In the standard anatomical position, which statement is not true?","options":["The face is forward","The arms are at the sides","The palms face backward","The body is erect"],"answerIndex":2,"explanation":"In anatomical position, the palms face forward (anteriorly).","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q55","question":"Lipids are synthesised primarily in the:","options":["Golgi apparatus","Smooth endoplasmic reticulum","Rough endoplasmic reticulum","Liver only"],"answerIndex":1,"explanation":"Smooth endoplasmic reticulum is a major site of lipid synthesis.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q56","question":"The basement membrane occurs between:","options":["Muscle and nerve tissue","Epithelial and connective tissue","Connective tissue and muscle tissue","Brain and nervous tissue"],"answerIndex":1,"explanation":"The basement membrane anchors epithelium to underlying connective tissue.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q57","question":"Connective tissue fibres are produced principally by:","options":["Macrophages","Mast cells","Fibroblasts","All of these equally"],"answerIndex":2,"explanation":"Fibroblasts synthesise collagen, elastic and reticular fibres in connective tissue.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q58","question":"A general characteristic of connective tissue is that it:","options":["Contains abundant extracellular material between cells","Has no blood supply in every type","Always covers the outside of organs","Commonly lines body cavities"],"answerIndex":0,"explanation":"Connective tissue is characterised by cells dispersed in an abundant extracellular matrix; vascularity varies by tissue type.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q59","question":"Adipose tissue is a specialised form of:","options":["Dense fibrous connective tissue","Elastic connective tissue","Loose connective tissue","Reticular connective tissue"],"answerIndex":2,"explanation":"Adipose tissue is a specialised loose connective tissue.","difficulty":"easy"},
+    {"id":"anatomy-paper-003-q60","question":"The shaft of a hair is composed mainly of:","options":["Living dermal cells","Dead dermal cells","Living epidermal cells","Dead keratinised epidermal cells"],"answerIndex":3,"explanation":"The hair shaft consists of dead, keratinised cells derived from epidermis.","difficulty":"easy"}
+  ],
+  "structured": [
+    {
+      "id": "anatomy-paper-003-b01",
+      "question": "Define goblet cells, state their function, and give locations where they are found. Also state two functions of the paranasal sinuses.",
+      "marks": 10,
+      "markingGuide": [
+        "Defines goblet cells as unicellular mucus-secreting epithelial cells: 2 marks.",
+        "Explains mucus traps particles and protects/lubricates epithelium: 3 marks.",
+        "Gives respiratory tract and intestinal epithelium as locations: 3 marks.",
+        "Any two sinus functions, such as warming/humidifying air, voice resonance, reducing skull weight or mucus production: 2 marks."
+      ],
+      "modelAnswer": "Goblet cells are unicellular, mucus-secreting epithelial cells. Their mucin-rich secretion traps particles and microbes and lubricates/protects epithelial surfaces. They occur in respiratory epithelium (including trachea and bronchi) and in the intestinal lining. Paranasal sinuses contribute to voice resonance, produce mucus that drains into the nasal cavity, help condition inspired air and reduce skull weight."
+    },
+    {
+      "id": "anatomy-paper-003-b02",
+      "question": "State true or false and correct the false statements: (a) External intercostals are involved in expiration. (b) Internal intercostals are involved in inspiration. (c) The pharynx is divided into two parts.",
+      "marks": 10,
+      "markingGuide": [
+        "(a) False: external intercostals elevate ribs during inspiration: 3 marks.",
+        "(b) Generally false: interosseous internal intercostals assist forced expiration; the interchondral portion may assist inspiration: 3 marks.",
+        "(c) False: the pharynx has nasopharynx, oropharynx and laryngopharynx: 3 marks.",
+        "Clear correction: 1 mark."
+      ],
+      "modelAnswer": "(a) False. External intercostals elevate the ribs and assist inspiration. (b) Generally false. The interosseous part of internal intercostals depresses ribs during forced expiration; the interchondral part may assist inspiration. (c) False. The pharynx has three regions: nasopharynx, oropharynx and laryngopharynx."
+    },
+    {
+      "id": "anatomy-paper-003-b03",
+      "question": "(a) Define the cardiovascular system. (b) Name its pulmonary and systemic circuits, another name for an atrium, and the three layers of the heart wall from exterior to interior. (c) Explain blood flow through the heart and valves. (d) State the main function of capillaries and name the systems regulating heart function.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines cardiovascular system as heart, blood and vessels moving blood: 2 marks.",
+        "Names pulmonary and systemic circulations; atrium is an auricle: 3 marks.",
+        "Names epicardium, myocardium and endocardium in order: 3 marks.",
+        "Correct flow through chambers, lungs, valves and body: 8 marks.",
+        "Capillary exchange function: 2 marks.",
+        "Names autonomic nervous and endocrine/hormonal regulation (intrinsic conduction also acceptable with explanation): 2 marks."
+      ],
+      "modelAnswer": "The cardiovascular system consists of the heart, blood and blood vessels. The heart drives pulmonary circulation (heart to lungs and back) and systemic circulation (heart to body and back); an atrium is also called an auricle. The heart wall layers from outside inward are epicardium, myocardium and endocardium. Systemic venous blood enters the right atrium via the venae cavae, passes through the tricuspid valve to the right ventricle, and is ejected through the pulmonary valve into the pulmonary trunk and arteries to the lungs. Oxygenated blood returns through pulmonary veins to the left atrium, passes through the mitral valve to the left ventricle and is ejected through the aortic valve into the aorta and systemic circulation. Capillaries permit exchange of gases, nutrients, wastes and fluid between blood and tissues. Cardiac activity is regulated by intrinsic pacemaker/conduction tissue, autonomic nervous input and circulating hormones."
+    },
+    {
+      "id": "anatomy-paper-003-b04",
+      "question": "(a) Define artery and vein. (b) Give four anatomical differences. (c) State the two exceptions to the usual oxygenation pattern. (d) Give three functions of the lymphatic system. (e) Describe a labelled blood-vessel wall.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines arteries as carrying blood away from heart, veins toward heart: 4 marks.",
+        "Four differences: wall thickness/elasticity, lumen, pressure/pulse, valves: 6 marks.",
+        "Pulmonary arteries carry deoxygenated blood and pulmonary veins oxygenated blood: 2 marks.",
+        "Three lymphatic functions: return interstitial fluid, absorb dietary fats, immune surveillance/transport: 3 marks.",
+        "Vessel diagram/wall: tunica intima/endothelium, tunica media, tunica adventitia; lumen and valves where appropriate: 5 marks."
+      ],
+      "modelAnswer": "Arteries carry blood away from the heart; veins return blood toward it. Compared with veins arteries generally have thicker, more elastic and muscular walls, a smaller rounder lumen, higher-pressure pulsatile flow, and no valves along most of their length. Veins generally have thinner walls, larger lumina and valves, particularly in limbs. Pulmonary arteries are the exception carrying deoxygenated blood; pulmonary veins carry oxygenated blood. The lymphatic system returns excess interstitial fluid to the circulation, absorbs dietary lipids through intestinal lacteals and supports immune surveillance. A typical vessel wall has an endothelial tunica intima, smooth-muscle/elastic tunica media and connective-tissue tunica adventitia around a lumen; veins may contain valves."
+    },
+    {
+      "id": "anatomy-paper-003-b05",
+      "question": "(a) Define the respiratory system and give two functions. (b) List eight airway/respiratory structures in order. (c) Explain the nose's functions and adaptations. (d) Describe the order of airflow from nose to alveoli.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines respiratory system and two functions: 3 marks.",
+        "Lists eight correctly ordered structures: 5 marks.",
+        "Nasal functions: filtration, warming, humidifying, olfaction: 4 marks.",
+        "Adaptations: hairs, mucus/cilia, vascular mucosa, conchae/surface area: 4 marks.",
+        "Correct airway sequence through terminal respiratory structures: 4 marks."
+      ],
+      "modelAnswer": "The respiratory system comprises airways and lungs and enables oxygen uptake and carbon dioxide removal; it also contributes to acid-base regulation, phonation and olfaction. Air passes through the nose/nasal cavity, pharynx, larynx, trachea, main bronchi, smaller bronchi, bronchioles and alveolar ducts/sacs to alveoli. The nose filters, warms and humidifies air and provides olfaction. Vibrissae and mucus trap particles; cilia move mucus toward the pharynx; a vascular mucosa warms air; nasal conchae increase turbulence and contact area."
+    },
+    {
+      "id": "anatomy-paper-003-b06",
+      "question": "(a) State four functions of bones. (b) List the five bone shape classes and one example each. (c) Name four bone cell types and state their functions. (d) Give another name for the sternum.",
+      "marks": 20,
+      "markingGuide": [
+        "Four bone functions: support, protection, movement, mineral storage, blood-cell formation, fat storage: 4 marks.",
+        "Five classes with examples: long, short, flat, irregular, sesamoid: 5 marks.",
+        "Names osteogenic cells, osteoblasts, osteocytes and osteoclasts: 4 marks.",
+        "Functions of each cell type: 4 marks.",
+        "Sternum is the breastbone: 1 mark; clarity: 2 marks."
+      ],
+      "modelAnswer": "Bones support the body, protect organs, act as levers for movement, store minerals such as calcium and phosphate, house marrow for blood-cell production and store fat in yellow marrow. Shape classes include long (femur), short (carpal), flat (sternum), irregular (vertebra) and sesamoid (patella). Osteogenic cells are progenitors; osteoblasts form bone matrix; osteocytes maintain bone; osteoclasts resorb bone. The sternum is the breastbone."
+    },
+    {
+      "id": "anatomy-paper-003-b07",
+      "question": "(a) Define the skeleton and state components of the axial and appendicular skeletons. (b) Name six cranial and eight facial bones. (c) Describe key landmarks of the mandible.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines skeleton and distinguishes axial vs appendicular: 4 marks.",
+        "Axial components: skull, vertebral column, ribs, sternum: 4 marks.",
+        "Appendicular components: girdles and limbs: 3 marks.",
+        "Names six cranial bones and eight facial bones: 6 marks.",
+        "Mandible labels/landmarks: body, ramus, angle, condylar and coronoid processes, mandibular foramen: 3 marks."
+      ],
+      "modelAnswer": "The skeleton is the body's framework of bones and associated cartilage and joints. The axial skeleton comprises skull, vertebral column and thoracic cage (ribs and sternum). The appendicular skeleton comprises pectoral and pelvic girdles and upper and lower limbs. Cranial bones include frontal, parietal (paired), temporal (paired), occipital, sphenoid and ethmoid. Facial bones include maxillae, zygomatic bones, nasal bones, lacrimal bones, palatine bones, inferior nasal conchae, vomer and mandible. The mandible has a horizontal body, two rami, angle, alveolar part, mental foramen, mandibular foramen, coronoid process and condylar process."
+    },
+    {
+      "id": "anatomy-paper-003-b08",
+      "question": "Describe the order of blood vessels carrying oxygenated blood from the heart through systemic circulation and back, and explain the role of capillaries.",
+      "marks": 10,
+      "markingGuide": [
+        "Arteries to arterioles to capillaries: 3 marks.",
+        "Venules to veins and return to heart: 3 marks.",
+        "Capillary exchange role: 4 marks."
+      ],
+      "modelAnswer": "Oxygenated blood leaves the left ventricle through the aorta and systemic arteries, which branch into arterioles and then capillary beds. After exchange with tissues, blood enters venules and veins and returns through the venae cavae to the right atrium. Capillaries have thin endothelial walls that allow exchange of oxygen, carbon dioxide, nutrients, wastes and fluid."
+    },
+    {"id":"anatomy-paper-003-b09","question":"Outline three characteristics of epithelial tissues; name three medial-thigh muscles; state three anatomical differences between arteries and veins; name three cartilage types; and give three differences between cardiac and skeletal muscle.","marks":20,"markingGuide":["Any three epithelial features (closely packed cells, polarity, basement membrane, avascularity, regeneration): 4 marks.","Three medial thigh muscles (adductor longus, adductor brevis, adductor magnus, gracilis, obturator externus, pectineus): 3 marks.","Three artery-vein differences (wall, lumen, pressure, valves, direction): 4 marks.","Hyaline, elastic and fibrocartilage: 3 marks.","Three cardiac-skeletal differences (branching, nuclei, intercalated discs, voluntary control, autorhythmicity): 6 marks."],"modelAnswer":"Epithelial tissues have closely packed cells with little extracellular matrix, an apical-basal polarity, and attachment to a basement membrane; they are avascular and regenerate readily. Medial thigh muscles include adductor longus, adductor brevis and adductor magnus (also gracilis, pectineus and obturator externus). Arteries have thicker muscular/elastic walls, narrower lumina and higher-pressure pulsatile flow; veins have thinner walls, wider lumina and often valves. The three cartilage types are hyaline, elastic and fibrocartilage. Cardiac muscle is branched, usually has one central nucleus, has intercalated discs and is involuntary/autorhythmic; skeletal muscle fibres are long and unbranched, multinucleate with peripheral nuclei, lack intercalated discs and are under voluntary somatic control."},
+    {"id":"anatomy-paper-003-b10","question":"(a) Define sagittal plane, anatomical position, peroneal and plantar. (b) List the four types of body appendages. (c) Outline characteristics of diarthrotic joints and describe saddle and ellipsoid joints. (d) Name five posterior pelvic-girdle muscles. (e) Name the cranial-vault bones, body membranes, tarsals, colon portions and four respiratory organs.","marks":20,"markingGuide":["Defines four terms accurately: 3 marks.","Lists hair, nails, skin glands and mammary glands as integumentary appendages: 2 marks.","Diarthrosis features (synovial cavity, articular cartilage, capsule, synovial fluid, ligaments, freely movable): 4 marks.","Saddle and ellipsoid joint features/examples: 2 marks.","Posterior hip muscles and eight cranial-vault bones: 3 marks.","Four body membranes and seven tarsals: 3 marks.","Four colon portions and four respiratory organs: 3 marks."],"modelAnswer":"A sagittal plane divides the body into right and left portions. Anatomical position is upright, facing forward, arms at sides, palms forward and feet directed forward. Peroneal means relating to the fibula/lateral leg; plantar refers to the sole. Common integumentary appendages are hair, nails, cutaneous glands and mammary glands. Diarthroses are freely movable synovial joints with articular cartilage, a joint cavity containing synovial fluid, an articular capsule and reinforcing ligaments. A saddle joint is biaxial with reciprocally concave-convex surfaces (thumb carpometacarpal); an ellipsoid joint is biaxial (radiocarpal). Posterior hip muscles include gluteus maximus, gluteus medius, gluteus minimus, piriformis and obturator internus (deep rotators may vary by compartment convention). Cranial vault bones are frontal, occipital, sphenoid, ethmoid, paired parietals and paired temporals. Body membranes are cutaneous, mucous, serous and synovial. Tarsals are talus, calcaneus, navicular, cuboid and three cuneiforms. Colon portions are ascending, transverse, descending and sigmoid. Respiratory organs include nose/nasal cavity, pharynx, larynx, trachea, bronchi and lungs."},
+    {"id":"anatomy-paper-003-b11","question":"(a) Differentiate intramembranous from endochondral ossification. (b) Describe the structural wall of the alimentary canal. (c) Name and describe scapular landmarks. (d) State two adipose types and distinguish their main functions. (e) Complete brief histology, cell-division, thoracic anatomy, directional terminology and blood-composition questions from the supplied paper.","marks":20,"markingGuide":["Contrasts intramembranous bone formation directly from mesenchyme with endochondral replacement of a cartilage model: 4 marks.","Describes mucosa, submucosa, muscularis externa and serosa/adventitia: 5 marks.","Scapular landmarks including spine, fossae, acromion, coracoid, glenoid, borders and angles: 5 marks.","White and brown adipose tissue, energy storage vs thermogenesis: 2 marks.","Correctly identifies surface epithelium, simple squamous, mitosis/meiosis, diaphragm, proximal-distal, cytoplasm, epithelial avascularity, blood components/plasma, leukocytes, ABO groups, haemostasis and plasma proteins: 4 marks."],"modelAnswer":"Intramembranous ossification forms bone directly from mesenchymal condensations, especially in flat skull bones and part of the clavicle. Endochondral ossification replaces a hyaline-cartilage model and forms most bones, including long bones, through primary and secondary ossification centres. The alimentary canal wall comprises mucosa (epithelium, lamina propria and muscularis mucosae), submucosa, muscularis externa (usually inner circular and outer longitudinal muscle) and an outer serosa or adventitia. Scapular landmarks include the spine, supraspinous and infraspinous fossae, subscapular fossa, acromion, coracoid process, glenoid cavity, borders and angles. White adipose stores energy; brown adipose generates heat by non-shivering thermogenesis. The remaining short items are assessed for accurate standard definitions: epithelium covers surfaces; a single layer of flattened cells is simple squamous; mitosis produces diploid daughter cells while meiosis produces haploid cells; the diaphragm separates thoracic and abdominal cavities; the elbow is proximal to the wrist; cytoplasm lies between cell membrane and nuclear envelope; epithelial tissue is avascular; blood comprises plasma and formed elements; leukocytes are white blood cells; ABO groups are A, B, AB and O; haemostasis is stopping bleeding; plasma proteins include albumin, globulins and fibrinogen."},
+    {"id":"anatomy-paper-003-b12","question":"Describe the respiratory and cardiovascular anatomy relevant to the larynx, trachea, pharynx, hyoid, lungs, heart valves, systemic vessel sequence, wrist movement, blood components, epidermal stem/hair features and respiratory organs.","marks":20,"markingGuide":["Larynx, pharynx, trachea, hyoid and lung anatomy: 5 marks.","Systemic blood-flow sequence and heart valve direction: 5 marks.","Wrist movements and blood components: 4 marks.","Epidermal/skin, lipid synthesis, basement membrane, connective-tissue fibres and hair shaft: 6 marks."],"modelAnswer":"The larynx is the voice box inferior to the hyoid; the pharynx has naso-, oro- and laryngopharyngeal regions; the trachea is supported by C-shaped hyaline-cartilage rings. The hyoid lies in the anterior neck near the base of the tongue. The two lungs are unequal, with the left smaller because of the cardiac notch. Blood passes from the left ventricle through the aortic valve to systemic arteries, arterioles, capillaries, venules and veins, returning to the right atrium; valves maintain one-way flow. The wrist permits flexion, extension, abduction, adduction and circumduction. Blood consists of plasma, erythrocytes, leukocytes and platelets. Lipids are synthesised largely in smooth ER; the basement membrane separates epithelium from connective tissue; fibroblasts make connective fibres; adipose is specialised loose connective tissue; hair shafts consist of dead keratinised epidermal cells."}
+  ]
+}

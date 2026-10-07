@@ -1,0 +1,342 @@
+{
+  "id": "physiology-paper-006",
+  "courseUnit": "physiology",
+  "title": "Physiology Paper 6: The Cell, Membranes and Body Fluids",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Physiology I past paper questions (Membrane Transport pages)",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "physiology-paper-006-q01",
+      "question": "Which term describes the science that deals with the functioning of living organisms?",
+      "options": [
+        "Anatomy",
+        "Physiology",
+        "Histology",
+        "Morphology"
+      ],
+      "answerIndex": 1,
+      "explanation": "Physiology studies how living structures function; anatomy studies structure, and histology studies tissues.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q02",
+      "question": "During aerobic respiration, most of the ATP is produced in the:",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answerIndex": 2,
+      "explanation": "The citric acid cycle and oxidative phosphorylation in the mitochondria yield far more ATP than glycolysis in the cytoplasm.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q03",
+      "question": "During mitosis, the chromatids first become visible in:",
+      "options": [
+        "Interphase",
+        "Prophase",
+        "Metaphase",
+        "Anaphase"
+      ],
+      "answerIndex": 1,
+      "explanation": "Chromosomes condense and chromatids become visible during prophase, the first stage of mitosis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q04",
+      "question": "Which of the following cells can change shape?",
+      "options": [
+        "Red blood cells",
+        "Transitional (urothelial) cells",
+        "Spermatozoa",
+        "Neurons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Transitional (urothelial) cells of the urinary tract flatten and change shape as the bladder fills and empties.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-006-q05",
+      "question": "Which of the following describes cell death caused by irreversible injury and followed by inflammation?",
+      "options": [
+        "Apoptosis",
+        "Necrosis",
+        "Mitosis",
+        "Autophagy"
+      ],
+      "answerIndex": 1,
+      "explanation": "Necrosis is pathological cell death after injury that triggers inflammation; apoptosis is orderly programmed cell death.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-006-q06",
+      "question": "Platelets in blood assist in arresting bleeding by:",
+      "options": [
+        "Forming a platelet plug and releasing clotting factors",
+        "Carrying oxygen to tissues",
+        "Producing antibodies",
+        "Phagocytosing bacteria"
+      ],
+      "answerIndex": 0,
+      "explanation": "Platelets aggregate at the injury site to form a plug and release factors that promote coagulation (haemostasis).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q07",
+      "question": "A carrier protein that moves glucose into an intestinal cell against its concentration gradient uses:",
+      "options": [
+        "Simple diffusion",
+        "Osmosis",
+        "Co-transport (secondary active transport)",
+        "Facilitated diffusion"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sodium-glucose co-transport uses the sodium gradient (maintained by the Na+/K+ pump) to drive glucose against its gradient.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-006-q08",
+      "question": "Water formed during metabolic reactions in the body is called:",
+      "options": [
+        "Insensible water",
+        "Metabolic water",
+        "Extracellular water",
+        "Transcellular water"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oxidation of nutrients, fats and carbohydrates produces metabolic water as an end product of metabolism.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-006-q09",
+      "question": "Which cation is the most abundant in the extracellular fluid?",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sodium is the chief extracellular cation; potassium is the chief intracellular cation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q10",
+      "question": "Nuclear envelope breakdown and spindle attachment to kinetochores occur during:",
+      "options": [
+        "Prophase",
+        "Prometaphase",
+        "Metaphase",
+        "Anaphase"
+      ],
+      "answerIndex": 1,
+      "explanation": "In prometaphase the nuclear envelope breaks down and spindle microtubules attach to the kinetochores of the chromosomes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-006-q11",
+      "question": "Which of the following is the first and the longest phase of mitosis?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answerIndex": 0,
+      "explanation": "Prophase occupies about half of the duration of mitosis, during which the chromosomes condense and the spindle forms.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q12",
+      "question": "The disaccharide found naturally in milk is:",
+      "options": [
+        "Maltose",
+        "Sucrose",
+        "Lactose",
+        "Cellulose"
+      ],
+      "answerIndex": 2,
+      "explanation": "Lactose is the milk sugar; sucrose is table sugar, maltose is malt sugar and cellulose is a polysaccharide.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q13",
+      "question": "Glycogen is stored mainly in the:",
+      "options": [
+        "Liver and skeletal muscles",
+        "Heart and kidneys",
+        "Brain and lungs",
+        "Adipose tissue and skin"
+      ],
+      "answerIndex": 0,
+      "explanation": "The liver and skeletal muscle contain the largest glycogen stores, used to maintain blood glucose and fuel muscle contraction.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q14",
+      "question": "One third of the body's water is:",
+      "options": [
+        "Intracellular fluid",
+        "Extracellular fluid",
+        "Transcellular fluid",
+        "Lymph"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two thirds of body water is intracellular and one third is extracellular (interstitial fluid, plasma and transcellular fluid).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q15",
+      "question": "The lipid bilayer of the cell membrane is permeable to uncharged molecules EXCEPT:",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Ethanol",
+        "Glucose"
+      ],
+      "answerIndex": 3,
+      "explanation": "Small uncharged molecules such as O2, CO2 and ethanol cross the bilayer freely; glucose is large and polar and needs a carrier.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q16",
+      "question": "The following are accessory digestive organs EXCEPT:",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Gall bladder",
+        "Stomach"
+      ],
+      "answerIndex": 3,
+      "explanation": "The liver, pancreas and gall bladder are accessory organs; the stomach is part of the alimentary canal itself.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q17",
+      "question": "The cytoskeleton is responsible for all of the following EXCEPT:",
+      "options": [
+        "Maintaining cell shape",
+        "Cell movement",
+        "Intracellular transport",
+        "Synthesis of proteins"
+      ],
+      "answerIndex": 3,
+      "explanation": "The cytoskeleton maintains shape, enables movement and anchors transport; proteins are synthesised by ribosomes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q18",
+      "question": "Which nitrogenous base is present in RNA but absent in DNA?",
+      "options": [
+        "Adenine",
+        "Thymine",
+        "Uracil",
+        "Guanine"
+      ],
+      "answerIndex": 2,
+      "explanation": "RNA uses uracil in place of thymine; both nucleic acids contain adenine, guanine and cytosine.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q19",
+      "question": "In which phase of the cell cycle does DNA replication occur?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answerIndex": 1,
+      "explanation": "DNA is synthesised during the S (synthetic) phase of interphase, between G1 and G2.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-006-q20",
+      "question": "A neuron becomes depolarised when:",
+      "options": [
+        "Potassium ions flow out of the cell",
+        "Sodium ions flow into the cell",
+        "Chloride ions flow into the cell",
+        "The Na+/K+ pump moves Na+ out"
+      ],
+      "answerIndex": 1,
+      "explanation": "Opening of voltage-gated Na+ channels lets Na+ enter, raising the membrane potential towards threshold (depolarisation).",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "physiology-paper-006-b01",
+      "question": "State four differences between prokaryotic and eukaryotic cells. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Prokaryotes have no membrane-bound nucleus; eukaryotes have a true nucleus enclosed by a nuclear envelope",
+        "Prokaryotes lack membrane-bound organelles (no mitochondria, ER or Golgi); eukaryotes possess them",
+        "Prokaryotic DNA is usually circular and free in the cytoplasm; eukaryotic DNA is linear and bound to histones",
+        "Prokaryotes divide by binary fission; eukaryotes divide by mitosis or meiosis",
+        "Prokaryotes are generally smaller and simpler (70S ribosomes); eukaryotes are larger with 80S ribosomes (any four)"
+      ],
+      "modelAnswer": "Four accepted differences are: (i) a prokaryotic cell has no membrane-bound nucleus, its genetic material lying in a nucleoid region, whereas a eukaryotic cell has a true nucleus enclosed by a nuclear envelope; (ii) prokaryotes lack membrane-bound organelles such as mitochondria, endoplasmic reticulum and Golgi apparatus, while eukaryotes contain them; (iii) prokaryotic DNA is typically circular and not associated with histones, whereas eukaryotic DNA is linear and wound around histones; (iv) prokaryotes reproduce by binary fission while eukaryotes divide by mitosis or meiosis; and (v) prokaryotic cells are smaller with 70S ribosomes compared with larger eukaryotic cells with 80S ribosomes."
+    },
+    {
+      "id": "physiology-paper-006-b02",
+      "question": "Outline four functions of the cell membrane. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Selective barrier - controls what enters and leaves the cell",
+        "Transport - carries nutrients in and wastes out (passive and active)",
+        "Cell signalling - contains receptors for hormones and neurotransmitters",
+        "Cell-cell recognition - glycoproteins identify the cell to the immune system",
+        "Also accept anchoring of the cytoskeleton and cell attachment (any four)"
+      ],
+      "modelAnswer": "The cell membrane: (i) acts as a selective barrier, allowing some substances to pass while barring others; (ii) regulates transport of nutrients, ions and waste through passive and active mechanisms; (iii) carries receptor proteins that bind hormones and neurotransmitters so the cell can respond to signals; (iv) performs cell-cell recognition through glycoproteins and glycolipids, which is important for immune defence; and (v) anchors the cytoskeleton and attaches cells to one another and to the extracellular matrix."
+    },
+    {
+      "id": "physiology-paper-006-b03",
+      "question": "State four differences between simple diffusion and facilitated diffusion. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Simple diffusion crosses directly through the bilayer; facilitated diffusion requires specific carrier/channel proteins",
+        "Simple diffusion moves small nonpolar molecules; facilitated diffusion moves large or polar molecules and ions",
+        "Facilitated diffusion shows saturation when all carriers are occupied; simple diffusion does not",
+        "Facilitated diffusion can be inhibited by molecules that compete for the carrier; simple diffusion is not",
+        "Both move substances down the concentration gradient without ATP (state this similarity for context)"
+      ],
+      "modelAnswer": "Both simple and facilitated diffusion move substances down the concentration gradient without energy input, but they differ in four main ways: (i) simple diffusion passes directly through the lipid bilayer, whereas facilitated diffusion requires specific carrier or channel proteins; (ii) simple diffusion transports small, nonpolar molecules such as O2 and CO2, while facilitated diffusion transports large polar molecules such as glucose and charged ions; (iii) facilitated diffusion shows saturation kinetics - the rate plateaus when all carriers are occupied - while the rate of simple diffusion rises steadily with the gradient; and (iv) facilitated diffusion can be blocked by molecules that compete for the same carrier, whereas simple diffusion is not subject to such inhibition."
+    },
+    {
+      "id": "physiology-paper-006-b04",
+      "question": "List four factors that affect the glomerular filtration rate. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Glomerular (capillary) hydrostatic pressure, which depends on mean arterial blood pressure",
+        "Bowman's capsule (capsular) hydrostatic pressure, which opposes filtration",
+        "Glomerular plasma oncotic (colloid osmotic) pressure, which opposes filtration",
+        "Resistance of the afferent and efferent arterioles / renal plasma flow",
+        "Also accept Bowman's capsule hydrostatic pressure as the opposing force with any of the above"
+      ],
+      "modelAnswer": "Glomerular filtration rate is governed by the net filtration pressure. The main factors are: (i) glomerular hydrostatic pressure, driven by blood pressure, which promotes filtration; (ii) the hydrostatic pressure in Bowman's capsule, which opposes filtration; (iii) the glomerular colloid osmotic (oncotic) pressure due to plasma proteins, which also opposes filtration; and (iv) the resistance of the afferent and efferent arterioles together with renal plasma flow, which determine how much blood reaches the glomeruli. GFR is also related to filtration surface area and permeability of the glomerular capillaries."
+    },
+    {
+      "id": "physiology-paper-006-b05",
+      "question": "Describe the role of platelets in haemostasis. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Vasoconstriction of the damaged vessel reduces blood loss",
+        "Platelets adhere to exposed collagen (via von Willebrand factor) and become activated",
+        "Activated platelets aggregate to form a temporary platelet plug",
+        "Platelets release clotting factors that promote coagulation, and later clot retraction consolidates the clot"
+      ],
+      "modelAnswer": "Haemostasis begins with reflex vasoconstriction of the injured vessel, which reduces blood flow. Platelets then adhere to exposed collagen with the help of von Willebrand factor, become activated, change shape and release chemical mediators. More platelets are recruited so that they aggregate into a platelet plug that seals the break. The released clotting factors activate the coagulation cascade, converting fibrinogen to fibrin, which reinforces the plug into a stable clot; clot retraction then draws the wound edges together."
+    }
+  ]
+}

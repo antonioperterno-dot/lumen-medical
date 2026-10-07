@@ -36,8 +36,7 @@ export default function SearchBar({
         onChange={(event) => onChange(event.target.value)}
         placeholder={placeholder}
         aria-label="Search resources"
-        className="glass w-full rounded-xl py-3 pl-10 pr-10 text-[14px] text-white placeholder:text-faint focus:outline-none"
-        style={{ background: "rgba(255,255,255,0.08)" }}
+        className="glass-input w-full rounded-xl border border-white/10 py-3 pl-10 pr-10 text-[14px] text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
       />
       {value && (
         <button

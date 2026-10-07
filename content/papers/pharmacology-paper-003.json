@@ -1,0 +1,233 @@
+{
+  "id": "pharmacology-paper-003",
+  "courseUnit": "pharmacology",
+  "title": "Pharmacology Paper 3: ADME, Bioavailability and Routes",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T07:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Pharmacology assessments PAGES 143, 146, 152, 155",
+  "textbookReference": {
+    "label": "OpenStax Pharmacology for Nurses",
+    "url": "https://openstax.org/details/books/pharmacology-nurses"
+  },
+  "objective": [
+    {
+      "id": "pharmacology-paper-003-q01",
+      "question": "Which of the following routes of drug administration provides 100% bioavailability?",
+      "options": ["Intramuscular route", "Intradermal", "Intrathecal", "Intravenous"],
+      "answerIndex": 3,
+      "explanation": "Intravenous administration delivers drug directly into systemic circulation, so bioavailability is complete (100%).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q02",
+      "question": "Pharmacokinetics is concerned with the following except:",
+      "options": ["Absorption", "Distribution", "Potency", "Excretion"],
+      "answerIndex": 2,
+      "explanation": "Potency is a pharmacodynamic property; ADME (absorption, distribution, metabolism, excretion) are pharmacokinetic processes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q03",
+      "question": "The following dosage forms of drugs are administered through parenteral route except:",
+      "options": ["Solutions", "Suspensions", "Ointments", "Emulsions"],
+      "answerIndex": 2,
+      "explanation": "Solutions, suspensions and emulsions can be parenteral injections; ointments are topical preparations.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q04",
+      "question": "Drugs may be excreted from the body through any of the following except:",
+      "options": ["Bile", "Breast milk", "Saliva", "Liver"],
+      "answerIndex": 3,
+      "explanation": "Bile, breast milk and saliva can carry excreted drug; the liver metabolises drugs but excretion itself occurs via bile/urine/lungs and other routes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q05",
+      "question": "Chronic liver disorder may greatly interfere with drug:",
+      "options": ["Metabolism", "Absorption", "Excretion", "Distribution"],
+      "answerIndex": 0,
+      "explanation": "The liver is the major site of drug metabolism, so chronic liver disease mainly impairs metabolism.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q06",
+      "question": "The main mechanism of most drug absorption in the GI tract is:",
+      "options": ["Passive diffusion", "Filtration", "Active transport", "Endocytosis"],
+      "answerIndex": 0,
+      "explanation": "Most drugs cross GI membranes mainly by passive diffusion, though transporters and other mechanisms contribute.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q07",
+      "question": "The route of administration that is most likely to undergo first pass hepatic metabolism is:",
+      "options": ["Rectal", "Intravenous", "Intraperitoneal", "Oral"],
+      "answerIndex": 3,
+      "explanation": "Oral drugs absorbed from the gut pass via portal blood to the liver before reaching systemic circulation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q08",
+      "question": "Half-life (T1/2) is the time required to:",
+      "options": ["Metabolise half the drug into active metabolite", "Absorb half the introduced drug", "Change the amount of drug in plasma by half during elimination", "Bind half the drug to plasma protein"],
+      "answerIndex": 2,
+      "explanation": "Elimination half-life is the time for plasma concentration or amount to fall by half during elimination.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q09",
+      "question": "The liver is the major organ for drug:",
+      "options": ["Metabolism", "Excretion", "Distribution", "Absorption"],
+      "answerIndex": 0,
+      "explanation": "The liver is the main site of biotransformation, though other tissues also contribute.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q10",
+      "question": "The following are parenteral products, except:",
+      "options": ["Vials", "Prefilled syringes", "Topical patches", "Ampoules"],
+      "answerIndex": 2,
+      "explanation": "Vials, ampoules and prefilled syringes are parenteral; topical patches are transdermal, not injectable parenteral products.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q11",
+      "question": "Parenteral route of drug administration:",
+      "options": ["Cannot be used in unconscious patients", "Usually produces a more rapid response than oral route", "Is too slow for emergency use", "Generally results in less accurate dosage than oral administration"],
+      "answerIndex": 1,
+      "explanation": "Parenteral routes such as IV bypass absorption barriers and often give a more rapid, predictable response than oral dosing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q12",
+      "question": "The term bioavailability means:",
+      "options": ["Fraction of unchanged drug reaching systemic circulation following administration", "Amount of drug in urine relative to initial dose", "Permeability through the blood-brain barrier", "Plasma protein binding of the drug"],
+      "answerIndex": 0,
+      "explanation": "Bioavailability is the fraction of unchanged drug reaching systemic circulation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q13",
+      "question": "First pass metabolism means:",
+      "options": ["Fraction of the drug does not reach systemic circulation due to gut/liver metabolism", "All the drug will reach systemic circulation", "Drug has high affinity for receptors", "Relates amount of drug in body to plasma concentration only"],
+      "answerIndex": 0,
+      "explanation": "First-pass presystemic metabolism in gut wall and liver reduces the fraction reaching systemic circulation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q14",
+      "question": "Most drugs and their metabolites are excreted mainly by:",
+      "options": ["The liver", "The kidneys", "The lungs", "Perspiration"],
+      "answerIndex": 1,
+      "explanation": "Renal excretion in urine is the major route for many drugs and metabolites.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q15",
+      "question": "The major centre for drug excretion mechanisms is the:",
+      "options": ["Liver", "Kidney", "Pancreas", "Gastro-intestinal tract"],
+      "answerIndex": 1,
+      "explanation": "The kidney is the principal excretory organ for many drugs and metabolites.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-003-q16",
+      "question": "Phase II biotransformation reaction involves:",
+      "options": ["Nitrogen reduction", "Sulphoxide formation", "Sulphate conjugation", "Chemical hydrolysis"],
+      "answerIndex": 2,
+      "explanation": "Phase II is conjugation such as glucuronidation and sulphation; oxidation, reduction and hydrolysis are Phase I.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-003-q17",
+      "question": "Phase I metabolism includes the following except:",
+      "options": ["Oxidation", "Alkylation", "Hydrolysis", "Reduction"],
+      "answerIndex": 1,
+      "explanation": "Phase I includes oxidation, reduction and hydrolysis; conjugation reactions belong to Phase II.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-003-q18",
+      "question": "The conjugation phase of drug metabolism involves the following except:",
+      "options": ["Acetylation", "Methylation", "Oxidation", "Glucuronidation"],
+      "answerIndex": 2,
+      "explanation": "Acetylation, methylation and glucuronidation are conjugation Phase II; oxidation is Phase I.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-003-q19",
+      "question": "One of the typical properties of carrier-mediated drug transport is that it is:",
+      "options": ["Non-saturable", "Active transport", "Energy requiring in all cases", "Inhibitable"],
+      "answerIndex": 3,
+      "explanation": "Carrier-mediated transport is saturable, selective and can be inhibited by competing substrates.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-003-q20",
+      "question": "The higher the solubility of the drug, the higher:",
+      "options": ["Its bio-availability", "Its absorption", "Its tissue permeability", "All the above"],
+      "answerIndex": 3,
+      "explanation": "Good solubility generally favours dissolution, absorption, permeability and bioavailability, depending on the drug.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "pharmacology-paper-003-b01",
+      "question": "List four factors that affect absorption of drug from the GIT. Outline four advantages of intravenous route of drug administration. (8 marks)",
+      "marks": 8,
+      "markingGuide": [
+        "Four GIT absorption factors e.g. pH/ionisation, surface area, blood flow, motility, food, formulation: 4 marks.",
+        "Four IV advantages e.g. rapid onset, 100 percent bioavailability, titration, use when oral impossible: 4 marks."
+      ],
+      "modelAnswer": "GIT absorption is affected by pH and ionisation, lipid solubility, surface area, blood flow, gastric emptying and motility, food and interactions, and formulation/dissolution. Intravenous administration gives rapid onset, complete bioavailability, precise titration and is useful when oral dosing is impossible, in emergencies or for irritant drugs that cannot be given otherwise."
+    },
+    {
+      "id": "pharmacology-paper-003-b02",
+      "question": "(a) Define bioavailability. (1 mark) (b) Outline four factors that can affect bioavailability. (4 marks) (c) Outline four disadvantages of parenteral route of drug administration. (4 marks)",
+      "marks": 9,
+      "markingGuide": [
+        "Defines bioavailability as fraction of unchanged drug reaching systemic circulation: 1 mark.",
+        "Four factors e.g. absorption, formulation, solubility, first-pass metabolism: 4 marks.",
+        "Four parenteral disadvantages e.g. invasive, infection risk, pain, cost/skill: 4 marks."
+      ],
+      "modelAnswer": "Bioavailability is the fraction of unchanged drug reaching systemic circulation. It is affected by absorption, formulation and dissolution, solubility and permeability, first-pass metabolism, food, interactions and GI stability. Parenteral disadvantages include invasiveness and pain, infection or tissue injury risk, need for skill and sterile equipment, higher cost and difficulty reversing the dose once given."
+    },
+    {
+      "id": "pharmacology-paper-003-b03",
+      "question": "(a) Explain the various mechanisms through which drug molecules are transported across cell membranes. (8 marks) (b) Describe the phases of drug biotransformation. (8 marks)",
+      "marks": 16,
+      "markingGuide": [
+        "Passive diffusion, filtration and facilitated diffusion: 4 marks.",
+        "Active transport and vesicular transport endocytosis/exocytosis: 4 marks.",
+        "Phase I oxidation/reduction/hydrolysis and CYP role: 4 marks.",
+        "Phase II conjugation and increased water solubility for excretion: 4 marks."
+      ],
+      "modelAnswer": "Drugs cross membranes by passive diffusion down a concentration gradient, filtration through pores, carrier-mediated facilitated diffusion, active transport using ATP or coupled gradients, and vesicular transport such as endocytosis and exocytosis. Phase I metabolism includes oxidation, reduction and hydrolysis, often by cytochrome P450 enzymes. Phase II conjugates the drug or Phase I metabolite with glucuronide, sulphate or acetate, usually increasing water solubility for excretion."
+    },
+    {
+      "id": "pharmacology-paper-003-b04",
+      "question": "(a) Describe factors that may affect distribution of drug in the body. (7 marks) (b) Describe five factors that influence drug excretion. (5 marks)",
+      "marks": 12,
+      "markingGuide": [
+        "Distribution factors: blood flow, permeability, binding, barriers, body composition: 7 marks.",
+        "Excretion factors: renal function, urine pH/flow, protein binding, transporters, biliary function: 5 marks."
+      ],
+      "modelAnswer": "Distribution depends on regional blood flow, capillary permeability, lipid solubility and size, plasma-protein and tissue binding, body composition and barriers such as blood-brain and placental barriers. Excretion is influenced by renal function and filtration/secretion/reabsorption, urine pH and flow, protein binding, transporters and hepatic/biliary function."
+    },
+    {
+      "id": "pharmacology-paper-003-b05",
+      "question": "By use of a graph, describe the relationship between plasma level concentration of a drug over the course of time. Include loading and maintenance doses. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Axes and concentration-time curve correctly labelled: 3 marks.",
+        "Absorption phase, peak, distribution and elimination phases: 3 marks.",
+        "Therapeutic range, onset, duration and half-life: 2 marks.",
+        "Loading dose purpose and maintenance dose/clearance relationship: 2 marks."
+      ],
+      "modelAnswer": "A concentration-time graph has plasma concentration on the y-axis and time on the x-axis. After a non-IV dose, concentration rises during absorption, reaches a peak at Tmax, then falls as distribution and elimination occur. The minimum effective and minimum toxic concentrations define the therapeutic window. Half-life describes the fall by half during elimination. A loading dose rapidly achieves target concentration based on volume of distribution; maintenance dosing replaces eliminated drug based on clearance and target concentration."
+    }
+  ]
+}

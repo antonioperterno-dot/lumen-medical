@@ -37,6 +37,17 @@ const serwist = new Serwist({
       }),
     },
     {
+      matcher: ({ url, sameOrigin }) => sameOrigin && /^\/api\/papers(\/|$)/.test(url.pathname),
+      handler: new NetworkFirst({
+        cacheName: "lumen-papers-api",
+        networkTimeoutSeconds: 4,
+        plugins: [
+          new ExpirationPlugin({ maxEntries: 60, maxAgeSeconds: 60 * 60 * 24 * 30 }),
+          new CacheableResponsePlugin({ statuses: [0, 200] }),
+        ],
+      }),
+    },
+    {
       matcher: ({ url, sameOrigin }) =>
         sameOrigin && /^\/(api\/)?(progress|quiz)(\/|$)/.test(url.pathname),
       handler: new NetworkOnly(),
@@ -44,7 +55,7 @@ const serwist = new Serwist({
     {
       matcher: ({ url, sameOrigin, request }) =>
         sameOrigin && request.mode === "navigate" &&
-        /^\/(categories|resources|quiz|saved|profile)(\/|$)/.test(url.pathname),
+        /^(\/|\/(categories|resources|quiz|saved|profile|papers|settings|onboarding)(\/|$))/.test(url.pathname),
       handler: new NetworkFirst({
         cacheName: "lumen-pages",
         networkTimeoutSeconds: 4,

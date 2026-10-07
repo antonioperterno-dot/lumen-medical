@@ -1,0 +1,340 @@
+{
+  "id": "psychology-paper-010",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 10: Mind, Culture and Learning",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Psychology pages)",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-010-q01",
+      "question": "Psyche is a Greek word which means:",
+      "options": [
+        "Body",
+        "Soul",
+        "Blood",
+        "Spirit"
+      ],
+      "answerIndex": 1,
+      "explanation": "Psyche is the Greek word for soul or breath of life; psychology is therefore the study of the mind and behaviour.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q02",
+      "question": "Outward expression of feeling is referred to as:",
+      "options": [
+        "Mood",
+        "Affect",
+        "Sentiment",
+        "Reflex"
+      ],
+      "answerIndex": 1,
+      "explanation": "Affect is the outward, observable expression of an emotion or feeling (the mood is the underlying emotional state).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q03",
+      "question": "Which of the following is NOT one of the explicit goals of psychology as a science?",
+      "options": [
+        "Description",
+        "Explanation",
+        "Criticism",
+        "Prediction"
+      ],
+      "answerIndex": 2,
+      "explanation": "The scientific goals of psychology are to describe, explain, predict and control behaviour; criticism is not a scientific goal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q04",
+      "question": "The founding father of the psychodynamic school of thought was:",
+      "options": [
+        "Ivan Pavlov",
+        "Sigmund Freud",
+        "Carl Rogers",
+        "William James"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sigmund Freud founded the psychodynamic school, which emphasises unconscious motives and early experience.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q05",
+      "question": "The hormone melatonin, which regulates the sleep-wake cycle, is secreted by the:",
+      "options": [
+        "Adrenal gland",
+        "Pineal gland",
+        "Thyroid gland",
+        "Pituitary gland"
+      ],
+      "answerIndex": 1,
+      "explanation": "The pineal gland secretes melatonin in response to darkness, helping to regulate the sleep-wake (circadian) rhythm.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q06",
+      "question": "Which hormone released during the stress response raises blood glucose levels?",
+      "options": [
+        "Insulin",
+        "Adrenaline (epinephrine)",
+        "Thyroxine",
+        "Melatonin"
+      ],
+      "answerIndex": 1,
+      "explanation": "Adrenaline from the adrenal medulla stimulates glycogenolysis, raising blood glucose to provide energy for fight-or-flight.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q07",
+      "question": "The fight-or-flight reaction, an involuntary process that prepares the body in a threatening situation, is induced mainly by which division of the autonomic nervous system?",
+      "options": [
+        "Parasympathetic division",
+        "Enteric division",
+        "Sympathetic division",
+        "Somatic division"
+      ],
+      "answerIndex": 2,
+      "explanation": "The sympathetic division activates the fight-or-flight response: increased heart rate, dilated bronchioles and mobilised glucose.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q08",
+      "question": "John Locke stated that at birth the mind is a tabula rasa, which means:",
+      "options": [
+        "Blank slate",
+        "Instinctive mind",
+        "Racial memory",
+        "Fixed intelligence"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tabula rasa means blank slate: Locke held that knowledge comes from experience, not innate ideas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q09",
+      "question": "According to Tuckman, which stage is met with apprehension over the impending loss of identity and friendships?",
+      "options": [
+        "Forming",
+        "Storming",
+        "Norming",
+        "Adjourning"
+      ],
+      "answerIndex": 3,
+      "explanation": "In the adjourning stage members anticipate the group ending and feel apprehension about losing their identity and friendships within it.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q10",
+      "question": "In the SQ3R study method, which step immediately follows Reading?",
+      "options": [
+        "Survey",
+        "Question",
+        "Recite",
+        "Review"
+      ],
+      "answerIndex": 2,
+      "explanation": "SQ3R runs Survey, Question, Read, Recite, Review, so Recite immediately follows Read(ing).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q11",
+      "question": "According to Miller's law, short-term memory can hold about how many chunks of information at one time?",
+      "options": [
+        "3 plus or minus 1",
+        "5 plus or minus 1",
+        "7 plus or minus 2",
+        "12 plus or minus 2"
+      ],
+      "answerIndex": 2,
+      "explanation": "Miller's law gives the capacity of short-term memory as 7 plus or minus 2 chunks; chunking groups items to fit this limit.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q12",
+      "question": "Which learning style relies most heavily on reading and written notes?",
+      "options": [
+        "Visual",
+        "Auditory",
+        "Read and write",
+        "Kinaesthetic"
+      ],
+      "answerIndex": 2,
+      "explanation": "In the VARK model the read and write style is learned through information presented in written words and lists.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q13",
+      "question": "A student who learns best by handling specimens and building models prefers which learning style?",
+      "options": [
+        "Visual",
+        "Auditory",
+        "Kinaesthetic",
+        "Verbal"
+      ],
+      "answerIndex": 2,
+      "explanation": "Kinaesthetic learners learn through touch, movement and practical handling of real objects or models.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q14",
+      "question": "In Bronfenbrenner's ecological systems theory, the chronosystem refers to:",
+      "options": [
+        "The school environment",
+        "Patterns of change over time in the person or environment",
+        "The peer group",
+        "The broader culture"
+      ],
+      "answerIndex": 1,
+      "explanation": "The chronosystem adds the dimension of time: historical circumstances and transitions such as starting school shape development.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q15",
+      "question": "Which part of Freud's personality structure mediates between the demands of the id and the external world?",
+      "options": [
+        "Id",
+        "Ego",
+        "Superego",
+        "Preconscious"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ego operates on the reality principle, mediating between the id's impulses, the superego's morality and the external world.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q16",
+      "question": "According to Freud's topographic model, which material can be brought into awareness with little effort?",
+      "options": [
+        "Repressed childhood memories",
+        "Thoughts stored in the preconscious",
+        "Unconscious instinctual drives",
+        "Reflex impulses"
+      ],
+      "answerIndex": 1,
+      "explanation": "The preconscious holds information not currently aware but easily recalled, such as a stored telephone number.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q17",
+      "question": "After conditioning, a dog salivates to a bell but not to similar tones. This demonstrates:",
+      "options": [
+        "Stimulus generalisation",
+        "Stimulus discrimination",
+        "Extinction",
+        "Spontaneous recovery"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stimulus discrimination is learning to respond only to the conditioned stimulus and not to similar stimuli.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q18",
+      "question": "The reappearance of a previously extinguished conditioned response after a rest period is called:",
+      "options": [
+        "Reconditioning",
+        "Spontaneous recovery",
+        "Stimulus generalisation",
+        "Higher-order conditioning"
+      ],
+      "answerIndex": 1,
+      "explanation": "Spontaneous recovery is the return of an extinguished conditioned response after a pause, showing extinction is not erasure.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q19",
+      "question": "Which behaviour pattern is associated with a LOWER risk of cardiovascular disease?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Driven and hurried",
+        "Hostile and competitive"
+      ],
+      "answerIndex": 1,
+      "explanation": "Type B individuals are relaxed and unhurried; the hostile, hurried Type A pattern is linked to greater cardiovascular risk.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-010-q20",
+      "question": "A preoperational child who cannot take another person's point of view is showing:",
+      "options": [
+        "Conservation",
+        "Egocentrism",
+        "Animism",
+        "Centration"
+      ],
+      "answerIndex": 1,
+      "explanation": "Egocentrism is the child's inability to see situations from another person's viewpoint, typical of Piaget's preoperational stage.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-010-b01",
+      "question": "Outline four (4) ways in which culture influences health. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Cultural beliefs define what is regarded as healthy or harmful behaviour, shaping diet and lifestyle",
+        "Culture influences health-seeking behaviour, determining the use of modern medicine, traditional healers or religious care",
+        "Cultural norms affect whether and how symptoms are disclosed and whether treatment is accepted",
+        "Cultural practices such as food taboos, rites of passage and hygiene customs affect nutrition and disease risk (any four)"
+      ],
+      "modelAnswer": "Culture influences health in at least four ways: (i) beliefs shared by a culture define healthy and harmful behaviour, shaping diet, dress and lifestyle; (ii) culture shapes health-seeking behaviour, so people may consult clinics, traditional healers or religious leaders; (iii) norms affect the communication of symptoms and acceptance of treatment, for example reluctance to discuss certain illnesses; and (iv) practices such as food taboos and hygiene customs directly influence nutrition and susceptibility to disease."
+    },
+    {
+      "id": "psychology-paper-010-b02",
+      "question": "State one (1) difference between each of the following pairs:\n(a) Cultural diffusion and cultural shock\n(b) Ethnocentrism and stereotypes\n(c) Reinforcement and punishment (3 marks)",
+      "marks": 3,
+      "markingGuide": [
+        "(a) Cultural diffusion is the spread of cultural traits between groups; cultural shock is the disorientation felt when meeting an unfamiliar culture",
+        "(b) Ethnocentrism is judging other cultures by the standards of one's own; a stereotype attributes fixed traits to all members of a group",
+        "(c) Reinforcement is any consequence that strengthens behaviour; punishment is any consequence that weakens behaviour"
+      ],
+      "modelAnswer": "(a) Cultural diffusion is the process by which cultural traits such as language, food or technology spread from one society to another, whereas cultural shock is the psychological disorientation a person experiences when entering an unfamiliar culture. (b) Ethnocentrism is evaluating another culture by the standards of one's own culture, while stereotyping is holding oversimplified fixed beliefs about all members of a group. (c) Reinforcement is a consequence that increases the likelihood of a behaviour being repeated, while punishment is a consequence that decreases the likelihood of the behaviour."
+    },
+    {
+      "id": "psychology-paper-010-b03",
+      "question": "Define the following concepts as applied in learning:\n(a) Observational learning\n(b) Vicarious learning\n(c) Latent learning\n(d) Insight learning\n(e) Shaping (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "(a) Learning by watching a model and imitating the observed behaviour",
+        "(b) Acquiring new behaviour indirectly by watching others being reinforced or punished",
+        "(c) Learning that occurs without obvious reinforcement and remains hidden until a reward is offered",
+        "(d) Sudden understanding of how to solve a problem after a period of trial and error",
+        "(e) Reinforcing successive approximations until the desired behaviour is produced"
+      ],
+      "modelAnswer": "(a) Observational learning is acquiring a behaviour by watching a model and imitating it, as in Bandura's Bobo doll studies. (b) Vicarious learning is learning indirectly when we see other people rewarded or punished for their behaviour. (c) Latent learning is learning that takes place without reinforcement and stays hidden until a reward makes it apparent, as in Tolman's maze-running rats. (d) Insight learning is the sudden realisation of a solution to a problem after a period of unproductive trial, described by Gestalt psychologists. (e) Shaping is the reinforcement of successive approximations of a target behaviour until the complete behaviour is performed."
+    },
+    {
+      "id": "psychology-paper-010-b04",
+      "question": "Stating the meaning of each, outline four (4) ego defence mechanisms. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Repression - pushing threatening thoughts or memories out of conscious awareness",
+        "Projection - attributing one's own unacceptable impulses to other people",
+        "Rationalisation - inventing acceptable reasons to explain failure or unacceptable behaviour",
+        "Displacement - redirecting emotions from a threatening target to a safer one",
+        "Also accept denial, sublimation, reaction formation or regression with correct meanings (any four)"
+      ],
+      "modelAnswer": "Ego defence mechanisms protect the individual from anxiety. Repression pushes painful memories or impulses into the unconscious; projection charges other people with one's own unacceptable feelings; rationalisation invents plausible but false reasons to justify failure; and displacement redirects emotions such as anger from a threatening person to a safer target. Other accepted mechanisms include denial of reality, sublimation of drives into socially acceptable activities, reaction formation, and regression to an earlier stage of development."
+    },
+    {
+      "id": "psychology-paper-010-b05",
+      "question": "Stating the meaning of each, outline four (4) types of psychological conflicts. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Approach-approach conflict - choosing between two attractive alternatives",
+        "Avoidance-avoidance conflict - choosing between two undesirable alternatives",
+        "Approach-avoidance conflict - one goal has both attractive and unattractive features",
+        "Double (multiple) approach-avoidance conflict - two or more goals each have mixed positive and negative features",
+        "Alternatively accept intrapersonal, interpersonal, person-group and intergroup conflicts with correct meanings (any four)"
+      ],
+      "modelAnswer": "Psychological conflicts arise from competing motives. In approach-approach conflict the person must choose between two desirable goals; in avoidance-avoidance conflict the choice is between two unpleasant outcomes; in approach-avoidance conflict a single goal has both appealing and threatening aspects, so motivation fluctuates as the person nears it; and in double approach-avoidance conflict several goals each have mixed positive and negative features. Conflicts may also be classified as intrapersonal (within the individual), interpersonal (between people), person-group and intergroup."
+    }
+  ]
+}

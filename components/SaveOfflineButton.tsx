@@ -48,7 +48,9 @@ export default function SaveOfflineButton({
         });
         if (res.ok) {
           const payload = await res.json();
-          cacheWrite(`/api/resources/${resourceId}`, payload);
+          // Same encoded key ResourceReader reads — ids with "/" or spaces
+          // must resolve to the warmed cache entry, not a miss.
+          cacheWrite(`/api/resources/${encodeURIComponent(resourceId)}`, payload);
         }
       } catch {
         // Offline right now: the id is saved, and the body will be fetched on
@@ -68,8 +70,8 @@ export default function SaveOfflineButton({
       className={cn(
         "inline-flex items-center gap-2 rounded-full border px-3.5 py-2 text-[12px] font-semibold transition-colors",
         saved
-          ? "border-lumen/50 bg-lumen/12 text-lumen"
-          : "border-white/15 bg-white/5 text-white/80",
+          ? "glass-nested border-lumen/50 bg-lumen/12 text-lumen"
+          : "glass-nested border-white/15 text-white/80",
         compact && "px-3 py-1.5 text-[11px]",
         className,
       )}

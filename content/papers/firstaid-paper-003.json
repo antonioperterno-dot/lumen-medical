@@ -1,0 +1,323 @@
+{
+  "id": "firstaid-paper-003",
+  "courseUnit": "first-aid",
+  "title": "First Aid Paper 3: Ventilation, Wounds and Knots",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T13:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided First Aid and Nursing question banks",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "firstaid-paper-003-q01",
+      "question": "The purpose of artificial ventilation is to:",
+      "options": [
+        "Prevent the tongue from being swallowed",
+        "Provide a method of air exchange",
+        "Clear an upper airway obstruction",
+        "Clean a lower airway obstruction"
+      ],
+      "answerIndex": 1,
+      "explanation": "Artificial ventilation provides air exchange.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q02",
+      "question": "Nosocomial infections are?",
+      "options": [
+        "Hospital acquired",
+        "Home acquired",
+        "Related to environmental factors",
+        "Related to sharing clothes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nosocomial means hospital acquired.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q03",
+      "question": "What condition may cause a person to bleed to death?",
+      "options": [
+        "Anemia",
+        "Leukemia",
+        "Hypochondria",
+        "Haemophilia"
+      ],
+      "answerIndex": 3,
+      "explanation": "Haemophilia impairs clotting.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q04",
+      "question": "Which type of knot is mostly used in bandaging?",
+      "options": [
+        "A slip knot",
+        "Half hitch",
+        "Clove hitch",
+        "Square knot"
+      ],
+      "answerIndex": 3,
+      "explanation": "Square/reef knot is used in bandaging.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q05",
+      "question": "Delirium tremens occur as a result of?",
+      "options": [
+        "Alcohol overdose",
+        "Alcohol taken with tranquilizers",
+        "High alcohol concentration ingested quickly",
+        "Alcohol withdrawal"
+      ],
+      "answerIndex": 3,
+      "explanation": "Delirium tremens follows alcohol withdrawal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q06",
+      "question": "The temporary loss of consciousness due to lack of enough blood in the brain is caused by:",
+      "options": [
+        "Shock",
+        "Fainting",
+        "Asphyxia",
+        "Hemorrhage"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fainting is brief loss from reduced brain blood.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q07",
+      "question": "Sudden fall of high temperature to subnormal or normal is:",
+      "options": [
+        "Pyrexia",
+        "Crisis",
+        "Rigors",
+        "Hypothermia"
+      ],
+      "answerIndex": 1,
+      "explanation": "Crisis is sudden fall of fever.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q08",
+      "question": "An injury in which ligaments are partially torn is a:",
+      "options": [
+        "Strain",
+        "Sprain",
+        "Dislocation",
+        "Tendonitis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sprain injures ligaments.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q09",
+      "question": "An open wound characterized by jagged skin edges and bleeding is?",
+      "options": [
+        "Laceration",
+        "Incision",
+        "Puncture",
+        "Contusion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Laceration has jagged edges.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q10",
+      "question": "Shock caused by allergic reaction is termed as:",
+      "options": [
+        "Metabolic",
+        "Hypovolemic",
+        "Anaphylactic shock",
+        "Neurogenic shock"
+      ],
+      "answerIndex": 2,
+      "explanation": "Allergic shock is anaphylactic.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q11",
+      "question": "When administering First aid which one should be cared for first?",
+      "options": [
+        "The most painful part",
+        "The most life threatening",
+        "The most obvious area",
+        "Bleeding areas"
+      ],
+      "answerIndex": 1,
+      "explanation": "Care for the most life-threatening first.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q12",
+      "question": "It is advisable to avoid moving an injured victim until all injuries are identified so that:",
+      "options": [
+        "Authorities can know what happened",
+        "The victim does not get unnecessary pain",
+        "The victim can be stabilised",
+        "The victim does not get further injuries"
+      ],
+      "answerIndex": 3,
+      "explanation": "Avoid further injury before moving.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q13",
+      "question": "The first priority in emergency care is:",
+      "options": [
+        "Open airway",
+        "Control haemorrhage",
+        "Determine if there is pulse",
+        "Stabilise head, neck and back"
+      ],
+      "answerIndex": 0,
+      "explanation": "Open the airway first.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q14",
+      "question": "The goal of first aid for the eye with an impaled object in it is to:",
+      "options": [
+        "Stabilise the eye",
+        "Remove the impaled object",
+        "Shorten the impaled object",
+        "Deform the eye"
+      ],
+      "answerIndex": 0,
+      "explanation": "Stabilise; do not remove the object.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q15",
+      "question": "The commonest temperature taken by the first aider in the field is the:",
+      "options": [
+        "Oral temperature",
+        "Relative skin temperature",
+        "Rectal temperature",
+        "Axillary temperature"
+      ],
+      "answerIndex": 1,
+      "explanation": "Relative skin temperature is commonest in the field.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q16",
+      "question": "A first aider can prevent infection of the wound by the following, except:",
+      "options": [
+        "Applying an antibiotic on the wound",
+        "Washing hands thoroughly",
+        "Putting on gloves if available",
+        "Rinsing the wound and covering it"
+      ],
+      "answerIndex": 0,
+      "explanation": "First aiders avoid applying medication.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q17",
+      "question": "Dressings and bandages are used to:",
+      "options": [
+        "Reduce the victim's pain",
+        "Reduce internal bleeding",
+        "Control bleeding and infection",
+        "Take victims to hospital"
+      ],
+      "answerIndex": 2,
+      "explanation": "Dressings control bleeding and infection.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q18",
+      "question": "For an infant who is choking, it is advisable to perform:",
+      "options": [
+        "Heimlich manoeuvre",
+        "CPR",
+        "Strong back blows and chest thrusts",
+        "Hold infant upside down and strike"
+      ],
+      "answerIndex": 2,
+      "explanation": "Back blows and chest thrusts for infants.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q19",
+      "question": "For a victim with a burnt hand, put the hand in cool water if the burns:",
+      "options": [
+        "Are very deep",
+        "Have open blisters",
+        "Are minor with no open blisters",
+        "Have pain and oozing blood"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cool minor burns without open blisters.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-003-q20",
+      "question": "For a 15-year-old who has splashed a chemical on his face, one would:",
+      "options": [
+        "Cover the burned area",
+        "Have the victim stay calm until ambulance",
+        "Continuously flush with large amounts of water",
+        "Immediately drive to hospital"
+      ],
+      "answerIndex": 2,
+      "explanation": "Flush chemical burns with water.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "firstaid-paper-003-b01",
+      "question": "Outline four situations that may lead to choking. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Four causes such as food, toys, vomit, swelling: 4 marks."
+      ],
+      "modelAnswer": "Food, small objects, vomit and swelling can cause choking."
+    },
+    {
+      "id": "firstaid-paper-003-b02",
+      "question": "Outline the four types of burn injury. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Four types such as thermal, chemical, electrical, radiation: 4 marks."
+      ],
+      "modelAnswer": "Thermal, chemical, electrical and radiation burns."
+    },
+    {
+      "id": "firstaid-paper-003-b03",
+      "question": "Outline four importance of putting a patient in a recovery position. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Four reasons such as airway, drainage, breathing: 4 marks."
+      ],
+      "modelAnswer": "Maintains airway, allows drainage, aids breathing and monitoring."
+    },
+    {
+      "id": "firstaid-paper-003-b04",
+      "question": "Explain the acronym \"AVPU\" as used in assessment of unconscious casualties. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Alert, Voice, Pain, Unresponsive: 4 marks."
+      ],
+      "modelAnswer": "Alert, responds to Voice, responds to Pain, Unresponsive."
+    },
+    {
+      "id": "firstaid-paper-003-b05",
+      "question": "Mention four qualities of a good nurse. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Four qualities such as caring and competent: 4 marks."
+      ],
+      "modelAnswer": "Caring, competent, honest, observant and accountable."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { selectDailyQuestions } from "@/lib/daily";
-import { hasActiveMembership, isAdminConfigured, uidFromRequest } from "@/lib/firebase/admin";
+import { isAdminConfigured, uidFromRequest } from "@/lib/firebase/admin";
 import { parseProgressBody, saveQuizAttempts } from "@/lib/firebase/progress";
 import { SEED_QUIZ, getQuizPool, isTursoConfigured } from "@/lib/turso";
 import { clampInt, todayKey } from "@/lib/utils";
@@ -102,16 +102,6 @@ export async function POST(request: Request) {
       },
       { status: 202, headers: NO_STORE },
     );
-  }
-
-  if (process.env.NEXT_PUBLIC_REQUIRE_INVITE === "true") {
-    try {
-      if (!(await hasActiveMembership(uid))) {
-        return NextResponse.json({ data: null, meta: { error: "invite_required" } }, { status: 403, headers: NO_STORE });
-      }
-    } catch {
-      return NextResponse.json({ data: null, meta: { error: "access_check_unavailable" } }, { status: 503, headers: NO_STORE });
-    }
   }
 
   try {

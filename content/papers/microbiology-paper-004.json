@@ -1,0 +1,349 @@
+{
+  "id": "microbiology-paper-004",
+  "courseUnit": "microbiology",
+  "title": "Microbiology Paper 4: Viruses, Immunity and Microbial Classification",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Microbiology pages)",
+  "textbookReference": {
+    "label": "OpenStax Microbiology 2e",
+    "url": "https://openstax.org/details/books/microbiology-2e"
+  },
+  "objective": [
+    {
+      "id": "microbiology-paper-004-q01",
+      "question": "Substances that are used against microorganisms may be described as:",
+      "options": [
+        "Potent",
+        "Protein",
+        "Liquid",
+        "Cidal",
+        "Polysaccharide"
+      ],
+      "answerIndex": 3,
+      "explanation": "Anti-microbial agents are described by their action as cidal (killing) or static (inhibiting), e.g. bactericidal, bacteriostatic, fungicidal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q02",
+      "question": "Which of the following diseases is NOT caused by a virus?",
+      "options": [
+        "Smallpox",
+        "Influenza",
+        "Bubonic plague",
+        "AIDS",
+        "SARS"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bubonic plague is caused by the bacterium Yersinia pestis; smallpox, influenza, AIDS and SARS are viral diseases.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q03",
+      "question": "Which of the following signs and symptoms is not linked to Haemophilus influenzae?",
+      "options": [
+        "Otitis media",
+        "Pneumonia",
+        "Malaria",
+        "Epiglottitis"
+      ],
+      "answerIndex": 2,
+      "explanation": "Malaria is caused by Plasmodium parasites transmitted by mosquitoes; H. influenzae causes otitis media, pneumonia, epiglottitis and meningitis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q04",
+      "question": "Which of the following is not a DNA virus?",
+      "options": [
+        "Adenovirus",
+        "Calicivirus",
+        "Papovavirus",
+        "Poxvirus"
+      ],
+      "answerIndex": 1,
+      "explanation": "Caliciviruses carry a single-stranded RNA genome; adenoviruses, papovaviruses (papillomaviruses/polyomaviruses) and poxviruses are DNA viruses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-004-q05",
+      "question": "Which of the following is not an RNA virus?",
+      "options": [
+        "Reovirus",
+        "Orthomyxovirus",
+        "Delta virus",
+        "Herpesvirus"
+      ],
+      "answerIndex": 3,
+      "explanation": "Herpesviruses have double-stranded DNA genomes; reoviruses, orthomyxoviruses (influenza) and hepatitis delta virus are RNA viruses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-004-q06",
+      "question": "Edward Jenner's main contribution to the science of immunology was that he:",
+      "options": [
+        "Found a cure for rabies",
+        "Invented the disposable syringe and needle",
+        "Developed penicillin",
+        "Developed the world's first vaccine"
+      ],
+      "answerIndex": 3,
+      "explanation": "In 1796 Edward Jenner introduced vaccination with cowpox to protect against smallpox, founding the practice of immunisation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q07",
+      "question": "Which of the following is NOT a function of antibodies?",
+      "options": [
+        "Mark pathogens for phagocytosis",
+        "Stimulate formation of the membrane attack complex by complement",
+        "Neutralise pathogens by binding to them",
+        "Display antigens on the surface of antigen-presenting cells"
+      ],
+      "answerIndex": 3,
+      "explanation": "Antigen display on MHC molecules is a function of antigen-presenting cells such as macrophages and dendritic cells, not of antibodies.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-004-q08",
+      "question": "Which of the following statements about helper T cells is FALSE?",
+      "options": [
+        "Helper T cells stimulate B cells to proliferate",
+        "Helper T cells assist cytotoxic T lymphocytes in killing infected cells",
+        "Helper T cells stimulate antibody production by B cells",
+        "Helper T cells present antigens with MHC class II molecules to other lymphocytes"
+      ],
+      "answerIndex": 3,
+      "explanation": "Helper T cells recognise antigen presented on MHC class II by antigen-presenting cells; they do not themselves present antigen with MHC class II to other lymphocytes.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "microbiology-paper-004-q09",
+      "question": "Which of the following is NOT a property of the innate immune system?",
+      "options": [
+        "Uses physical barriers such as skin and certain cells of the body",
+        "Is the body's primary line of defence",
+        "Employs non-specific defence mechanisms",
+        "Employs specific defence mechanisms",
+        "Has a fast response"
+      ],
+      "answerIndex": 3,
+      "explanation": "Specificity and immunological memory are properties of adaptive immunity; the innate system acts rapidly and non-specifically.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q10",
+      "question": "Which of the following is NOT true of the adaptive immune system?",
+      "options": [
+        "It has memory of prior infections",
+        "It can adapt to specific threats",
+        "It produces antibodies to fight disease",
+        "It responds immediately to germ exposure"
+      ],
+      "answerIndex": 3,
+      "explanation": "Adaptive responses take days to develop on first exposure because lymphocytes must be activated and expanded; the innate response is the immediate one.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q11",
+      "question": "Monocytes move from the systemic circulatory system into general connective tissues, where they differentiate into which phagocytic cell type?",
+      "options": [
+        "Macrophage",
+        "T cell",
+        "B cell",
+        "Neutrophil"
+      ],
+      "answerIndex": 0,
+      "explanation": "Blood monocytes leave the circulation and mature into tissue macrophages (or dendritic cells) that phagocytose debris and pathogens.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q12",
+      "question": "Which of the following microorganisms is NOT matched correctly with its isolation medium?",
+      "options": [
+        "Fungi - Sabouraud's agar",
+        "Neisseria gonorrhoeae - pink colony media",
+        "Haemophilus influenzae - chocolate agar",
+        "Mycobacterium tuberculosis - Lowenstein-Jensen agar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Neisseria gonorrhoeae is isolated on selective media such as Thayer-Martin (which produces green colonies on GC agar), not on pink-colony (MacConkey) media, which select Gram-negative enterics.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "microbiology-paper-004-q13",
+      "question": "Normal flora would typically have what type of relationship with its host?",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Parasitism",
+        "Antagonism"
+      ],
+      "answerIndex": 1,
+      "explanation": "Normal flora are classically commensals: they benefit from the host without harming it, although many interactions are also mutually beneficial.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-004-q14",
+      "question": "What is a nosocomial infection?",
+      "options": [
+        "An infection of the mucous membrane of the nose",
+        "An infection acquired from a health care environment",
+        "An infection transmitted by nasal secretions",
+        "An infection acquired while travelling abroad"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nosocomial (healthcare-associated) infections are acquired in hospitals or other healthcare facilities rather than in the community.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q15",
+      "question": "Which of the following best describes what a pandemic is?",
+      "options": [
+        "An infectious disease that kills people quickly",
+        "A vaccination programme that eliminates an infectious disease",
+        "An infectious disease that kills a large number of people",
+        "An infectious disease that spreads across a large geographic region"
+      ],
+      "answerIndex": 3,
+      "explanation": "A pandemic is an epidemic that spreads over several countries or continents, affecting a large proportion of the population.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q16",
+      "question": "Disinfectants are substances that are:",
+      "options": [
+        "Bactericidal",
+        "Used at low concentration",
+        "Most effective at high protein content",
+        "Not effective against spores",
+        "Not generally used to eradicate microorganisms from inanimate material"
+      ],
+      "answerIndex": 3,
+      "explanation": "Disinfectants reduce microbial numbers on inanimate objects but, with the exception of strong sporicidal agents, do not reliably kill bacterial spores.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-004-q17",
+      "question": "What is a key difference between the lytic and the lysogenic viral life cycles?",
+      "options": [
+        "Cells are lysed in the lysogenic cycle; they are not lysed in the lytic cycle",
+        "Viral DNA or RNA is incorporated into the host genome in the lytic cycle and not in the lysogenic cycle",
+        "New virions are assembled and released immediately during the lysogenic cycle",
+        "Cells are lysed in the lytic cycle; they are not lysed in the lysogenic cycle",
+        "When the lysogenic cycle is initiated, the virus can never later enter the lytic cycle"
+      ],
+      "answerIndex": 3,
+      "explanation": "In the lytic cycle the host cell is lysed as new virions are released, whereas in the lysogenic cycle the viral genome persists in the host without immediate lysis (and may later be induced into the lytic cycle).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-004-q18",
+      "question": "Which term refers to a viral life cycle that leads to the immediate production of progeny, destruction of the host cell, and release of many virions?",
+      "options": [
+        "Lysogenic",
+        "Lytic",
+        "Intracellular",
+        "Intercellular",
+        "Latent"
+      ],
+      "answerIndex": 1,
+      "explanation": "The lytic cycle ends with burst of the host cell and release of newly assembled virions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-004-q19",
+      "question": "A DNA virus that infects humans and incorporates its genetic material into the host's genome is best described as:",
+      "options": [
+        "Lysogenic",
+        "Lytic",
+        "Bacteriophage",
+        "Retrovirus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Integration of a DNA viral genome into the host chromosome with continued presence of the virus is the lysogenic (temperate) pattern, as seen with herpesviruses and HPV.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-004-q20",
+      "question": "The major role of T cells in the immune response includes which one of the following?",
+      "options": [
+        "Recognition of epitopes presented with major histocompatibility complex (MHC) molecules on cell surfaces",
+        "Complement fixation",
+        "Phagocytosis",
+        "Production of antibodies"
+      ],
+      "answerIndex": 0,
+      "explanation": "T cells recognise antigen fragments presented on MHC molecules; antibody production is by plasma (B-lineage) cells and phagocytosis by innate cells.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "microbiology-paper-004-b01",
+      "question": "Define zoonotic diseases. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Definition: diseases transmissible between animals and humans",
+        "Mention that the causative agents spread from animals directly or via products/secretions",
+        "Credit any correct example, e.g. rabies, brucellosis, anthrax",
+        "Credit a note on the animal reservoir or vector"
+      ],
+      "modelAnswer": "Zoonotic diseases are infections that are naturally transmissible from vertebrate animals to humans; they may be spread by direct contact with infected animals, by ingestion of contaminated animal products, by arthropod vectors or by aerosols (examples include rabies, anthrax, brucellosis and salmonellosis)."
+    },
+    {
+      "id": "microbiology-paper-004-b02",
+      "question": "Name at least three (3) bacteria that cause zoonotic diseases in humans. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Any three of: Bacillus anthracis, Brucella species, Leptospira species",
+        "Also acceptable: Yersinia pestis, Coxiella burnetii, Mycobacterium bovis, Francisella tularensis",
+        "One mark per correct organism, up to three",
+        "One mark for correct spelling/presentation"
+      ],
+      "modelAnswer": "Three examples are Bacillus anthracis (anthrax), Brucella species (brucellosis) and Leptospira species (leptospirosis); other correct answers include Mycobacterium bovis, Yersinia pestis, Coxiella burnetii and Francisella tularensis."
+    },
+    {
+      "id": "microbiology-paper-004-b03",
+      "question": "Bacteria are classified into Gram-negative and Gram-positive. Using a table, describe the stepwise procedure of Gram staining. (12 marks)",
+      "marks": 12,
+      "markingGuide": [
+        "Table format with reagent / step / time / result columns",
+        "Step 1: flood smear with crystal violet (primary stain) for about 1 minute - all cells appear purple",
+        "Step 2: add Gram's iodine (mordant) for about 1 minute - forms crystal violet-iodine complex",
+        "Step 3: decolourise with alcohol or acetone for a few seconds - Gram-positive retain purple, Gram-negative lose colour",
+        "Step 4: counterstain with safranin for about 1 minute - Gram-negative appear red/pink, Gram-positive remain purple",
+        "Step 5: blot dry, examine under oil immersion; credit control organisms and interpretation"
+      ],
+      "modelAnswer": "Gram staining proceeds: (1) crystal violet for 1 minute, rinsing with water between steps; (2) Gram's iodine as mordant for 1 minute; (3) rapid decolourisation with 95% alcohol or acetone until runoff is clear; (4) safranin counterstain for 1 minute; (5) blot dry and view under the oil-immersion lens. Gram-positive bacteria retain the purple crystal violet-iodine complex because of their thick peptidoglycan, while Gram-negative bacteria take up the red safranin and appear pink."
+    },
+    {
+      "id": "microbiology-paper-004-b04",
+      "question": "Cells can be divided into prokaryotes and eukaryotes. (12 marks)\n(a) Define prokaryotes and give two examples. (6 marks)\n(b) Define eukaryotes and give two examples. (6 marks)",
+      "marks": 12,
+      "markingGuide": [
+        "(a) Definition: simple cells lacking a membrane-bound nucleus and organelles",
+        "(a) Two examples: bacteria (e.g. Escherichia coli) and archaea",
+        "(a) Note absence of histones/80S-type organisation, circular chromosome in nucleoid",
+        "(b) Definition: cells with a true membrane-bound nucleus and membrane-bound organelles",
+        "(b) Two examples: animal cells (e.g. human epithelial cell) and plant cells (e.g. onion cell)",
+        "(b) Note linear chromosomes, mitosis, mitochondria, endoplasmic reticulum"
+      ],
+      "modelAnswer": "(a) Prokaryotes are simple cells in which the genetic material lies free in the cytoplasm (nucleoid) without a surrounding nuclear membrane and which lack membrane-bound organelles; examples are bacteria such as Escherichia coli and archaea. (b) Eukaryotes are cells that contain a true nucleus enclosed by a nuclear membrane together with membrane-bound organelles such as mitochondria and endoplasmic reticulum; examples are human (animal) cells and plant cells."
+    },
+    {
+      "id": "microbiology-paper-004-b05",
+      "question": "List four (4) common characteristics of microorganisms. (8 marks)",
+      "marks": 8,
+      "markingGuide": [
+        "They are microscopic, i.e. too small to be seen with the naked eye",
+        "They are composed largely of water and organic molecules with a cellular structure",
+        "They reproduce mainly by binary fission, budding or spore formation",
+        "They require nutrients, moisture, suitable pH and temperature for growth",
+        "Credit any other valid shared characteristic, e.g. ability to cause disease or exist as saprophytes"
+      ],
+      "modelAnswer": "Common characteristics of microorganisms include: they are microscopic in size; they have a cellular organisation (prokaryotic or eukaryotic) containing water, proteins, carbohydrates and nucleic acids; they reproduce rapidly by fission, budding or sporulation; and they require nutrients, moisture, suitable temperature and pH to grow, with many able to cause disease or to live as saprophytes."
+    }
+  ]
+}

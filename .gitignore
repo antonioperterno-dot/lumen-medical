@@ -39,3 +39,11 @@ serviceAccountKey.json
 firebase-debug.log
 firestore-debug.log
 .env*
+
+# debug / local diagnostics — never commit
+_debug/
+buildlog.txt
+*.log
+ws_dev.log
+typecheck_baseline.txt
+tsconfig.tsbuildinfo

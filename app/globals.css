@@ -10,11 +10,17 @@
 @layer base {
   :root {
     --lumen-green: #39ff88;
-    --lumen-canvas: #0a0a0a;
-    --lumen-glass: rgba(255, 255, 255, 0.1);
-    --lumen-glass-border: rgba(255, 255, 255, 0.14);
-    --lumen-text-dim: rgba(255, 255, 255, 0.62);
-    --lumen-text-faint: rgba(255, 255, 255, 0.42);
+    --lumen-canvas: #091321;
+    /* Three tiers of glass: shell (cards), nested (rows inside cards), input
+       (fields and option controls). Keep in sync with the light override. */
+    --lumen-glass: #1e293b;
+    --lumen-glass-border: #334155;
+    --lumen-glass-nested: #1e293b;
+    --lumen-glass-nested-border: #334155;
+    --lumen-glass-input: #1e293b;
+    --lumen-glass-input-border: #334155;
+    --lumen-text-dim: rgba(248, 250, 252, 0.72);
+    --lumen-text-faint: #94a3b8;
 
     /* Height of the bottom nav incl. the iOS home-indicator safe area.
        Pages pad against this so content is never hidden behind the nav. */
@@ -32,15 +38,29 @@
   }
 
   html[data-theme="light"] {
-    --lumen-canvas: #f4f7f5;
-    --lumen-glass: rgba(255, 255, 255, 0.82);
-    --lumen-glass-border: rgba(12, 40, 24, 0.14);
-    --lumen-text-dim: rgba(12, 24, 16, 0.68);
-    --lumen-text-faint: rgba(12, 24, 16, 0.48);
+    /* Match the reference slate palette while retaining a lighter page canvas. */
+    --lumen-canvas: #edf5ff;
+    --lumen-glass: #1e293b;
+    --lumen-glass-border: #334155;
+    --lumen-glass-nested: #1e293b;
+    --lumen-glass-nested-border: #334155;
+    --lumen-glass-input: #1e293b;
+    --lumen-glass-input-border: #334155;
+    --lumen-text-dim: rgba(248, 250, 252, 0.72);
+    --lumen-text-faint: #94a3b8;
   }
 
   html[data-theme="light"] body {
-    color: #102017;
+    color: #17304f;
+  }
+  html[data-theme="light"] .placeholder\:text-faint::placeholder {
+    color: #94a3b8;
+  }
+  html[data-theme="light"] .glass,
+  html[data-theme="light"] .glass-strong,
+  html[data-theme="light"] .glass-nested {
+    background-color: #1e293b;
+    border-color: #334155;
   }
 
   /* Tablet — more room on screen, so the content gets more air. */
@@ -123,21 +143,52 @@
 @layer components {
   /* ---------------------------------------------------------------------
      Glassmorphism card — the reusable surface used across the entire app.
-     Translucent white 10% + backdrop-blur + rounded-2xl.
+     Slate-blue fill + #334155 border + backdrop-blur + rounded-2xl.
      --------------------------------------------------------------------- */
   .glass {
     background: var(--lumen-glass);
     border: 1px solid var(--lumen-glass-border);
     -webkit-backdrop-filter: blur(20px) saturate(160%);
     backdrop-filter: blur(20px) saturate(160%);
+    /* Apple-style hairline: a lit top edge makes the pane read as glass even
+       where the backdrop behind it is nearly black. */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.07);
     border-radius: 1rem;
   }
 
   .glass-strong {
-    background: rgba(255, 255, 255, 0.14);
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: #1e293b;
+    border: 1px solid #334155;
     -webkit-backdrop-filter: blur(28px) saturate(180%);
     backdrop-filter: blur(28px) saturate(180%);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  }
+  html[data-theme="light"] .glass-strong {
+    background: #1e293b;
+    border-color: #334155;
+  }
+
+  /* ---------------------------------------------------------------------
+     Nested surfaces — rows, tiles and controls use the shared slate card fill
+     and border, keeping all card-like surfaces consistent across themes.
+     --------------------------------------------------------------------- */
+  .glass-nested {
+    background: var(--lumen-glass);
+    border: 1px solid var(--lumen-glass-border);
+    -webkit-backdrop-filter: blur(6px) saturate(140%);
+    backdrop-filter: blur(6px) saturate(140%);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    border-radius: 0.75rem;
+  }
+
+  /* Inputs and option pills — the innermost tier. Barely-there blur, just
+     enough to keep the backdrop visible through the control itself. */
+  .glass-input {
+    background: var(--lumen-glass-input);
+    border: 1px solid var(--lumen-glass-input-border);
+    -webkit-backdrop-filter: blur(4px) saturate(130%);
+    backdrop-filter: blur(4px) saturate(130%);
+    border-radius: 0.75rem;
   }
 
   /* Press feedback: the card scales down slightly, like an iOS cell. */
@@ -149,7 +200,10 @@
   }
   .glass-pressable:active {
     transform: scale(0.975);
-    background: rgba(255, 255, 255, 0.16);
+    background: #334155;
+  }
+  html[data-theme="light"] .glass-pressable:active {
+    background: #334155;
   }
 
   /* ---------------------------------------------------------------------
@@ -159,7 +213,7 @@
   .skeleton {
     position: relative;
     overflow: hidden;
-    background: rgba(255, 255, 255, 0.07);
+    background: rgba(112, 177, 255, 0.12);
     border-radius: 0.75rem;
     /* Respect users who ask for reduced motion — show a flat block instead. */
     contain: paint;
@@ -197,9 +251,13 @@
 
   .pill-muted {
     @apply inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-medium;
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.06);
     color: var(--lumen-text-dim);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: 1px solid #334155;
+  }
+  html[data-theme="light"] .pill-muted {
+    background: rgba(51, 65, 85, 0.7);
+    border-color: #334155;
   }
 
   /* Bottom-nav item label + icon pairing. */
@@ -245,18 +303,54 @@
     scrollbar-width: none;
   }
 
-  /* Faint green radial ambience behind the header. */
+  /* Full-viewport green ambience: top glow, opposite-corner glow and a cool
+     accent low on the page. This is what the glass cards refract — without
+     it, backdrop-blur over a flat black canvas just yields flat black.
+     Static gradients only: zero animation cost. */
   .lumen-aurora {
     background:
       radial-gradient(
-        60% 45% at 15% 0%,
-        rgba(57, 255, 136, 0.16) 0%,
+        65% 45% at 12% 0%,
+        rgba(57, 255, 136, 0.22) 0%,
         transparent 70%
       ),
       radial-gradient(
-        50% 40% at 95% 5%,
-        rgba(57, 255, 136, 0.08) 0%,
+        55% 40% at 95% 4%,
+        rgba(57, 255, 136, 0.12) 0%,
         transparent 70%
+      ),
+      radial-gradient(
+        60% 45% at 88% 72%,
+        rgba(57, 255, 136, 0.1) 0%,
+        transparent 72%
+      ),
+      radial-gradient(
+        50% 40% at 8% 88%,
+        rgba(64, 158, 255, 0.08) 0%,
+        transparent 72%
+      );
+  }
+  html[data-theme="light"] .lumen-aurora {
+    background:
+      radial-gradient(
+        65% 45% at 12% 0%,
+        rgba(57, 255, 136, 0.3) 0%,
+        transparent 70%
+      ),
+      radial-gradient(
+        55% 40% at 95% 4%,
+        rgba(57, 255, 136, 0.18) 0%,
+        transparent 70%
+      ),
+      radial-gradient(
+        60% 45% at 88% 72%,
+        rgba(57, 255, 136, 0.14) 0%,
+        transparent 72%
+      ),
+      radial-gradient(
+        50% 40% at 8% 88%,
+        rgba(64, 158, 255, 0.14) 0%,
+        transparent 72%
       );
   }
 }
@@ -315,8 +409,103 @@
       background 0.2s ease;
   }
   .nav-rail-item:hover {
-    background: rgba(255, 255, 255, 0.06);
-    color: #ffffff;
+    background: rgba(112, 177, 255, 0.12);
+    color: #eaf3ff;
+  }
+  html[data-theme="light"] .nav-rail-item:hover {
+    color: #eaf3ff;
+  }
+
+  /* Keep text readable on dark slate cards without changing the page chrome. */
+  .glass > [class~="text-white"],
+  .glass-strong > [class~="text-white"],
+  .glass-nested > [class~="text-white"] {
+    color: #f8fafc;
+  }
+  .glass > [class~="text-white/90"],
+  .glass-strong > [class~="text-white/90"],
+  .glass-nested > [class~="text-white/90"] {
+    color: rgba(248, 250, 252, 0.9);
+  }
+  .glass > [class~="text-white/85"],
+  .glass-strong > [class~="text-white/85"],
+  .glass-nested > [class~="text-white/85"] {
+    color: rgba(248, 250, 252, 0.86);
+  }
+  .glass > [class~="text-white/80"],
+  .glass-strong > [class~="text-white/80"],
+  .glass-nested > [class~="text-white/80"] {
+    color: rgba(248, 250, 252, 0.82);
+  }
+  .glass > [class~="text-white/70"],
+  .glass-strong > [class~="text-white/70"],
+  .glass-nested > [class~="text-white/70"] {
+    color: rgba(248, 250, 252, 0.76);
+  }
+  .glass > [class~="text-dim"],
+  .glass-strong > [class~="text-dim"],
+  .glass-nested > [class~="text-dim"] {
+    color: rgba(248, 250, 252, 0.72);
+  }
+  .glass > [class~="text-faint"],
+  .glass-strong > [class~="text-faint"],
+  .glass-nested > [class~="text-faint"] {
+    color: #94a3b8;
+  }
+
+  /* Pinned colors to match the palette for controls inside nested cards. */
+  .glass-nested [class~="border-white/10"],
+  .glass-nested [class~="border-white/15"],
+  .glass-nested [class~="border-white/20"] {
+    border-color: #334155;
+  }
+  .glass-nested [class~="bg-white/10"] {
+    background-color: #334155;
+  }
+  .glass-nested [class~="text-white"],
+  .glass-nested [class~="text-white/90"] {
+    color: #f8fafc;
+  }
+  .glass-nested [class~="text-faint"] {
+    color: #94a3b8;
+  }
+  .quiz-option {
+    background-color: #1e293b !important;
+    border-color: #334155 !important;
+    color: #f8fafc;
+  }
+  .quiz-option:hover:not(:disabled),
+  .quiz-option:focus-visible:not(:disabled),
+  .quiz-option[data-state="selected"] {
+    background-color: #334155 !important;
+    border-color: #334155 !important;
+  }
+  .quiz-option[data-state="correct"] {
+    background-color: #166534 !important;
+    border-color: #166534 !important;
+  }
+  .quiz-option[data-state="wrong"] {
+    background-color: #991b1b !important;
+    border-color: #991b1b !important;
+  }
+  .quiz-option[data-state="correct"] .quiz-option-label,
+  .quiz-option[data-state="wrong"] .quiz-option-label {
+    border-color: currentColor;
+    color: #f8fafc;
+  }
+  .quiz-option:disabled:not([data-state]) {
+    opacity: 0.6;
+  }
+  .quiz-option-label {
+    color: #94a3b8;
+  }
+  .quiz-action {
+    background-color: #3b82f6;
+    color: #f8fafc;
+  }
+  .quiz-action:disabled {
+    background-color: #334155;
+    color: #94a3b8;
   }
   .nav-rail-item[data-active="true"] {
     background: rgba(57, 255, 136, 0.12);

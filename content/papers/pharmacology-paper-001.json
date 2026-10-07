@@ -1,0 +1,681 @@
+{
+  "id": "pharmacology-paper-001",
+  "courseUnit": "pharmacology",
+  "title": "Pharmacology Paper 1: Principles, Drug Disposition and Prescribing",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Pharmacology assessments and pharmacology question banks",
+  "textbookReference": {
+    "label": "OpenStax Pharmacology for Nurses",
+    "url": "https://openstax.org/details/books/pharmacology-nurses"
+  },
+  "objective": [
+    {
+      "id": "pharmacology-paper-001-q01",
+      "question": "Teratogenicity is a harmful drug effect on the:",
+      "options": ["Brain", "Developing embryo or fetus", "Kidney", "Liver"],
+      "answerIndex": 1,
+      "explanation": "A teratogen can disrupt embryonic or fetal development and cause congenital abnormalities or functional impairment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q02",
+      "question": "Which is not a natural or biological source from which drugs may be obtained?",
+      "options": ["Animals", "Microorganisms", "Pharmacy", "Plants"],
+      "answerIndex": 2,
+      "explanation": "Pharmacy is a place or profession, not a natural source. Drugs may originate from plants, animals, minerals and microorganisms, or be synthesised.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q03",
+      "question": "Most drugs are absorbed across the gastrointestinal mucosa primarily by:",
+      "options": [
+        "Active transport",
+        "Endocytosis and exocytosis",
+        "Filtration",
+        "Passive diffusion"
+      ],
+      "answerIndex": 3,
+      "explanation": "Many drugs cross gastrointestinal membranes mainly by passive diffusion, though transporters and other mechanisms also contribute.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q04",
+      "question": "Idiosyncrasy refers to a:",
+      "options": [
+        "Type of drug antagonism",
+        "Typical hypersensitivity reaction",
+        "Predictable dose-related exaggerated response",
+        "Unpredictable, unusual qualitative response to a drug"
+      ],
+      "answerIndex": 3,
+      "explanation": "An idiosyncratic drug reaction is unusual and unpredictable, often related to individual genetic or biological variation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q05",
+      "question": "The therapeutic index is used as an indicator of a drug's:",
+      "options": [
+        "Bioavailability",
+        "Effectiveness alone",
+        "Elimination rate",
+        "Relative safety or margin between therapeutic and toxic doses"
+      ],
+      "answerIndex": 3,
+      "explanation": "Therapeutic index compares toxic and effective dose measures; a wider index generally indicates a larger safety margin.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q06",
+      "question": "Pharmacokinetics is the study of:",
+      "options": [
+        "Absorption, distribution, metabolism and excretion of drugs",
+        "Biological and therapeutic effects of drugs",
+        "Mechanisms of drug action at receptors",
+        "Methods of new drug development"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pharmacokinetics describes what the body does to a drug: ADME.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q07",
+      "question": "The half-life of a drug is the time required for the plasma concentration or amount in the body to:",
+      "options": [
+        "Be absorbed by one half",
+        "Bind half of the drug to plasma protein",
+        "Decrease by one half during elimination",
+        "Be metabolised into active metabolite"
+      ],
+      "answerIndex": 2,
+      "explanation": "Elimination half-life is the time for plasma concentration or amount in the body to fall by 50% during the elimination phase.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q08",
+      "question": "Drug biotransformation is:",
+      "options": [
+        "Accumulation of a substance in tissues",
+        "Binding of a drug to plasma protein",
+        "The body's chemical alteration of a drug",
+        "Filtration of a drug into urine"
+      ],
+      "answerIndex": 2,
+      "explanation": "Biotransformation (drug metabolism) is enzymatic chemical modification of a drug, often in the liver.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q09",
+      "question": "A rapid decrease in responsiveness after repeated doses over a short time is called:",
+      "options": [
+        "Cumulative effect",
+        "Refractoriness",
+        "Tachyphylaxis",
+        "Tolerance"
+      ],
+      "answerIndex": 2,
+      "explanation": "Tachyphylaxis is rapidly developing tolerance after closely repeated doses.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q10",
+      "question": "Which route generally produces the most rapid systemic drug response?",
+      "options": ["Intravenous", "Oral", "Intra-articular", "Intramuscular"],
+      "answerIndex": 0,
+      "explanation": "Intravenous administration delivers drug directly into systemic circulation, producing an immediate bioavailability and typically rapid effect.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q11",
+      "question": "A drug that binds to a receptor and activates it, possessing affinity and efficacy, is an:",
+      "options": ["Agonist", "Placebo", "Antagonist", "Enzyme inhibitor only"],
+      "answerIndex": 0,
+      "explanation": "Agonists bind receptors (affinity) and activate them (efficacy). Antagonists bind without activating the receptor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q12",
+      "question": "Which factor does NOT usually prolong a drug's action?",
+      "options": [
+        "Reduced renal tubular reabsorption",
+        "Rich enterohepatic circulation",
+        "Slow biotransformation",
+        "High plasma-protein binding"
+      ],
+      "answerIndex": 0,
+      "explanation": "Reduced renal tubular reabsorption tends to increase drug excretion and shorten action. The other listed factors can prolong persistence depending on the drug.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q13",
+      "question": "Pharmacokinetics is concerned with all of the following except:",
+      "options": ["Absorption", "Distribution", "Potency", "Excretion"],
+      "answerIndex": 2,
+      "explanation": "Potency is a pharmacodynamic property describing the dose/concentration needed for an effect; ADME are pharmacokinetic processes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q14",
+      "question": "Which drug is commonly used as a hypnotic or sedative?",
+      "options": ["Diazepam", "Ergometrine", "Ethambutol", "Propranolol"],
+      "answerIndex": 0,
+      "explanation": "Diazepam is a benzodiazepine with anxiolytic, sedative and muscle-relaxant effects; it may be used for sedation, though it is not a preferred routine insomnia treatment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q15",
+      "question": "The dose that produces a specified desired effect in 50% of a population is the:",
+      "options": [
+        "Median effective dose (ED50)",
+        "Median toxic dose (TD50)",
+        "Loading dose",
+        "Maintenance dose"
+      ],
+      "answerIndex": 0,
+      "explanation": "ED50 is the median effective dose in a population; it is distinct from a loading or maintenance dose.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q16",
+      "question": "Which drug is not an NSAID?",
+      "options": ["Diclofenac", "Aspirin (ASA)", "Piroxicam", "Tramadol"],
+      "answerIndex": 3,
+      "explanation": "Tramadol is an opioid analgesic, not a non-steroidal anti-inflammatory drug.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q17",
+      "question": "The preferred name for prescribing medicines in most health systems is the:",
+      "options": [
+        "Brand name",
+        "Chemical name",
+        "Generic (international non-proprietary) name",
+        "Traditional name"
+      ],
+      "answerIndex": 2,
+      "explanation": "Generic prescribing improves clarity and supports procurement of equivalent products.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q18",
+      "question": "The major organ responsible for excretion of many drugs and metabolites is the:",
+      "options": ["Liver", "Kidney", "Pancreas", "Gastrointestinal tract"],
+      "answerIndex": 1,
+      "explanation": "The kidneys excrete many drugs and metabolites in urine, though other routes also exist.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q19",
+      "question": "Engulfment of a large particle or molecule by the cell membrane into a vesicle is generally called:",
+      "options": ["Phagocytosis", "Endocytosis", "Exocytosis", "Pinocytosis"],
+      "answerIndex": 1,
+      "explanation": "Endocytosis is the general process of vesicular uptake; phagocytosis is uptake of large particles and pinocytosis is uptake of fluid/solutes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q20",
+      "question": "Synergism occurs when:",
+      "options": [
+        "Two or more drugs produce a greater combined therapeutic effect",
+        "Two drugs produce a lower therapeutic effect",
+        "One drug alone produces a higher effect",
+        "Two drugs always cause tissue toxicity"
+      ],
+      "answerIndex": 0,
+      "explanation": "Synergism describes an enhanced combined effect; the exact interaction may be additive or greater than additive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q21",
+      "question": "Pharmacodynamics is concerned with how drugs:",
+      "options": [
+        "Are used to diagnose, prevent and treat illness only",
+        "Are derived from natural sources",
+        "Produce therapeutic and other effects in the body",
+        "Are absorbed, distributed, metabolised and excreted"
+      ],
+      "answerIndex": 2,
+      "explanation": "Pharmacodynamics is what a drug does to the body, including mechanisms and effects.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q22",
+      "question": "When a drug is taken repeatedly and its effects build up because doses arrive before prior doses are eliminated, this is:",
+      "options": [
+        "Cumulative effect",
+        "Refractoriness",
+        "Tolerance",
+        "Tachyphylaxis"
+      ],
+      "answerIndex": 0,
+      "explanation": "A cumulative effect occurs when repeated doses accumulate in the body. Tolerance is reduced response; tachyphylaxis is rapid tolerance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q23",
+      "question": "The most common route of excretion for many drugs and metabolites is through the:",
+      "options": [
+        "Liver into bile only",
+        "Kidneys into urine",
+        "Lungs into expired air",
+        "Sweat glands"
+      ],
+      "answerIndex": 1,
+      "explanation": "Renal excretion is a major route for many drugs and metabolites.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q24",
+      "question": "Affinity describes:",
+      "options": [
+        "How tightly a drug binds to its receptor",
+        "How tightly a drug binds to plasma proteins",
+        "The fraction reaching systemic circulation",
+        "The degree of inhibition of metabolism"
+      ],
+      "answerIndex": 0,
+      "explanation": "Affinity is the tendency or strength of binding between a drug and its receptor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q25",
+      "question": "An antagonist is a substance that generally:",
+      "options": [
+        "Binds a receptor and produces a maximal response",
+        "Binds a receptor without activating it and blocks agonist action",
+        "Produces a submaximal response as a partial agonist",
+        "Binds plasma proteins but never affects receptors"
+      ],
+      "answerIndex": 1,
+      "explanation": "A receptor antagonist has affinity but lacks efficacy and prevents or reduces agonist activation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q26",
+      "question": "A parenteral product is NOT usually supplied as a:",
+      "options": ["Vial", "Prefilled syringe", "Topical patch", "Ampoule"],
+      "answerIndex": 2,
+      "explanation": "Vials, prefilled syringes and ampoules are common parenteral dosage forms; a topical patch is transdermal/enteral in route classification, not parenteral injection.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q27",
+      "question": "Compared with oral administration, parenteral administration often:",
+      "options": [
+        "Cannot be used in unconscious patients",
+        "Produces a more rapid response",
+        "Is too slow for emergency use",
+        "Always gives less accurate dosing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Parenteral routes such as IV can produce rapid, predictable responses and can be used when a patient cannot take oral medicine.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q28",
+      "question": "Most drug absorption across the gastrointestinal tract occurs by:",
+      "options": [
+        "Passive diffusion",
+        "Filtration only",
+        "Active transport only",
+        "Endocytosis"
+      ],
+      "answerIndex": 0,
+      "explanation": "Passive diffusion is the most common mechanism for absorption of many drugs across GI membranes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q29",
+      "question": "Which can cause variation in an individual's response to a drug?",
+      "options": [
+        "Hypersensitivity",
+        "Tachyphylaxis",
+        "Changes in receptor number",
+        "All of these, as well as comorbidities"
+      ],
+      "answerIndex": 3,
+      "explanation": "Drug response varies with allergy, tolerance/tachyphylaxis, receptor regulation, genetics, age, disease and other medicines.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q30",
+      "question": "Bioavailability is the:",
+      "options": [
+        "Fraction of unchanged drug reaching systemic circulation",
+        "Amount of drug recovered in urine",
+        "Ability to cross the blood-brain barrier only",
+        "Fraction bound to plasma proteins"
+      ],
+      "answerIndex": 0,
+      "explanation": "Bioavailability is the fraction of an administered dose that reaches systemic circulation unchanged.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q31",
+      "question": "First-pass metabolism refers to:",
+      "options": [
+        "Presystemic metabolism that reduces the fraction reaching systemic circulation",
+        "All drug reaching systemic circulation unchanged",
+        "High affinity of a drug for receptors",
+        "The relationship between dose and plasma concentration"
+      ],
+      "answerIndex": 0,
+      "explanation": "First-pass metabolism occurs in gut wall and/or liver after enteral absorption and before the drug reaches systemic circulation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q32",
+      "question": "Which is the most appropriate route when a rapid, complete systemic drug effect is required in an emergency?",
+      "options": ["Intravenous", "Oral", "Transdermal", "Topical"],
+      "answerIndex": 0,
+      "explanation": "IV administration provides direct access to systemic circulation and is often preferred when an immediate titratable effect is needed, if clinically appropriate.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q33",
+      "question": "Which route largely avoids hepatic first-pass metabolism?",
+      "options": ["Oral", "Sublingual", "Intraduodenal", "Swallowed capsule"],
+      "answerIndex": 1,
+      "explanation": "Sublingual absorption enters systemic venous drainage and largely bypasses initial portal-liver passage.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q34",
+      "question": "Which route is enteral rather than parenteral?",
+      "options": ["Intravenous", "Intramuscular", "Oral", "Subcutaneous"],
+      "answerIndex": 2,
+      "explanation": "Oral administration is enteral; IV, IM and subcutaneous routes are parenteral.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q35",
+      "question": "If an agonist produces the maximum response possible at a receptor system, it is called a:",
+      "options": ["Full agonist", "Antagonist", "Placebo", "Inverse agonist"],
+      "answerIndex": 0,
+      "explanation": "A full agonist can produce the system's maximal response when sufficient receptors are occupied.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q36",
+      "question": "Which dosage form is a dispersion of liquid droplets of one liquid in another immiscible liquid?",
+      "options": ["Gelatin capsule", "Emulsion", "Lozenge", "Tablet"],
+      "answerIndex": 1,
+      "explanation": "An emulsion is a dispersion of droplets of one immiscible liquid in another, such as oil in water.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q37",
+      "question": "Which is an example of a propionic-acid derivative NSAID?",
+      "options": ["Ibuprofen", "Naproxen", "Ketoprofen", "All of the above"],
+      "answerIndex": 3,
+      "explanation": "Ibuprofen, naproxen and ketoprofen are propionic-acid derivative NSAIDs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q38",
+      "question": "Which antibiotic is generally bacteriostatic at usual concentrations?",
+      "options": [
+        "Tetracycline",
+        "Ampicillin",
+        "Amoxicillin",
+        "Benzylpenicillin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tetracyclines are generally bacteriostatic; beta-lactams such as penicillins are generally bactericidal when actively growing bacteria are susceptible.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q39",
+      "question": "Phenoxymethylpenicillin suspension contains 250 mg per 5 mL. How much drug is in a 200 mL bottle?",
+      "options": ["1,250 mg", "10,000 mg", "100,000 mg", "50,000 mg"],
+      "answerIndex": 1,
+      "explanation": "250 mg/5 mL = 50 mg/mL; 50 mg/mL × 200 mL = 10,000 mg.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q40",
+      "question": "Which penicillin is relatively resistant to staphyloccal penicillinase?",
+      "options": [
+        "Flucloxacillin",
+        "Ampicillin",
+        "Amoxicillin",
+        "Penicillin V"
+      ],
+      "answerIndex": 0,
+      "explanation": "Flucloxacillin is a penicillinase-resistant penicillin used for susceptible staphyloccal infections; local guidelines and resistance patterns apply.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q41",
+      "question": "A drug's absorption is its movement:",
+      "options": [
+        "From the site of administration into systemic circulation",
+        "From blood into tissues",
+        "From the liver into bile",
+        "From plasma into urine"
+      ],
+      "answerIndex": 0,
+      "explanation": "Absorption is movement from the administration site into the systemic circulation; IV administration bypasses an absorption step.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q42",
+      "question": "A liquid preparation in which fat/oil droplets are dispersed in water is a(n):",
+      "options": ["Gelatin", "Emulsion", "Lozenge", "Solution"],
+      "answerIndex": 1,
+      "explanation": "An emulsion is a dispersion of droplets of one liquid in another immiscible liquid.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q43",
+      "question": "Lignocaine combined with adrenaline is an example of an interaction that:",
+      "options": [
+        "Can prolong local anaesthesia through vasoconstriction",
+        "Always reduces lignocaine absorption to zero",
+        "Is pharmacological antagonism",
+        "Prevents receptor binding"
+      ],
+      "answerIndex": 0,
+      "explanation": "Adrenaline-induced local vasoconstriction slows systemic uptake of lignocaine and can prolong local anaesthesia; use dose and patient precautions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q44",
+      "question": "Maintenance dosing is primarily determined by a drug's clearance and the desired:",
+      "options": [
+        "Target steady-state concentration",
+        "Volume of distribution only",
+        "Peak concentration only",
+        "Chemical name"
+      ],
+      "answerIndex": 0,
+      "explanation": "Maintenance dose rate is based principally on clearance multiplied by target concentration, adjusted for bioavailability and dosing interval.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q45",
+      "question": "Which is a common route for administration of a drug intended for local skin effect?",
+      "options": ["Topical", "Intravenous", "Intra-articular", "Intrathecal"],
+      "answerIndex": 0,
+      "explanation": "Topical administration applies a medicine to the skin or mucosal surface for primarily local effect, though systemic absorption may occur.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q46",
+      "question": "Which is the main route of drug excretion for many medicines and metabolites?",
+      "options": [
+        "Renal excretion in urine",
+        "Sweat only",
+        "Hair growth",
+        "Exhaled air only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The kidneys excrete many drugs and metabolites, although biliary and other routes also contribute.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q47",
+      "question": "Which is NOT generally a factor influencing drug distribution?",
+      "options": [
+        "Regional blood flow",
+        "Plasma-protein binding",
+        "Molecular size and tissue permeability",
+        "Elimination half-life alone"
+      ],
+      "answerIndex": 3,
+      "explanation": "Distribution is influenced by blood flow, binding, permeability and physicochemical properties. Half-life reflects both distribution and elimination but is not itself a direct distribution mechanism.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-001-q48",
+      "question": "The preferred generic prescribing name is generally the:",
+      "options": [
+        "International non-proprietary name",
+        "Brand name only",
+        "Chemical formula",
+        "Manufacturer's internal code"
+      ],
+      "answerIndex": 0,
+      "explanation": "The international non-proprietary (generic) name is standard for clear, non-brand-specific prescribing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q49",
+      "question": "Which medication administration route is generally considered enteral?",
+      "options": ["Oral", "Intramuscular", "Intravenous", "Subcutaneous"],
+      "answerIndex": 0,
+      "explanation": "Oral administration uses the gastrointestinal tract and is enteral; injection routes are parenteral.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-001-q50",
+      "question": "A medicine's potency describes:",
+      "options": [
+        "The dose or concentration needed to produce a specified effect",
+        "Its ability to bind a receptor only",
+        "Whether it has efficacy and affinity",
+        "Its maximum possible effect only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Potency describes how much drug is needed to produce a given effect; efficacy describes the maximal effect achievable.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "pharmacology-paper-001-b01",
+      "question": "Define drug, agonist and efficacy. Distinguish chemical, generic and trade names. Name four sites of drug biotransformation and define a capsule with two types.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines drug and agonist: 4 marks.",
+        "Defines efficacy as capacity to produce response: 2 marks.",
+        "Distinguishes chemical, generic and trade names: 5 marks.",
+        "Names liver, gut wall, plasma and other tissues as metabolism sites: 4 marks.",
+        "Defines capsule and names hard- and soft-shell capsules: 5 marks."
+      ],
+      "modelAnswer": "A drug is a chemical substance used to diagnose, prevent or treat disease or modify physiological function. An agonist binds a receptor and activates it. Efficacy is the ability of a drug-receptor complex to produce a response. A chemical name describes molecular structure; a generic name is the recognised non-proprietary name; a trade name is a manufacturer's brand. Drug biotransformation occurs mainly in the liver but can also occur in intestinal mucosa, plasma, kidneys, lungs and other tissues. A capsule is a solid dosage form in which medicine is enclosed in a shell; common types are hard-shell and soft-shell capsules."
+    },
+    {
+      "id": "pharmacology-paper-001-b02",
+      "question": "(a) Define intravenous administration and give four advantages. (b) Expand: pm, bid, pc, ac and qs. (c) State four factors affecting drug absorption and four factors affecting biotransformation.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines IV as direct administration into a vein: 2 marks.",
+        "Four advantages: rapid onset, complete bioavailability, precise titration, useful when oral route unavailable: 6 marks.",
+        "Correct safe expansions of abbreviations: 5 marks; note pm is context-dependent and should be clarified.",
+        "Four absorption factors: pH/ionisation, surface area, blood flow, formulation, food, motility or lipid solubility: 4 marks.",
+        "Four biotransformation factors: age, genetics, liver function, enzyme induction/inhibition, blood flow, nutrition: 3 marks."
+      ],
+      "modelAnswer": "Intravenous administration delivers a medicine directly into a vein. Advantages include rapid onset, complete systemic bioavailability, precise dose titration and use when oral administration is impossible or unsuitable. Common abbreviations: bid = twice daily; pc = after meals; ac = before meals; qs = quantity sufficient. ‘pm’ can mean after noon or as directed depending on context, so it should be written unambiguously. Absorption is affected by route, formulation/dissolution, pH and ionisation, lipid solubility, surface area, blood flow, food and GI motility. Metabolism is affected by age, genetics, liver function and blood flow, nutrition, disease and enzyme induction or inhibition."
+    },
+    {
+      "id": "pharmacology-paper-001-b03",
+      "question": "(a) State factors considered when selecting essential medicines and qualities of an essential medicine. (b) Describe strategies for rational medicine use and four parts of a prescription.",
+      "marks": 20,
+      "markingGuide": [
+        "Selection factors: burden of disease, efficacy, safety, quality, cost-effectiveness and local service capacity: 7 marks.",
+        "Qualities: evidence-based, safe, effective, quality-assured, affordable and appropriate formulations: 5 marks.",
+        "Rational-use strategies: standard treatment guidelines, essential medicines list, prescriber education, audit, reliable supply and patient counselling: 4 marks.",
+        "Prescription parts: patient/date, superscription, inscription, subscription, signa/prescriber details: 4 marks."
+      ],
+      "modelAnswer": "Essential medicines are selected according to public-health relevance and disease burden, evidence of efficacy and safety, comparative cost-effectiveness, quality, local treatment capacity and availability of suitable formulations. They should meet priority needs, be quality-assured, affordable, effective and safe. Rational-use strategies include standard treatment guidelines, an essential medicines list, continuing prescriber education, audit and feedback, reliable procurement, antimicrobial stewardship and patient counselling. A complete prescription identifies the patient and date, contains the superscription (Rx), inscription (medicine and strength), subscription (dispensing instructions), signa (patient directions) and prescriber identification/signature."
+    },
+    {
+      "id": "pharmacology-paper-001-b04",
+      "question": "Discuss factors affecting drug distribution, the phases/mechanism of drug metabolism and the general properties used to describe a drug.",
+      "marks": 20,
+      "markingGuide": [
+        "Distribution factors: blood flow, capillary permeability, lipid solubility, ionisation, plasma/tissue binding, barriers and volume of distribution: 7 marks.",
+        "Phase I oxidation/reduction/hydrolysis and role of CYP enzymes: 4 marks.",
+        "Phase II conjugation and increased water solubility: 4 marks.",
+        "Drug properties including potency, efficacy, affinity, selectivity, therapeutic index and duration: 5 marks."
+      ],
+      "modelAnswer": "Drug distribution depends on regional blood flow, capillary permeability, lipid solubility, molecular size, ionisation, plasma-protein and tissue binding, body composition and barriers such as the blood-brain and placental barriers. Phase I metabolism includes oxidation, reduction and hydrolysis, often involving cytochrome P450 enzymes; it may expose or add functional groups. Phase II metabolism conjugates the parent drug or a Phase I metabolite with endogenous substrates such as glucuronide, sulfate or acetate, usually increasing water solubility for excretion. Drugs are described by potency (dose for a given effect), efficacy (maximum effect), affinity (binding), selectivity, therapeutic index, onset, duration, bioavailability and clearance."
+    },
+    {
+      "id": "pharmacology-paper-001-b05",
+      "question": "(a) Define bioavailability and state four factors affecting it. (b) Explain factors affecting GI drug absorption. (c) Describe five rights of medication administration.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines bioavailability as fraction of unchanged drug reaching systemic circulation: 2 marks.",
+        "Four bioavailability factors, including absorption, formulation, solubility, first-pass metabolism: 4 marks.",
+        "Explains GI absorption factors: pH/ionisation, surface area, blood flow, motility, food, transporters and stability: 8 marks.",
+        "Five rights: right patient, medicine, dose, route and time; documentation/indication may also be credited: 6 marks."
+      ],
+      "modelAnswer": "Bioavailability is the fraction of an administered dose that reaches systemic circulation unchanged. It is affected by extent of absorption, dosage form dissolution, solubility, chemical stability, gut-wall metabolism and hepatic first-pass metabolism. GI absorption varies with drug lipid solubility and ionisation (related to pH and pKa), surface area, local blood flow, gastric emptying and intestinal motility, food and interactions, transporters and formulation. Five medication-administration rights are the right patient, medicine, dose, route and time; good practice also verifies indication, allergies, documentation and patient understanding."
+    },
+    {
+      "id": "pharmacology-paper-001-b06",
+      "question": "(a) Explain therapeutic index and factors that modify drug effects. (b) Compare drug resistance with drug tolerance and outline causes of antimicrobial resistance. (c) State factors affecting drug excretion.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines therapeutic index (TD50/ED50 or LD50/ED50 in experimental contexts): 3 marks.",
+        "Factors modifying drug effects: age, body size, genetics, disease, pregnancy, interactions, route, tolerance and adherence: 5 marks.",
+        "Distinguishes microbial drug resistance from host pharmacological tolerance: 4 marks.",
+        "Resistance causes: mutation, gene transfer, selection pressure, misuse/overuse, incomplete courses/infection control: 4 marks.",
+        "Excretion factors: renal function, urine pH/flow, protein binding, transporters, hepatic/biliary function: 4 marks."
+      ],
+      "modelAnswer": "Therapeutic index is a comparative measure of safety, commonly TD50/ED50 (or LD50/ED50 in experimental settings); a larger ratio generally indicates a wider margin between effective and toxic doses. Drug response is modified by age, weight/body composition, genetics, pregnancy, organ function, disease, route, dose, interactions, adherence and tolerance. Drug resistance is the ability of a microorganism to survive an antimicrobial concentration that would normally inhibit it; tolerance is a reduced response of the patient or organism after repeated exposure and is not the same as inherited antimicrobial resistance. Resistance develops through mutation and horizontal gene transfer and is selected by inappropriate antimicrobial use, inadequate infection control and exposure pressure. Drug excretion depends on renal function and filtration/secretion/reabsorption, urine pH and flow, protein binding, transporters and biliary/hepatic function."
+    },
+    {
+      "id": "pharmacology-paper-001-b07",
+      "question": "Describe a plasma concentration-time profile after a dose, including onset, therapeutic range, peak, duration, elimination and factors that alter the curve. Explain loading and maintenance doses.",
+      "marks": 20,
+      "markingGuide": [
+        "Axes and concentration-time curve correctly labelled: 4 marks.",
+        "Absorption/rising phase, peak concentration and distribution: 4 marks.",
+        "Therapeutic range, minimum effective concentration and toxicity threshold: 4 marks.",
+        "Elimination phase, half-life and duration: 4 marks.",
+        "Loading dose purpose and maintenance dose/clearance relationship: 4 marks."
+      ],
+      "modelAnswer": "A concentration-time graph has plasma concentration on the y-axis and time on the x-axis. After a non-IV dose, concentration rises during absorption, reaches a peak (Cmax) at Tmax, then falls as distribution and elimination occur. The minimum effective concentration and minimum toxic concentration define a therapeutic window; onset begins when concentration crosses the effective threshold and duration ends when it falls below it. Half-life describes the time for concentration to fall by half during elimination. A loading dose rapidly achieves a target concentration and depends mainly on volume of distribution and target concentration; maintenance dosing replaces eliminated drug and depends mainly on clearance, target concentration, bioavailability and dosing interval."
+    },
+    {
+      "id": "pharmacology-paper-001-b08",
+      "question": "(a) Describe routes and dosage forms of drug administration, giving advantages and disadvantages of enteral and parenteral routes. (b) Explain how drugs cross cell membranes.",
+      "marks": 20,
+      "markingGuide": [
+        "Names dosage forms and routes with examples: 4 marks.",
+        "Enteral advantages/disadvantages, including convenience and first pass/variable absorption: 4 marks.",
+        "Parenteral advantages/disadvantages, including rapid/predictable delivery and invasiveness/sterility: 4 marks.",
+        "Passive diffusion, filtration/facilitated diffusion: 4 marks.",
+        "Active transport and vesicular transport (endo-/exocytosis): 4 marks."
+      ],
+      "modelAnswer": "Dosage forms include tablets, capsules, solutions, suspensions, emulsions, creams, ointments, inhalers and injections. Enteral routes include oral, buccal/sublingual and rectal; oral administration is convenient and generally safe but may have variable absorption and first-pass metabolism. Parenteral routes include IV, IM and subcutaneous; they can provide rapid or predictable delivery and are useful when oral dosing is impossible, but require appropriate asepsis and may cause pain or complications. Drugs cross membranes by passive diffusion down a concentration gradient, filtration through pores, carrier-mediated facilitated diffusion, active transport using ATP or coupled gradients, and vesicular transport such as endocytosis or exocytosis."
+    },
+    {
+      "id": "pharmacology-paper-001-b09",
+      "question": "(a) Describe drug effects on the fetus and factors influencing fetal risk. (b) Outline the quality of a good prescription and common causes of irrational medicine use.",
+      "marks": 20,
+      "markingGuide": [
+        "Explains placental transfer and possible embryotoxic, teratogenic, fetotoxic or neonatal effects: 6 marks.",
+        "Risk factors: drug, dose, timing/developmental stage, duration, maternal/fetal factors: 4 marks.",
+        "Prescription quality: clear, complete, legible, appropriate, generic where suitable and includes dose/route/frequency/duration: 5 marks.",
+        "Irrational-use causes: polypharmacy, unnecessary antimicrobials, patient demand, poor guidelines, misinformation, cost/supply issues: 5 marks."
+      ],
+      "modelAnswer": "Many medicines cross the placenta. Depending on the medicine, dose and timing, fetal effects may include pregnancy loss, structural malformations during organogenesis, growth restriction, functional effects, fetotoxicity or neonatal withdrawal/toxicity. Risk depends on drug properties, dose, duration, gestational age, maternal disease and fetal susceptibility; medicine use in pregnancy requires an individual risk-benefit assessment. A good prescription is legible, complete, evidence-based and unambiguous, identifying the patient, date, generic medicine where appropriate, formulation/strength, dose, route, frequency, duration, quantity and prescriber. Irrational use can result from unnecessary polypharmacy, inappropriate antibiotics/injections, inadequate diagnostic information, poor guideline access, commercial influence, patient demand, weak regulation, stock-outs and insufficient counselling or follow-up."
+    }
+  ]
+}

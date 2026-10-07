@@ -10,7 +10,6 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "seed:turso": "node --env-file=.env.local scripts/seed-turso.mjs",
-    "invite:create": "node --env-file=.env.local scripts/create-invites.mjs",
     "paper:import": "node --env-file=.env.local scripts/import-paper.mjs",
     "icons": "node scripts/generate-icons.mjs",
     "deploy:vercel": "vercel deploy --prod",

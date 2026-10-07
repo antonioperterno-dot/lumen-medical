@@ -7,7 +7,6 @@ import ServiceWorkerRegistrar from "@/components/ServiceWorkerRegistrar";
 import OfflineBanner from "@/components/OfflineBanner";
 import { AuthProvider } from "@/lib/firebase/AuthContext";
 import { ProgressProvider } from "@/lib/progress/ProgressProvider";
-import AccessGate from "@/components/AccessGate";
 
 /**
  * Inter is loaded through next/font so it is self-hosted and available
@@ -64,12 +63,11 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#0A0A0A",
+  themeColor: "#091321",
   width: "device-width",
   initialScale: 1,
-  // Lock zoom so the app feels native rather than like a web page.
-  maximumScale: 1,
-  userScalable: false,
+  // Never lock zoom: low-vision students must be able to pinch-zoom drug tables.
+  maximumScale: 5,
   // Required for the iPhone notch / Dynamic Island and the home indicator.
   viewportFit: "cover",
 };
@@ -80,31 +78,37 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" className={inter.variable} suppressHydrationWarning>
       <head>
         {/* Tells iOS this app is web-app-capable when launched from the home screen. */}
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="mobile-web-app-capable" content="yes" />
         <link rel="apple-touch-startup-image" href="/icons/splash.png" />
+        {/* Apply the saved theme before first paint so there is no dark-flash on
+            reload. `system` (or unset) means: follow prefers-color-scheme. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem("lumen:v1:theme");var m=window.matchMedia&&window.matchMedia("(prefers-color-scheme: light)").matches;var e=t==="light"||(!t||t==="system")&&m?"light":"dark";if(e==="light")document.documentElement.dataset.theme="light";}catch(e){}})();`,
+          }}
+        />
       </head>
       <body className="relative min-h-[100dvh] bg-canvas">
-        {/* Ambient green glow behind all content. */}
+        {/* Ambient green glow behind ALL content — the backdrop the glass
+            cards refract. Full-viewport so the effect reaches every screen. */}
         <div
           aria-hidden
-          className="pointer-events-none fixed inset-x-0 top-0 h-[420px] lumen-aurora"
+          className="pointer-events-none fixed inset-0 lumen-aurora"
         />
 
         <AuthProvider>
-          <AccessGate>
-            <ProgressProvider>
-              <OnboardingGate />
-              <OfflineBanner />
-              <main className="relative mx-auto w-full max-w-[520px] pb-nav">
-                {children}
-              </main>
-              <BottomNav />
-            </ProgressProvider>
-          </AccessGate>
+          <ProgressProvider>
+            <OnboardingGate />
+            <OfflineBanner />
+            <main className="relative mx-auto w-full max-w-[520px] pb-nav">
+              {children}
+            </main>
+            <BottomNav />
+          </ProgressProvider>
         </AuthProvider>
 
         <ServiceWorkerRegistrar />

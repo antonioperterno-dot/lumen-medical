@@ -47,6 +47,7 @@ export default function ResourceReader({ id }: { id: string }) {
   const secondsBuffer = useRef(0);
 
   const resource = data?.data ?? null;
+  const resourceId = resource?.id;
   const stub = !resource?.body_md;
 
   /* ------------------------------------------------------------------ */
@@ -107,14 +108,14 @@ export default function ResourceReader({ id }: { id: string }) {
 
   /* Time on task, only while the tab is actually visible. */
   useEffect(() => {
-    if (!resource) return;
+    if (!resourceId) return;
     const timer = setInterval(() => {
       if (document.visibilityState === "visible") {
         secondsBuffer.current += TICK_MS / 1000;
       }
     }, TICK_MS);
     return () => clearInterval(timer);
-  }, [resource?.id]);
+  }, [resourceId]);
 
   const storedPercent = resource ? percentFor(resource.id) : 0;
   const percent = Math.max(storedPercent, visiblePercent);
@@ -122,15 +123,15 @@ export default function ResourceReader({ id }: { id: string }) {
   const blocks = useMemo(() => parseMarkdown(resource?.body_md), [resource?.body_md]);
 
   useEffect(() => {
-    if (!resource) return;
+    if (!resourceId) return;
     try {
       setCheckedMilestones(
-        JSON.parse(window.localStorage.getItem(`lumen:v1:milestones:${resource.id}`) ?? "{}") as Record<string, boolean>,
+        JSON.parse(window.localStorage.getItem(`lumen:v1:milestones:${resourceId}`) ?? "{}") as Record<string, boolean>,
       );
     } catch {
       setCheckedMilestones({});
     }
-  }, [resource?.id]);
+  }, [resourceId]);
 
   const toggleMilestone = (key: string, checked: boolean) => {
     setCheckedMilestones((current) => {
@@ -264,14 +265,14 @@ export default function ResourceReader({ id }: { id: string }) {
                   return (
                     <div
                       key={index}
-                      className="mt-4 rounded-xl border border-lumen/30 bg-lumen/10 p-3.5 text-[14px] font-medium leading-relaxed text-white"
+                      className="glass-nested mt-4 rounded-xl border border-lumen/30 bg-lumen/10 p-3.5 text-[14px] font-medium leading-relaxed text-white"
                     >
                       {block.text}
                     </div>
                   );
                 case "checklist":
                   return (
-                    <ul key={index} className="mt-3 space-y-2 rounded-xl border border-white/10 bg-white/5 p-3.5">
+                    <ul key={index} className="glass-nested mt-3 space-y-2 rounded-xl border border-white/10 p-3.5">
                       {block.items.map((item, itemIndex) => {
                         const key = `${index}:${itemIndex}`;
                         const checked = checkedMilestones[key] ?? item.checked;

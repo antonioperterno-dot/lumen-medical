@@ -4,7 +4,37 @@ export const runtime = "nodejs";
 
 type Body = { category?: string; answers?: string[] };
 
+/* -------------------------------------------------------------------------- */
+/* Per-IP throttling                                                           */
+/* In-memory: each serverless instance has its own window, which is fine for a */
+/* cost guard (the goal is stopping runaway loops, not perfect fairness).      */
+/* -------------------------------------------------------------------------- */
+const WINDOW_MS = 60_000;
+const MAX_PER_WINDOW = 5;
+const hits = new Map<string, { count: number; resetAt: number }>();
+
+function rateLimited(key: string): boolean {
+  const now = Date.now();
+  const entry = hits.get(key);
+  if (!entry || entry.resetAt <= now) {
+    hits.set(key, { count: 1, resetAt: now + WINDOW_MS });
+    if (hits.size > 10_000) {
+      // Cheap sweep so a flood of unique IPs can't grow the map forever.
+      for (const [k, v] of hits) if (v.resetAt <= now) hits.delete(k);
+    }
+    return false;
+  }
+  entry.count += 1;
+  return entry.count > MAX_PER_WINDOW;
+}
+
 export async function POST(request: Request) {
+  const ip =
+    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+  if (rateLimited(ip)) {
+    return NextResponse.json({ error: "rate_limited" }, { status: 429 });
+  }
+
   let body: Body;
   try {
     body = (await request.json()) as Body;

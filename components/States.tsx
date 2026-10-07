@@ -26,7 +26,7 @@ export function EmptyState({
   return (
     <GlassCard className={cn("text-center", className)} padded={false}>
       <div className="flex flex-col items-center gap-3 px-6 py-10">
-        <span className="flex h-12 w-12 items-center justify-center rounded-full bg-white/5 text-lumen">
+        <span className="glass-nested flex h-12 w-12 items-center justify-center rounded-full bg-white/5 text-lumen">
           {icon ?? <SearchIcon className="h-5 w-5" />}
         </span>
         <h2 className="text-base font-semibold text-white">{title}</h2>

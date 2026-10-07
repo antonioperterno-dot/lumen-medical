@@ -1,0 +1,308 @@
+{
+  "id": "anatomy-paper-002",
+  "courseUnit": "anatomy",
+  "title": "Anatomy Paper 2: Integrated Anatomy",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-03T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from the user-provided Anatomy Question Paper 2",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "anatomy-paper-002-q01",
+      "question": "The three basic types of fibres in connective tissue are:",
+      "options": [
+        "Tooth, ligaments and elastic ligaments",
+        "Loose, dense and irregular",
+        "Collagen, reticular and elastic",
+        "Cartilage, bone and collagen"
+      ],
+      "answerIndex": 2,
+      "explanation": "The principal connective-tissue fibres are collagen, reticular and elastic fibres.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q02",
+      "question": "Which three fused bones make up each os coxae of the pelvic girdle?",
+      "options": [
+        "Ulna, tibia and humerus",
+        "Ilium, ischium and pubis",
+        "Femur, tibia and fibula",
+        "Hamate, capitate and trapezium"
+      ],
+      "answerIndex": 1,
+      "explanation": "The os coxae develops from the ilium, ischium and pubis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q03",
+      "question": "Which selection includes only tarsal bones?",
+      "options": [
+        "Scaphoid, pisiform, capitate, hamate and talus",
+        "Calcaneus, navicular and lunate",
+        "Talus, calcaneus, cuboid, navicular and cuneiforms",
+        "Navicular, scaphoid, capitate, talus and calcaneus"
+      ],
+      "answerIndex": 2,
+      "explanation": "The tarsals are talus, calcaneus, navicular, cuboid and three cuneiforms.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q04",
+      "question": "The powerful flexors of the hip are the:",
+      "options": ["Piriformis", "Tight quadriceps", "Obturators", "Iliopsoas"],
+      "answerIndex": 3,
+      "explanation": "Iliopsoas, comprising psoas major and iliacus, is the principal powerful hip flexor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q05",
+      "question": "The longest bone in the human skeleton is the:",
+      "options": ["Humerus", "Fibula", "Femur", "Tibia"],
+      "answerIndex": 2,
+      "explanation": "The femur is the longest and strongest bone in the body.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q06",
+      "question": "The largest nerve in the pelvic region is the:",
+      "options": [
+        "Pudendal nerve",
+        "Sciatic nerve",
+        "Femoral nerve",
+        "Obturator nerve"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sciatic nerve is the largest nerve in the body and arises from the sacral plexus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q07",
+      "question": "Which cranial nerve carries hearing and balance information from the inner ear to the CNS?",
+      "options": ["IV", "VIII", "IX", "X"],
+      "answerIndex": 1,
+      "explanation": "The vestibulocochlear nerve (CN VIII) carries auditory and vestibular sensory information.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q08",
+      "question": "Before birth, blood flows from the right atrium to the left atrium through the:",
+      "options": [
+        "Foramen ovale",
+        "Interatrial septum",
+        "Coronary sinus",
+        "Fossa ovalis"
+      ],
+      "answerIndex": 0,
+      "explanation": "The fetal foramen ovale permits blood to pass from the right atrium to the left atrium; after birth its remnant is the fossa ovalis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q09",
+      "question": "The acromion articulates with the clavicle at the:",
+      "options": [
+        "Elbow joint",
+        "Acromioclavicular joint",
+        "Sternoclavicular joint",
+        "Coracoclavicular joint"
+      ],
+      "answerIndex": 1,
+      "explanation": "The acromion and lateral clavicle form the acromioclavicular joint.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q10",
+      "question": "Where does the deltoid muscle insert?",
+      "options": [
+        "Supraspinous fossa",
+        "Head of the humerus",
+        "Bicipital groove",
+        "Deltoid tuberosity"
+      ],
+      "answerIndex": 3,
+      "explanation": "The deltoid inserts on the deltoid tuberosity of the humerus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q11",
+      "question": "Movement of the arm toward the body is:",
+      "options": ["Abduction", "Adduction", "Flexion", "Supination"],
+      "answerIndex": 1,
+      "explanation": "Adduction moves a limb toward the body's midline.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q12",
+      "question": "Which muscle depresses the hyoid bone and larynx?",
+      "options": ["Subclavius", "Omohyoid", "Uvula", "Latissimus dorsi"],
+      "answerIndex": 1,
+      "explanation": "The omohyoid is an infrahyoid muscle that can depress and steady the hyoid bone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q13",
+      "question": "The total number of cervical vertebrae is:",
+      "options": ["8", "12", "7", "10"],
+      "answerIndex": 2,
+      "explanation": "There are seven cervical vertebrae, C1 through C7.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q14",
+      "question": "The parietal bones join each other at the:",
+      "options": [
+        "Coronal suture",
+        "Sagittal suture",
+        "Lambdoid suture",
+        "Squamous suture"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sagittal suture joins the right and left parietal bones.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q15",
+      "question": "The sternocleidomastoid muscle is primarily innervated by the:",
+      "options": [
+        "Accessory nerve",
+        "Vagus nerve",
+        "Musculocutaneous nerve",
+        "None of the above"
+      ],
+      "answerIndex": 0,
+      "explanation": "The spinal accessory nerve (CN XI) supplies the sternocleidomastoid; cervical nerves provide proprioceptive contributions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q16",
+      "question": "The temporalis inserts primarily on the:",
+      "options": [
+        "Coronoid process and anterior ramus of the mandible",
+        "Coronoid process and styloid process",
+        "Coronoid process and temporal bone",
+        "None of the above"
+      ],
+      "answerIndex": 0,
+      "explanation": "The temporalis tendon inserts on the coronoid process and anterior border of the mandibular ramus.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-002-q17",
+      "question": "What is true about the left common carotid artery?",
+      "options": [
+        "It is a branch of the brachiocephalic artery",
+        "It is the first branch of the descending aorta",
+        "It branches directly from the arch of the aorta",
+        "It is smaller than a coronary artery"
+      ],
+      "answerIndex": 2,
+      "explanation": "The left common carotid artery arises directly from the arch of the aorta.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q18",
+      "question": "The anterior and posterior tibial veins drain into the:",
+      "options": [
+        "Great saphenous vein",
+        "Popliteal vein",
+        "Inferior vena cava",
+        "Superior vena cava"
+      ],
+      "answerIndex": 1,
+      "explanation": "The anterior and posterior tibial veins contribute to the popliteal vein.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-002-q19",
+      "question": "Which of the following is not a sesamoid bone?",
+      "options": ["Patella", "Pisiform", "Fabella", "Hamate"],
+      "answerIndex": 3,
+      "explanation": "The hamate is a carpal bone, not a sesamoid bone. The patella and pisiform are sesamoid bones, and the fabella is a sesamoid bone found in some people behind the knee; the hyoid in the original options is also not classified as a sesamoid bone, so that set had two correct answers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-002-q20",
+      "question": "The right lymphatic duct drains into the:",
+      "options": [
+        "Aorta",
+        "Superior vena cava",
+        "Inferior vena cava",
+        "Right subclavian vein"
+      ],
+      "answerIndex": 3,
+      "explanation": "The right lymphatic duct empties near the junction of the right subclavian and right internal jugular veins.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "anatomy-paper-002-b01",
+      "question": "(a) Describe four structural differences between the male and female pelvis. (b) State the four principal cell types of the retina. (c) Name the four main body membranes. (d) Name the four principal heart valves and state each location. (e) Name the main parts of a simple exocrine gland.",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Any four accurate sex-related pelvic differences, e.g. pelvic inlet, outlet, subpubic angle, sacrum, iliac flare, ischial spines: 8 marks.",
+        "(b) Names rods, cones, bipolar cells and ganglion cells: 3 marks.",
+        "(c) Names mucous, serous, cutaneous and synovial membranes: 3 marks.",
+        "(d) Names tricuspid (right AV), pulmonary, mitral/bicuspid (left AV), aortic valves with locations: 4 marks.",
+        "(e) Identifies secretory portion and duct: 2 marks."
+      ],
+      "modelAnswer": "The female pelvis is generally wider and shallower, with a larger, more oval inlet, wider outlet and broader subpubic angle; the male pelvis is generally narrower and deeper with a smaller inlet and angle. Retinal principal cells are rods, cones, bipolar cells and ganglion cells. The four body membranes are mucous, serous, cutaneous and synovial. The valves are tricuspid (right atrium to right ventricle), pulmonary (right ventricle to pulmonary trunk), mitral/bicuspid (left atrium to left ventricle) and aortic (left ventricle to aorta). A simple exocrine gland has a secretory portion and a duct."
+    },
+    {
+      "id": "anatomy-paper-002-b02",
+      "question": "(a) Draw and label a left scapula. (b) Outline the first five cranial nerves and give one structure or function supplied by each.",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Scapula correctly oriented and labels spine, acromion, coracoid, glenoid cavity, fossae, borders and angles: 10 marks.",
+        "(b) CN I olfaction/olfactory mucosa: 2 marks.",
+        "CN II vision/retina: 2 marks.",
+        "CN III most extraocular muscles and levator palpebrae: 2 marks.",
+        "CN IV superior oblique: 2 marks.",
+        "CN V facial sensation and muscles of mastication (V3 motor): 2 marks."
+      ],
+      "modelAnswer": "For a left scapula viewed posteriorly, the spine is prominent and the glenoid cavity faces laterally; label the acromion, coracoid process, glenoid cavity, supraspinous and infraspinous fossae, medial/lateral/superior borders and superior/inferior/lateral angles. CN I is olfactory (smell); CN II is optic (vision); CN III supplies most extraocular muscles and raises the upper eyelid; CN IV supplies superior oblique; CN V provides facial sensation and motor supply to muscles of mastication via V3."
+    },
+    {
+      "id": "anatomy-paper-002-b03",
+      "question": "(a) Describe the microscopic structure of skeletal muscle. (b) Give the origin and insertion of latissimus dorsi, platysma, gluteus medius, rectus femoris and pectoralis major.",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Describes muscle fibres, sarcolemma, myofibrils and sarcomeres: 5 marks.",
+        "(a) Identifies actin and myosin in sarcomeres and striations: 3 marks.",
+        "(a) Describes endomysium, perimysium and epimysium or fascicles: 2 marks.",
+        "(b) Gives broadly correct origin and insertion for each requested muscle, 2 marks each: 10 marks."
+      ],
+      "modelAnswer": "Skeletal muscle is organised into fascicles surrounded by perimysium; each muscle fibre is enclosed by endomysium and a sarcolemma and contains myofibrils. Myofibrils consist of repeating sarcomeres containing thin actin and thick myosin filaments, producing striations. Latissimus dorsi arises from lower thoracic vertebrae, thoracolumbar fascia, iliac crest and lower ribs and inserts into the floor of the intertubercular sulcus of the humerus. Platysma arises from superficial fascia over upper chest/deltoid and inserts into the lower mandible and skin of the lower face. Gluteus medius arises from the external ilium between the anterior and posterior gluteal lines and inserts on the greater trochanter. Rectus femoris arises from the anterior inferior iliac spine and superior acetabular rim and inserts via the quadriceps tendon/patella and patellar ligament to the tibial tuberosity. Pectoralis major arises from the medial clavicle, sternum and upper costal cartilages and inserts on the lateral lip of the intertubercular sulcus of the humerus."
+    },
+    {
+      "id": "anatomy-paper-002-b04",
+      "question": "(a) Describe how the four chambers of the heart are associated with pulmonary and systemic circulation. (b) Explain the relationship between the heart and lungs, and between the aorta and pulmonary artery.",
+      "marks": 20,
+      "markingGuide": [
+        "Describes right atrium receiving systemic venous blood and passing it to right ventricle: 4 marks.",
+        "Describes right ventricle pumping blood through pulmonary trunk/arteries to lungs: 4 marks.",
+        "Describes left atrium receiving pulmonary venous blood and passing it to left ventricle: 4 marks.",
+        "Describes left ventricle pumping blood into aorta for systemic circulation: 4 marks.",
+        "Explains heart-lung connection and contrasts aorta/pulmonary artery by origin, destination and usual oxygenation: 4 marks."
+      ],
+      "modelAnswer": "Systemic venous blood enters the right atrium, passes to the right ventricle and is pumped through the pulmonary trunk and pulmonary arteries to the lungs for gas exchange. Oxygenated blood returns in pulmonary veins to the left atrium, passes to the left ventricle and is pumped into the aorta for systemic distribution. The heart and lungs are linked by pulmonary circulation. The aorta arises from the left ventricle and carries oxygenated blood to the body; the pulmonary trunk/arteries arise from the right ventricle and carry deoxygenated blood to the lungs."
+    },
+    {
+      "id": "anatomy-paper-002-b05",
+      "question": "Describe the blood circulation to the brain (Circle of Willis).",
+      "marks": 20,
+      "markingGuide": [
+        "Names the paired internal carotid and vertebral arterial systems: 4 marks.",
+        "Describes vertebral arteries joining as basilar artery and its terminal division: 4 marks.",
+        "Describes anterior and middle cerebral arteries from internal carotid circulation: 4 marks.",
+        "Identifies anterior communicating and paired posterior communicating arteries: 4 marks.",
+        "Explains Circle of Willis arrangement and collateral-flow role accurately: 4 marks."
+      ],
+      "modelAnswer": "The brain receives arterial blood from paired internal carotid and vertebral arteries. The vertebral arteries enter through the foramen magnum and unite as the basilar artery, which gives branches to the brainstem and cerebellum and terminates as the posterior cerebral arteries. The internal carotid arteries contribute the anterior and middle cerebral arteries. At the brain's base, the anterior cerebral arteries are joined by the anterior communicating artery; each internal carotid circulation connects with a posterior cerebral artery through a posterior communicating artery. Together these vessels form the Circle of Willis and provide potential collateral routes if a major vessel is narrowed or occluded."
+    }
+  ]
+}

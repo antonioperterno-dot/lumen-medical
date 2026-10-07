@@ -1,0 +1,325 @@
+{
+  "id": "firstaid-paper-007",
+  "courseUnit": "first-aid",
+  "title": "First Aid Paper 7: Nursing Care, Injections and Emergencies",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided First Aid and Nursing question banks",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "firstaid-paper-007-q01",
+      "question": "First aid means is immediate attention given to:",
+      "options": [
+        "An injured person",
+        "A suddenly ill person",
+        "A casualty before receiving professional medical attention",
+        "Only accident victims"
+      ],
+      "answerIndex": 2,
+      "explanation": "First aid is the immediate care given to a suddenly ill or injured casualty before professional medical help arrives.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q02",
+      "question": "Florence Nightingale is known for:",
+      "options": [
+        "Her act of utilizing the environment to assist in the recuperation of the patient",
+        "Being the first medical doctor",
+        "Discovering penicillin",
+        "Inventing the stethoscope"
+      ],
+      "answerIndex": 0,
+      "explanation": "Florence Nightingale used sanitation, light, air and calm surroundings to aid patient recovery.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q03",
+      "question": "The maximum volume of drug given by IM on the deltoid is:",
+      "options": [
+        "3ml",
+        "2ml",
+        "5ml",
+        "1ml"
+      ],
+      "answerIndex": 3,
+      "explanation": "The deltoid muscle accepts up to about 1 mL in adults; larger volumes use the vastus lateralis or ventrogluteal site.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q04",
+      "question": "First aid immediately ceases:",
+      "options": [
+        "When the casualty regains consciousness",
+        "After 30 minutes",
+        "When the casualty asks for it",
+        "After handing the casualty over to competent medical personnel"
+      ],
+      "answerIndex": 3,
+      "explanation": "First aid continues until handover to qualified medical personnel or until it is no longer needed.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q05",
+      "question": "Which one of these is not a sign of a poisonous snake bite?",
+      "options": [
+        "Two small wounds seen",
+        "Difficulties in breathing",
+        "Dizziness and drowsiness",
+        "Intense pain at the bitten part"
+      ],
+      "answerIndex": 0,
+      "explanation": "Venomous bites typically show two puncture wounds; fang marks alone without envenomation can appear as small scratches, so 'two small wounds' is the exception listed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q06",
+      "question": "A victim has both legs completely burnt. What is the total percentage of the burn using rule of nines?",
+      "options": [
+        "12%",
+        "18%",
+        "9%",
+        "36%"
+      ],
+      "answerIndex": 3,
+      "explanation": "Each adult leg is 18% of body surface area, so both legs equal 36%.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q07",
+      "question": "Which of the following is true about the rule of nines?",
+      "options": [
+        "It is used to estimate the patient's age",
+        "It is a rough estimation of the patient's percentage of burn",
+        "It is used in estimating blood loss",
+        "None of the above"
+      ],
+      "answerIndex": 1,
+      "explanation": "The rule of nines quickly estimates the percentage of total body surface area burnt in adults.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q08",
+      "question": "The obvious difference between shock and syncope is:",
+      "options": [
+        "Syncope is brief and resolves lying flat",
+        "Syncope lasts hours",
+        "Shock resolves when the person lies down",
+        "There is no difference"
+      ],
+      "answerIndex": 0,
+      "explanation": "Syncope is a brief transient loss of consciousness, whereas shock is a sustained state of poor perfusion.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q09",
+      "question": "What is the requirement for making the bed of a patient who was burnt?",
+      "options": [
+        "Tourniquet",
+        "Mackintosh",
+        "Bed cradle",
+        "Mosquito net"
+      ],
+      "answerIndex": 2,
+      "explanation": "A bed cradle keeps sheets off the burnt skin, reducing pressure, contamination and pain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q10",
+      "question": "Drugs or drug preparations limited to only one sex include:",
+      "options": [
+        "Tab Aspirin",
+        "Pessaries",
+        "Tab Paracetamol",
+        "Capsules"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pessaries are vaginal preparations used by females only.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q11",
+      "question": "The use of bed screening for a patient illustrates:",
+      "options": [
+        "Isolation",
+        "Infection",
+        "Privacy",
+        "First aid"
+      ],
+      "answerIndex": 2,
+      "explanation": "Screens and curtains are used to protect patient privacy during examination and care.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q12",
+      "question": "All the following are indications for lumbar puncture, except:",
+      "options": [
+        "To obtain cerebrospinal fluid for diagnosis",
+        "To measure cerebrospinal fluid pressure",
+        "To introduce anaesthetic agents",
+        "Cranial dystosis"
+      ],
+      "answerIndex": 3,
+      "explanation": "Cranial dystosis (craniosynostosis) is a skull deformity and not an indication for lumbar puncture.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q13",
+      "question": "The best site for IM injection on the gluteus muscles is the:",
+      "options": [
+        "Lateral upper quadrant",
+        "Medial upper quadrant",
+        "Medial lower quadrant",
+        "Central part"
+      ],
+      "answerIndex": 0,
+      "explanation": "The lateral upper quadrant avoids the sciatic nerve and major vessels.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q14",
+      "question": "The following is not a first priority in casualty triage:",
+      "options": [
+        "Breathing",
+        "Bleeding",
+        "Mental status",
+        "Death"
+      ],
+      "answerIndex": 3,
+      "explanation": "Casualties with no signs of life after assessment are expectant/deceased in mass-casualty triage, not first priority.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q15",
+      "question": "The following are causes of hypovolemic shock, except:",
+      "options": [
+        "Internal bleeding",
+        "Severe vomiting and diarrhoea",
+        "Plasma loss in severe burns",
+        "Drug hypersensitivity"
+      ],
+      "answerIndex": 3,
+      "explanation": "Hypovolaemic shock results from fluid or blood loss; drug hypersensitivity causes anaphylactic shock.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q16",
+      "question": "A pulsometer is used for:",
+      "options": [
+        "Counting the heart rate",
+        "Improving blood flow",
+        "Determining blood glucose",
+        "Improving pulse quality"
+      ],
+      "answerIndex": 0,
+      "explanation": "A pulsometer (pulse counter) is used to count the pulse/heart rate.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q17",
+      "question": "The normal body temperature range is:",
+      "options": [
+        "36.5–37.5°C",
+        "34–35°C",
+        "39–40°C",
+        "40–41°C"
+      ],
+      "answerIndex": 0,
+      "explanation": "Normal oral body temperature is about 36.5–37.5°C.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q18",
+      "question": "Lumbar puncture is done at which of the following intervertebral spaces?",
+      "options": [
+        "L1–L2",
+        "L2–L3",
+        "L3–L4",
+        "L4–L5"
+      ],
+      "answerIndex": 2,
+      "explanation": "Lumbar puncture is performed between L3–L4 (or L4–L5), below the termination of the spinal cord.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-007-q19",
+      "question": "Which of the following is true about superficial burns?",
+      "options": [
+        "They are extra painful",
+        "They are painless",
+        "They penetrate the dermis",
+        "They damage nerve endings"
+      ],
+      "answerIndex": 0,
+      "explanation": "Superficial (first-degree) burns are painful because nerve endings remain intact.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-007-q20",
+      "question": "The best position for a patient in shock is:",
+      "options": [
+        "Upright sitting",
+        "Supine with legs elevated",
+        "Prone",
+        "Trendelenburg extreme"
+      ],
+      "answerIndex": 1,
+      "explanation": "Lying flat with legs elevated (shock position) promotes venous return to the heart.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "firstaid-paper-007-b01",
+      "question": "State five aims of first aid.",
+      "marks": 5,
+      "markingGuide": [
+        "Five aims such as preserve life, prevent worsening, promote recovery, relieve pain, arrange definitive care: 5 marks."
+      ],
+      "modelAnswer": "The aims of first aid are to preserve life, prevent the condition from worsening, promote recovery, relieve pain and discomfort, and arrange for the casualty to receive definitive medical care."
+    },
+    {
+      "id": "firstaid-paper-007-b02",
+      "question": "Explain the estimation of burns and its importance.",
+      "marks": 4,
+      "markingGuide": [
+        "Methods (rule of nines, Lund and Browder chart, palm method): 2 marks.",
+        "Importance (fluid resuscitation, referral, prognosis): 2 marks."
+      ],
+      "modelAnswer": "Burn extent is estimated using the rule of nines in adults, the Lund and Browder chart for accuracy (especially in children) and the patient's palm as roughly 1% of body surface area. Estimating the percentage of burns guides fluid resuscitation, determines the need for transfer to a burn unit, predicts prognosis and monitors healing."
+    },
+    {
+      "id": "firstaid-paper-007-b03",
+      "question": "Outline the principles of bed making.",
+      "marks": 4,
+      "markingGuide": [
+        "Four principles such as clean linen, smooth/tight surfaces, ergonomics, asepsis, patient comfort: 4 marks."
+      ],
+      "modelAnswer": "Principles include using clean, dry, wrinkle-free linen; making the bed tight and smooth to prevent pressure sores and creases; working from the clean to the soiled side to maintain asepsis; arranging linen efficiently to reduce strain on the nurse; and considering the patient's comfort, dignity and safety."
+    },
+    {
+      "id": "firstaid-paper-007-b04",
+      "question": "Differentiate between syncope and shock.",
+      "marks": 4,
+      "markingGuide": [
+        "Syncope definition, cause and brief course: 2 marks.",
+        "Shock definition, causes and sustained course: 2 marks."
+      ],
+      "modelAnswer": "Syncope is a brief loss of consciousness from temporary reduced cerebral blood flow (e.g. vasovagal faint), resolving quickly when lying flat. Shock is a progressive, life-threatening state of inadequate tissue perfusion (hypovolaemic, cardiogenic, septic, anaphylactic) with pale clammy skin, weak rapid pulse and altered consciousness that does not resolve without treatment."
+    },
+    {
+      "id": "firstaid-paper-007-b05",
+      "question": "Mention the complications of immobility.",
+      "marks": 3,
+      "markingGuide": [
+        "Three complications such as pressure sores, contractures, DVT/pneumonia, constipation, urinary retention: 3 marks."
+      ],
+      "modelAnswer": "Complications of immobility include pressure sores, joint contractures and muscle weakness or atrophy, deep vein thrombosis and pulmonary embolism, chest infections, constipation, urinary retention and reduced circulation."
+    }
+  ]
+}

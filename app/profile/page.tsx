@@ -116,7 +116,7 @@ export default function ProfilePage() {
                 setName(event.target.value);
                 setDirty(true);
               }}
-              className="w-full rounded-xl border border-white/10 bg-white/5 px-3 py-2.5 text-[14px] text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
+              className="glass-input w-full rounded-xl border border-white/10 px-3 py-2.5 text-[14px] text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
               placeholder="Alex"
             />
           </label>
@@ -131,7 +131,7 @@ export default function ProfilePage() {
                 setInstitution(event.target.value);
                 setDirty(true);
               }}
-              className="w-full rounded-xl border border-white/10 bg-white/5 px-3 py-2.5 text-[14px] text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
+              className="glass-input w-full rounded-xl border border-white/10 px-3 py-2.5 text-[14px] text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
               placeholder="Makerere University"
             />
           </label>
@@ -208,7 +208,7 @@ export default function ProfilePage() {
             type="button"
             onClick={refresh}
             disabled={syncing || !online}
-            className="flex w-full items-center justify-center gap-2 rounded-xl border border-white/10 bg-white/5 py-2.5 text-[12px] font-semibold text-white/80 active:text-white disabled:opacity-50"
+            className="glass-nested flex w-full items-center justify-center gap-2 rounded-xl border border-white/10 py-2.5 text-[12px] font-semibold text-white/80 active:text-white disabled:opacity-50"
           >
             <RefreshIcon className="h-4 w-4" />
             {syncing ? "Syncing…" : "Sync"}
@@ -227,7 +227,7 @@ export default function ProfilePage() {
             <button
               type="button"
               onClick={() => void signOut()}
-              className="w-full rounded-xl border border-white/10 bg-white/5 py-2.5 text-[12px] font-semibold text-white/80 active:text-white"
+              className="glass-nested w-full rounded-xl border border-white/10 py-2.5 text-[12px] font-semibold text-white/80 active:text-white"
             >
               Sign out
             </button>

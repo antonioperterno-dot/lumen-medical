@@ -1,0 +1,15 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "progress",
+      "queryScope": "COLLECTION",
+      "fields": [{ "fieldPath": "lastOpenedAt", "order": "DESCENDING" }]
+    },
+    {
+      "collectionGroup": "quizAttempts",
+      "queryScope": "COLLECTION",
+      "fields": [{ "fieldPath": "answeredAt", "order": "DESCENDING" }]
+    }
+  ],
+  "fieldOverrides": []
+}

@@ -1,0 +1,332 @@
+{
+  "id": "psychology-paper-008",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 8: Stress, Prejudice and Cognitive Processes",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Psychology pages)",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-008-q01",
+      "question": "A stressor that arises from within a person's own thoughts and feelings is best described as:",
+      "options": [
+        "An intrapsychic stressor",
+        "A physical stressor",
+        "An environmental stressor",
+        "An occupational stressor"
+      ],
+      "answerIndex": 0,
+      "explanation": "Intrapsychic stressors come from within the mind, such as fear, guilt or unrealistic expectations, as opposed to external physical or social stressors.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q02",
+      "question": "Discrimination differs from prejudice in that discrimination is:",
+      "options": [
+        "A negative attitude held towards a group",
+        "An unfair action or treatment directed against a group",
+        "A generalisation about a group's characteristics",
+        "A cultural value shared by a society"
+      ],
+      "answerIndex": 1,
+      "explanation": "Prejudice is a negative attitude or pre-judgement, whereas discrimination is the behaviour or action that treats people unfairly on the basis of that prejudice.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q03",
+      "question": "A student who fails an examination and insists that 'the questions were unfair' is using which defence mechanism?",
+      "options": [
+        "Projection",
+        "Rationalisation",
+        "Regression",
+        "Sublimation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rationalisation disguises the true motive for a failure by inventing an acceptable reason; projection attributes one's own feelings to others, regression reverts to earlier behaviour and sublimation redirects impulses into acceptable activities.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q04",
+      "question": "Adolescence is associated with which branch of psychology?",
+      "options": [
+        "Social",
+        "Abnormal",
+        "Developmental",
+        "Industrial"
+      ],
+      "answerIndex": 2,
+      "explanation": "Developmental psychology studies physical, cognitive and social changes across the lifespan, including the stage of adolescence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q05",
+      "question": "The branch of psychology concerned with improving teaching, learning and educational practices is:",
+      "options": [
+        "Educational psychology",
+        "Industrial psychology",
+        "Health psychology",
+        "Cognitive psychology"
+      ],
+      "answerIndex": 0,
+      "explanation": "Educational psychology applies psychological principles to learning, teaching methods, curriculum and assessment in schools and other educational settings.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q06",
+      "question": "Which of the following is an emotional response?",
+      "options": [
+        "Anger",
+        "Denial",
+        "Rationalisation",
+        "Potency"
+      ],
+      "answerIndex": 0,
+      "explanation": "Anger is a basic emotion; denial, rationalisation and projection are psychological defence mechanisms, not emotions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q07",
+      "question": "The psychoanalytic technique that involves free association and the interpretation of dreams was developed by:",
+      "options": [
+        "Ivan Pavlov",
+        "Carl Rogers",
+        "Sigmund Freud",
+        "Albert Bandura"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sigmund Freud developed psychoanalysis, using free association and dream analysis to explore unconscious conflicts.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q08",
+      "question": "The professional principle that obliges a health worker to keep patient information secret is:",
+      "options": [
+        "Autonomy",
+        "Beneficence",
+        "Confidentiality",
+        "Veracity"
+      ],
+      "answerIndex": 2,
+      "explanation": "Confidentiality requires that patient information be disclosed only with consent or where legally required; autonomy is self-determination, beneficence doing good and veracity truthfulness.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q09",
+      "question": "True or false: Classical conditioning was first demonstrated by Ivan Pavlov.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ivan Pavlov discovered classical conditioning while studying salivation in dogs, pairing a bell (conditioned stimulus) with food.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q10",
+      "question": "True or false: Maslow's hierarchy of needs contains three levels.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Maslow's hierarchy has five levels: physiological, safety, love/belonging, esteem and self-actualisation needs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q11",
+      "question": "True or false: Intelligence quotient (IQ) is calculated by dividing mental age by chronological age and multiplying by 100.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "The classic IQ formula is (mental age / chronological age) x 100, so a child performing at age level scores 100.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q12",
+      "question": "True or false: Extinction of a conditioned response occurs when the conditioned stimulus is repeatedly presented without the unconditioned stimulus.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "When the conditioned stimulus is repeatedly paired with nothing, the conditioned response weakens and disappears - a process called extinction.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q13",
+      "question": "True or false: The cerebellum is responsible for higher mental processes such as reasoning and judgement.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Higher mental processes such as reasoning and judgement are carried out by the cerebrum (cerebral cortex); the cerebellum coordinates balance, posture and fine movement.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q14",
+      "question": "True or false: Erikson's theory of psychosocial development covers eight stages across the lifespan.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Erikson proposed eight psychosocial stages from infancy (trust vs mistrust) to old age (integrity vs despair).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q15",
+      "question": "The process of using existing cognitive schemas to interpret new information is called:",
+      "options": [
+        "Accommodation",
+        "Assimilation",
+        "Logic",
+        "Metathought"
+      ],
+      "answerIndex": 1,
+      "explanation": "Assimilation fits new experiences into existing schemas, whereas accommodation changes the schemas themselves to fit new information.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q16",
+      "question": "The emotional conflict associated with a male child's forbidden wish for his mother is called:",
+      "options": [
+        "Oedipus complex",
+        "Inferiority complex",
+        "Superiority complex",
+        "Identity complex"
+      ],
+      "answerIndex": 0,
+      "explanation": "Freud named the boy's attachment to the mother and rivalry with the father the Oedipus complex.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q17",
+      "question": "The tendency to perceive oneself as existing at the centre of the universe is called:",
+      "options": [
+        "Accommodation",
+        "Assimilation",
+        "Egocentrism",
+        "Metathought"
+      ],
+      "answerIndex": 2,
+      "explanation": "Egocentrism is the inability to see situations from another person's point of view, typical of the preoperational stage described by Piaget.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q18",
+      "question": "The stages of memory include all EXCEPT:",
+      "options": [
+        "Retrieval",
+        "Rehearsal",
+        "Storage",
+        "Encoding"
+      ],
+      "answerIndex": 1,
+      "explanation": "Memory has three stages - encoding, storage and retrieval; rehearsal is a strategy used to move information into long-term memory, not a stage itself.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-008-q19",
+      "question": "The major difference between psychology and sociology is that psychology primarily studies:",
+      "options": [
+        "Human behaviour and mental processes",
+        "Social norms only",
+        "Basic units of society only",
+        "Economic systems"
+      ],
+      "answerIndex": 0,
+      "explanation": "Psychology is the scientific study of individual behaviour and mental processes; sociology studies groups, social structures and society.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-008-q20",
+      "question": "Maintenance rehearsal involves:",
+      "options": [
+        "Repeating information to keep it in short-term memory",
+        "Reorganising information into categories",
+        "Retrieving information from long-term memory",
+        "Attending to two tasks at the same time"
+      ],
+      "answerIndex": 0,
+      "explanation": "Maintenance rehearsal is the simple repetition of information to keep it in working/short-term memory; chunking and organisation are separate memory strategies.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-008-b01",
+      "question": "Explain the meaning of transfer of learning and give two examples of it. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Definition: application of previously learned knowledge or skills to new situations",
+        "Positive transfer example, e.g. knowing Latin helps in learning Italian",
+        "Negative transfer example or near/far transfer",
+        "Credit clear explanation of how prior learning influences new learning",
+        "Award a further mark for additional correct examples"
+      ],
+      "modelAnswer": "Transfer of learning is the effect that previously learned knowledge, skills or habits have on learning or performing a new task. Positive transfer occurs when prior learning helps, for example knowing keyboard skills making it easier to learn typing on a new device; negative transfer occurs when it hinders, for example driving a manual car after learning on an automatic. Transfer may also be near (similar tasks) or far (very different tasks)."
+    },
+    {
+      "id": "psychology-paper-008-b02",
+      "question": "State four barriers to effective communication and suggest how each can be overcome. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Language barrier - use simple words, interpreters or translators",
+        "Noise or poor environment - move to a quiet setting, reduce distractions",
+        "Emotional state/stress - allow the sender to calm down, show empathy",
+        "Physical barriers such as hearing loss or masks - speak clearly, face the person, use written/visual aids",
+        "Credit one mark for each valid barrier with a matching remedy"
+      ],
+      "modelAnswer": "Barriers to communication include language differences, overcome by using simple language or an interpreter; physical noise, overcome by choosing a quiet environment; emotional barriers such as anxiety or anger, overcome by empathy and calm reassurance; and sensory or physical barriers such as hearing loss, overcome by facing the speaker, speaking clearly and using written or visual aids. Other valid answers include prejudice, information overload and poor feedback."
+    },
+    {
+      "id": "psychology-paper-008-b03",
+      "question": "Differentiate between basic psychology and applied psychology and give two examples of each. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Basic psychology: research aimed at understanding fundamental processes/theories",
+        "Applied psychology: use of psychological knowledge to solve practical problems",
+        "Two examples of basic, e.g. experimental, cognitive or developmental psychology research",
+        "Two examples of applied, e.g. clinical, educational, industrial-organisational or health psychology",
+        "Award a mark for a clear contrast statement"
+      ],
+      "modelAnswer": "Basic psychology seeks to discover and explain fundamental principles of behaviour and mental processes through research, for example experimental psychology and cognitive psychology studies of memory. Applied psychology uses that knowledge to solve practical problems, for example clinical psychology treating mental disorders and educational psychology improving teaching and learning. The key difference is knowledge for its own sake versus knowledge put to practical use."
+    },
+    {
+      "id": "psychology-paper-008-b04",
+      "question": "Explain the physiological fight-or-flight response to stress and name two hormones involved. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Description: automatic arousal preparing the body to confront or escape danger",
+        "Activation of the sympathetic nervous system",
+        "Hormone 1: adrenaline (epinephrine) from the adrenal medulla",
+        "Hormone 2: noradrenaline (norpinephrine) or cortisol from the adrenal cortex",
+        "Physiological effects: increased heart rate, blood pressure, breathing and blood glucose, dilated pupils"
+      ],
+      "modelAnswer": "The fight-or-flight response is an automatic physiological reaction to a perceived threat. The sympathetic nervous system signals the adrenal medulla to release adrenaline and noradrenaline, increasing heart rate and blood pressure, dilating the airways and pupils and mobilising glucose for energy, while cortisol from the adrenal cortex raises blood sugar and sustains the response. The body is thus prepared either to confront the danger or to flee from it."
+    },
+    {
+      "id": "psychology-paper-008-b05",
+      "question": "Define stress and explain the three components of emotion. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Definition: state of tension or arousal arising from demands that tax or exceed a person's resources",
+        "Component 1: physiological/arousal changes, e.g. increased heart rate",
+        "Component 2: subjective feelings or experience, e.g. fear, anger, joy",
+        "Component 3: cognitive appraisal/interpretation of the situation",
+        "Component 4: behavioural/expression component - credit an additional correct component",
+        "Award a mark for a clear, well-organised answer"
+      ],
+      "modelAnswer": "Stress is a state of tension experienced when an individual perceives that demands exceed his or her ability to cope. Emotion has three main components: a physiological component (autonomic arousal such as a racing heart), a subjective experiential component (the feeling itself, e.g. fear or joy) and a cognitive component (appraisal and interpretation of the event); a behavioural component (facial expression and action) is also commonly included."
+    }
+  ]
+}

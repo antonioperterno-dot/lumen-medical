@@ -1,0 +1,368 @@
+{
+  "id": "microbiology-paper-005",
+  "courseUnit": "microbiology",
+  "title": "Microbiology Paper 5: Inflammation, Nosocomial Infection and Systemic Infections",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Microbiology pages)",
+  "textbookReference": {
+    "label": "OpenStax Microbiology 2e",
+    "url": "https://openstax.org/details/books/microbiology-2e"
+  },
+  "objective": [
+    {
+      "id": "microbiology-paper-005-q01",
+      "question": "The accumulation of fluids and cells within the inflamed site is called:",
+      "options": [
+        "Oedema",
+        "Inflammatory exudate",
+        "Pus",
+        "Toxins"
+      ],
+      "answerIndex": 1,
+      "explanation": "Exudate is the fluid and cells that pass out of vessels into the tissues during inflammation; pus is a specific purulent form of exudate.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-005-q02",
+      "question": "Dermatophytosis refers to:",
+      "options": [
+        "A viral eye disease",
+        "A bacterial skin infection",
+        "A fungal skin infection",
+        "A protozoan infection"
+      ],
+      "answerIndex": 2,
+      "explanation": "Dermatophytes invade keratinised tissues, causing superficial fungal infections of the skin, hair and nails (ringworm, athlete's foot).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-005-q03",
+      "question": "Rhinitis refers to:",
+      "options": [
+        "Infection of the parotid salivary glands",
+        "Inflamed mucous membrane in the throat",
+        "Inflamed mucous membrane in the nose",
+        "Inflammation of the renal artery"
+      ],
+      "answerIndex": 2,
+      "explanation": "Rhinitis is inflammation of the nasal mucosa, as in the common cold or allergic rhinitis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q04",
+      "question": "Bacteroides is of concern in dental disease because it:",
+      "options": [
+        "Causes gum infections and loosens teeth",
+        "Is anaerobic",
+        "Survives in the gingival sulcus",
+        "Produces exotoxins"
+      ],
+      "answerIndex": 0,
+      "explanation": "Anaerobic Bacteroides (now mostly Prevotella) colonise the gingival sulcus and contribute to periodontal breakdown, gum infections and tooth loosening - the clinical reason for its importance.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "microbiology-paper-005-q05",
+      "question": "The first line of body defence is:",
+      "options": [
+        "Unbroken skin",
+        "Antibody molecule",
+        "Antigen molecule",
+        "Phagocytic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Intact skin and mucous membranes form the physical first line of defence; antibodies, antigens and phagocytes act later in immune responses.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q06",
+      "question": "Immunity to gonorrhoea is:",
+      "options": [
+        "Temporary, naturally acquired passive immunity",
+        "Permanent artificially acquired active immunity",
+        "Permanent naturally acquired active immunity",
+        "Temporary naturally acquired active immunity"
+      ],
+      "answerIndex": 3,
+      "explanation": "Recovery from gonorrhoea produces active immunity through the person's own response, but it is short-lived, so reinfection is common.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "microbiology-paper-005-q07",
+      "question": "Pyogenic bacteria such as Pseudomonas cause:",
+      "options": [
+        "Pus formation",
+        "Vasoconstriction",
+        "Destruction of phagocytes",
+        "Fever"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pyogenic (pus-forming) bacteria provoke an accumulation of neutrophils and dead tissue that appears as pus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q08",
+      "question": "Chlamydia trachomatis causes:",
+      "options": [
+        "Skin infections",
+        "Secondary infections of burns",
+        "Cold sores",
+        "Eye disease"
+      ],
+      "answerIndex": 3,
+      "explanation": "Chlamydia trachomatis serotypes A, B and C cause trachoma, a leading infectious cause of blindness; other serotypes cause urogenital infection.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-005-q09",
+      "question": "In the Gram staining technique, basic crystal violet is added to the bacteria followed by:",
+      "options": [
+        "Iodine solution",
+        "Ethanol",
+        "Water",
+        "Sodium hydroxide solution"
+      ],
+      "answerIndex": 0,
+      "explanation": "After the primary stain crystal violet, Gram's iodine is added as a mordant to fix the dye-iodine complex in the cells.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q10",
+      "question": "A virus contains:",
+      "options": [
+        "Both DNA and RNA",
+        "Neither DNA nor RNA",
+        "Either RNA or DNA",
+        "Only DNA"
+      ],
+      "answerIndex": 2,
+      "explanation": "Viruses carry either a DNA or an RNA genome, never both, which is the basis of viral classification.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q11",
+      "question": "The type of immunity that represents the first line of defence against any type of pathogen is:",
+      "options": [
+        "Acquired immunity",
+        "Active immunity",
+        "Innate immunity",
+        "Adaptive immunity"
+      ],
+      "answerIndex": 2,
+      "explanation": "Innate (non-specific) immunity - skin, mucous membranes, phagocytes and inflammation - acts immediately against all pathogens without prior exposure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-005-q12",
+      "question": "Nosocomial refers to:",
+      "options": [
+        "A patient's condition on hospital admission",
+        "An infection that develops in a patient during hospitalisation",
+        "An infection that develops only in hospital staff",
+        "The physician's health status"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nosocomial (healthcare-associated) infections arise during or after healthcare care and were not present or incubating at admission.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q13",
+      "question": "Microorganisms of the normal flora consist of the following, except:",
+      "options": [
+        "Symbionts",
+        "Commensals",
+        "Opportunists",
+        "Parasites"
+      ],
+      "answerIndex": 3,
+      "explanation": "Normal flora are symbionts, commensals and opportunists living on the body without causing disease; they are not parasites.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-005-q14",
+      "question": "The microorganism most known to cause nosocomial infections is:",
+      "options": [
+        "Yersinia pestis",
+        "Bacillus arthritis",
+        "Staphylococcus aureus",
+        "Clostridium tetani"
+      ],
+      "answerIndex": 2,
+      "explanation": "Staphylococcus aureus (including MRSA) is a leading cause of healthcare-associated wound, skin and bloodstream infections.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q15",
+      "question": "During strict isolation of patients:",
+      "options": [
+        "A double room is desirable",
+        "Gloves alone are sufficient for every contact",
+        "Masks are worn only by the attending doctor",
+        "Hand washing is a must"
+      ],
+      "answerIndex": 3,
+      "explanation": "Hand hygiene is mandatory for every entry to and exit from an isolation room; a single (not double) room is used and gloves, gowns and masks are worn as indicated by the precaution type.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-005-q16",
+      "question": "True or false: Staphylococcus aureus is an example of gram-negative bacteria.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Staphylococcus aureus is a Gram-positive coccus that stains purple; Gram-negative bacteria such as E. coli stain pink.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q17",
+      "question": "True or false: Kaposi sarcoma is a form of cancer that usually begins with a skin lesion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kaposi sarcoma, associated with human herpesvirus 8 and often HIV, typically first appears as purple skin lesions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-005-q18",
+      "question": "True or false: A septicemic condition indicates that there are pathogens in the blood.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Septicaemia (blood poisoning) is the presence and multiplication of pathogens in the bloodstream.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q19",
+      "question": "True or false: Attenuated microorganisms are living, weakened mutated pathogens that no longer cause disease but stimulate the production of protective antibodies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Live attenuated vaccines use pathogens weakened so they cannot cause disease but still provoke a strong, lasting immune response.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-005-q20",
+      "question": "True or false: Koplik spots are small bluish-white spots that occur on the buccal mucosa of rubella patients.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Koplik spots are an early sign of MEASLES, not rubella, appearing on the buccal mucosa opposite the lower molars before the rash.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "microbiology-paper-005-b01",
+      "question": "(a) Define inflammation. (1 mark)\n(b) State four (4) functions of the inflammatory response. (4 marks)\n(c) List five (5) characteristics of inflammation. (5 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "(a) Definition: protective response of living tissue to injury/infection",
+        "(b) Four functions: restrict spread of pathogens, remove/destroy the causative agent, remove damaged tissue, promote tissue repair",
+        "(c) Five cardinal signs: redness (rubor), heat (calor), swelling (tumor), pain (dolor), loss of function (functio laesa)"
+      ],
+      "modelAnswer": "(a) Inflammation is the protective response of living vascularised tissue to injury or infection. (b) Its functions are to destroy or wall off the injurious agent, remove damaged tissue and debris, limit spread of infection and begin repair. (c) The five characteristics are redness, heat, swelling, pain and loss of function."
+    },
+    {
+      "id": "microbiology-paper-005-b02",
+      "question": "List four (4) factors that affect a person's response towards microbial infections. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Age and general state of nutrition",
+        "State of the immune system (innate and adaptive defences)",
+        "Virulence, dose and route of entry of the microorganism",
+        "Genetic factors and underlying diseases such as diabetes or HIV"
+      ],
+      "modelAnswer": "Responses to microbial infection are influenced by age and nutritional status, the person's immune status (including immune-suppressing diseases or drugs), the virulence and number of the invading microorganisms and their route of entry, and genetic constitution plus underlying conditions such as diabetes."
+    },
+    {
+      "id": "microbiology-paper-005-b03",
+      "question": "Outline the two (2) major families of arboviruses. (2 marks)",
+      "marks": 2,
+      "markingGuide": [
+        "Family Bunyaviridae (e.g. Rift Valley fever, crimean-congo haemorrhagic fever viruses)",
+        "Family Togaviridae / Flaviviridae (e.g. yellow fever, dengue, chikungunya viruses)",
+        "One mark each"
+      ],
+      "modelAnswer": "Arboviruses are grouped chiefly into the families Bunyaviridae (e.g. Rift Valley fever virus) and Togaviridae together with Flaviviridae (e.g. yellow fever, dengue and chikungunya viruses); they are transmitted by arthropod vectors such as mosquitoes and ticks."
+    },
+    {
+      "id": "microbiology-paper-005-b04",
+      "question": "Give four (4) similarities between Bacillus anthracis and Clostridium tetani. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Both are Gram-positive bacilli",
+        "Both form highly resistant endospores",
+        "Both are soil saprophytes",
+        "Both produce potent exotoxins and cause serious disease"
+      ],
+      "modelAnswer": "Bacillus anthracis and Clostridium tetani are both Gram-positive, spore-forming, soil-dwelling bacilli that produce powerful exotoxins; B. anthracis causes anthrax and C. tetani causes tetanus."
+    },
+    {
+      "id": "microbiology-paper-005-b05",
+      "question": "Define nosocomial infection and list three preventive measures. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Definition: infection acquired in hospital during or after treatment, not incubating on admission",
+        "Hand washing / hand hygiene before and after patient contact",
+        "Aseptic technique and proper sterilisation/disinfection of instruments",
+        "Isolation of infected patients and rational use of antibiotics"
+      ],
+      "modelAnswer": "A nosocomial (healthcare-associated) infection is one acquired by a patient during healthcare that was neither present nor incubating at the time of admission. Prevention includes strict hand hygiene, aseptic technique with correct sterilisation of instruments, isolation of infected or colonised patients, environmental cleaning and rational antibiotic use."
+    },
+    {
+      "id": "microbiology-paper-005-b06",
+      "question": "(a) Using examples, define the following terms as used to describe infections: acute, chronic, latent, primary, secondary, systemic. (6 marks)\n(b) Describe syphilis under the headings: (i) cause (2 marks) (ii) mode of spread (3 marks) (iii) pathogenesis (4 marks) (iv) management (5 marks)",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Acute: sudden onset, short course, e.g. influenza",
+        "(a) Chronic: prolonged course, e.g. tuberculosis",
+        "(a) Latent: organism present without symptoms, e.g. herpes simplex",
+        "(a) Primary: first infection at entry site; secondary: infection following spread; systemic: affects whole body",
+        "(b)(i) Treponema pallidum, a spirochaete bacterium",
+        "(b)(ii) Sexual contact, vertical transmission (placenta), rarely via blood",
+        "(b)(iii) Primary chancre -> secondary rash -> latent -> tertiary gummas/arteritis/neurosyphilis",
+        "(b)(iv) Penicillin G (benzathine), doxycycline for allergy, treat partners, follow-up serology"
+      ],
+      "modelAnswer": "(a) Acute infections start suddenly and last a short time (influenza); chronic infections persist for months or years (tuberculosis); latent infections remain inapparent after the acute phase (herpes simplex); a primary infection is the first infection at the entry site, a secondary infection follows spread or reduced immunity, and a systemic infection involves the whole body (typhoid fever). (b) Syphilis: (i) caused by Treponema pallidum; (ii) spread mainly by sexual contact, from mother to child across the placenta and rarely by blood transfer; (iii) it progresses through a primary chancre, secondary systemic rash, a latent period and late tertiary lesions such as gummas, aortitis and neurosyphilis; (iv) treated with penicillin G (doxycycline if allergic), with treatment of sexual partners and follow-up serological tests."
+    },
+    {
+      "id": "microbiology-paper-005-b07",
+      "question": "(a) State the signs and symptoms of enteric fever. (5 marks)\n(b) How can enteric fever be prevented? (5 marks)\n(c) Using a well-labelled diagram, explain the life cycle of the malaria parasite. (10 marks)",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Step-wise fever, headache, malaise, constipation or diarrhoea, rose spots, relative bradycardia, splenomegaly",
+        "(b) Safe water, good sanitation and hygiene, proper cooking, avoidance of faecal-oral spread",
+        "(b) Vaccination of travellers and prompt treatment of cases and carriers",
+        "(c) Sporozoites from mosquito bite -> liver schizogony -> merozoites -> blood schizogony in RBCs -> gametocytes taken up by mosquito -> sexual cycle in mosquito -> sporozoites to salivary glands",
+        "(c) Diagram must label mosquito, liver, red blood cells and gametocytes"
+      ],
+      "modelAnswer": "(a) Enteric (typhoid) fever presents with step-ladder fever, headache, abdominal pain, constipation or diarrhoea, rose spots, relative bradycardia, hepatosplenomegaly and weakness. (b) Prevention requires potable water, proper sewage disposal, personal and food-handler hygiene, careful food preparation, prompt treatment of cases and carriers and vaccination for travellers. (c) The malaria parasite's life cycle begins when an infected Anopheles mosquito injects sporozoites, which reach the liver and multiply (exo-erythrocytic schizogony); merozoites released into the blood invade red blood cells, where they multiply cyclically (erythrocytic schizogony), some developing into male and female gametocytes; these are taken up by a feeding mosquito, undergo sexual reproduction in the gut and produce new sporozoites that migrate to the salivary glands, ready to infect another person."
+    },
+    {
+      "id": "microbiology-paper-005-b08",
+      "question": "(a) Describe the process of wound healing after tooth extraction. (10 marks)\n(b) Explain the likely complications of wound healing. (5 marks)\n(c) What are the factors that affect wound healing? (5 marks)",
+      "marks": 20,
+      "markingGuide": [
+        "(a) Blood clot formation in socket -> inflammatory phase -> proliferative phase (granulation tissue, epithelialisation) -> remodelling/maturation of collagen",
+        "(a) Events and timing of each healing phase",
+        "(b) Dry socket (alveolar ostitis), secondary haemorrhage, infection/alveolar abscess, delayed healing, paresthesia",
+        "(c) Local: infection, blood supply, wound cleanliness, continued trauma",
+        "(c) Systemic: nutrition (vitamin C, protein), age, diabetes, smoking, drugs (bisphosphonates), radiation"
+      ],
+      "modelAnswer": "(a) After extraction, blood fills the socket and clots; the inflammatory phase removes debris, the proliferative phase lays down granulation tissue and new epithelium grows over the socket from the gingival margins, and in the maturation phase collagen is remodelled and bone gradually fills the socket over weeks to months. (b) Complications include dry socket (alveolar ostitis) from clot breakdown, secondary haemorrhage, local infection or alveolar abscess, delayed epithelialisation and nerve injury causing altered sensation. (c) Healing is affected by local factors (infection, blood supply, wound cleanliness and continued trauma) and systemic factors (age, nutrition - especially protein and vitamin C, diabetes, smoking, immunosuppression and drugs such as bisphosphonates)."
+    }
+  ]
+}

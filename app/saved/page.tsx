@@ -93,7 +93,7 @@ export default function SavedPage() {
               <button
                 type="button"
                 onClick={clearOfflineData}
-                className="w-full rounded-xl border border-white/10 bg-white/5 py-2.5 text-[12px] font-semibold text-white/80 active:text-white"
+                className="glass-nested w-full rounded-xl border border-white/10 py-2.5 text-[12px] font-semibold text-white/80 active:text-white"
               >
                 Clear offline copies
               </button>

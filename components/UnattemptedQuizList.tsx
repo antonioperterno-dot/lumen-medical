@@ -70,7 +70,7 @@ export default function UnattemptedQuizList() {
       ) : randomized.length > 0 ? (
         <div className="space-y-2">
           {randomized.map((paper, index) => (
-            <div key={paper.id} className="flex items-center justify-between gap-3 rounded-xl border border-white/10 bg-white/5 px-3 py-2.5">
+            <div key={paper.id} className="glass-nested flex items-center justify-between gap-3 rounded-xl border border-white/10 px-3 py-2.5">
               <span className="min-w-0">
                 <span className="block text-[13px] font-medium text-white">Quiz {index + 1}</span>
                 <span className="text-[11px] text-faint">Level {paper.level} · {paper.durationMinutes} min</span>

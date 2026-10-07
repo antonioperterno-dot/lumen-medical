@@ -1,0 +1,334 @@
+{
+  "id": "physiology-paper-003",
+  "courseUnit": "physiology",
+  "title": "Physiology Paper 3: Body Fluids, Membrane Transport and Cellular Physiology",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from the user-provided Physiology Paper 2 and alternative question set",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "physiology-paper-003-q01",
+      "question": "Physiology is the science that deals with the functioning of the:",
+      "options": ["Cells", "Body", "Homeostasis", "Systems"],
+      "answerIndex": 1,
+      "explanation": "Physiology studies the functions of living organisms and their parts, including the body and its systems.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q02",
+      "question": "Infusion of an isotonic sodium chloride solution causes:",
+      "options": [
+        "Increase in extracellular fluid volume",
+        "Decrease in extracellular fluid volume",
+        "Increase in intracellular fluid osmolarity",
+        "Decrease in intracellular fluid osmolarity"
+      ],
+      "answerIndex": 0,
+      "explanation": "Isotonic saline remains mainly in the extracellular compartment and expands its volume without a major osmolarity shift.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q03",
+      "question": "The main mechanism used by the body to eliminate excess water is:",
+      "options": [
+        "Sweating",
+        "Diarrhoea",
+        "Increased urine production",
+        "Increased respiratory rate"
+      ],
+      "answerIndex": 2,
+      "explanation": "The kidneys adjust water excretion, principally under antidiuretic hormone control.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q04",
+      "question": "Increased osmolality with decreased volume of both extracellular and intracellular fluids is most consistent with:",
+      "options": [
+        "Water deprivation",
+        "Diarrhoea",
+        "Renal insufficiency",
+        "SIADH"
+      ],
+      "answerIndex": 0,
+      "explanation": "Water deprivation causes hyperosmotic volume contraction as water is lost from body-fluid compartments.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-003-q05",
+      "question": "Drinking too much water could cause each of these changes, except:",
+      "options": [
+        "Decreased extracellular fluid osmolality",
+        "Decreased cell volumes",
+        "Increased extracellular volume",
+        "Increased urine output"
+      ],
+      "answerIndex": 1,
+      "explanation": "Excess water lowers extracellular osmolality, causing water to move into cells; cell volume increases rather than decreases.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-003-q06",
+      "question": "Approximately one third of total body water is:",
+      "options": [
+        "Intracellular fluid",
+        "Extracellular fluid",
+        "Plasma",
+        "Interstitial fluid"
+      ],
+      "answerIndex": 1,
+      "explanation": "Extracellular fluid is about one third of total body water; intracellular fluid is about two thirds.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q07",
+      "question": "Which of the following is not a transcellular fluid?",
+      "options": [
+        "Cerebrospinal fluid",
+        "Synovial fluid",
+        "Plasma",
+        "Vitreous humour"
+      ],
+      "answerIndex": 2,
+      "explanation": "Plasma is the fluid component of blood in the vascular extracellular compartment; the other examples are specialised transcellular fluids.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-003-q08",
+      "question": "A cell will shrink if:",
+      "options": [
+        "Solute concentration outside the cell is greater than inside",
+        "Solute concentration outside is lower than inside",
+        "Solute concentrations inside and outside are equal",
+        "Water concentration outside is greater than inside"
+      ],
+      "answerIndex": 0,
+      "explanation": "A hypertonic extracellular solution draws water out of the cell.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q09",
+      "question": "Which membrane transport mechanism requires cellular energy?",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Active transport",
+        "Osmosis"
+      ],
+      "answerIndex": 2,
+      "explanation": "Active transport requires energy to move substances against an electrochemical gradient.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q10",
+      "question": "In hyponatraemia, sodium ion concentration is decreased in the:",
+      "options": [
+        "Extracellular fluid",
+        "Intracellular fluid",
+        "Both equally",
+        "Red blood cells only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hyponatraemia is a low sodium concentration in the extracellular fluid/plasma.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q11",
+      "question": "Which is non-carrier-mediated transport down a concentration gradient?",
+      "options": [
+        "Facilitated diffusion",
+        "Simple diffusion",
+        "Active transport",
+        "Osmosis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Simple diffusion occurs directly through the lipid bilayer or channels without a carrier-mediated cycle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q12",
+      "question": "The largest route of body water loss under ordinary conditions is usually:",
+      "options": ["Urine", "Sweat", "Faeces", "Metabolism"],
+      "answerIndex": 0,
+      "explanation": "Urine is normally the largest controllable route of water loss, though sweat loss can dominate in heat or strenuous exercise.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-003-q13",
+      "question": "The major anion in extracellular fluid is:",
+      "options": ["Sodium", "Chloride", "Potassium", "Phosphate"],
+      "answerIndex": 1,
+      "explanation": "Chloride is the most abundant extracellular anion.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q14",
+      "question": "Which listed acute illness directly causes gastrointestinal water and electrolyte loss and can reduce body weight?",
+      "options": ["Climate", "Exercise", "Diarrhoea", "Sleep"],
+      "answerIndex": 2,
+      "explanation": "Diarrhoea causes gastrointestinal water and electrolyte loss. The original option set also included vomiting, which can cause the same general effect, so it was not a single-answer item.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-003-q15",
+      "question": "During prometaphase:",
+      "options": [
+        "Mitotic spindle microtubules attach to kinetochores",
+        "Nuclear envelope reforms",
+        "Mitotic spindles break down",
+        "Centromeres split during anaphase"
+      ],
+      "answerIndex": 0,
+      "explanation": "Prometaphase includes nuclear-envelope breakdown and spindle-microtubule attachment to chromosome kinetochores.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q16",
+      "question": "Anabolism is:",
+      "options": [
+        "A synthesis reaction",
+        "A non-synthesis reaction",
+        "An exothermic reaction only",
+        "An activated reaction"
+      ],
+      "answerIndex": 0,
+      "explanation": "Anabolism builds complex molecules from simpler precursors and generally requires energy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q17",
+      "question": "The combination of glucose and fructose forms:",
+      "options": ["Sucrose", "Lactose", "Maltose", "Galactose"],
+      "answerIndex": 0,
+      "explanation": "Sucrose consists of glucose and fructose.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q18",
+      "question": "The storage form of glucose in animals is:",
+      "options": ["Collagen", "Starch", "Fat", "Glycogen"],
+      "answerIndex": 3,
+      "explanation": "Animals store glucose primarily as glycogen in liver and skeletal muscle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q19",
+      "question": "DNA contains:",
+      "options": [
+        "Deoxyribose sugar",
+        "Phosphate",
+        "Nitrogenous bases",
+        "All of the above"
+      ],
+      "answerIndex": 3,
+      "explanation": "DNA nucleotides contain deoxyribose, phosphate and a nitrogenous base.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-003-q20",
+      "question": "In the body, negative feedback loops result in:",
+      "options": [
+        "Corrective changes that oppose the initial deviation",
+        "Augmented changes",
+        "Cascades that amplify the stimulus",
+        "Drastic changes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Negative feedback counteracts a deviation and tends to restore a regulated variable toward its set point.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "physiology-paper-003-b01",
+      "question": "State four factors that affect the rate of diffusion of a substance.",
+      "marks": 10,
+      "markingGuide": [
+        "Concentration or partial-pressure gradient: 2 marks.",
+        "Available surface area: 2 marks.",
+        "Diffusion distance/membrane thickness: 2 marks.",
+        "Molecular size, lipid solubility or membrane permeability: 2 marks.",
+        "Temperature or medium viscosity with appropriate direction: 2 marks."
+      ],
+      "modelAnswer": "Diffusion is faster with a steeper concentration or partial-pressure gradient, greater surface area, higher temperature and greater membrane permeability (for example, lipid-soluble molecules). It is slower across a thicker/longer diffusion distance, for larger molecules and in a more viscous medium."
+    },
+    {
+      "id": "physiology-paper-003-b02",
+      "question": "Outline four properties of an action potential.",
+      "marks": 10,
+      "markingGuide": [
+        "All-or-none response once threshold is reached: 2 marks.",
+        "Stereotyped amplitude and duration for a given cell: 2 marks.",
+        "Refractory periods limit immediate re-excitation and support one-way propagation: 2 marks.",
+        "Propagates without decrement along an excitable membrane: 2 marks.",
+        "Threshold-dependent initiation or frequency coding: 2 marks."
+      ],
+      "modelAnswer": "An action potential is an all-or-none event initiated when threshold is reached. Its amplitude is broadly stereotyped and it propagates along the membrane without decrement. Absolute and relative refractory periods follow it, limiting re-excitation and favouring forward propagation. Stimulus strength is commonly encoded by firing frequency rather than by increasing the size of each action potential."
+    },
+    {
+      "id": "physiology-paper-003-b03",
+      "question": "List four properties of cardiac muscle.",
+      "marks": 10,
+      "markingGuide": [
+        "Striated and involuntary: 2 marks.",
+        "Branched cells usually with one central nucleus: 2 marks.",
+        "Intercalated discs with mechanical/electrical junctions: 2 marks.",
+        "Excitability, conductivity, contractility and autorhythmicity (any two): 2 marks.",
+        "Functional syncytium/long refractory period preventing tetany: 2 marks."
+      ],
+      "modelAnswer": "Cardiac muscle is striated and involuntary. Its short branched cells usually have a central nucleus and are joined by intercalated discs containing desmosomes and gap junctions. It is excitable, conductive and contractile; specialised cells show autorhythmicity. Its long refractory period prevents sustained tetanic contraction, and electrical coupling allows coordinated pumping."
+    },
+    {
+      "id": "physiology-paper-003-b04",
+      "question": "State four differences between meiosis and mitosis.",
+      "marks": 10,
+      "markingGuide": [
+        "Number of divisions: one in mitosis, two in meiosis: 2 marks.",
+        "Daughter-cell number/ploidy: two diploid vs typically four haploid: 2 marks.",
+        "Genetic similarity vs variation: 2 marks.",
+        "Synapsis/crossing-over occurs in meiosis I, not typical mitosis: 2 marks.",
+        "Function: somatic growth/repair vs gamete formation: 2 marks."
+      ],
+      "modelAnswer": "Mitosis has one division and generally produces two genetically similar daughter cells with the same ploidy as the parent; it supports growth and repair. Meiosis has two divisions and typically produces four genetically varied haploid cells for sexual reproduction. Homologous chromosomes pair and crossing-over occurs in meiosis I but not in ordinary mitosis."
+    },
+    {
+      "id": "physiology-paper-003-b05",
+      "question": "Name two formed elements of blood and state the function of each.",
+      "marks": 10,
+      "markingGuide": [
+        "Names two formed elements: erythrocytes, leukocytes or platelets: 2 marks.",
+        "Correct erythrocyte oxygen/carbon dioxide transport function: 3 marks.",
+        "Correct leukocyte immune defence function: 3 marks.",
+        "Correct platelet haemostasis function: 2 marks."
+      ],
+      "modelAnswer": "Erythrocytes transport oxygen and some carbon dioxide. Leukocytes defend the body against infection and abnormal cells. Platelets are cell fragments that contribute to haemostasis by forming platelet plugs and supporting coagulation. Any two correctly paired formed elements and functions receive credit."
+    },
+    {
+      "id": "physiology-paper-003-b06",
+      "question": "State four functions of saliva and four functions of the respiratory system.",
+      "marks": 20,
+      "markingGuide": [
+        "Any four saliva functions: lubrication, bolus formation, digestion by amylase/lipase, taste-solute dissolution, buffering, antimicrobial protection: 10 marks.",
+        "Any four respiratory functions: gas exchange, acid-base regulation, air conditioning/protection, phonation, olfaction, metabolic roles: 10 marks."
+      ],
+      "modelAnswer": "Saliva lubricates oral tissues and food, helps form a swallowable bolus, begins starch digestion through amylase, dissolves substances for taste, buffers acids and provides antimicrobial protection. Respiratory-system functions include oxygen uptake and carbon dioxide elimination, regulation of blood pH through CO2 excretion, warming/humidifying/filtering inspired air, phonation, olfaction and defence against inhaled particles and pathogens."
+    },
+    {
+      "id": "physiology-paper-003-b07",
+      "question": "Differentiate stroke volume from cardiac output, and internal respiration from external respiration.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines stroke volume per ventricular beat: 5 marks.",
+        "Defines cardiac output per minute and gives HR × SV: 5 marks.",
+        "External respiration is gas exchange between alveoli and pulmonary blood: 5 marks.",
+        "Internal respiration is gas exchange between systemic blood and tissues: 5 marks."
+      ],
+      "modelAnswer": "Stroke volume is the volume ejected by one ventricle per heartbeat. Cardiac output is the volume ejected by one ventricle per minute and equals heart rate multiplied by stroke volume. External respiration is oxygen and carbon dioxide exchange between alveolar air and pulmonary capillary blood. Internal respiration is gas exchange between systemic capillary blood and body tissues."
+    }
+  ]
+}

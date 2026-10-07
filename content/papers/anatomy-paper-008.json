@@ -1,0 +1,335 @@
+{
+  "id": "anatomy-paper-008",
+  "courseUnit": "anatomy",
+  "title": "Anatomy Paper 8: General Anatomy and Embryology",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Anatomy pages)",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "anatomy-paper-008-q01",
+      "question": "Which nervous system cells produce myelin in the central nervous system?",
+      "options": [
+        "Astrocytes",
+        "Oligodendrocytes",
+        "Microglia",
+        "Schwann cells"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oligodendrocytes myelinate axons in the CNS; Schwann cells myelinate axons in the peripheral nervous system.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-008-q02",
+      "question": "The attachment of a skeletal muscle that remains fixed during contraction is called its:",
+      "options": [
+        "Insertion",
+        "Origin",
+        "Belly",
+        "Tendon"
+      ],
+      "answerIndex": 1,
+      "explanation": "The origin is the relatively fixed attachment; the insertion is the attachment pulled towards the origin.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-008-q03",
+      "question": "Turning the sole of the foot outward so that the dorsum faces laterally is called:",
+      "options": [
+        "Inversion",
+        "Eversion",
+        "Plantar flexion",
+        "Dorsiflexion"
+      ],
+      "answerIndex": 1,
+      "explanation": "Eversion turns the sole laterally; inversion turns the sole medially so the dorsum faces laterally.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q04",
+      "question": "Which of the following is the final segment of the small intestine?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Caecum"
+      ],
+      "answerIndex": 2,
+      "explanation": "The small intestine runs duodenum, jejunum then ileum, which joins the caecum of the large intestine at the ileocaecal valve.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q05",
+      "question": "The human skeleton is divided into which of the following parts?",
+      "options": [
+        "Axial and appendicular",
+        "Compact and spongy",
+        "Long and short",
+        "True and false"
+      ],
+      "answerIndex": 0,
+      "explanation": "The axial skeleton is the skull, vertebral column and thoracic cage; the appendicular skeleton is the limbs and their girdles.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q06",
+      "question": "The first cervical bone is called the:",
+      "options": [
+        "Atlas",
+        "Axis",
+        "Dens",
+        "Vertebra prominens"
+      ],
+      "answerIndex": 0,
+      "explanation": "C1, the atlas, supports the skull and allows the nodding movement of the head.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q07",
+      "question": "The two bones of the leg (between knee and ankle) are the:",
+      "options": [
+        "Radius and ulna",
+        "Tibia and fibula",
+        "Humerus and scapula",
+        "Tarsals and metatarsals"
+      ],
+      "answerIndex": 1,
+      "explanation": "The leg proper contains the tibia and fibula. The whole lower limb also includes the femur and bones of the foot, so the original broader wording was imprecise.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q08",
+      "question": "The skeleton is composed of which two types of tissue?",
+      "options": [
+        "Epithelial and connective",
+        "Bone and cartilage",
+        "Muscle and nerve",
+        "Osseous and elastic"
+      ],
+      "answerIndex": 1,
+      "explanation": "The skeletal system is formed of osseous tissue (bone) together with cartilage at joints and epiphyseal plates.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q09",
+      "question": "The two sphincters that control the opening of the stomach are the:",
+      "options": [
+        "Cardiac and pyloric",
+        "Ileocaecal and pyloric",
+        "Oesophageal and anal",
+        "Cardiac and ileocaecal"
+      ],
+      "answerIndex": 0,
+      "explanation": "The cardiac (oesophageal) sphincter guards the entrance and the pyloric sphincter guards the exit of the stomach.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q10",
+      "question": "The glenohumeral (shoulder) joint is formed by the head of the humerus articulating with the:",
+      "options": [
+        "Hinge joint",
+        "Glenoid cavity of the scapula",
+        "Pivot joint",
+        "Saddle joint"
+      ],
+      "answerIndex": 1,
+      "explanation": "The rounded humeral head articulates with the glenoid cavity of the scapula; the joint is structurally a ball-and-socket synovial joint.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q11",
+      "question": "Supination of the forearm results in:",
+      "options": [
+        "Medial rotation of the radius",
+        "Lateral rotation of the radius",
+        "Flexion of the elbow",
+        "Adduction of the arm"
+      ],
+      "answerIndex": 1,
+      "explanation": "Supination is lateral rotation of the radius so that the palm faces anteriorly; the mnemonic is holding a bowl of soup.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q12",
+      "question": "During the second week of development, the inner cell mass differentiates into which two layers?",
+      "options": [
+        "Epiblast and hypoblast",
+        "Amnion and chorion",
+        "Trophoblast and cytotrophoblast",
+        "Mesoderm and endoderm"
+      ],
+      "answerIndex": 0,
+      "explanation": "In week two the bilaminar disc forms from the epiblast and hypoblast; the trophoblast is the extraembryonic layer that forms the placenta.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-008-q13",
+      "question": "HCG in full means:",
+      "options": [
+        "Human chorionic gonadotropin",
+        "Human corpus growth hormone",
+        "Hormonal chorionic group",
+        "Human cytotrophoblast globulin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Human chorionic gonadotropin is secreted by the trophoblast/ placenta and maintains the corpus luteum in early pregnancy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q14",
+      "question": "A transverse (horizontal) plane divides the body into:",
+      "options": [
+        "Anterior and posterior parts",
+        "Superior and inferior parts",
+        "Right and left parts",
+        "Medial and lateral parts"
+      ],
+      "answerIndex": 1,
+      "explanation": "A transverse plane gives superior and inferior portions; sagittal gives right and left, and coronal gives anterior and posterior.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q15",
+      "question": "Which cranial nerves are purely sensory in function?",
+      "options": [
+        "Olfactory, optic and vestibulocochlear",
+        "Trigeminal, facial and glossopharyngeal",
+        "Vagus, accessory and hypoglossal",
+        "Trochlear, abducens and oculomotor"
+      ],
+      "answerIndex": 0,
+      "explanation": "CN I (olfactory), CN II (optic) and CN VIII (vestibulocochlear) are sensory; the others contain motor or mixed fibres.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-008-q16",
+      "question": "Which group of white blood cells includes neutrophils, eosinophils and basophils?",
+      "options": [
+        "Agranulocytes",
+        "Granulocytes",
+        "Lymphocytes",
+        "Monocytes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Neutrophils, eosinophils and basophils have granular cytoplasm and are the granulocytes; lymphocytes and monocytes are agranulocytes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q17",
+      "question": "Damage to the vagus nerve (cranial nerve X) would most likely impair:",
+      "options": [
+        "Movement of the tongue",
+        "Swallowing and parasympathetic control of thoracic and abdominal viscera",
+        "Shrugging of the shoulders",
+        "Lateral rotation of the eye"
+      ],
+      "answerIndex": 1,
+      "explanation": "The vagus supplies the pharynx and larynx for swallowing and parasympathetic fibres to thoracic and abdominal organs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q18",
+      "question": "The following are hamstring muscles:",
+      "options": [
+        "Biceps femoris, semitendinosus and semimembranosus",
+        "Rectus femoris, vastus lateralis and vastus medialis",
+        "Tibialis anterior, gastrocnemius and soleus",
+        "Sartorius, gracilis and adductor magnus"
+      ],
+      "answerIndex": 0,
+      "explanation": "The hamstrings are biceps femoris, semitendinosus and semimembranosus on the posterior thigh; the quadriceps lie anteriorly.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q19",
+      "question": "Which of the following is NOT part of the central nervous system?",
+      "options": [
+        "Brain",
+        "Spinal cord",
+        "Cerebellum",
+        "Cranial nerves"
+      ],
+      "answerIndex": 3,
+      "explanation": "The central nervous system is the brain and spinal cord; cranial and spinal nerves belong to the peripheral nervous system.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-008-q20",
+      "question": "The true (lesser) pelvic cavity contains the:",
+      "options": [
+        "Liver and gall bladder",
+        "Spleen and stomach",
+        "Urinary bladder and rectum",
+        "Ascending and descending colon"
+      ],
+      "answerIndex": 2,
+      "explanation": "The true pelvis contains the bladder, rectum and reproductive organs; the false pelvis above the pelvic brim contains abdominal viscera.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "anatomy-paper-008-b01",
+      "question": "Name the three germ layers formed during gastrulation and state one organ or tissue derived from each. (3 marks)",
+      "marks": 3,
+      "markingGuide": [
+        "Ectoderm - skin epidermis, nervous system (brain and spinal cord)",
+        "Mesoderm - muscle, bone, blood and circulatory system",
+        "Endoderm - lining of the alimentary canal and respiratory tract"
+      ],
+      "modelAnswer": "During gastrulation the epiblast forms three germ layers. The ectoderm gives rise to the epidermis of the skin and to the entire nervous system; the mesoderm gives rise to muscle, bone, cartilage, blood and the circulatory and urogenital systems; and the endoderm lines the alimentary canal and its derivatives (liver, pancreas) and forms the lining of the respiratory tract."
+    },
+    {
+      "id": "anatomy-paper-008-b02",
+      "question": "State the three main events of the first week of human development from fertilisation to implantation. (3 marks)",
+      "marks": 3,
+      "markingGuide": [
+        "Fertilisation in the ampulla of the uterine tube forms the zygote",
+        "Cleavage produces a morula then a fluid-filled blastocyst",
+        "Implantation of the blastocyst into the uterine wall begins around day 6-7"
+      ],
+      "modelAnswer": "The first week of development comprises three main events: (i) fertilisation, when a sperm fuses with the secondary oocyte in the uterine tube to form the zygote; (ii) cleavage, a series of mitotic divisions that converts the zygote into a morula and then a hollow blastocyst with inner cell mass and trophoblast; and (iii) implantation, in which the blastocyst attaches to and embeds in the endometrium of the uterus, beginning about six to seven days after fertilisation."
+    },
+    {
+      "id": "anatomy-paper-008-b03",
+      "question": "Name the four cavities (ventricles) of the brain. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Two lateral ventricles (one in each cerebral hemisphere)",
+        "Third ventricle (within the diencephalon)",
+        "Fourth ventricle (between the brainstem and cerebellum)",
+        "All are connected and filled with cerebrospinal fluid (CSF)"
+      ],
+      "modelAnswer": "The brain has four ventricles: two lateral ventricles, one in each cerebral hemisphere, which communicate with the single third ventricle in the diencephalon; the third ventricle connects via the cerebral aqueduct to the fourth ventricle located between the pons, medulla and cerebellum. All four cavities are lined by ependymal cells and filled with cerebrospinal fluid."
+    },
+    {
+      "id": "anatomy-paper-008-b04",
+      "question": "Name the four lobes of the cerebral cortex and state one function of each. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Frontal lobe - voluntary movement, speech (Broca's area) and higher mental functions",
+        "Parietal lobe - somatosensory sensations such as touch, pressure and position",
+        "Temporal lobe - hearing, balance and memory",
+        "Occipital lobe - vision"
+      ],
+      "modelAnswer": "The cerebral cortex is divided into four lobes. The frontal lobe controls voluntary movement and houses Broca's speech area and executive functions; the parietal lobe receives and processes somatosensory information such as touch, temperature and proprioception; the temporal lobe contains the primary auditory cortex and structures important for hearing, balance and memory; and the occipital lobe contains the primary visual cortex for processing visual information."
+    },
+    {
+      "id": "anatomy-paper-008-b05",
+      "question": "Classify joints structurally into three types and give one example of each. (3 marks)",
+      "marks": 3,
+      "markingGuide": [
+        "Fibrous joints - e.g. sutures of the skull",
+        "Cartilaginous joints - e.g. intervertebral discs (or the pubic symphysis)",
+        "Synovial joints - e.g. the knee, shoulder or hip joint"
+      ],
+      "modelAnswer": "Structurally, joints are classified into three types. Fibrous joints are joined by dense connective tissue with no cavity, such as the sutures between the skull bones. Cartilaginous joints are joined by cartilage, either hyaline (synchondroses, e.g. the first rib) or fibrocartilage (symphyses, e.g. the intervertebral discs). Synovial joints have a fluid-filled joint cavity, articular cartilage and a joint capsule, allowing free movement, as in the knee, shoulder and hip joints."
+    }
+  ]
+}

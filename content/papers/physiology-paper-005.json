@@ -1,0 +1,745 @@
+{
+  "id": "physiology-paper-005",
+  "courseUnit": "physiology",
+  "title": "Physiology Paper 5: Blood, Membrane Transport and Endocrine Physiology",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Physiology assessments and Endocrine & Reproductive question bank",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "physiology-paper-005-q01",
+      "question": "Rouleaux formation means:",
+      "options": [
+        "Specific gravity of red blood cells",
+        "Suspension stability of red blood cells",
+        "Red blood cells stacking like coins",
+        "Packed cell volume of blood"
+      ],
+      "answerIndex": 2,
+      "explanation": "Rouleaux are stacks of red blood cells resembling piles of coins, often promoted by plasma proteins.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q02",
+      "question": "The hormone that stimulates red blood cell production is:",
+      "options": [
+        "Erythropoietin",
+        "Haemopoietin",
+        "Leukopoietin",
+        "Intrinsic factor"
+      ],
+      "answerIndex": 0,
+      "explanation": "Erythropoietin, produced mainly by the kidneys in adults, stimulates erythropoiesis in bone marrow.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q03",
+      "question": "True or false: Primary polycythaemia is defined by a persistent red blood cell count above 14 million/mm³.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "False. Polycythaemia vera is a myeloproliferative neoplasm with increased red-cell mass; a fixed RBC count of 14 million/mm³ is not a standard diagnostic definition.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-005-q04",
+      "question": "True or false: Anaemia means a marked reduction in red blood cell count only.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "False. Anaemia is defined by reduced haemoglobin concentration or red-cell mass for age/sex and context; the RBC count may or may not be reduced.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-005-q05",
+      "question": "True or false: Vitamin B12 absorption in the terminal ileum normally requires intrinsic factor.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. Vitamin B12 binds intrinsic factor and the complex is absorbed in the terminal ileum.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q06",
+      "question": "True or false: People with blood group AB normally have anti-A and anti-B antibodies, making them universal recipients.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "False. Group AB individuals normally lack anti-A and anti-B antibodies; this contributes to their red-cell compatibility as ABO universal recipients (Rh and crossmatch still matter).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q07",
+      "question": "True or false: White blood cells normally live for 120 days in the body.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "False. Leukocyte lifespan varies widely by type, from hours/days for some cells to years for memory lymphocytes. About 120 days is the typical red-cell lifespan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q08",
+      "question": "True or false: Packed cell volume is also called haematocrit.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. Haematocrit is the proportion of blood volume occupied by red blood cells, also called packed cell volume.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q09",
+      "question": "True or false: Diarrhoea can cause metabolic acidosis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. Loss of bicarbonate-rich intestinal fluid can cause a normal-anion-gap metabolic acidosis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q10",
+      "question": "True or false: Haemoglobin contributes to the body's buffer systems.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. Haemoglobin is an important intracellular and blood buffer, especially in red cells; the source statement ‘does not play a role’ is false.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-005-q11",
+      "question": "True or false: A uniporter transports one type of solute across a membrane at a time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. A uniporter transports one solute species; symporters and antiporters couple transport of multiple species.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q12",
+      "question": "True or false: Symporters transport two or more substances in the same direction across a membrane.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. Symport is coupled transport in the same direction; antiport moves coupled substances in opposite directions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q13",
+      "question": "Which hormone stimulates ovarian follicle development and ova maturation?",
+      "options": [
+        "FSH",
+        "FSA",
+        "TSH",
+        "Prolactin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Follicle-stimulating hormone (FSH) promotes ovarian follicle development; ovulation is triggered primarily by an LH surge.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q14",
+      "question": "Which organs secrete oestrogen and progesterone during the ovarian cycle?",
+      "options": [
+        "Adrenal glands",
+        "Pineal glands",
+        "Ovaries",
+        "Testes"
+      ],
+      "answerIndex": 2,
+      "explanation": "The ovaries produce oestrogens and progesterone; the placenta also produces these hormones during pregnancy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q15",
+      "question": "Which gland has right and left lobes on either side of the trachea?",
+      "options": [
+        "Adrenal gland",
+        "Parathyroid gland",
+        "Pituitary gland",
+        "Thyroid gland"
+      ],
+      "answerIndex": 3,
+      "explanation": "The thyroid gland has two lateral lobes connected by an isthmus anterior to the trachea.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q16",
+      "question": "Which posterior pituitary hormone stimulates uterine contractions during labour?",
+      "options": [
+        "Oestrogen",
+        "Oxytocin",
+        "Progesterone",
+        "Prolactin"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oxytocin released from the posterior pituitary stimulates uterine contractions and milk ejection.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q17",
+      "question": "Which hormone is commonly detected in urine during pregnancy testing?",
+      "options": [
+        "Human chorionic gonadotropin (hCG)",
+        "Oxytocin",
+        "Growth hormone",
+        "Somatotropin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Placental trophoblast produces hCG, which can be detected in urine after implantation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q18",
+      "question": "Insulin is produced by the:",
+      "options": [
+        "Gallbladder",
+        "Kidney",
+        "Liver",
+        "Pancreas"
+      ],
+      "answerIndex": 3,
+      "explanation": "Pancreatic beta cells in the islets of Langerhans secrete insulin.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q19",
+      "question": "Enlargement of the thyroid gland is called:",
+      "options": [
+        "Bruit",
+        "Goitre",
+        "Moon facies",
+        "Thyroiditis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Goitre means enlargement of the thyroid gland; it can have multiple causes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q20",
+      "question": "Which type of gland releases hormones into interstitial fluid and blood rather than through ducts?",
+      "options": [
+        "Exocrine gland",
+        "Endocrine gland",
+        "Serous gland",
+        "Target gland"
+      ],
+      "answerIndex": 1,
+      "explanation": "Endocrine glands are ductless and release hormones into the interstitial fluid and circulation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q21",
+      "question": "The ‘master gland’ at the base of the brain is commonly called the:",
+      "options": [
+        "Apical gland",
+        "Bartholin gland",
+        "Pituitary gland",
+        "Thyroid gland"
+      ],
+      "answerIndex": 2,
+      "explanation": "The pituitary is traditionally called the master gland, although its activity is regulated by the hypothalamus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q22",
+      "question": "Excess growth hormone after epiphyseal plates have closed can cause enlargement of hands, feet and facial bones, called:",
+      "options": [
+        "Acromegaly",
+        "Cushing syndrome",
+        "Polydactyly",
+        "Addison disease"
+      ],
+      "answerIndex": 0,
+      "explanation": "Acromegaly results from excess growth hormone in adults after epiphyseal closure.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q23",
+      "question": "Sodium, potassium and chloride are:",
+      "options": [
+        "Catecholamines",
+        "Electrolytes",
+        "Enzymes",
+        "Steroids"
+      ],
+      "answerIndex": 1,
+      "explanation": "These ions are electrolytes in body fluids.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q24",
+      "question": "Antidiuretic hormone is synthesised in the hypothalamus and released into blood from the:",
+      "options": [
+        "Hypothalamus only",
+        "Posterior pituitary",
+        "Intermediate pituitary",
+        "Anterior pituitary"
+      ],
+      "answerIndex": 1,
+      "explanation": "ADH is synthesised in hypothalamic neurons, transported down axons and released from the posterior pituitary.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-005-q25",
+      "question": "Which hormone is not secreted by the anterior pituitary?",
+      "options": [
+        "Thyroid-stimulating hormone",
+        "Adrenocorticotropic hormone",
+        "Oxytocin",
+        "Follicle-stimulating hormone"
+      ],
+      "answerIndex": 2,
+      "explanation": "Oxytocin is released from the posterior pituitary; it is synthesised in the hypothalamus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q26",
+      "question": "Fertilisation most commonly occurs in the:",
+      "options": [
+        "Uterus",
+        "Uterine (fallopian) tube",
+        "Labia",
+        "Vagina"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fertilisation usually occurs in the ampulla of the uterine tube.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q27",
+      "question": "The average menstrual cycle is often described as approximately:",
+      "options": [
+        "One week",
+        "Two weeks",
+        "28 days",
+        "45 days"
+      ],
+      "answerIndex": 2,
+      "explanation": "Twenty-eight days is a conventional average; normal cycle lengths vary substantially between individuals and cycles.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q28",
+      "question": "The clitoris is embryologically homologous to which male structure?",
+      "options": [
+        "Testes",
+        "Ejaculatory ducts",
+        "Penis",
+        "Prostate"
+      ],
+      "answerIndex": 2,
+      "explanation": "The clitoris and penis develop from the genital tubercle and are homologous structures.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q29",
+      "question": "Which is not generally described as an organ with secondary endocrine functions?",
+      "options": [
+        "Liver",
+        "Heart",
+        "Stomach",
+        "Ovary"
+      ],
+      "answerIndex": 3,
+      "explanation": "The source choices are ambiguous: the ovary is a primary endocrine/reproductive organ, whereas the liver, heart and stomach have secondary endocrine functions. This item uses that distinction.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "physiology-paper-005-q30",
+      "question": "Oogenesis begins during:",
+      "options": [
+        "Birth",
+        "Fetal life",
+        "Puberty",
+        "Adulthood after age 19"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oogonia enter meiosis during fetal life; primary oocytes arrest in prophase I until later maturation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-005-q31",
+      "question": "Which pair of hormones acts directly on non-endocrine target tissues?",
+      "options": [
+        "FSH and LH",
+        "ACTH and GH",
+        "ADH and oxytocin",
+        "LH and growth hormone"
+      ],
+      "answerIndex": 2,
+      "explanation": "ADH acts on renal collecting ducts and oxytocin acts on uterine and mammary myoepithelial cells; these are non-endocrine effector tissues.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-005-q32",
+      "question": "Which pair consists of anterior pituitary hormones?",
+      "options": [
+        "ADH and ACTH",
+        "LH and growth hormone",
+        "Growth hormone and oxytocin",
+        "Prolactin and FSH"
+      ],
+      "answerIndex": 1,
+      "explanation": "LH and growth hormone are both secreted by the anterior pituitary. Prolactin and FSH are also anterior pituitary hormones, so the supplied item has two valid choices and should not be scored as single-answer MCQ.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "physiology-paper-005-q33",
+      "question": "Increased basal metabolic rate, weight loss, anxiety, exophthalmos and elevated T3/T4 are most consistent with:",
+      "options": [
+        "Hyperthyroidism",
+        "Hypothyroidism",
+        "Gigantism",
+        "Acromegaly"
+      ],
+      "answerIndex": 0,
+      "explanation": "These are features of hyperthyroidism; exophthalmos is particularly associated with Graves disease.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q34",
+      "question": "Dysfunction of insulin-producing islet cells can lead to:",
+      "options": [
+        "Liver disease",
+        "Diabetes mellitus",
+        "Gigantism",
+        "Acromegaly"
+      ],
+      "answerIndex": 1,
+      "explanation": "Insufficient insulin secretion or action can cause diabetes mellitus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q35",
+      "question": "The external female genital structures collectively are called the:",
+      "options": [
+        "Uvula",
+        "Vulva",
+        "Internal genitalia",
+        "Labrum"
+      ],
+      "answerIndex": 1,
+      "explanation": "The vulva includes the labia, clitoris, vestibule and associated external structures.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q36",
+      "question": "The paired glands that produce, store and release ova are the:",
+      "options": [
+        "Ovaries",
+        "Uterine tubes",
+        "Uterus",
+        "Bartholin glands"
+      ],
+      "answerIndex": 0,
+      "explanation": "The ovaries contain oocytes and release ova during ovulation; they also secrete steroid hormones.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q37",
+      "question": "The thick, muscular organ that expands to accommodate a developing embryo and fetus is the:",
+      "options": [
+        "Vagina",
+        "Uterus",
+        "Ovary",
+        "Uterine tube"
+      ],
+      "answerIndex": 1,
+      "explanation": "The uterus is a muscular organ whose endometrium supports implantation and pregnancy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q38",
+      "question": "The prostate gland can obstruct urine flow through the:",
+      "options": [
+        "Ureter",
+        "Prostatic urethra",
+        "Vas deferens",
+        "Epididymis"
+      ],
+      "answerIndex": 1,
+      "explanation": "The prostatic urethra passes through the prostate; enlargement can compress it and impair urinary flow.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q39",
+      "question": "True or false: The first menstrual period is called menarche.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. Menarche is the first menstrual period.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q40",
+      "question": "True or false: Female bodies normally produce some testosterone.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. Ovaries and adrenal glands produce androgens, including testosterone, in females as well as males.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q41",
+      "question": "True or false: Sperm and ovum usually unite in the uterus.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "False. Fertilisation usually occurs in the ampulla of the uterine tube.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q42",
+      "question": "True or false: Only human males have a urethra.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "False. Both sexes have a urethra; in males it carries urine and semen at different times, while in females it carries urine.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q43",
+      "question": "True or false: The zygote implants in the endometrium of the uterus.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "True. Normal implantation occurs in the uterine endometrium, most often in the upper uterine body.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q44",
+      "question": "Which structure is also known as the Bartholin gland?",
+      "options": [
+        "Ovary",
+        "Greater vestibular gland",
+        "Cowper gland",
+        "Prostate gland"
+      ],
+      "answerIndex": 1,
+      "explanation": "The greater vestibular glands are also called Bartholin glands.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q45",
+      "question": "The adrenal cortex produces which major classes of steroid hormones?",
+      "options": [
+        "Catecholamines only",
+        "Glucocorticoids, mineralocorticoids and adrenal androgens",
+        "Insulin and glucagon",
+        "Thyroid hormones"
+      ],
+      "answerIndex": 1,
+      "explanation": "The adrenal cortex produces mineralocorticoids, glucocorticoids and adrenal androgens; catecholamines are produced by the adrenal medulla.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q46",
+      "question": "The hormone erythropoietin is produced mainly in adults by the:",
+      "options": [
+        "Liver",
+        "Spleen",
+        "Kidneys",
+        "Heart"
+      ],
+      "answerIndex": 2,
+      "explanation": "In adults, renal interstitial cells produce most erythropoietin in response to hypoxia; the liver contributes, especially in fetal life.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q47",
+      "question": "Human chorionic gonadotropin (hCG) is produced primarily by the:",
+      "options": [
+        "Ovaries",
+        "Uterus",
+        "Placental trophoblast",
+        "Clitoris"
+      ],
+      "answerIndex": 2,
+      "explanation": "Placental trophoblast, especially syncytiotrophoblast, secretes hCG early in pregnancy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q48",
+      "question": "The posterior pituitary releases ADH that is synthesised primarily in the:",
+      "options": [
+        "Hypothalamus",
+        "Anterior pituitary",
+        "Thyroid",
+        "Adrenal cortex"
+      ],
+      "answerIndex": 0,
+      "explanation": "ADH is made in hypothalamic neurons and transported for storage and release from the posterior pituitary.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "physiology-paper-005-q49",
+      "question": "Which is a classic positive-feedback process?",
+      "options": [
+        "Blood clotting",
+        "Temperature regulation",
+        "Blood glucose regulation by insulin",
+        "Baroreceptor control of blood pressure"
+      ],
+      "answerIndex": 0,
+      "explanation": "Clotting-factor activation amplifies the response until a clot forms; parturition is another example.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "physiology-paper-005-q50",
+      "question": "Which statement about an animal cell is correct?",
+      "options": [
+        "It has a cell wall",
+        "Its plasma membrane is also called the plasmalemma",
+        "It lacks a plasma membrane",
+        "It has chloroplasts"
+      ],
+      "answerIndex": 1,
+      "explanation": "The plasma membrane is also called the plasmalemma. Human cells lack a cell wall and chloroplasts.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "physiology-paper-005-b01",
+      "question": "(a) Define active transport. (b) Explain sodium cotransport and sodium counter-transport with examples.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines active transport as energy-dependent movement against electrochemical gradient: 5 marks.",
+        "Explains Na+/K+ ATPase establishes inward Na+ gradient: 4 marks.",
+        "Explains cotransport/symport and gives Na+-glucose or Na+-amino acid example: 5 marks.",
+        "Explains countertransport/antiport and gives Na+/H+ or Na+/Ca2+ example: 5 marks.",
+        "Clear directionality/terminology: 1 mark."
+      ],
+      "modelAnswer": "Active transport moves a substance against its electrochemical gradient using energy directly from ATP or indirectly from an ion gradient. The Na+/K+ ATPase uses ATP to move three Na+ out and two K+ into the cell, maintaining a low intracellular Na+ concentration. Secondary active cotransport (symport) uses the inward Na+ gradient to move Na+ and another solute in the same direction, for example Na+-glucose cotransport in intestinal and renal epithelia. Countertransport (antiport) couples Na+ entry to movement of another solute in the opposite direction, such as Na+/H+ exchange or Na+/Ca2+ exchange."
+    },
+    {
+      "id": "physiology-paper-005-b02",
+      "question": "Describe phagocytosis, pinocytosis and receptor-mediated endocytosis. Explain the roles of clathrin and caveolin in bulk-flow/vesicular transport.",
+      "marks": 20,
+      "markingGuide": [
+        "Phagocytosis: recognition, engulfment of large particles, phagosome and lysosomal digestion: 5 marks.",
+        "Pinocytosis: nonspecific uptake of extracellular fluid/solutes in small vesicles: 5 marks.",
+        "Receptor-mediated endocytosis: ligand binding, coated-pit invagination, vesicle formation and sorting: 4 marks.",
+        "Clathrin coat function in vesicle formation/selection: 3 marks.",
+        "Caveolin/caveolae role in membrane invagination and selected cargo/signalling: 3 marks."
+      ],
+      "modelAnswer": "In phagocytosis, a cell recognises and extends pseudopodia around a large particle or microbe, internalises it into a phagosome and fuses this with lysosomes for digestion. Pinocytosis is uptake of extracellular fluid and dissolved solutes in small vesicles, often nonspecifically. In receptor-mediated endocytosis, extracellular ligands bind specific membrane receptors concentrated in coated pits; the membrane invaginates, pinches off, and cargo is sorted in endosomes. Clathrin assembles into coats that help concentrate selected cargo and shape budding vesicles. Caveolin forms caveolae, small membrane invaginations involved in selected uptake, membrane trafficking and signalling. Clathrin and caveolin are distinct vesicle-associated proteins, and not all bulk uptake requires either coat."
+    },
+    {
+      "id": "physiology-paper-005-b03",
+      "question": "Define oncotic pressure, filtration and hydrostatic pressure. Describe the main pressures governing capillary fluid exchange.",
+      "marks": 10,
+      "markingGuide": [
+        "Defines hydrostatic pressure as fluid pressure exerted on a wall: 2 marks.",
+        "Defines oncotic pressure as osmotic pull from plasma proteins: 2 marks.",
+        "Defines filtration as net movement of fluid/solutes across a membrane due to pressure gradients: 2 marks.",
+        "Explains capillary hydrostatic pressure favours outward filtration and plasma oncotic pressure favours inward reabsorption: 3 marks.",
+        "Notes lymphatic return of excess filtered fluid: 1 mark."
+      ],
+      "modelAnswer": "Hydrostatic pressure is the pressure exerted by fluid against a surface. Oncotic (colloid osmotic) pressure is osmotic force generated mainly by plasma proteins such as albumin. Filtration is net movement of water and small solutes across a membrane driven by pressure gradients. Capillary hydrostatic pressure tends to push fluid out into interstitium, while plasma oncotic pressure draws water into capillaries; the balance of Starling forces determines net filtration or absorption. Lymphatics return excess filtered fluid to blood."
+    },
+    {
+      "id": "physiology-paper-005-b04",
+      "question": "(a) Describe cardiac impulse conduction and the coordinated waves of atrial and ventricular contraction. (b) State factors affecting heart rate. (c) Define stroke volume, cardiac output and peripheral resistance.",
+      "marks": 20,
+      "markingGuide": [
+        "SA node initiates impulse and atrial depolarisation/contraction: 4 marks.",
+        "AV node delay, bundle of His, bundle branches and Purkinje distribution: 5 marks.",
+        "Factors affecting heart rate (autonomic tone, hormones, temperature, exercise, age, ions): 4 marks.",
+        "Defines stroke volume: 2 marks.",
+        "Defines cardiac output and CO=HR×SV: 3 marks.",
+        "Defines peripheral resistance and arteriolar contribution: 2 marks."
+      ],
+      "modelAnswer": "The SA node normally initiates depolarisation, which spreads through atrial myocardium and produces atrial systole. The impulse reaches the AV node, where a brief delay permits ventricular filling, then travels through the bundle of His, right and left bundle branches and Purkinje fibres to activate ventricular myocardium from apex upward, producing coordinated ventricular systole. Heart rate is affected by sympathetic and parasympathetic activity, circulating catecholamines and thyroid hormone, exercise, temperature, age, fitness and electrolyte status. Stroke volume is the blood ejected by one ventricle per beat. Cardiac output is volume ejected per minute and equals heart rate × stroke volume. Peripheral resistance is opposition to blood flow in systemic vessels, determined mainly by arteriolar radius, blood viscosity and vessel length."
+    },
+    {
+      "id": "physiology-paper-005-b05",
+      "question": "(a) Describe the Na+/K+ pump cycle and explain its electrogenic effect. (b) Outline factors that influence transport across cell membranes.",
+      "marks": 20,
+      "markingGuide": [
+        "Three intracellular Na+ bind to pump: 3 marks.",
+        "ATP phosphorylation changes conformation and releases Na+ outside: 3 marks.",
+        "Two extracellular K+ bind; dephosphorylation returns conformation and K+ is released inside: 4 marks.",
+        "Electrogenic effect: 3 Na+ out/2 K+ in, net one positive charge exported: 3 marks.",
+        "Factors: concentration/electrochemical gradient, membrane permeability, channel/carrier availability, molecule size/lipid solubility, ATP, temperature and surface area: 7 marks."
+      ],
+      "modelAnswer": "Three cytosolic Na+ ions bind the Na+/K+ ATPase. ATP phosphorylates the pump, causing a conformational change that releases Na+ outside. Two extracellular K+ ions then bind; dephosphorylation returns the pump to its original conformation and releases K+ into the cytosol. Each cycle exports three positive charges and imports two, producing a net outward movement of one positive charge; the pump is therefore electrogenic and helps maintain ion gradients and resting membrane potential. Membrane transport depends on concentration/electrochemical gradients, membrane permeability, channel/carrier number and state, molecule size and lipid solubility, available ATP or coupled gradients, temperature, surface area and diffusion distance."
+    },
+    {
+      "id": "physiology-paper-005-b06",
+      "question": "(a) Describe respiratory and metabolic acidosis and alkalosis. (b) Give common causes of metabolic acidosis and alkalosis. (c) Define a buffer and explain protein, phosphate and bicarbonate buffer systems.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines acidosis/alkalosis as processes lowering/raising pH and distinguishes respiratory/metabolic primary changes: 5 marks.",
+        "Respiratory acidosis from CO2 retention/hypoventilation; respiratory alkalosis from excess CO2 loss/hyperventilation: 4 marks.",
+        "Metabolic acidosis causes including diarrhoea, ketoacidosis, lactic acidosis or renal failure: 3 marks.",
+        "Metabolic alkalosis causes including vomiting, diuretics or mineralocorticoid excess: 2 marks.",
+        "Defines buffer as weak acid/base pair resisting pH change: 2 marks.",
+        "Explains protein/haemoglobin, phosphate and bicarbonate systems: 4 marks."
+      ],
+      "modelAnswer": "Acidosis is a process that tends to lower body-fluid pH; alkalosis tends to raise it. Respiratory disorders have a primary change in CO2: hypovent retains CO2 and causes respiratory acidosis, while hyperventilation removes CO2 and causes respiratory alkalosis. Metabolic disorders have a primary change in bicarbonate or fixed acids. Metabolic acidosis can result from diarrhoeal bicarbonate loss, ketoacidosis, lactic acidosis or renal failure. Metabolic alkalosis can follow vomiting/acid loss, some diuretics or mineralocorticoid excess. A buffer is a weak acid/base system that limits pH change by accepting or donating H+. Proteins, especially haemoglobin, bind or release H+; phosphate buffers intracellular fluid and renal tubular fluid; the bicarbonate/carbonic acid system is the principal extracellular buffer and is regulated by lungs (CO2) and kidneys (HCO3−)."
+    },
+    {
+      "id": "physiology-paper-005-b07",
+      "question": "Describe the endocrine system and hormone communication; name eight major endocrine glands and explain the female reproductive cycle and endocrine changes at puberty/menopause.",
+      "marks": 20,
+      "markingGuide": [
+        "Defines endocrine system as ductless hormone-secreting cells/glands acting on target cells: 3 marks.",
+        "Names eight major glands/organs: hypothalamus, pituitary, pineal, thyroid, parathyroids, thymus, adrenals, pancreas/gonads: 5 marks.",
+        "Explains ovarian/uterine cycle phases and FSH/LH/oestrogen/progesterone: 7 marks.",
+        "Puberty changes: 2 marks.",
+        "Menopause changes and symptoms due to reduced ovarian hormones: 3 marks."
+      ],
+      "modelAnswer": "The endocrine system consists of hormone-secreting glands and cells. Hormones travel through extracellular fluid and often blood to bind receptors on target cells, producing slower-onset but often longer-lasting effects than neural signalling. Major endocrine glands/organs include hypothalamus, pituitary, pineal, thyroid, parathyroids, thymus, adrenal glands, pancreas and gonads. In the ovarian cycle, FSH supports follicle development and oestrogen secretion; rising oestrogen contributes to the LH surge that triggers ovulation. The corpus luteum secretes progesterone and oestrogen during the luteal phase; without pregnancy these fall and menstruation begins. Puberty includes maturation of reproductive organs, secondary sex characteristics and onset of ovulatory cycles. Menopause reflects depletion of ovarian follicles and reduced oestrogen/progesterone, with cessation of menstruation and possible vasomotor, urogenital and bone-density changes."
+    },
+    {
+      "id": "physiology-paper-005-b08",
+      "question": "Describe the structure and function of the female breast and explain oxytocin-mediated milk ejection. Include a brief account of lactation hormones.",
+      "marks": 20,
+      "markingGuide": [
+        "Describes lobes/lobules and milk-producing alveoli: 5 marks.",
+        "Duct system to lactiferous ducts/sinuses and nipple: 4 marks.",
+        "Suspensory ligaments, adipose tissue and areola/nipple: 3 marks.",
+        "Prolactin stimulates milk synthesis: 3 marks.",
+        "Suckling afferents trigger hypothalamic/posterior-pituitary oxytocin release: 3 marks.",
+        "Oxytocin contracts myoepithelial cells to eject milk; feedback: 2 marks."
+      ],
+      "modelAnswer": "The breast contains glandular tissue arranged in lobes divided into lobules. Secretory alveoli lined by milk-producing cells drain into ducts that converge toward the nipple; connective tissue and suspensory ligaments support the gland, while adipose tissue contributes to shape. The nipple contains duct openings and is surrounded by the pigmented areola. Prolactin from the anterior pituitary promotes milk synthesis. Suckling activates sensory afferents to the hypothalamus, leading to oxytocin release from the posterior pituitary. Oxytocin contracts myoepithelial cells around alveoli and ducts, ejecting milk (let-down); ongoing suckling maintains this neuroendocrine reflex."
+    }
+  ]
+}

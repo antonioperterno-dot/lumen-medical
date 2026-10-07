@@ -1,0 +1,338 @@
+{
+  "id": "anatomy-paper-006",
+  "courseUnit": "anatomy",
+  "title": "Anatomy Paper 6: Muscles, Skeleton and Circulation",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Anatomy pages)",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "anatomy-paper-006-q01",
+      "question": "Damage to cranial nerve VII would most likely result in:",
+      "options": [
+        "Paralysis of the muscles of facial expression",
+        "Loss of the sense of smell",
+        "Inability to rotate the eyeball medially",
+        "Complete loss of hearing"
+      ],
+      "answerIndex": 0,
+      "explanation": "The facial nerve (CN VII) supplies the muscles of facial expression, so its damage weakens or paralyses those muscles.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q02",
+      "question": "Unlike the other muscles of mastication, the lateral pterygoid:",
+      "options": [
+        "Elevates the mandible to close the mouth",
+        "Depresses and protrudes the mandible, helping to open the mouth",
+        "Raises the hyoid bone during swallowing",
+        "Rotates the head to the opposite side"
+      ],
+      "answerIndex": 1,
+      "explanation": "The lateral pterygoid is the only muscle of mastication that opens the mouth; it depresses and protrudes the mandible while the others elevate it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-006-q03",
+      "question": "The striations seen in skeletal muscle fibres are produced by the orderly arrangement of:",
+      "options": [
+        "Actin and myosin filaments",
+        "Sarcoplasmic reticulum",
+        "Motor end plates",
+        "Collagen fibres"
+      ],
+      "answerIndex": 0,
+      "explanation": "The alternating dark (A) and light (I) bands of the sarcomere reflect the arrangement of thick myosin and thin actin filaments.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q04",
+      "question": "Which type of muscle is found in the walls of hollow organs?",
+      "options": [
+        "Skeletal",
+        "Cardiac",
+        "Smooth",
+        "Striated"
+      ],
+      "answerIndex": 2,
+      "explanation": "Smooth (visceral) muscle forms the walls of hollow organs such as the stomach, uterus and blood vessels; cardiac muscle is confined to the heart and skeletal muscle to the skeleton.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q05",
+      "question": "After birth, the foramen ovale closes and its permanent remnant on the interatrial septum is the:",
+      "options": [
+        "Fossa ovalis",
+        "Ligamentum arteriosum",
+        "Coronary sinus",
+        "Trabeculae carneae"
+      ],
+      "answerIndex": 0,
+      "explanation": "The fetal foramen ovale obliterates after birth to leave the fossa ovalis on the right side of the interatrial septum.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-006-q06",
+      "question": "The hip joint is formed by the acetabulum and the:",
+      "options": [
+        "Femur",
+        "Tibia",
+        "Fibula",
+        "Humerus"
+      ],
+      "answerIndex": 0,
+      "explanation": "The hip (acetabulofemoral) joint is a ball-and-socket joint between the head of the femur and the acetabulum of the pelvic bone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q07",
+      "question": "The bones of the wrist are called the:",
+      "options": [
+        "Tarsals",
+        "Carpals",
+        "Metatarsals",
+        "Phalanges"
+      ],
+      "answerIndex": 1,
+      "explanation": "The eight carpal bones form the wrist; tarsals form the ankle and metatarsals and phalanges form the foot.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q08",
+      "question": "The joint between the clavicle and the sternum is the:",
+      "options": [
+        "Acromioclavicular joint",
+        "Sternoclavicular joint",
+        "Shoulder joint",
+        "Coracoclavicular joint"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sternoclavicular joint is the only true joint between the upper limb and the axial skeleton; the acromioclavicular joint joins clavicle and scapula.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q09",
+      "question": "Which nerve supplies the deltoid muscle?",
+      "options": [
+        "Axillary nerve",
+        "Musculocutaneous nerve",
+        "Radial nerve",
+        "Ulnar nerve"
+      ],
+      "answerIndex": 0,
+      "explanation": "The deltoid muscle is supplied by the axillary nerve (C5, C6), which is vulnerable in shoulder dislocation and neck of femur/proximal humerus injuries.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-006-q10",
+      "question": "Which of the following muscles adducts the arm at the shoulder joint?",
+      "options": [
+        "Pectoralis major",
+        "Deltoid",
+        "Supraspinatus",
+        "Biceps brachii"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pectoralis major adducts and medially rotates the arm; the deltoid abducts it and supraspinatus initiates abduction.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-006-q11",
+      "question": "Which of the following muscles elevates the hyoid bone during swallowing?",
+      "options": [
+        "Mylohyoid",
+        "Sternohyoid",
+        "Thyrohyoid",
+        "Omohyoid"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mylohyoid forms the floor of the mouth and lifts the hyoid bone upwards during swallowing; the infrahyoid muscles depress it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-006-q12",
+      "question": "The vertebra that permits the head to nod 'yes' is the:",
+      "options": [
+        "Axis (C2)",
+        "Atlas (C1)",
+        "A thoracic vertebra",
+        "The sacrum"
+      ],
+      "answerIndex": 1,
+      "explanation": "The atlas (C1) lacks a body and bears the occipital condyles, allowing the 'yes' nodding movement at the atlanto-occipital joint.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q13",
+      "question": "The suture that joins each parietal bone to the frontal bone is the:",
+      "options": [
+        "Coronal suture",
+        "Sagittal suture",
+        "Lambdoid suture",
+        "Squamosal suture"
+      ],
+      "answerIndex": 0,
+      "explanation": "The coronal suture runs across the skull between the frontal bone and the two parietal bones; the sagittal suture joins the parietal bones to each other.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q14",
+      "question": "Which of the following actions is performed by the sternocleidomastoid muscle?",
+      "options": [
+        "Flexes the neck and rotates the face to the opposite side",
+        "Extends the vertebral column",
+        "Abducts the arm beyond 90 degrees",
+        "Elevates the scapula"
+      ],
+      "answerIndex": 0,
+      "explanation": "Acting alone, the sternocleidomastoid turns the face to the opposite side; together the two muscles flex the neck and fix the head during forced inspiration.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-006-q15",
+      "question": "The muscles of mastication are supplied by which part of the trigeminal nerve?",
+      "options": [
+        "Ophthalmic division (V1)",
+        "Maxillary division (V2)",
+        "Mandibular division (V3)",
+        "Facial nerve (VII)"
+      ],
+      "answerIndex": 2,
+      "explanation": "All four muscles of mastication (masseter, temporalis and medial and lateral pterygoids) are supplied by the mandibular division of the trigeminal nerve.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-006-q16",
+      "question": "The arch of the aorta normally gives rise to how many major branches?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answerIndex": 1,
+      "explanation": "The aortic arch normally has three branches: the brachiocephalic trunk, the left common carotid artery and the left subclavian artery.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q17",
+      "question": "The great saphenous vein ultimately drains into the:",
+      "options": [
+        "Femoral vein",
+        "Portal vein",
+        "Right atrium",
+        "Azygos vein"
+      ],
+      "answerIndex": 0,
+      "explanation": "The great saphenous vein, the longest vein in the body, pierces the fascia lata and drains into the femoral vein in the femoral triangle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-006-q18",
+      "question": "Which cranial nerve supplies the lateral rectus muscle of the eye?",
+      "options": [
+        "CN III",
+        "CN IV",
+        "CN VI",
+        "CN VII"
+      ],
+      "answerIndex": 2,
+      "explanation": "The abducens nerve (CN VI) supplies the lateral rectus, which abducts the eye; its palsy causes medial deviation and diplopia on lateral gaze.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q19",
+      "question": "The femur is best classified as which type of bone?",
+      "options": [
+        "Long bone",
+        "Short bone",
+        "Flat bone",
+        "Sesamoid bone"
+      ],
+      "answerIndex": 0,
+      "explanation": "The femur has a long shaft and expanded ends, the defining feature of a long bone, which permits movement through its joints.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-006-q20",
+      "question": "Which chamber of the heart pumps oxygenated blood into the systemic circulation?",
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answerIndex": 3,
+      "explanation": "The left ventricle has the thickest wall and pumps oxygenated blood through the aortic valve into the aorta and the systemic circulation.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "anatomy-paper-006-b01",
+      "question": "Describe the shoulder (glenohumeral) joint under the following headings: (a) bones involved (b) ligaments (c) one clinical feature of dislocation. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "(a) Head of the humerus articulating with the glenoid cavity of the scapula",
+        "(b) Glenohumeral, coracohumeral and transverse humeral ligaments; glenoid labrum",
+        "(c) Dislocation is common inferiorly/anteriorly and may injure the axillary nerve",
+        "One mark per correct point; award the fourth for detail and clarity"
+      ],
+      "modelAnswer": "(a) The shoulder joint is a ball-and-socket joint between the head of the humerus and the glenoid cavity of the scapula. (b) It is stabilised by the glenohumeral, coracohumeral and transverse humeral ligaments together with the glenoid labrum and the joint capsule. (c) Because the joint is shallow it dislocates more easily than any other joint, usually anteroinferiorly, and the axillary nerve may be damaged, causing loss of sensation over the shoulder and weakness of the deltoid."
+    },
+    {
+      "id": "anatomy-paper-006-b02",
+      "question": "State the three regions of the small intestine and give one function of each region. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Duodenum - receives bile and pancreatic juice; chemical digestion begins",
+        "Jejunum - main site of absorption of nutrients",
+        "Ileum - absorbs vitamin B12 and bile salts; contains Peyer's patches",
+        "One mark per region plus one for a correct function"
+      ],
+      "modelAnswer": "The small intestine consists of the duodenum, which receives bile and pancreatic juice and completes most chemical digestion; the jejunum, which is the principal site of absorption of sugars, amino acids and fats; and the ileum, which absorbs vitamin B12 and bile salts and contains aggregations of lymphoid tissue (Peyer's patches)."
+    },
+    {
+      "id": "anatomy-paper-006-b03",
+      "question": "Describe the composition of the subcutaneous (hypodermal) layer and state three of its functions. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Composition: loose connective tissue containing adipose tissue, blood vessels and nerves",
+        "Function: insulation and conservation of body heat",
+        "Function: energy storage and cushioning/shock absorption",
+        "Function: attachment of skin to underlying structures and a route for vessels and nerves"
+      ],
+      "modelAnswer": "The subcutaneous layer (hypodermis) is loose connective tissue containing mainly adipose tissue together with blood vessels, nerves and sweat gland ducts. Its functions include insulation and regulation of heat loss, storage of energy as fat, cushioning and protection of underlying organs, and anchoring the skin to underlying structures while conveying vessels and nerves to the skin."
+    },
+    {
+      "id": "anatomy-paper-006-b04",
+      "question": "State the four principal valves of the heart and indicate the location of each. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Tricuspid valve - between right atrium and right ventricle (right atrioventricular valve)",
+        "Bicuspid (mitral) valve - between left atrium and left ventricle (left atrioventricular valve)",
+        "Pulmonary (pulmonary semilunar) valve - at the opening of the pulmonary trunk from the right ventricle",
+        "Aortic (aortic semilunar) valve - at the opening of the aorta from the left ventricle"
+      ],
+      "modelAnswer": "The four heart valves are: the tricuspid valve between the right atrium and right ventricle; the bicuspid (mitral) valve between the left atrium and left ventricle; the pulmonary semilunar valve at the exit of the right ventricle into the pulmonary trunk; and the aortic semilunar valve at the exit of the left ventricle into the aorta. The atrioventricular valves prevent backflow into the atria during ventricular systole and the semilunar valves prevent backflow into the ventricles during diastole."
+    },
+    {
+      "id": "anatomy-paper-006-b05",
+      "question": "Name the three divisions of the trigeminal nerve and give the area supplied by each division. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Ophthalmic nerve (V1) - skin of the forehead, scalp, nose and upper eyelid",
+        "Maxillary nerve (V2) - cheek, side of nose, upper lip, upper teeth and gums",
+        "Mandibular nerve (V3) - lower lip, lower teeth, tongue (general sensation) and muscles of mastication",
+        "One mark each for the three divisions plus one for the sensory/motor note"
+      ],
+      "modelAnswer": "The trigeminal nerve has three divisions: the ophthalmic nerve (V1), which is sensory for the forehead, scalp, nose and upper eyelid; the maxillary nerve (V2), sensory for the cheek, upper lip, upper teeth and gums; and the mandibular nerve (V3), sensory for the lower face, lower teeth and tongue and motor for the muscles of mastication."
+    }
+  ]
+}

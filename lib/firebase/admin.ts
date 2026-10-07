@@ -64,12 +64,6 @@ export function getAdminDb(): Firestore {
   return global.__lumenAdminDb;
 }
 
-/** Returns true only for accounts that have redeemed an active invitation. */
-export async function hasActiveMembership(uid: string): Promise<boolean> {
-  const member = await getAdminDb().collection("members").doc(uid).get();
-  return member.exists && member.get("active") === true;
-}
-
 export function getAdminAuth(): Auth {
   if (!global.__lumenAdminAuth) {
     global.__lumenAdminAuth = getAuth(getAdminApp());

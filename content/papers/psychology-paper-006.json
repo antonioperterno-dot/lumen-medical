@@ -1,0 +1,327 @@
+{
+  "id": "psychology-paper-006",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 6: Development, Learning and Study Methods",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T11:00:00+03:00",
+  "durationMinutes": 120,
+  "source": "Adapted from user-provided Psychology development and study methods set",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-006-q01",
+      "question": "The process of toilet training to children occurs during the stage:",
+      "options": [
+        "Phallic",
+        "Oral",
+        "Anal",
+        "Genital"
+      ],
+      "answerIndex": 2,
+      "explanation": "Toilet training occurs during the anal stage.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q02",
+      "question": "Death instinct is:",
+      "options": [
+        "Violence",
+        "Aggression",
+        "Sex",
+        "Thanatos (destructive drive)"
+      ],
+      "answerIndex": 3,
+      "explanation": "Death instinct (Thanatos) is the destructive drive; aggression may express it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-006-q03",
+      "question": "According to Erik Erikson, when do humans develop a sense of trust or mistrust:",
+      "options": [
+        "During first year",
+        "3-5 years",
+        "11 years",
+        "Adolescence"
+      ],
+      "answerIndex": 0,
+      "explanation": "Trust vs mistrust is the first year stage.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q04",
+      "question": "A person who eats and smokes a great deal is most likely to have been fixated during the:",
+      "options": [
+        "Genital stage",
+        "Phallic stage",
+        "Anal stage",
+        "Oral stage"
+      ],
+      "answerIndex": 3,
+      "explanation": "Oral fixation links with oral behaviours.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q05",
+      "question": "During cognitive development, an egocentric child:",
+      "options": [
+        "Can evaluate events only in terms of their personal consequences",
+        "Can blindly adhere to rules",
+        "Can imagine how another person feels",
+        "Can be empathetic"
+      ],
+      "answerIndex": 0,
+      "explanation": "Egocentrism means viewing events from one's own perspective.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q06",
+      "question": "Kohlberg's level of moral development which includes understanding that social system has an interest in people's behavior is called:",
+      "options": [
+        "Conventional",
+        "Post-conventional",
+        "Pre-conventional",
+        "Conventional realism"
+      ],
+      "answerIndex": 0,
+      "explanation": "Conventional level upholds social order.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-006-q07",
+      "question": "Developmental psychologists study children in order to understand how they develop:",
+      "options": [
+        "Emotionally",
+        "Cognitively",
+        "Socially",
+        "All the above"
+      ],
+      "answerIndex": 3,
+      "explanation": "Development covers emotional, cognitive and social domains.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q08",
+      "question": "Psychosexual stage of development that directs a child's activity to the genital parts of the body:",
+      "options": [
+        "Latency",
+        "Phallic",
+        "Genital",
+        "Oral"
+      ],
+      "answerIndex": 1,
+      "explanation": "The phallic stage focuses on genital interest.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q09",
+      "question": "The SQ3R study method stands for:",
+      "options": [
+        "Survey, Question, Read, Recite, Review",
+        "Study, Query, Read, Recall, Recite",
+        "Survey, Quote, Read, Revise, Remember",
+        "Search, Question, Read, Retain, Review"
+      ],
+      "answerIndex": 0,
+      "explanation": "SQ3R is Survey, Question, Read, Recite, Review.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q10",
+      "question": "Which personality type is characterized by being competitive, time-conscious and hostile?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type C",
+        "Type D"
+      ],
+      "answerIndex": 0,
+      "explanation": "Type A is competitive and time-conscious.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q11",
+      "question": "Learning that involves an association of stimulus and response is seen in the theory of:",
+      "options": [
+        "Classical conditioning",
+        "Insightful learning",
+        "Observational learning",
+        "Cognitive learning"
+      ],
+      "answerIndex": 0,
+      "explanation": "Classical conditioning links stimulus and response.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q12",
+      "question": "The part of personality that operates on the reality principle is:",
+      "options": [
+        "Id",
+        "Ego",
+        "Superego",
+        "Libido"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ego follows the reality principle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q13",
+      "question": "A negative feeling towards individuals based on their belonging in a given group is called:",
+      "options": [
+        "Culture",
+        "Stereotype",
+        "Prejudice",
+        "Belief"
+      ],
+      "answerIndex": 2,
+      "explanation": "Prejudice is negative evaluation by group.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q14",
+      "question": "Which of the following is NOT a characteristic of a good communication channel?",
+      "options": [
+        "Clear",
+        "Timely",
+        "Ambiguous",
+        "Feedback oriented"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ambiguity is a poor channel quality.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q15",
+      "question": "Accommodation and Assimilation are concepts explained by:",
+      "options": [
+        "Freud",
+        "Piaget",
+        "Erikson",
+        "Pavlov"
+      ],
+      "answerIndex": 1,
+      "explanation": "Piaget described assimilation and accommodation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q16",
+      "question": "Defense mechanism where one transfers emotion from one situation to another is:",
+      "options": [
+        "Projection",
+        "Displacement",
+        "Sublimation",
+        "Denial"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement redirects emotion to a substitute.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q17",
+      "question": "Social psychology is the systematic study of:",
+      "options": [
+        "Behavior and social life",
+        "Abnormal behavior",
+        "Conscious beliefs",
+        "Brain functions"
+      ],
+      "answerIndex": 0,
+      "explanation": "Social psychology studies behaviour in social life.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q18",
+      "question": "The stage of psychosexual development where sexual feelings are repressed is:",
+      "options": [
+        "Oral",
+        "Latency",
+        "Genital",
+        "Phallic"
+      ],
+      "answerIndex": 1,
+      "explanation": "Latency is the quiet phase.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q19",
+      "question": "Effective reading that involves quickly looking through a book to get general ideas is called:",
+      "options": [
+        "Scanning",
+        "Skimming",
+        "Study reading",
+        "Critical reading"
+      ],
+      "answerIndex": 1,
+      "explanation": "Skimming gives general ideas; scanning finds specifics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-006-q20",
+      "question": "A status people acquire by virtue of their occupation, income or education is called:",
+      "options": [
+        "Ascribed status",
+        "Achieved status",
+        "Social class",
+        "Social role"
+      ],
+      "answerIndex": 1,
+      "explanation": "Achieved status is earned.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-006-b01",
+      "question": "Name four factors which can influence the learning process positively or negatively. (2 marks)",
+      "marks": 2,
+      "markingGuide": [
+        "Four factors such as motivation, environment, health, methods: 2 marks."
+      ],
+      "modelAnswer": "Motivation, prior knowledge, environment and study methods influence learning."
+    },
+    {
+      "id": "psychology-paper-006-b02",
+      "question": "List two teaching methods and state two advantages for each. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Two methods: 1 mark.",
+        "Two advantages of first method: 2 marks.",
+        "Two advantages of second method: 2 marks."
+      ],
+      "modelAnswer": "Lecture and discussion are examples; lecture covers much content efficiently while discussion promotes participation."
+    },
+    {
+      "id": "psychology-paper-006-b03",
+      "question": "State five ways a student can use the five senses when studying. (3 marks)",
+      "marks": 3,
+      "markingGuide": [
+        "Five sensory study uses: 3 marks."
+      ],
+      "modelAnswer": "Reading, listening, viewing diagrams, hands-on practice and verbal rehearsal."
+    },
+    {
+      "id": "psychology-paper-006-b04",
+      "question": "List five types of examinations and give three reasons why it is important to assess performance. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Five exam types: 2 marks.",
+        "Three reasons for assessment: 3 marks."
+      ],
+      "modelAnswer": "Written, oral, practical, continuous and objective exams; assessment measures learning and guides teaching."
+    },
+    {
+      "id": "psychology-paper-006-b05",
+      "question": "Outline how to improve skills in writing an assignment or essay. Show how a student can use 24 hours effectively. (8 marks)",
+      "marks": 8,
+      "markingGuide": [
+        "Writing skills such as planning and referencing: 4 marks.",
+        "Time use across study, rest and duties: 4 marks."
+      ],
+      "modelAnswer": "Plan, research, draft, revise and reference; balance study, classes, rest, meals and revision in 24 hours."
+    }
+  ]
+}

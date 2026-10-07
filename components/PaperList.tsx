@@ -14,7 +14,6 @@ const COURSE_UNITS = [
   ["physiology", "Physiology"],
   ["anatomy", "Anatomy"],
   ["first-aid", "First Aid"],
-  ["nursing", "Nursing"],
   ["microbiology", "Microbiology"],
   ["medical-journals", "Medical Journals"],
 ];
@@ -65,7 +64,7 @@ export default function PaperList({ courseUnit, compact = false }: { courseUnit?
               )}
 
               {latest ? (
-                <div className="flex items-center justify-between gap-3 rounded-xl border border-lumen/25 bg-lumen/5 px-3 py-2.5">
+                <div className="glass-nested flex items-center justify-between gap-3 rounded-xl border border-lumen/25 bg-lumen/5 px-3 py-2.5">
                   <span className="min-w-0">
                     <span className="block truncate text-[13px] font-medium text-white">{latest.title}</span>
                     <span className="text-[11px] text-faint">Latest · Level {latest.level} · {latest.durationMinutes} min</span>

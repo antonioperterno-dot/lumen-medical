@@ -1,0 +1,335 @@
+{
+  "id": "microbiology-paper-002",
+  "courseUnit": "microbiology",
+  "title": "Microbiology Paper 2: Sterilisation, Immunity and Microbial Growth",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Microbiology pages)",
+  "textbookReference": {
+    "label": "OpenStax Microbiology 2e",
+    "url": "https://openstax.org/details/books/microbiology-2e"
+  },
+  "objective": [
+    {
+      "id": "microbiology-paper-002-q01",
+      "question": "The following are requirements for bacterial growth, except:",
+      "options": [
+        "Temperature",
+        "Nutrients",
+        "pH",
+        "Light"
+      ],
+      "answerIndex": 3,
+      "explanation": "Bacteria need temperature, nutrients, moisture and a suitable pH; light is not a general requirement for growth.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q02",
+      "question": "The process of destroying all microorganisms including spores is called:",
+      "options": [
+        "Disinfection",
+        "Sterilisation",
+        "Decontamination",
+        "Antisepsis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sterilisation eliminates all forms of microbial life, including bacterial spores.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q03",
+      "question": "The process by which a cell is changed from normal to malignant by a virus is called cell:",
+      "options": [
+        "Death",
+        "Fusion",
+        "Mutation",
+        "Transformation"
+      ],
+      "answerIndex": 3,
+      "explanation": "Viral transformation converts a normal cell into a malignant one by altering its genetic behaviour.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-002-q04",
+      "question": "A condition in which the immune system mistakenly attacks the body's own cells and tissue is referred to as:",
+      "options": [
+        "Auto immunity",
+        "Herd immunity",
+        "Acquired immunity",
+        "Cell mediated immunity"
+      ],
+      "answerIndex": 0,
+      "explanation": "Autoimmunity is loss of self-tolerance, so the immune system attacks the body's own tissues.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q05",
+      "question": "Which one of the following grows at low temperatures as mycelium and at body temperature as yeast?",
+      "options": [
+        "Dimorphic fungi",
+        "Yeast like fungi",
+        "Moulds",
+        "Yeasts"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dimorphic fungi switch between mould form at low temperatures and yeast form at body temperature.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-002-q06",
+      "question": "An English physician who introduced the practice of vaccination is:",
+      "options": [
+        "Robert Hook",
+        "Brother Edward Jenner",
+        "Anthony Van",
+        "Joseph Lister"
+      ],
+      "answerIndex": 1,
+      "explanation": "Edward Jenner introduced vaccination against smallpox using cowpox material.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q07",
+      "question": "The exaggerated reactions of the body to an antigen or other agents to which the body is sensitized already is referred to as type ___ immune reaction:",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "answerIndex": 0,
+      "explanation": "Type I hypersensitivity is the immediate, IgE-mediated allergic reaction.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-002-q08",
+      "question": "For disposal of highly infectious wastes the colour of the bin used is:",
+      "options": [
+        "Black bin",
+        "Red bin",
+        "Brown bin",
+        "Yellow bin"
+      ],
+      "answerIndex": 1,
+      "explanation": "Red bins are used for highly infectious or contaminated waste requiring safe disposal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q09",
+      "question": "The following are gram negative species, except:",
+      "options": [
+        "Neisseria gonorrhea",
+        "E. Coli",
+        "Vibrio cholera",
+        "Staphylococcus aureus"
+      ],
+      "answerIndex": 3,
+      "explanation": "Staphylococcus aureus is gram positive; the other options are gram negative bacteria.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q10",
+      "question": "Temperature required for pasteurisation:",
+      "options": [
+        "Above 150°C",
+        "Below 100°C",
+        "110°C",
+        "200°C"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pasteurisation uses mild heat (about 62–72°C), i.e. below 100°C, to kill pathogens without destroying the product.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q11",
+      "question": "Isolation means:",
+      "options": [
+        "Purification of culture",
+        "Introduction of innoculation",
+        "Separation of a single colony",
+        "Growth of microorganisms on a surface"
+      ],
+      "answerIndex": 2,
+      "explanation": "Isolation is the separation of a single colony so that a pure culture can be obtained.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-002-q12",
+      "question": "Spores are killed by all the following, except:",
+      "options": [
+        "70% alcohol",
+        "Autoclaving",
+        "Glutaraldehyde",
+        "Boiling"
+      ],
+      "answerIndex": 0,
+      "explanation": "70% alcohol does not reliably kill bacterial spores; autoclaving, glutaraldehyde and prolonged boiling can.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-002-q13",
+      "question": "A disease that can be transmitted by an infectious agent from one individual to another is?",
+      "options": [
+        "Communicable disease",
+        "Non-infectious disease",
+        "Contagious disease",
+        "Deficiency disease"
+      ],
+      "answerIndex": 0,
+      "explanation": "Communicable diseases are transmitted from one host to another by infectious agents.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q14",
+      "question": "The genetic constitution of a cell is termed as its:",
+      "options": [
+        "Genome",
+        "Genotype",
+        "Karyotype",
+        "Phenotype"
+      ],
+      "answerIndex": 1,
+      "explanation": "Genotype is the genetic makeup; phenotype is the expressed characteristics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q15",
+      "question": "The following are the primary cells involved in the immune response, except:",
+      "options": [
+        "T-lymphocyte",
+        "B-lymphocyte",
+        "Plasma cell",
+        "Monocyte"
+      ],
+      "answerIndex": 2,
+      "explanation": "Plasma cells are antibody-secreting cells derived from B lymphocytes rather than primary immune cells.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-002-q16",
+      "question": "A parasite that grows only in a particular tissue or organ is said to exhibit:",
+      "options": [
+        "Tissue tropism",
+        "Genotype",
+        "Bacterial load",
+        "Selective toxicity"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tissue tropism is the preference of a pathogen for a particular tissue or organ.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-002-q17",
+      "question": "The deliberate alteration of the genetic makeup of an organism to achieve a desired result is called:",
+      "options": [
+        "Genetic engineering",
+        "Mutation",
+        "Pathogenicity",
+        "Gene transfer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Genetic engineering deliberately modifies an organism's DNA to produce a desired trait.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q18",
+      "question": "The following are stages of viral replication, except:",
+      "options": [
+        "Attachment",
+        "Penetration",
+        "Engulfing",
+        "Maturation"
+      ],
+      "answerIndex": 2,
+      "explanation": "Viruses do not engulf host cells; replication proceeds by attachment, penetration, uncoating, synthesis, assembly and release.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "microbiology-paper-002-q19",
+      "question": "The following are examples of a mycotic infection, except:",
+      "options": [
+        "Candida albicans",
+        "Tinea corporis",
+        "Histoplasmosis",
+        "Ascariasis"
+      ],
+      "answerIndex": 3,
+      "explanation": "Ascariasis is a helminthic (worm) infection, not a fungal (mycotic) infection.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "microbiology-paper-002-q20",
+      "question": "The following are examples of cells involved in cell mediated immunity, except:",
+      "options": [
+        "T-cells",
+        "Monocytes",
+        "Plasma cells",
+        "Macrophages"
+      ],
+      "answerIndex": 2,
+      "explanation": "Plasma cells produce antibodies and belong to humoral immunity, not cell mediated immunity.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "microbiology-paper-002-b01",
+      "question": "The following are terms used when controlling the growth of microorganisms. Give a short account of each: (a) Sterilisation (b) Decontamination (c) Disinfectant (d) Antiseptics",
+      "marks": 4,
+      "markingGuide": [
+        "Defines sterilisation: 1 mark.",
+        "Defines decontamination: 1 mark.",
+        "Defines disinfectant: 1 mark.",
+        "Defines antiseptics: 1 mark."
+      ],
+      "modelAnswer": "Sterilisation: destruction of all microbial life including spores. Decontamination: removal or reduction of microbes to make an object safe to handle. Disinfectant: a chemical applied to inanimate objects to kill most vegetative pathogens. Antiseptics: chemicals applied to living tissue to inhibit or kill microbes."
+    },
+    {
+      "id": "microbiology-paper-002-b02",
+      "question": "Give four characteristics of fungi.",
+      "marks": 4,
+      "markingGuide": [
+        "Four valid characteristics such as eukaryotic, chitin cell walls, absorptive nutrition, thrive in moist slightly acidic conditions: 4 marks."
+      ],
+      "modelAnswer": "Fungi are eukaryotic, mostly multicellular organisms with chitin-containing cell walls; they lack chlorophyll and obtain nutrients by absorption (saprophytic or parasitic), and they grow best in moist, slightly acidic environments at moderate temperatures."
+    },
+    {
+      "id": "microbiology-paper-002-b03",
+      "question": "Gram-negative bacteria have the following characteristics:",
+      "marks": 4,
+      "markingGuide": [
+        "Have an outer membrane: 1 mark.",
+        "Thin layer of peptidoglycan: 1 mark.",
+        "Periplasmic space present: 1 mark.",
+        "Often more resistant to antibiotics / stain pink-red with counterstain: 1 mark."
+      ],
+      "modelAnswer": "Gram-negative bacteria have a thin peptidoglycan layer, an outer lipopolysaccharide membrane, a periplasmic space, and appear pink-red after counterstaining; the outer membrane often makes them more resistant to antibiotics and detergents."
+    },
+    {
+      "id": "microbiology-paper-002-b04",
+      "question": "Characteristics of viruses:",
+      "marks": 4,
+      "markingGuide": [
+        "Obligate intracellular parasite: 1 mark.",
+        "Not classified as living outside a host: 1 mark.",
+        "Smaller than bacteria / pass through bacteria-retaining filters: 1 mark.",
+        "Contain only one type of nucleic acid (DNA or RNA): 1 mark."
+      ],
+      "modelAnswer": "Viruses are obligate intracellular parasites that are not considered living outside a host; they are smaller than bacteria, pass through bacteria-retaining filters, and each virus contains only one type of nucleic acid, either DNA or RNA, surrounded by a protein coat."
+    },
+    {
+      "id": "microbiology-paper-002-b05",
+      "question": "Explain the importance of hand washing in the control of infection.",
+      "marks": 4,
+      "markingGuide": [
+        "Removes transient microbes from hands: 1 mark.",
+        "Breaks the chain of transmission via hands: 1 mark.",
+        "Protects patients/staff from nosocomial infection: 1 mark.",
+        "Mentions correct technique/soap, duration, drying: 1 mark."
+      ],
+      "modelAnswer": "Hands carry transient microorganisms picked up from contaminated surfaces and patients. Hand washing physically removes these microbes and interrupts transmission from hands to wounds, instruments, food and mucous membranes, thereby preventing cross-infection and nosocomial outbreaks. Correct technique with soap or antiseptic, adequate friction and thorough drying maximise removal."
+    }
+  ]
+}

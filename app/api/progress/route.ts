@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { hasActiveMembership, isAdminConfigured, uidFromRequest } from "@/lib/firebase/admin";
+import { isAdminConfigured, uidFromRequest } from "@/lib/firebase/admin";
 import {
   emptySummary,
   getProgressSummary,
@@ -52,16 +52,6 @@ export async function GET(request: Request) {
       },
       { headers: NO_STORE },
     );
-  }
-
-  if (process.env.NEXT_PUBLIC_REQUIRE_INVITE === "true") {
-    try {
-      if (!(await hasActiveMembership(uid))) {
-        return NextResponse.json({ error: "invite_required" }, { status: 403, headers: NO_STORE });
-      }
-    } catch {
-      return NextResponse.json({ error: "access_check_unavailable" }, { status: 503, headers: NO_STORE });
-    }
   }
 
   try {
@@ -121,16 +111,6 @@ export async function POST(request: Request) {
       },
       { status: 202, headers: NO_STORE },
     );
-  }
-
-  if (process.env.NEXT_PUBLIC_REQUIRE_INVITE === "true") {
-    try {
-      if (!(await hasActiveMembership(uid))) {
-        return NextResponse.json({ data: null, meta: { error: "invite_required" } }, { status: 403, headers: NO_STORE });
-      }
-    } catch {
-      return NextResponse.json({ data: null, meta: { error: "access_check_unavailable" } }, { status: 503, headers: NO_STORE });
-    }
   }
 
   try {

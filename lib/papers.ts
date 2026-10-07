@@ -1,8 +1,43 @@
 import paperJson from "@/content/papers/psychology-paper-001.json";
 import firstAidJson from "@/content/papers/firstaid-paper-001.json";
+import firstAidPaper2Json from "@/content/papers/firstaid-paper-002.json";
+import firstAidPaper3Json from "@/content/papers/firstaid-paper-003.json";
+import firstAidPaper4Json from "@/content/papers/firstaid-paper-004.json";
+import firstAidPaper5Json from "@/content/papers/firstaid-paper-005.json";
+import firstAidPaper6Json from "@/content/papers/firstaid-paper-006.json";
+import firstAidPaper7Json from "@/content/papers/firstaid-paper-007.json";
 import physiologyJson from "@/content/papers/physiology-cell-transport-2026-001.json";
+import physiologyPaper2Json from "@/content/papers/physiology-paper-002.json";
+import physiologyPaper3Json from "@/content/papers/physiology-paper-003.json";
+import physiologyPaper4Json from "@/content/papers/physiology-paper-004.json";
+import physiologyPaper5Json from "@/content/papers/physiology-paper-005.json";
+import physiologyPaper6Json from "@/content/papers/physiology-paper-006.json";
+import anatomyPaper1Json from "@/content/papers/anatomy-paper-001.json";
+import anatomyPaper2Json from "@/content/papers/anatomy-paper-002.json";
+import anatomyPaper3Json from "@/content/papers/anatomy-paper-003.json";
+import anatomyPaper4Json from "@/content/papers/anatomy-paper-004.json";
+import anatomyPaper5Json from "@/content/papers/anatomy-paper-005.json";
+import anatomyPaper6Json from "@/content/papers/anatomy-paper-006.json";
+import anatomyPaper7Json from "@/content/papers/anatomy-paper-007.json";
+import anatomyPaper8Json from "@/content/papers/anatomy-paper-008.json";
+import microbiologyPaper1Json from "@/content/papers/microbiology-paper-001.json";
+import microbiologyPaper2Json from "@/content/papers/microbiology-paper-002.json";
+import microbiologyPaper3Json from "@/content/papers/microbiology-paper-003.json";
+import microbiologyPaper4Json from "@/content/papers/microbiology-paper-004.json";
+import microbiologyPaper5Json from "@/content/papers/microbiology-paper-005.json";
+import pharmacologyPaper1Json from "@/content/papers/pharmacology-paper-001.json";
+import pharmacologyPaper2Json from "@/content/papers/pharmacology-paper-002.json";
+import pharmacologyPaper3Json from "@/content/papers/pharmacology-paper-003.json";
+import pharmacologyPaper4Json from "@/content/papers/pharmacology-paper-004.json";
 import psychologyPaper2Json from "@/content/papers/psychology-paper-002.json";
 import psychologyPaper3Json from "@/content/papers/psychology-paper-003.json";
+import psychologyPaper4Json from "@/content/papers/psychology-paper-004.json";
+import psychologyPaper5Json from "@/content/papers/psychology-paper-005.json";
+import psychologyPaper6Json from "@/content/papers/psychology-paper-006.json";
+import psychologyPaper7Json from "@/content/papers/psychology-paper-007.json";
+import psychologyPaper8Json from "@/content/papers/psychology-paper-008.json";
+import psychologyPaper9Json from "@/content/papers/psychology-paper-009.json";
+import psychologyPaper10Json from "@/content/papers/psychology-paper-010.json";
 
 export type PaperObjective = {
   id: string;
@@ -40,7 +75,58 @@ export type PaperSummary = Omit<Paper, "objective" | "structured"> & {
   quizCount?: number;
 };
 
-const FALLBACK_PAPERS = [paperJson, psychologyPaper2Json, psychologyPaper3Json, firstAidJson, physiologyJson] as Paper[];
+const FALLBACK_PAPERS = [
+  paperJson,
+  psychologyPaper2Json,
+  psychologyPaper3Json,
+  psychologyPaper4Json,
+  psychologyPaper5Json,
+  psychologyPaper6Json,
+  psychologyPaper7Json,
+  psychologyPaper8Json,
+  psychologyPaper9Json,
+  psychologyPaper10Json,
+  firstAidJson,
+  firstAidPaper2Json,
+  firstAidPaper3Json,
+  firstAidPaper4Json,
+  firstAidPaper5Json,
+  firstAidPaper6Json,
+  firstAidPaper7Json,
+  physiologyJson,
+  physiologyPaper2Json,
+  physiologyPaper3Json,
+  physiologyPaper4Json,
+  physiologyPaper5Json,
+  physiologyPaper6Json,
+  anatomyPaper1Json,
+  anatomyPaper2Json,
+  anatomyPaper3Json,
+  anatomyPaper4Json,
+  anatomyPaper5Json,
+  anatomyPaper6Json,
+  anatomyPaper7Json,
+  anatomyPaper8Json,
+  microbiologyPaper1Json,
+  microbiologyPaper2Json,
+  microbiologyPaper3Json,
+  microbiologyPaper4Json,
+  microbiologyPaper5Json,
+  pharmacologyPaper1Json,
+  pharmacologyPaper2Json,
+  pharmacologyPaper3Json,
+  pharmacologyPaper4Json,
+] as Paper[];
+
+/** Never let a malformed JSON column take down a whole paper page. */
+function parseJsonArray(raw: string): string[] {
+  try {
+    const parsed: unknown = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed.map((v) => String(v)) : [];
+  } catch {
+    return [];
+  }
+}
 
 function publishedFallbacks(courseUnit?: string): Paper[] {
   const now = Date.now();
@@ -131,12 +217,13 @@ export async function getPaper(id: string): Promise<Paper | null> {
     durationMinutes: Number(paper.duration_minutes),
     source: paper.source,
     textbookReference: { label: paper.textbook_label, url: paper.textbook_url },
-    objective: objectiveRows.map((row) => ({ ...row, options: JSON.parse(row.options_json), answerIndex: row.answer_index })),
+    // Safe parse: a malformed row in Turso must never 500 the whole paper.
+    objective: objectiveRows.map((row) => ({ ...row, options: parseJsonArray(row.options_json), answerIndex: row.answer_index })),
     structured: structuredRows.map((row) => ({
       id: row.id,
       question: row.question,
       marks: Number(row.marks),
-      markingGuide: JSON.parse(row.marking_guide_json),
+      markingGuide: parseJsonArray(row.marking_guide_json),
       modelAnswer: row.model_answer,
     })),
     };
@@ -200,7 +287,7 @@ export async function getPapers(courseUnit?: string, includeAll = false): Promis
           ORDER BY course_unit`,
       courseUnit ? [courseUnit] : [],
     );
-    return rows.map((row) => ({
+    const databasePapers: PaperSummary[] = rows.map((row) => ({
       id: row.id,
       courseUnit: row.course_unit,
       title: row.title,
@@ -212,6 +299,20 @@ export async function getPapers(courseUnit?: string, includeAll = false): Promis
       textbookReference: { label: row.textbook_label, url: row.textbook_url },
       quizCount: Number(row.quiz_count),
     }));
+
+    // Keep bundled published papers visible even when a configured database
+    // has not had the new papers imported yet. Database copies take precedence.
+    const fallbackPapers = summarizeFallbacks(courseUnit, includeAll);
+    const merged = new Map(databasePapers.map((paper) => [paper.id, paper]));
+    for (const paper of fallbackPapers) {
+      if (!merged.has(paper.id)) merged.set(paper.id, paper);
+    }
+    const available = [...merged.values()].sort(
+      (a, b) => Date.parse(b.publishAt) - Date.parse(a.publishAt) || b.level - a.level || b.id.localeCompare(a.id),
+    );
+    return courseUnit || includeAll
+      ? available
+      : [...new Map(available.map((paper) => [paper.courseUnit, paper])).values()];
   } catch {
     return summarizeFallbacks(courseUnit, includeAll);
   }

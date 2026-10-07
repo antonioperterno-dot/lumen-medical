@@ -84,7 +84,7 @@ export default function InstallPrompt() {
         <button
           type="button"
           onClick={dismiss}
-          className="w-full rounded-xl border border-white/10 bg-white/5 py-2 text-[12px] font-medium text-faint active:text-white"
+          className="glass-nested w-full rounded-xl border border-white/10 py-2 text-[12px] font-medium text-faint active:text-white"
         >
           Got it
         </button>

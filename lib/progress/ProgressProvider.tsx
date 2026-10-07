@@ -230,7 +230,9 @@ export function ProgressProvider({ children }: { children: React.ReactNode }) {
     setBytes(0);
   }, []);
 
-  const records = state?.records ?? {};
+  // Memoized so the value useMemo below doesn't recompute every render just
+  // because `?? {}` produced a fresh object.
+  const records = useMemo(() => state?.records ?? {}, [state]);
   const summary = useMemo(
     () => localSummary({ savedOffline: saved.length }),
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -299,14 +301,19 @@ export function useResourcePercent(resourceId: string): number {
  */
 export function useProfileWriter() {
   const { profile } = useProgress();
+  const { getIdToken } = useAuth();
   return useCallback(
     (patch: Partial<UserProfile>) => {
       if (!profile) return;
       const next = { ...profile, ...patch };
       persistProfile(next, next.uid);
-      void pushProgress({ profile: next }, null).catch(() => undefined);
+      // Authenticate when possible: without the token /api/progress answers
+      // 202 stored:false and the edit would stay device-local forever.
+      void getIdToken()
+        .then((token) => pushProgress({ profile: next }, token))
+        .catch(() => undefined);
     },
-    [profile],
+    [profile, getIdToken],
   );
 }
 

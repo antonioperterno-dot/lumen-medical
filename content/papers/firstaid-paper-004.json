@@ -1,0 +1,326 @@
+{
+  "id": "firstaid-paper-004",
+  "courseUnit": "first-aid",
+  "title": "First Aid Paper 4: Bandaging, CPR and Ward Care",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T14:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided First Aid and Nursing question banks",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "firstaid-paper-004-q01",
+      "question": "The following are uses of bandages, except:",
+      "options": [
+        "Immobilising fractured limbs",
+        "Preventing infection of wounds",
+        "Controlling bleeding from injured sites",
+        "Preventing further damage"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bandages do not themselves prevent infection.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q02",
+      "question": "Which of the following is not a sign of successful CPR?",
+      "options": [
+        "Improvement of skin colour",
+        "Reactive pupil",
+        "Perceptible pulse when chest compressed",
+        "Over dilated pupil"
+      ],
+      "answerIndex": 3,
+      "explanation": "Fixed over-dilated pupils are not success.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q03",
+      "question": "When a dressing becomes saturated with blood, the first aider should:",
+      "options": [
+        "Remove it and apply new dressing",
+        "Apply a tourniquet",
+        "Leave it and apply additional dressing on top",
+        "Tie the knot tighter"
+      ],
+      "answerIndex": 2,
+      "explanation": "Add dressing on top; do not remove.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q04",
+      "question": "A type of open wound with jagged skin edges and free bleeding is known as:",
+      "options": [
+        "Laceration",
+        "Incision",
+        "Contusion",
+        "Puncture"
+      ],
+      "answerIndex": 0,
+      "explanation": "Laceration has jagged edges.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q05",
+      "question": "A first aider should avoid moving an injured victim until all injuries are identified so:",
+      "options": [
+        "Authorities can know what happened",
+        "Victim will not suffer unnecessary pain",
+        "Victim can be stabilised",
+        "Victim will not suffer further injury"
+      ],
+      "answerIndex": 3,
+      "explanation": "Avoid further injury.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q06",
+      "question": "The primary survey is conducted in the order of check for:",
+      "options": [
+        "Bleeding, then breathing and pulse",
+        "Breathing, then pulse and bleeding",
+        "Pulse, then breathing and bleeding",
+        "Pulse, then bleeding and breathing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Breathing, then pulse and bleeding in this set.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q07",
+      "question": "The immediate first aid action for arterial bleeding on the right hand is to:",
+      "options": [
+        "Apply a dressing",
+        "Elevate the right hand",
+        "Ligature the bleeder",
+        "Apply digital pressure over the bleeding site"
+      ],
+      "answerIndex": 3,
+      "explanation": "Apply digital pressure over the site.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q08",
+      "question": "Which position is appropriate for nursing an unconscious patient?",
+      "options": [
+        "Lateral",
+        "Prone",
+        "Recumbent",
+        "Semi prone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lateral/recovery position for unconscious.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q09",
+      "question": "The first aid action for an impaled arrow through the chest is:",
+      "options": [
+        "Remove the arrow and apply gauze",
+        "Pad and bandage around the arrow, do not remove",
+        "Break the back part and bandage",
+        "Remove, wash and bandage"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stabilise impaled objects in place.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q10",
+      "question": "The most effective way of preventing cross infection on the ward is:",
+      "options": [
+        "Decontamination",
+        "Hand washing",
+        "Sterilization",
+        "Wearing protective gears"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hand washing is most effective.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q11",
+      "question": "The rationale for monitoring vital signs is to:",
+      "options": [
+        "Assess the health status",
+        "Modify treatment",
+        "Please the patient",
+        "Understand effectiveness"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vital signs assess health status.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q12",
+      "question": "Which hospital bed is made for a patient with plaster of Paris to the leg?",
+      "options": [
+        "Admission bed",
+        "Divided bed",
+        "Post-operative bed",
+        "Unoccupied bed"
+      ],
+      "answerIndex": 1,
+      "explanation": "Divided bed accommodates the plaster.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q13",
+      "question": "The most important step in clinical area waste management is:",
+      "options": [
+        "Labelling",
+        "Segregation",
+        "Storage",
+        "Transportation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Segregation at source is most important.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q14",
+      "question": "The first step in processing soiled surgical instruments is:",
+      "options": [
+        "Decontamination",
+        "Disinfection",
+        "Incineration",
+        "Sterilization"
+      ],
+      "answerIndex": 0,
+      "explanation": "Decontamination comes first.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q15",
+      "question": "PRN in nursing care means:",
+      "options": [
+        "Immediately",
+        "Pulse Rate Now",
+        "When advised",
+        "When necessary"
+      ],
+      "answerIndex": 3,
+      "explanation": "PRN means when necessary.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q16",
+      "question": "An instrument placed against a patient's chest to listen to heart sounds is:",
+      "options": [
+        "Otoscope",
+        "Sphygmomanometer",
+        "Stethoscope",
+        "Telescope"
+      ],
+      "answerIndex": 2,
+      "explanation": "Stethoscope for heart sounds.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q17",
+      "question": "The suitable position for rectal examinations is:",
+      "options": [
+        "Dorsal recumbent",
+        "Lithotomy",
+        "Prone",
+        "Sim's"
+      ],
+      "answerIndex": 3,
+      "explanation": "Sim's position for rectal exam.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q18",
+      "question": "Informed consent is not valid if the client is:",
+      "options": [
+        "Mentally sound",
+        "Above 18 years",
+        "Accepting voluntarily",
+        "Having minimal understanding"
+      ],
+      "answerIndex": 3,
+      "explanation": "Understanding is required for consent.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q19",
+      "question": "Dyspnoea means:",
+      "options": [
+        "Painful and difficult breathing",
+        "Absence of breathing",
+        "Noisy breathing",
+        "Silent breathing"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dyspnoea is difficult breathing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-004-q20",
+      "question": "Patients' privacy on ward is ensured by?",
+      "options": [
+        "Explaining the procedure",
+        "Separating beds",
+        "Use of ward screen",
+        "Turning off light"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ward screens ensure privacy.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "firstaid-paper-004-b01",
+      "question": "Differentiate between shock and fainting. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Definition and causes of each: 2 marks.",
+        "Differences in onset and management: 2 marks."
+      ],
+      "modelAnswer": "Shock is circulatory failure; fainting is brief loss from reduced brain blood."
+    },
+    {
+      "id": "firstaid-paper-004-b02",
+      "question": "State the difference between burns and scalds. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Burns from dry heat: 2 marks.",
+        "Scalds from moist heat: 2 marks."
+      ],
+      "modelAnswer": "Burns are from dry heat; scalds from wet heat."
+    },
+    {
+      "id": "firstaid-paper-004-b03",
+      "question": "Outline four roles of a nurse in medical care. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Four roles such as caregiver and educator: 4 marks."
+      ],
+      "modelAnswer": "Caregiver, educator, advocate and communicator."
+    },
+    {
+      "id": "firstaid-paper-004-b04",
+      "question": "Write the difference between compound and simple fracture. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Simple closed: 2 marks.",
+        "Compound open: 2 marks."
+      ],
+      "modelAnswer": "Simple is closed; compound breaks the skin."
+    },
+    {
+      "id": "firstaid-paper-004-b05",
+      "question": "As a first aider, state the management for a simple fracture of the right arm. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Immobilise, support, referral: 4 marks."
+      ],
+      "modelAnswer": "Support, immobilise with splint/sling, monitor and refer."
+    }
+  ]
+}

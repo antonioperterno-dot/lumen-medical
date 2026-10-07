@@ -45,7 +45,7 @@ export default function OfflinePage() {
         <button
           type="button"
           onClick={() => window.location.reload()}
-          className="flex w-full items-center justify-center gap-2 rounded-xl border border-white/10 py-3 text-[13px] font-medium text-faint active:text-white"
+          className="glass-nested flex w-full items-center justify-center gap-2 rounded-xl border border-white/10 py-3 text-[13px] font-medium text-faint active:text-white"
         >
           <RefreshIcon className="h-4 w-4" />
           Try again

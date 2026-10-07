@@ -1,0 +1,325 @@
+{
+  "id": "psychology-paper-005",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 5: Learning, Culture and Study Skills",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T10:00:00+03:00",
+  "durationMinutes": 120,
+  "source": "Adapted from user-provided Psychology learning, culture and communication sets",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-005-q01",
+      "question": "Learning that involves an association of stimuli and response is seen in the theory of:",
+      "options": [
+        "Classical conditioning",
+        "Trial and error",
+        "Operant conditioning",
+        "Observational"
+      ],
+      "answerIndex": 0,
+      "explanation": "Classical conditioning links stimuli and responses.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q02",
+      "question": "Insightful learning involves the following except:",
+      "options": [
+        "Creativity",
+        "Exploration",
+        "Purpose",
+        "Cognition"
+      ],
+      "answerIndex": 2,
+      "explanation": "Purpose alone is not the excluded element in this set; insightful learning uses cognition.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q03",
+      "question": "Which type of learning depends on cognitive abilities:",
+      "options": [
+        "Motor",
+        "Rote",
+        "Problem-solving",
+        "Perception"
+      ],
+      "answerIndex": 2,
+      "explanation": "Problem-solving depends on cognition.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q04",
+      "question": "The following are learners cognitive faculties in studying, except:",
+      "options": [
+        "Senses",
+        "Rational will",
+        "Memory",
+        "Intelligence"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rational will is not a cognitive faculty in this list.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q05",
+      "question": "The form of communication where there is sharing of information between an organization and other stakeholders is:",
+      "options": [
+        "Internal",
+        "External",
+        "Vertical",
+        "Horizontal"
+      ],
+      "answerIndex": 1,
+      "explanation": "External communication crosses organizational boundaries.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q06",
+      "question": "Which institution is associated with youths of similar age bracket:",
+      "options": [
+        "Family",
+        "School",
+        "Peer group",
+        "State"
+      ],
+      "answerIndex": 2,
+      "explanation": "Peer group links age-mates.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q07",
+      "question": "Male circumcision is an example of a:",
+      "options": [
+        "Value",
+        "Folkway",
+        "Custom",
+        "Norm"
+      ],
+      "answerIndex": 2,
+      "explanation": "It is a customary practice in this set.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q08",
+      "question": "A value is described as an aspect that:",
+      "options": [
+        "Never changes",
+        "Changes but most stable",
+        "Constantly changes",
+        "Depends on cultural perception"
+      ],
+      "answerIndex": 1,
+      "explanation": "Values change slowly but remain relatively stable.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q09",
+      "question": "Gender roles are:",
+      "options": [
+        "Given by teacher",
+        "Fixed by parents",
+        "Fact of being male or female",
+        "Expectation of acts performed as male or female"
+      ],
+      "answerIndex": 3,
+      "explanation": "Gender roles are expected behaviours.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q10",
+      "question": "Strives in institution come as a result of:",
+      "options": [
+        "Culturalization",
+        "Acculturalization",
+        "Deviance",
+        "Non-compliance"
+      ],
+      "answerIndex": 2,
+      "explanation": "Deviance creates strain in this set.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q11",
+      "question": "Failure to respect and obey social norms leads to:",
+      "options": [
+        "Deviance",
+        "Sanction",
+        "Cultural transgression",
+        "Section"
+      ],
+      "answerIndex": 0,
+      "explanation": "Non-observance is deviance.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q12",
+      "question": "Which health worker intervention is more appropriate for an adolescent?",
+      "options": [
+        "Handling and cuddling",
+        "Providing physical security",
+        "Explaining each procedure with rationale",
+        "Sensory soothing"
+      ],
+      "answerIndex": 2,
+      "explanation": "Adolescents benefit from explanation and involvement.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q13",
+      "question": "The word emotion etymologically means to:",
+      "options": [
+        "Stir up",
+        "Test",
+        "Express",
+        "Cry"
+      ],
+      "answerIndex": 0,
+      "explanation": "Emotion derives from to stir or move.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q14",
+      "question": "General Adaptation Syndrome is associated with:",
+      "options": [
+        "Test",
+        "Poor perception",
+        "Stress",
+        "Poor nutrition"
+      ],
+      "answerIndex": 2,
+      "explanation": "GAS describes stress adaptation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q15",
+      "question": "The immediate bodily reaction to short-term stress is:",
+      "options": [
+        "Aches in various locations",
+        "Arousal of the sympathetic nervous system",
+        "Denial of the stressor",
+        "Immune failure"
+      ],
+      "answerIndex": 1,
+      "explanation": "Short-term stress activates sympathetic arousal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q16",
+      "question": "Another term for superego is:",
+      "options": [
+        "Ideal self",
+        "Self",
+        "Narcissism",
+        "Conscience"
+      ],
+      "answerIndex": 3,
+      "explanation": "Superego acts as conscience.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q17",
+      "question": "Freud argued that unusual rigidity is a sign of fixation at the:",
+      "options": [
+        "Oral",
+        "Anal",
+        "Phallic",
+        "Latency"
+      ],
+      "answerIndex": 1,
+      "explanation": "Anal fixation links with rigidity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q18",
+      "question": "Which guidance helps students adjust to situations they cannot change?",
+      "options": [
+        "Social",
+        "Personal",
+        "Educational",
+        "Vocational"
+      ],
+      "answerIndex": 1,
+      "explanation": "Personal guidance supports adjustment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q19",
+      "question": "The process by which a trained professional uses psychological methods to help people is:",
+      "options": [
+        "Psychiatry",
+        "Psychology",
+        "Psychotherapy",
+        "Psychoanalysis"
+      ],
+      "answerIndex": 2,
+      "explanation": "Psychotherapy uses psychological methods.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-005-q20",
+      "question": "When surveying a book, it is important to start with:",
+      "options": [
+        "Title page",
+        "Chapters",
+        "Index",
+        "Table of contents"
+      ],
+      "answerIndex": 3,
+      "explanation": "Survey starts with table of contents in SQ3R.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-005-b01",
+      "question": "Explain the psychological basis of emotions. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Definition and components: 3 marks.",
+        "Theories e.g. James-Lange and Cannon-Bard: 4 marks.",
+        "Application to health: 3 marks."
+      ],
+      "modelAnswer": "Emotions include subjective, physiological and behavioural components explained by major theories."
+    },
+    {
+      "id": "psychology-paper-005-b02",
+      "question": "Describe emotional responses seen in people due to disease or illness. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Five responses such as denial, anger, anxiety: 10 marks."
+      ],
+      "modelAnswer": "Denial, anger, bargaining, anxiety, depression and acceptance may occur."
+    },
+    {
+      "id": "psychology-paper-005-b03",
+      "question": "Explain five methods of reading skills. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Five methods such as skimming and scanning: 10 marks."
+      ],
+      "modelAnswer": "Skimming, scanning, intensive, critical and SQ3R reading."
+    },
+    {
+      "id": "psychology-paper-005-b04",
+      "question": "Explain the different barriers to learning. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Barriers such as physical, emotional and environmental: 10 marks."
+      ],
+      "modelAnswer": "Physical, psychological, social and instructional barriers."
+    },
+    {
+      "id": "psychology-paper-005-b05",
+      "question": "Describe the SQ3R strategy for effective reading. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Survey, Question, Read, Recite, Review: 10 marks."
+      ],
+      "modelAnswer": "Survey, question, read, recite and review."
+    }
+  ]
+}

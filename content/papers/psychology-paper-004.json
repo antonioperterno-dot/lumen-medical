@@ -1,0 +1,312 @@
+{
+  "id": "psychology-paper-004",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 4: Stress, Attitudes and Personality Basics",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T09:00:00+03:00",
+  "durationMinutes": 120,
+  "source": "Adapted from user-provided Psychology stress and personality sets",
+  "textbookReference": {
+    "label": "OpenStax Psychology 2e",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-004-q01",
+      "question": "People's reaction to a stressful event is:",
+      "options": [
+        "Stressors",
+        "Stimulus",
+        "Stress",
+        "Stress response"
+      ],
+      "answerIndex": 3,
+      "explanation": "Stressor is the event; stress response is the reaction.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q02",
+      "question": "Negative feelings towards a group of people is:",
+      "options": [
+        "Discrimination",
+        "Prejudice",
+        "Attitude",
+        "Dissonance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Prejudice is a negative evaluative attitude.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q03",
+      "question": "An unconscious stress coping mechanism includes:",
+      "options": [
+        "Displacement and regression",
+        "Displacement and encouragement",
+        "Displacement and promotion",
+        "Regression and entitlement"
+      ],
+      "answerIndex": 0,
+      "explanation": "Displacement and regression are defences.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q04",
+      "question": "In the primary stage of socialization learning takes place:",
+      "options": [
+        "At home",
+        "Outside home",
+        "At school",
+        "At church"
+      ],
+      "answerIndex": 0,
+      "explanation": "Primary socialization is in the family/home.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q05",
+      "question": "Abnormal psychology is a branch of psychology that deals with:",
+      "options": [
+        "Adolescence",
+        "Social growth",
+        "Developmental processes",
+        "Personality disorders"
+      ],
+      "answerIndex": 3,
+      "explanation": "Abnormal psychology studies atypical patterns.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q06",
+      "question": "An extrovert is described as:",
+      "options": [
+        "Quiet and reserved",
+        "Reliable",
+        "Optimistic and impulsive",
+        "Rarely aggressive"
+      ],
+      "answerIndex": 2,
+      "explanation": "Extroversion links with sociability and impulsivity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q07",
+      "question": "Defence mechanism which transfers an emotion from one situation to another is:",
+      "options": [
+        "Projection",
+        "Displacement",
+        "Sublimation",
+        "Avoidance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Displacement redirects emotion to a substitute.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q08",
+      "question": "From the sociological perspective, status is:",
+      "options": [
+        "The social prestige that goes with a role",
+        "To ascertain state citizenship",
+        "An ascribed status symbol",
+        "Determined at the oral and anal stage"
+      ],
+      "answerIndex": 0,
+      "explanation": "Status is prestige attached to a role.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-004-q09",
+      "question": "Stages of psychosexual development include:",
+      "options": [
+        "Latency and ego",
+        "Ego and superego",
+        "Identity and ego",
+        "Oral and anal stage"
+      ],
+      "answerIndex": 3,
+      "explanation": "Oral, anal, phallic, latency and genital.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q10",
+      "question": "The following is an emotional reaction to illness except:",
+      "options": [
+        "Anger",
+        "Denial",
+        "Joy",
+        "Fear"
+      ],
+      "answerIndex": 2,
+      "explanation": "Anger, denial and fear are common; joy is not.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q11",
+      "question": "In the psychodynamic approach, behaviour is determined by:",
+      "options": [
+        "Environmental forces",
+        "Free will",
+        "Genetic factors",
+        "Unconscious forces"
+      ],
+      "answerIndex": 3,
+      "explanation": "Psychodynamic theory emphasizes unconscious forces.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q12",
+      "question": "Integrity in health professionals promotes the following except:",
+      "options": [
+        "Truthfulness",
+        "Accuracy",
+        "Honesty",
+        "Potency"
+      ],
+      "answerIndex": 3,
+      "explanation": "Potency is unrelated to integrity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q13",
+      "question": "The branch linked with mental-health work in this set is termed as ____ psychology.",
+      "options": [
+        "Educational",
+        "Clinical",
+        "Qualitative",
+        "Chemical"
+      ],
+      "answerIndex": 1,
+      "explanation": "Clinical psychology covers mental-health care.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-004-q14",
+      "question": "Crawling is also one of the stages of growth.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Crawling is a gross-motor milestone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q15",
+      "question": "Dementia means ability to remember all events of the past.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dementia involves cognitive impairment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q16",
+      "question": "Prejudice is feeling good towards somebody.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Prejudice is negative evaluation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q17",
+      "question": "An attitude is sometimes defined as the mental readiness to react towards a stimulus.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Attitude is a readiness to respond.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q18",
+      "question": "A genius is also termed as a supra normal person.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 0,
+      "explanation": "Genius is described as supernormal ability.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q19",
+      "question": "Prejudice is synonymous with mores.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mores are moral customs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-004-q20",
+      "question": "Justifying a wrong thing is a form of displacement.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answerIndex": 1,
+      "explanation": "Justifying is rationalization.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-004-b01",
+      "question": "Outline five factors that influence learning. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Five factors such as motivation, practice, feedback: 5 marks."
+      ],
+      "modelAnswer": "Motivation, prior knowledge, practice, feedback and environment."
+    },
+    {
+      "id": "psychology-paper-004-b02",
+      "question": "a) Define communication. (1 mark) b) Four characteristics of a good channel. (4 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Defines communication: 1 mark.",
+        "Four qualities: 4 marks."
+      ],
+      "modelAnswer": "Communication shares meaning; good channel is clear and reliable."
+    },
+    {
+      "id": "psychology-paper-004-b03",
+      "question": "Outline any five branches of psychology. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Five branches: 5 marks."
+      ],
+      "modelAnswer": "Clinical, educational, social, developmental and cognitive."
+    },
+    {
+      "id": "psychology-paper-004-b04",
+      "question": "Examine five ways people react to stress. (5 marks)",
+      "marks": 5,
+      "markingGuide": [
+        "Five reactions: 5 marks."
+      ],
+      "modelAnswer": "Denial, anger, anxiety, withdrawal and active coping."
+    },
+    {
+      "id": "psychology-paper-004-b05",
+      "question": "a) Define stress. (1 mark) b) Four conscious ways of overcoming stress. (4 marks) c) Four examples of illness behaviour. (4 marks)",
+      "marks": 9,
+      "markingGuide": [
+        "Defines stress: 1 mark.",
+        "Four strategies: 4 marks.",
+        "Four illness behaviours: 4 marks."
+      ],
+      "modelAnswer": "Stress is a response to demands; coping and illness behaviour vary."
+    }
+  ]
+}

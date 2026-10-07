@@ -209,8 +209,8 @@ export default function DailyQuiz({
 
           <div className="w-full space-y-3 text-left">
             {questions.map((item, itemIndex) => (
-              <div key={item.id} className="rounded-xl bg-white/5 p-3">
-                <p className="text-[13px] font-medium text-white">
+              <div key={item.id} className="glass-nested rounded-xl p-3">
+                <p className="text-[13px] font-medium text-[#F8FAFC]">
                   {itemIndex + 1}. {item.prompt}
                 </p>
                 {answers[item.id] !== item.answerIndex && (
@@ -240,7 +240,7 @@ export default function DailyQuiz({
           {passed ? (
             <StructuredAnswerSection category={category} />
           ) : (
-            <div className="rounded-xl border border-white/10 bg-white/5 p-3.5">
+            <div className="glass-nested rounded-xl p-3.5">
               <p className="text-[13px] font-semibold text-white">Retake available</p>
               <p className="mt-1 text-[12px] leading-relaxed text-dim">Pass at least 60% to unlock structured marking and corrections.</p>
             </div>
@@ -256,7 +256,7 @@ export default function DailyQuiz({
             </button>
             <Link
               href={category ? `/categories/${category}` : "/categories"}
-              className="glass-pressable flex-1 rounded-xl border border-lumen/40 bg-lumen/10 py-3 text-center text-[13px] font-semibold text-lumen"
+              className="glass-nested glass-pressable flex-1 rounded-xl border border-lumen/40 bg-lumen/10 py-3 text-center text-[13px] font-semibold text-lumen"
             >
               Read the topic
             </Link>
@@ -289,7 +289,7 @@ export default function DailyQuiz({
             </p>
           )}
 
-          <h2 className="text-[16px] font-semibold leading-snug text-white">
+          <h2 className="!text-[#F8FAFC] text-[16px] font-semibold leading-snug">
             {question.prompt}
           </h2>
 
@@ -306,25 +306,26 @@ export default function DailyQuiz({
                     type="button"
                     onClick={() => choose(optionIndex)}
                     disabled={answered}
+                    data-state={revealRight ? "correct" : revealWrong ? "wrong" : undefined}
                     className={cn(
-                      "glass-pressable flex w-full items-center gap-3 rounded-xl border px-3.5 py-3 text-left",
-                      !answered && "border-white/10 bg-white/5 active:bg-white/10",
-                      revealRight && "border-lumen/60 bg-lumen/10",
-                      revealWrong && "border-[#FF6B6B]/50 bg-[#FF6B6B]/10",
+                      "quiz-option glass-pressable flex w-full items-center gap-3 rounded-xl border px-3.5 py-3 text-left",
+                      !answered && "border-[#334155] bg-[#1E293B] active:bg-[#334155]",
+                      revealRight && "border-[#166534] bg-[#166534]",
+                      revealWrong && "border-[#991B1B] bg-[#991B1B]",
                       answered &&
                         !revealRight &&
                         !revealWrong &&
-                        "border-white/5 bg-white/5 opacity-60",
+                        "border-[#334155] opacity-60",
                     )}
                   >
                     <span
                       className={cn(
                         "flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[11px] font-bold",
                         revealRight
-                          ? "border-lumen bg-lumen text-canvas"
+                          ? "border-[#166534] bg-[#166534] text-[#F8FAFC]"
                           : revealWrong
-                            ? "border-[#FF6B6B] text-[#FF6B6B]"
-                            : "border-white/20 text-faint",
+                            ? "border-[#991B1B] bg-[#991B1B] text-[#F8FAFC]"
+                            : "border-[#334155] text-[#94A3B8]",
                       )}
                     >
                       {revealRight ? (
@@ -335,7 +336,7 @@ export default function DailyQuiz({
                         OPTION_LETTERS[optionIndex]
                       )}
                     </span>
-                    <span className="text-[14px] leading-snug text-white">
+                    <span className="text-[14px] leading-snug text-[#F8FAFC]">
                       {option}
                     </span>
                   </button>
@@ -345,11 +346,11 @@ export default function DailyQuiz({
           </ul>
 
           {answered && (
-            <div className="animate-fade-in-up rounded-xl border border-white/10 bg-white/5 p-3.5">
+            <div className="glass-nested animate-fade-in-up rounded-xl p-3.5">
               <p
                 className={cn(
                   "text-[13px] font-semibold",
-                  isCorrect ? "text-lumen" : "text-[#FF8A8A]",
+                  isCorrect ? "text-[#166534]" : "text-[#991B1B]",
                 )}
               >
                 {isCorrect ? "Correct" : "Not quite"}
@@ -369,8 +370,8 @@ export default function DailyQuiz({
             className={cn(
               "w-full rounded-xl py-3 text-[14px] font-semibold transition-opacity",
               answered
-                ? "bg-lumen text-canvas active:scale-[0.99]"
-                : "cursor-not-allowed bg-white/10 text-faint",
+                ? "bg-[#3B82F6] text-white active:scale-[0.99]"
+                : "cursor-not-allowed bg-[#334155] text-[#94A3B8]",
             )}
           >
             {index + 1 >= questions.length ? "See results" : "Next question"}
@@ -417,7 +418,7 @@ function StructuredAnswerSection({ category }: { category?: string }) {
   };
 
   return (
-    <section className="w-full space-y-3 text-left rounded-xl border border-white/10 bg-white/5 p-3.5">
+    <section className="glass w-full space-y-3 text-left rounded-xl p-3.5">
       <div>
         <h3 className="text-[14px] font-semibold text-white">Section B · 2 structured questions</h3>
         <p className="mt-1 text-[12px] text-dim">Write in your own words, then submit for marking.</p>
@@ -430,7 +431,7 @@ function StructuredAnswerSection({ category }: { category?: string }) {
             onChange={(event) => setAnswers((current) => current.map((value, item) => item === index ? event.target.value : value))}
             disabled={submitted}
             rows={4}
-            className="w-full resize-y rounded-xl border border-white/10 bg-black/20 px-3 py-2.5 text-[13px] leading-relaxed text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
+            className="glass-input w-full resize-y rounded-xl border border-white/10 px-3 py-2.5 text-[13px] leading-relaxed text-white placeholder:text-faint focus:border-lumen/40 focus:outline-none"
             placeholder="Type your answer"
           />
         </label>

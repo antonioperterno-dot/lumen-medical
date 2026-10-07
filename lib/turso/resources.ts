@@ -89,7 +89,7 @@ export type ResourceQuery = {
   trending?: boolean;
   search?: string;
   limit?: number;
-  /** Cursor for keyset pagination — pass the last row's id. */
+  /** Cursor for keyset pagination — pass the last row's resource id. */
   after?: string;
 };
 
@@ -111,13 +111,27 @@ export async function listResources(
   if (opts.search) {
     // LIKE with a leading wildcard is fine at this catalogue size (~thousands
     // of rows). If the catalogue grows, swap for an FTS5 virtual table.
-    where.push("(title LIKE ? OR summary LIKE ? OR subtitle LIKE ?)");
-    const term = `%${opts.search}%`;
+    // Escape the LIKE wildcards in the term so user input like "%" or "_"
+    // matches literally instead of acting as a pattern.
+    where.push(
+      "(title LIKE ? ESCAPE '\\' OR summary LIKE ? ESCAPE '\\' OR subtitle LIKE ? ESCAPE '\\')",
+    );
+    const term = `%${opts.search.replace(/[\\%_]/g, (c) => `\\${c}`)}%`;
     args.push(term, term, term);
   }
   if (opts.after) {
-    where.push("id > ?");
-    args.push(opts.after);
+    // Keyset cursor: callers pass only the last row's id, so look up its
+    // updated_at and compare against the full ORDER BY tuple
+    // (updated_at DESC, id ASC). If the cursor row vanished (re-seed), ignore
+    // the cursor rather than returning an empty page.
+    const cursor = await queryOne<{ updated_at: string }>(
+      "SELECT updated_at FROM resources WHERE id = ? LIMIT 1",
+      [opts.after],
+    );
+    if (cursor) {
+      where.push("(updated_at < ? OR (updated_at = ? AND id > ?))");
+      args.push(cursor.updated_at, cursor.updated_at, opts.after);
+    }
   }
 
   const whereSql = where.length ? `WHERE ${where.join(" AND ")}` : "";

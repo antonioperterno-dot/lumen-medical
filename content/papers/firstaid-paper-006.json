@@ -1,0 +1,329 @@
+{
+  "id": "firstaid-paper-006",
+  "courseUnit": "first-aid",
+  "title": "First Aid Paper 6: General First Aid Principles",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided First Aid and Nursing question banks",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "firstaid-paper-006-q01",
+      "question": "At a scene with several casualties, which patient should receive immediate priority?",
+      "options": [
+        "A patient with a minor wrist sprain",
+        "A patient with severe breathing difficulty",
+        "A patient with a small superficial cut",
+        "A patient who can walk unaided"
+      ],
+      "answerIndex": 1,
+      "explanation": "Triage prioritises immediate life threats such as severe breathing difficulty over minor injuries.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q02",
+      "question": "Before moving a casualty with a suspected spinal injury, what is the safest action?",
+      "options": [
+        "Ask them to sit up",
+        "Keep the head and neck aligned and summon trained help",
+        "Pull them by the arms",
+        "Turn the head to check pain"
+      ],
+      "answerIndex": 1,
+      "explanation": "Maintain manual alignment and avoid unnecessary movement while arranging appropriate emergency assistance.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q03",
+      "question": "An unresponsive casualty is breathing normally. Which action best helps keep the airway clear while awaiting help?",
+      "options": [
+        "Place them in the recovery position if no contraindication is suspected",
+        "Give them water",
+        "Leave them flat on their back",
+        "Encourage them to stand"
+      ],
+      "answerIndex": 0,
+      "explanation": "For an unresponsive person who is breathing normally, the recovery position helps keep the airway open and allows fluids to drain.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q04",
+      "question": "A foreign object impelled into the eye should be:",
+      "options": [
+        "Stabilise the object and cover the eye",
+        "Remove the object immediately",
+        "Apply pressure to the eye",
+        "Patch the other eye"
+      ],
+      "answerIndex": 0,
+      "explanation": "Embedded objects are stabilized in place and the eye is covered to prevent further damage.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-006-q05",
+      "question": "Which temperature route is generally suitable for a conscious adult when a non-invasive reading is needed?",
+      "options": [
+        "Axillary",
+        "Oesophageal",
+        "Intracardiac",
+        "Peritoneal"
+      ],
+      "answerIndex": 0,
+      "explanation": "An axillary reading is a practical non-invasive option, though it may be less accurate than core measurements.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q06",
+      "question": "Which action provides the best routine protection against transferring pathogens during wound care?",
+      "options": [
+        "Perform hand hygiene and use appropriate gloves",
+        "Reuse gloves between casualties",
+        "Blow on the wound",
+        "Apply unprescribed antibiotic powder"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hand hygiene and clean gloves reduce pathogen transmission; gloves do not replace hand hygiene.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-006-q07",
+      "question": "What is the primary purpose of a sterile dressing placed over a wound?",
+      "options": [
+        "Protect it from contamination and help control bleeding",
+        "Keep the wound exposed",
+        "Replace the need for medical assessment",
+        "Prevent all pain"
+      ],
+      "answerIndex": 0,
+      "explanation": "A clean sterile dressing protects the wound from contamination and can be used with pressure to control bleeding.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q08",
+      "question": "A conscious adult has a severe airway obstruction and cannot speak or cough effectively. What should a trained first aider do?",
+      "options": [
+        "Give appropriate back blows and abdominal thrusts according to current guidance",
+        "Offer a drink",
+        "Perform blind finger sweeps",
+        "Lay the person down and leave them"
+      ],
+      "answerIndex": 0,
+      "explanation": "Severe choking in a conscious adult requires prompt age-appropriate choking first aid, including back blows and thrusts in the recommended sequence.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-006-q09",
+      "question": "What is the recommended first aid cooling method for a recent thermal burn?",
+      "options": [
+        "Cool under cool running water for about 20 minutes",
+        "Apply ice directly",
+        "Smear butter over it",
+        "Cover with cotton wool before cooling"
+      ],
+      "answerIndex": 0,
+      "explanation": "Prompt cooling with cool running water for about 20 minutes limits burn progression; avoid ice and greasy substances.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-006-q10",
+      "question": "A chemical splashes into a casualty’s eye. What should you do immediately?",
+      "options": [
+        "Irrigate continuously with clean water and arrange urgent medical assessment",
+        "Rub the eye",
+        "Apply neutralising chemicals",
+        "Cover the eye without rinsing"
+      ],
+      "answerIndex": 0,
+      "explanation": "Immediate copious irrigation dilutes and removes the chemical; continue while arranging urgent care.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-006-q11",
+      "question": "A person with a severely bleeding wound should first:",
+      "options": [
+        "Cover the wound with a clean dressing and apply pressure",
+        "Give the victim water",
+        "Apply a tourniquet immediately",
+        "Leave the wound open"
+      ],
+      "answerIndex": 0,
+      "explanation": "Direct pressure over a clean dressing is the first and most effective step to control severe bleeding.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q12",
+      "question": "The correct immediate management of a snake bite victim is to:",
+      "options": [
+        "Cut and suck out the venom",
+        "Apply ice to the bite",
+        "Keep the victim calm with the bitten limb immobilised and arrange transport",
+        "Give the victim alcohol"
+      ],
+      "answerIndex": 2,
+      "explanation": "Immobilisation, reassurance and rapid transport delay venom spread; cutting, sucking and ice are harmful.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-006-q13",
+      "question": "The law that protects a rescuer from being sued when giving aid in good faith is the:",
+      "options": [
+        "Constitutional law",
+        "Penal code",
+        "Good Samaritan Law",
+        "Medical council law"
+      ],
+      "answerIndex": 2,
+      "explanation": "Good Samaritan laws protect voluntary first aid providers acting in good faith.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q14",
+      "question": "Bleeding continues through the first dressing despite firm direct pressure. What is the appropriate next step?",
+      "options": [
+        "Add another dressing over it and maintain pressure while arranging urgent help",
+        "Remove all dressings and inspect repeatedly",
+        "Stop pressure to let it clot",
+        "Wash the wound for several minutes"
+      ],
+      "answerIndex": 0,
+      "explanation": "If blood soaks through, leave the first dressing in place, add another and maintain pressure; escalate urgently if severe.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-006-q15",
+      "question": "The reef knot is used to tie bandages because it:",
+      "options": [
+        "May cause slackness",
+        "Is complicated",
+        "Does not slip",
+        "Is unstable"
+      ],
+      "answerIndex": 2,
+      "explanation": "A reef knot lies flat, holds firmly and does not slip or unravel under tension.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q16",
+      "question": "Gunshot wounds generally have:",
+      "options": [
+        "No exit wound",
+        "Smaller exit wounds",
+        "Identical entry and exit wounds",
+        "Larger exit wounds"
+      ],
+      "answerIndex": 3,
+      "explanation": "Bullets typically deform and tumble on exit, producing a larger exit wound than entry wound.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "firstaid-paper-006-q17",
+      "question": "Which injury specifically involves damage to a muscle or tendon from overstretching?",
+      "options": [
+        "Sprain",
+        "Strain",
+        "Dislocation",
+        "Contusion"
+      ],
+      "answerIndex": 1,
+      "explanation": "A strain affects muscle or tendon; a sprain affects ligaments around a joint.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q18",
+      "question": "The best management option for epistaxis is:",
+      "options": [
+        "Sit leaning forward and pinch the soft part of the nose",
+        "Tilt the head back",
+        "Lie flat",
+        "Swallow the blood"
+      ],
+      "answerIndex": 0,
+      "explanation": "Leaning forward and pinching the nostrils for 10 minutes stops most nosebleeds; tilting back swallows blood.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q19",
+      "question": "An abnormally high breathing rate is:",
+      "options": [
+        "Tachycardia",
+        "Bradycardia",
+        "Tachypnea",
+        "Asphyxia"
+      ],
+      "answerIndex": 2,
+      "explanation": "Tachypnea is abnormally rapid breathing; tachycardia refers to heart rate.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-006-q20",
+      "question": "Nosocomial infections are:",
+      "options": [
+        "Hospital acquired",
+        "Community acquired",
+        "Congenital",
+        "Food borne"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nosocomial (healthcare-associated) infections are acquired in a hospital or other healthcare setting.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "firstaid-paper-006-b01",
+      "question": "Differentiate between shock and fainting.",
+      "marks": 6,
+      "markingGuide": [
+        "Defines shock and its causes: 2 marks.",
+        "Defines fainting (syncope) and its transient nature: 2 marks.",
+        "Key differences (onset, consciousness, skin, duration, response to lying flat): 2 marks."
+      ],
+      "modelAnswer": "Shock is a life-threatening state of poor tissue perfusion (e.g. hypovolaemic, septic, cardiogenic) with pale cool clammy skin, weak rapid pulse, restlessness and altered consciousness that persists until treated. Fainting (syncope) is a brief transient loss of consciousness from temporary reduced cerebral blood flow, usually resolving quickly when the person lies flat."
+    },
+    {
+      "id": "firstaid-paper-006-b02",
+      "question": "Outline four importance of putting a patient in the recovery position.",
+      "marks": 4,
+      "markingGuide": [
+        "Four valid points such as maintains airway, allows drainage of fluids, prevents aspiration, keeps tongue from blocking airway, helps breathing: 4 marks."
+      ],
+      "modelAnswer": "The recovery position keeps the airway open, lets vomit and fluids drain from the mouth instead of being inhaled, prevents the tongue from obstructing the pharynx, and maintains breathing and circulation in an unconscious but breathing casualty."
+    },
+    {
+      "id": "firstaid-paper-006-b03",
+      "question": "Explain the three degrees of burns.",
+      "marks": 4,
+      "markingGuide": [
+        "First degree (superficial): redness, pain, no blisters: 1 mark.",
+        "Second degree (partial thickness): blisters, severe pain, oedema: 1.5 marks.",
+        "Third degree (full thickness): white/charred, painless, destroys all skin layers: 1.5 marks."
+      ],
+      "modelAnswer": "First-degree burns affect only the epidermis, causing redness and pain. Second-degree (partial-thickness) burns involve the epidermis and dermis, producing blisters, oedema and severe pain. Third-degree (full-thickness) burns destroy all skin layers, leaving a white, brown or charred dry surface that is relatively painless because nerve endings are destroyed."
+    },
+    {
+      "id": "firstaid-paper-006-b04",
+      "question": "State the differences between a fracture and a dislocation.",
+      "marks": 3,
+      "markingGuide": [
+        "Fracture defined as broken bone: 1 mark.",
+        "Dislocation defined as bone out of joint: 1 mark.",
+        "One further difference (signs, deformity, management): 1 mark."
+      ],
+      "modelAnswer": "A fracture is a break in the continuity of a bone, whereas a dislocation is displacement of a bone from its joint so the articular surfaces no longer meet. Both cause pain, swelling and loss of function, but dislocation typically shows deformity at the joint and a fracture may show abnormal movement at the bone shaft."
+    },
+    {
+      "id": "firstaid-paper-006-b05",
+      "question": "Identify the areas that are prone to pressure sores.",
+      "marks": 3,
+      "markingGuide": [
+        "Sacrum/coccyx, heels, elbows, hips, shoulders, back of head, ears: 3 marks."
+      ],
+      "modelAnswer": "Pressure sores develop over bony prominences where skin is compressed: the sacrum and coccyx, heels, elbows, greater trochanters (hips), ischial tuberosities, shoulders, scapulae, occiput and ears."
+    }
+  ]
+}

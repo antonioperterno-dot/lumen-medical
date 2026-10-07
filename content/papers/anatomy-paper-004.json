@@ -1,0 +1,358 @@
+{
+  "id": "anatomy-paper-004",
+  "courseUnit": "anatomy",
+  "title": "Anatomy Paper 4: Skull, Cranial Nerves and Head & Neck",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T05:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from the user-provided Anatomy and Public Health Dentistry assessments",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "anatomy-paper-004-q01",
+      "question": "Which bones form the cranial vault?",
+      "options": [
+        "Cranial, frontal and occipital",
+        "Frontal, parietal and occipital",
+        "Parietal, zygomatic and frontal",
+        "Occipital, cranial and zygomatic"
+      ],
+      "answerIndex": 1,
+      "explanation": "The calvaria is formed principally by the frontal, paired parietal and occipital bones, with squamous temporal contributions laterally.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q02",
+      "question": "Cerebrospinal fluid is produced mainly by the:",
+      "options": [
+        "Ependymal cells of the choroid plexus",
+        "Astrocytes",
+        "Oligodendrocytes",
+        "Ganglion cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Specialised ependymal epithelial cells in the choroid plexuses produce most CSF.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q03",
+      "question": "Which statement is a characteristic of the skull at birth?",
+      "options": [
+        "The anterior fontanelle has already closed",
+        "The mastoid air cells are fully developed",
+        "The tympanic membrane is relatively superficial",
+        "There is no midline fibrous joint in the frontal bone"
+      ],
+      "answerIndex": 2,
+      "explanation": "The external acoustic meatus is short and the tympanic membrane lies relatively close to the surface in infants. The fontanelles remain open at birth and frontal halves are separated by a metopic suture in many infants.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-004-q04",
+      "question": "The interlocking fibrous joints between most individual skull bones are called:",
+      "options": ["Insertions", "Locks", "Sutures", "Synovial joints"],
+      "answerIndex": 2,
+      "explanation": "Sutures are fibrous joints joining most bones of the skull.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q05",
+      "question": "Which structure passes through the jugular foramen?",
+      "options": [
+        "Hypoglossal nerve",
+        "Vertebral artery",
+        "Vagus nerve",
+        "Straight sinus"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cranial nerves IX, X and XI pass through the jugular foramen with the internal jugular vein and other structures.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q06",
+      "question": "Which artery is not a component of the arterial supply/Circle of Willis at the brain's base?",
+      "options": [
+        "Anterior cerebral artery",
+        "Middle cerebral artery",
+        "Posterior communicating artery",
+        "Middle meningeal artery"
+      ],
+      "answerIndex": 3,
+      "explanation": "The middle meningeal artery supplies dura and calvaria; it is not part of the cerebral arterial circle. Note that the middle cerebral artery is a major cerebral supply but is not itself a component of the arterial ring proper.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-004-q07",
+      "question": "The left and right cerebral hemispheres are joined primarily by the:",
+      "options": [
+        "Corpus callosum",
+        "Falx cerebri",
+        "Falx cerebelli",
+        "Tentorium cerebelli"
+      ],
+      "answerIndex": 0,
+      "explanation": "The corpus callosum is the largest commissural bundle connecting the cerebral hemispheres.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q08",
+      "question": "Which major salivary gland secretes purely serous saliva?",
+      "options": [
+        "Submental gland",
+        "Sublingual gland",
+        "Parotid gland",
+        "Submandibular gland"
+      ],
+      "answerIndex": 2,
+      "explanation": "The parotid gland is a purely serous salivary gland.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q09",
+      "question": "The odontoid (dens) process is located on the:",
+      "options": [
+        "Axis (C2)",
+        "Styloid process of the temporal bone",
+        "Coronoid process of the mandible",
+        "Occipital condyle"
+      ],
+      "answerIndex": 0,
+      "explanation": "The dens projects superiorly from the axis, the second cervical vertebra.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q10",
+      "question": "Most muscles of the tongue are innervated by the:",
+      "options": [
+        "Hypoglossal nerve",
+        "Trochlear nerve",
+        "Abducens nerve",
+        "Facial nerve"
+      ],
+      "answerIndex": 0,
+      "explanation": "The hypoglossal nerve (CN XII) supplies intrinsic and most extrinsic tongue muscles; palatoglossus is supplied by the vagus nerve via the pharyngeal plexus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q11",
+      "question": "Which statement about the middle cranial fossa is correct?",
+      "options": [
+        "Foramen rotundum opens anteriorly from it",
+        "It supports the frontal lobes",
+        "It contains the jugular foramen in its floor",
+        "The internal acoustic meatus is in its lateral wall"
+      ],
+      "answerIndex": 0,
+      "explanation": "The foramen rotundum opens into the pterygopalatine fossa anteriorly from the middle cranial fossa. The other listed foramina are associated with the posterior cranial fossa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-004-q12",
+      "question": "Which statement is NOT true about the parietal bone?",
+      "options": [
+        "It forms a suture with the occipital bone",
+        "Its inner aspect is grooved by meningeal vessels",
+        "It forms a suture with the zygomatic bone",
+        "Its diploë may contain haematopoietic marrow"
+      ],
+      "answerIndex": 2,
+      "explanation": "The parietal bone does not articulate directly with the zygomatic bone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q13",
+      "question": "Which artery is not a branch of the external carotid artery?",
+      "options": [
+        "Inferior thyroid artery",
+        "Superior thyroid artery",
+        "Occipital artery",
+        "Superficial temporal artery"
+      ],
+      "answerIndex": 0,
+      "explanation": "The inferior thyroid artery usually arises from the thyrocervical trunk, a branch of the subclavian artery. The other listed arteries are external carotid branches.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-004-q14",
+      "question": "Taste sensation from the anterior two-thirds of the tongue is carried mainly by the:",
+      "options": [
+        "Glossopharyngeal nerve",
+        "Facial nerve via chorda tympani",
+        "Hypoglossal nerve",
+        "Vagus nerve"
+      ],
+      "answerIndex": 1,
+      "explanation": "Taste from the anterior two-thirds travels with chorda tympani (CN VII); general sensation there travels via the lingual nerve (V3).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-004-q15",
+      "question": "The pterygopalatine fossa communicates with all the following except the:",
+      "options": [
+        "Orbit through the inferior orbital fissure",
+        "Nasal cavity through the sphenopalatine foramen",
+        "Middle cranial fossa through foramen rotundum",
+        "Posterior cranial fossa through the pterygoid canal"
+      ],
+      "answerIndex": 3,
+      "explanation": "The pterygoid canal communicates with the foramen lacerum region, not directly with the posterior cranial fossa. The other listed routes connect the pterygopalatine fossa to the stated spaces.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "anatomy-paper-004-q16",
+      "question": "Which statement about the tongue is correct?",
+      "options": [
+        "Hyoglossus helps depress the tongue",
+        "Intrinsic and extrinsic tongue muscles are all supplied by the lingual nerve",
+        "The tongue attaches directly to the mandible along the mylohyoid line",
+        "The anterior two-thirds has no taste fibres"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hyoglossus depresses and retracts the tongue. Most tongue muscles are supplied by CN XII; taste from the anterior two-thirds is carried by chorda tympani.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q17",
+      "question": "Which muscle does not elevate the larynx?",
+      "options": [
+        "Digastric",
+        "Stylohyoid",
+        "Sternothyroid",
+        "Stylopharyngeus"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sternothyroid depresses the larynx; the other listed muscles can elevate the hyoid/larynx during swallowing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-004-q18",
+      "question": "Which statement about the external acoustic meatus is NOT correct?",
+      "options": [
+        "It is cartilaginous for its entire length",
+        "It receives sensory supply from a branch of the vagus nerve",
+        "It receives sensory supply from the trigeminal nerve",
+        "Its length and orientation differ in infants and adults"
+      ],
+      "answerIndex": 0,
+      "explanation": "The lateral one-third is cartilaginous and the medial two-thirds is bony. Sensory supply includes auriculotemporal (V3) and auricular branch of vagus (X).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-004-q19",
+      "question": "True or false: The crista galli is located on the sphenoid bone.",
+      "options": ["True", "False"],
+      "answerIndex": 1,
+      "explanation": "The crista galli is a midline projection of the ethmoid bone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-004-q20",
+      "question": "True or false: The optic canal is anterior to the foramen ovale.",
+      "options": ["True", "False"],
+      "answerIndex": 0,
+      "explanation": "The optic canal is in the anterior cranial fossa region of the sphenoid, while foramen ovale lies in its greater wing in the middle cranial fossa.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "anatomy-paper-004-b01",
+      "question": "(a) Name two structures forming the temporomandibular joint. (b) State two functions of the glossopharyngeal nerve. (c) Name and locate the three major salivary glands. (d) Give three regional groups of cervical lymph nodes. (e) Name three bones forming the orbit. (f) List the four extrinsic muscles of the tongue.",
+      "marks": 20,
+      "markingGuide": [
+        "TMJ formed by mandibular condyle and mandibular fossa/articular tubercle of temporal bone: 3 marks.",
+        "Two CN IX functions, including taste/sensation posterior third tongue, stylopharyngeus motor, parotid secretomotor or carotid sinus/body sensory: 3 marks.",
+        "Parotid, submandibular and sublingual glands with locations: 6 marks.",
+        "Any three cervical node groups: 3 marks.",
+        "Any three orbital bones: 2 marks.",
+        "Names genioglossus, hyoglossus, styloglossus, palatoglossus: 3 marks."
+      ],
+      "modelAnswer": "The temporomandibular joint is formed by the head of the mandible and the mandibular fossa/articular tubercle of the temporal bone, with an articular disc. The glossopharyngeal nerve (CN IX) carries taste and general sensation from the posterior third of the tongue and provides motor supply to stylopharyngeus; it also carries parasympathetic secretomotor fibres to the parotid and visceral sensory fibres from the carotid sinus/body. The parotid lies anterior and inferior to the ear over the masseter; the submandibular gland lies beneath the body of the mandible in the submandibular triangle; the sublingual gland lies in the floor of the mouth beneath the tongue. Cervical node groups include submental, submandibular, anterior cervical, posterior cervical and deep cervical. The orbit includes frontal, sphenoid, zygomatic, maxilla, ethmoid, lacrimal, palatine and nasal bones (any three). Extrinsic tongue muscles are genioglossus, hyoglossus, styloglossus and palatoglossus."
+    },
+    {
+      "id": "anatomy-paper-004-b02",
+      "question": "Describe the origin, insertion, action and innervation of the four muscles of mastication.",
+      "marks": 20,
+      "markingGuide": [
+        "Masseter: origin zygomatic arch, insertion ramus/angle, elevates jaw, V3: 5 marks.",
+        "Temporalis: origin temporal fossa/fascia, insertion coronoid/anterior ramus, elevates and retracts, V3: 5 marks.",
+        "Medial pterygoid: origin medial pterygoid plate/tuberosity, insertion medial mandibular angle, elevates/protrudes and side-to-side, V3: 5 marks.",
+        "Lateral pterygoid: origin sphenoid greater wing/lateral pterygoid plate, insertion neck of mandible and TMJ disc/capsule, protrudes/depresses and side-to-side, V3: 5 marks."
+      ],
+      "modelAnswer": "Masseter arises from the zygomatic arch and inserts on the lateral ramus and angle of the mandible; it elevates the mandible and is supplied by the masseteric nerve (V3). Temporalis arises from the temporal fossa and fascia and inserts on the coronoid process and anterior ramus; it elevates and retracts the mandible and is supplied by deep temporal nerves (V3). Medial pterygoid arises from the medial surface of the lateral pterygoid plate and nearby maxillary/palatine regions and inserts on the medial angle/ramus; it elevates and assists protrusion and grinding, supplied by the nerve to medial pterygoid (V3). Lateral pterygoid arises from the greater wing of sphenoid and lateral pterygoid plate and inserts on the pterygoid fovea of the mandibular neck and TMJ disc/capsule; it protrudes, assists depression and produces side-to-side movement, supplied by the nerve to lateral pterygoid (V3)."
+    },
+    {
+      "id": "anatomy-paper-004-b03",
+      "question": "(a) Describe the tongue's main regions and label-worthy surface features. (b) Describe the four types of lingual papillae. Include a labelled drawing in your response.",
+      "marks": 20,
+      "markingGuide": [
+        "Diagram with apex, body, root, dorsum, sulcus terminalis, foramen caecum, median sulcus and vallate papillae: 8 marks.",
+        "Filiform papillae: most numerous, mechanical, keratinised, no taste buds: 3 marks.",
+        "Fungiform: scattered, especially tip/sides, some taste buds: 3 marks.",
+        "Circumvallate: large, 8–12 anterior to sulcus terminalis, taste buds and von Ebner glands: 3 marks.",
+        "Foliate: posterolateral folds, taste buds more prominent in children: 3 marks."
+      ],
+      "modelAnswer": "A labelled dorsal tongue diagram should show the apex, body (anterior two-thirds), root (posterior third), median sulcus, V-shaped sulcus terminalis, foramen caecum and vallate papillae. Filiform papillae are numerous, conical and mechanical, usually keratinised, and lack taste buds. Fungiform papillae are mushroom-shaped and scattered among filiform papillae, particularly at the tip and margins; they contain taste buds. Circumvallate papillae are large papillae arranged in a V immediately anterior to the sulcus terminalis; they contain taste buds and are associated with von Ebner serous glands. Foliate papillae are folds on the posterolateral tongue and contain taste buds, especially prominent in children."
+    },
+    {
+      "id": "anatomy-paper-004-b04",
+      "question": "(a) Name the three divisions of cranial nerve V. (b) Give five structures/functions supplied by CN V and identify sensory or motor roles. (c) Describe CSF production and flow. (d) State two differences between atlas and axis.",
+      "marks": 20,
+      "markingGuide": [
+        "Ophthalmic V1, maxillary V2, mandibular V3: 3 marks.",
+        "Five accurate sensory/motor targets: 5 marks.",
+        "CSF produced by choroid plexuses in ventricles: 2 marks.",
+        "Correct pathway through lateral/third/fourth ventricles and foramina: 5 marks.",
+        "Absorption via arachnoid granulations into dural venous sinuses: 2 marks.",
+        "Two atlas-axis differences: 3 marks."
+      ],
+      "modelAnswer": "CN V divides into ophthalmic (V1), maxillary (V2) and mandibular (V3). It carries sensory information from cornea, forehead, midface, lower face, teeth and anterior tongue general sensation; V3 also supplies motor fibres to muscles of mastication, mylohyoid, anterior digastric, tensor tympani and tensor veli palatini. CSF is produced mainly by choroid plexuses in the lateral, third and fourth ventricles. It flows from lateral ventricles through interventricular foramina to the third ventricle, through the cerebral aqueduct to the fourth ventricle, then through median and lateral apertures into subarachnoid space (with a small amount entering the central canal). It is reabsorbed through arachnoid granulations into dural venous sinuses. Atlas (C1) lacks a vertebral body and has anterior/posterior arches with lateral masses; axis (C2) has a body and dens that acts as a pivot for atlas/head rotation."
+    },
+    {
+      "id": "anatomy-paper-004-b05",
+      "question": "Answer the supplied IPI Anatomy I cardiopulmonary Section A questions: heart and respiratory anatomy, cardiac cycle and sounds, lung volumes, airway sequence, and auditory tube. Include explanations for the objective answers.",
+      "marks": 20,
+      "markingGuide": [
+        "Correct heart/cardiac cycle, valves, conduction and cardiac output responses: 7 marks.",
+        "Correct thoracic/abdominal region and bronchial anatomy responses: 4 marks.",
+        "Correct respiratory volumes and airway sequence: 5 marks.",
+        "Correct auditory tube and pharynx response: 2 marks.",
+        "Uses anatomical terminology accurately: 2 marks."
+      ],
+      "modelAnswer": "The heart lies in the mediastinum and the lungs in the thoracic cavity; the left ventricle has the thickest myocardium. Complete diastole is relaxation of all chambers. Semilunar-valve closure produces S2 (‘dub’) and begins ventricular diastole; AV-valve closure produces S1 (‘lub’) at the start of ventricular systole. The SA node normally initiates conduction; cardiac output = heart rate × stroke volume. The right main bronchus is wider, shorter and more vertical, so aspirated material more often enters it. Quiet breathing is eupnoea. Vital capacity = tidal volume + inspiratory reserve volume + expiratory reserve volume; inspiratory capacity = tidal volume + inspiratory reserve volume. The auditory (pharyngotympanic) tube connects the middle ear to the nasopharynx. Air travels nose, pharynx, larynx, trachea, bronchi, bronchioles and lungs/alveoli."
+    },
+    {
+      "id": "anatomy-paper-004-b06",
+      "question": "(a) State three functions of the lymphatic system and four components of lymph. (b) Describe scapular landmarks. (c) State five characteristics of synovial joints. (d) Trace blood through the heart. (e) Discuss body membranes and classify squamous epithelium.",
+      "marks": 20,
+      "markingGuide": [
+        "Three lymphatic functions: fluid return, lipid absorption and immune defence: 3 marks.",
+        "Lymph components: water, electrolytes, proteins, lymphocytes, lipids or waste products: 2 marks.",
+        "Scapula labels: medial/lateral borders, spine, glenoid cavity, acromion, coracoid, angles and notch: 5 marks.",
+        "Five synovial-joint features: cavity, articular cartilage, capsule, synovial fluid, reinforcing ligaments: 4 marks.",
+        "Correct heart blood-flow sequence and valves: 3 marks.",
+        "Four membranes and squamous types (simple/stratified; keratinised/non-keratinised): 3 marks."
+      ],
+      "modelAnswer": "The lymphatic system returns excess tissue fluid to blood, absorbs dietary fats through lacteals and supports immune surveillance. Lymph contains water, dissolved electrolytes, small amounts of protein, lymphocytes, lipids and cellular wastes. Scapular landmarks include the medial and lateral borders, spine, supraspinous and infraspinous fossae, glenoid cavity, acromion, coracoid process, superior/inferior angles and scapular notch. Synovial joints have a joint cavity, articular cartilage, a fibrous capsule with synovial membrane, synovial fluid and reinforcing ligaments. Blood flows venae cavae → right atrium → tricuspid valve → right ventricle → pulmonary valve → pulmonary arteries → lungs → pulmonary veins → left atrium → mitral valve → left ventricle → aortic valve → aorta. The four body membranes are cutaneous, mucous, serous and synovial. Squamous epithelium is simple (one layer) or stratified (multiple layers); stratified squamous may be keratinised or non-keratinised."
+    },
+    {
+      "id": "anatomy-paper-004-b07",
+      "question": "(a) Classify connective tissue proper. (b) Draw and label a human cell including mitochondria, ribosomes, nucleus, endoplasmic reticulum and secretory vesicles; note that human cells do not have a cell wall. (c) State the functions of mitochondria, nucleus, lysosomes and Golgi apparatus.",
+      "marks": 20,
+      "markingGuide": [
+        "Classifies loose (areolar, adipose, reticular) and dense (regular, irregular, elastic) connective tissue: 8 marks.",
+        "Cell diagram labels required organelles and correctly notes no cell wall: 6 marks.",
+        "Mitochondria ATP/metabolism: 1 mark.",
+        "Nucleus stores DNA and regulates expression: 1 mark.",
+        "Lysosomes intracellular digestion/recycling: 1 mark.",
+        "Golgi modifies, sorts and packages products: 2 marks.",
+        "Clarity/organisation: 1 mark."
+      ],
+      "modelAnswer": "Connective tissue proper is classified as loose (areolar, adipose and reticular) or dense (dense regular, dense irregular and elastic). A human cell diagram should label plasma membrane, cytoplasm, nucleus, mitochondria, ribosomes, rough and smooth ER, Golgi apparatus and secretory vesicles; animal/human cells do not have a cell wall. Mitochondria generate ATP and participate in metabolism. The nucleus contains DNA and regulates gene expression. Lysosomes digest and recycle cellular material. The Golgi apparatus modifies, sorts and packages proteins and lipids into vesicles."
+    }
+  ]
+}

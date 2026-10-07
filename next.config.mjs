@@ -14,6 +14,13 @@ const withSerwist = withSerwistInit({
 const nextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
+  // Keep secrets out of the serverless bundle: Next's output tracer was
+  // pulling .env.local into filePathMap (verified in .vc-config.json), which
+  // ships API keys inside the deployed function files. At runtime Vercel
+  // injects env vars from the project settings instead.
+  outputFileTracingExcludes: {
+    "*": [".env.local", ".env.*.local"],
+  },
   images: {
     remotePatterns: [
       { protocol: "https", hostname: "**.cloudinary.com" },

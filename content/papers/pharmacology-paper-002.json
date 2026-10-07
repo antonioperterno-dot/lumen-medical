@@ -1,0 +1,260 @@
+{
+  "id": "pharmacology-paper-002",
+  "courseUnit": "pharmacology",
+  "title": "Pharmacology Paper 2: Principles, Potency and Drug Interactions",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T06:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Pharmacology assessments PAGES 143-147 and PHD 1.1 question bank",
+  "textbookReference": {
+    "label": "OpenStax Pharmacology for Nurses",
+    "url": "https://openstax.org/details/books/pharmacology-nurses"
+  },
+  "objective": [
+    {
+      "id": "pharmacology-paper-002-q01",
+      "question": "Pharmacology is best described as the study of:",
+      "options": [
+        "How the body changes the drug only",
+        "Therapeutic diagnosis and treatment of disease only",
+        "How the body responds to the drug by therapeutic change only",
+        "Mode of action, uses, adverse effects and fate of drugs"
+      ],
+      "answerIndex": 3,
+      "explanation": "Pharmacology deals with mode of action, uses, adverse effects and fate of drugs; pharmacokinetics is what the body does to the drug and pharmacodynamics what the drug does to the body.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q02",
+      "question": "Pharmakon is a Greek word meaning:",
+      "options": ["Pharmacology", "Pharmacodynamics", "Drug", "Pharmacokinetics"],
+      "answerIndex": 2,
+      "explanation": "Pharmakon means drug or remedy; pharmacology is the science built around it.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q03",
+      "question": "A preparation given mainly to satisfy the psychological need for a drug, with no specific pharmacological action for the condition, is a:",
+      "options": ["Genetic drug", "Placebo", "Analgesic", "Antagonist"],
+      "answerIndex": 1,
+      "explanation": "A placebo has no specific active effect for the condition but may satisfy psychological need or be used as a control.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q04",
+      "question": "The following is most appropriate in the management of muscle spasm/rigidity in tetanus (to control spasms/evacuation-related spasms):",
+      "options": ["Diazepam", "Morphine", "Atropine", "Ketamine"],
+      "answerIndex": 0,
+      "explanation": "Diazepam (a benzodiazepine) is used to control muscle spasms and rigidity in tetanus; supportive and antimicrobial care are also required.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-002-q05",
+      "question": "Potency of a drug describes:",
+      "options": [
+        "The maximum effect the drug can ever produce",
+        "The dose or concentration needed to produce a specified effect",
+        "The ability to bind a receptor only, without effect",
+        "Having both efficacy and affinity combined as one number"
+      ],
+      "answerIndex": 1,
+      "explanation": "Potency describes how much drug is needed for a given effect; efficacy describes the maximum effect achievable.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q06",
+      "question": "The study of body reactions to the drug / what the drug does to the body is:",
+      "options": ["Absorption", "Drug interaction", "Pharmacokinetics", "Pharmacodynamics"],
+      "answerIndex": 3,
+      "explanation": "Pharmacodynamics is what the drug does to the body; pharmacokinetics is what the body does to the drug (ADME).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q07",
+      "question": "Substances that bind to receptors and cause a response are referred to as:",
+      "options": ["Antagonists", "Agonists", "Placebos", "Chemical antagonists"],
+      "answerIndex": 1,
+      "explanation": "Agonists have affinity and efficacy; antagonists bind without activating the receptor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q08",
+      "question": "The combined effect of two drugs is greater than the sum of their separate effects. This interaction is:",
+      "options": [
+        "Synergism (supra-additive effect)",
+        "Antagonism",
+        "Tolerance",
+        "No interaction"
+      ],
+      "answerIndex": 0,
+      "explanation": "Synergism in the strict sense is a supra-additive combined effect; a merely greater effect than either drug alone does not establish synergy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q09",
+      "question": "A combined drug effect greater than the sum of the separate effects (1 + 1 > 2) is called:",
+      "options": ["Potentiation", "Synergism", "Addition", "Tolerance"],
+      "answerIndex": 1,
+      "explanation": "Supra-additive synergism is represented as 1+1>2; an additive effect is 1+1=2.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q10",
+      "question": "Adrenaline added to lignocaine prolongs local anaesthesia mainly by:",
+      "options": ["Causing local vasoconstriction and slowing lignocaine absorption","Increasing hepatic metabolism of lignocaine","Blocking sodium channels independently at the injection site","Increasing renal excretion of lignocaine"],
+      "answerIndex": 0,
+      "explanation": "Adrenaline constricts local vessels, reducing systemic uptake and prolonging local lignocaine exposure. This is an adjuvant pharmacokinetic effect, not necessarily pharmacodynamic synergism.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-002-q11",
+      "question": "Methyldopa is an example of:",
+      "options": ["Placebo", "Pro-drug", "Addition", "Synergism"],
+      "answerIndex": 1,
+      "explanation": "Methyldopa is a pro-drug converted to the active alpha-methylnorepinephrine which acts centrally.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-002-q12",
+      "question": "A drug that becomes active only after being converted through a metabolic or chemical process is called a:",
+      "options": ["Active drug", "Agonist", "Partial agonist", "Prodrug"],
+      "answerIndex": 3,
+      "explanation": "A prodrug is inactive as given and is converted in the body to the active form.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q13",
+      "question": "A placebo is best defined as a preparation that:",
+      "options": ["Has no specific pharmacological action for the condition being treated","Contains an antibiotic at a low dose","Always contains vitamin B","Produces a guaranteed therapeutic response"],
+      "answerIndex": 0,
+      "explanation": "A placebo lacks a specific active pharmacological effect for the target condition. A vitamin preparation is not automatically a placebo because it may have biological activity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q14",
+      "question": "A partial agonist is typically a drug that:",
+      "options": [
+        "Has no affinity for its receptors",
+        "Can only occupy a small fraction of its receptors",
+        "Requires high doses to produce a maximal response",
+        "Can only produce a submaximal response even with full receptor occupancy"
+      ],
+      "answerIndex": 3,
+      "explanation": "A partial agonist has affinity but low efficacy, so it produces a submaximal response even when all receptors are occupied.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-002-q15",
+      "question": "A type of drug that reduces the slope and maximum response of an agonist is:",
+      "options": ["A non-competitive antagonist", "A physiologic antagonist", "An inverse agonist", "A partial agonist"],
+      "answerIndex": 0,
+      "explanation": "A non-competitive antagonist reduces the maximum response and often the slope of the agonist dose-response curve.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-002-q16",
+      "question": "Drugs that form covalent bonds with receptors are usually:",
+      "options": ["Reversible competitive antagonists", "Irreversible antagonists", "Partial antagonists", "Inverse antagonists only"],
+      "answerIndex": 1,
+      "explanation": "Covalent binding is typically long-lasting or irreversible, so the blockade cannot be readily overcome by more agonist.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-002-q17",
+      "question": "The ability of a drug to bind actively onto the receptor site and bring about a maximum therapeutic effect is termed:",
+      "options": ["Affinity", "Potency", "Efficacy", "Synergism"],
+      "answerIndex": 2,
+      "explanation": "Efficacy is the capacity to produce a response once bound; affinity is the strength of binding.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q18",
+      "question": "Affinity is the measure of:",
+      "options": ["How tightly a drug binds to a receptor", "How tightly a drug binds to plasma proteins", "Bioavailability of a drug", "Inhibiting potency of a drug"],
+      "answerIndex": 0,
+      "explanation": "Affinity describes the strength of drug-receptor binding.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pharmacology-paper-002-q19",
+      "question": "The magnitude of the response to a drug is related to:",
+      "options": ["Receptors for the drug", "Receptors occupied by the drug", "Vacant receptors in the tissue", "Spare receptors in the tissue only"],
+      "answerIndex": 1,
+      "explanation": "Drug response generally follows receptor occupancy; spare receptors allow a maximal response without occupying all receptors.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pharmacology-paper-002-q20",
+      "question": "An antagonist is a substance that:",
+      "options": [
+        "Binds to the receptor and produces a maximal effect",
+        "Binds to the receptors without directly activating them and blocks agonist action",
+        "Binds to the receptor and produces a submaximal effect as a full agonist",
+        "Interacts with plasma proteins and never affects receptors"
+      ],
+      "answerIndex": 1,
+      "explanation": "An antagonist has affinity but lacks efficacy and prevents or reduces agonist activation.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "pharmacology-paper-002-b01",
+      "question": "Define the following terms as used in pharmacology: (i) Efficacy (ii) Idiosyncrasy (iii) Bioavailability (iv) Drug half-life. (4 marks)",
+      "marks": 4,
+      "markingGuide": [
+        "Efficacy as capacity to produce a response/maximum effect: 1 mark.",
+        "Idiosyncrasy as unusual unpredictable qualitative response: 1 mark.",
+        "Bioavailability as fraction of unchanged drug reaching systemic circulation: 1 mark.",
+        "Half-life as time for plasma amount/concentration to fall by half during elimination: 1 mark."
+      ],
+      "modelAnswer": "Efficacy is the ability of a drug-receptor complex to produce a response (maximum effect). Idiosyncrasy is an unusual, unpredictable qualitative response related to individual variation. Bioavailability is the fraction of unchanged drug reaching systemic circulation. Half-life is the time required for plasma concentration or amount in the body to fall by half during elimination."
+    },
+    {
+      "id": "pharmacology-paper-002-b02",
+      "question": "(a) Explain the term therapeutic index. (2 marks) (b) Explain six factors that modify drug effects. (12 marks)",
+      "marks": 14,
+      "markingGuide": [
+        "Defines therapeutic index as TD50/ED50 (or LD50/ED50 experimentally) and margin of safety: 2 marks.",
+        "Six modifiers e.g. age, weight, genetics, disease, pregnancy, interactions: 12 marks."
+      ],
+      "modelAnswer": "Therapeutic index compares toxic and effective doses (TD50/ED50; LD50/ED50 in experimental settings); a larger value generally indicates a wider safety margin. Drug effects are modified by age, body size, genetics, organ function, disease, pregnancy, route, dose, interactions, adherence and tolerance."
+    },
+    {
+      "id": "pharmacology-paper-002-b03",
+      "question": "(a) Differentiate between drug resistance and drug tolerance. (10 marks) (b) Describe five causes of antimicrobial resistance. (5 marks)",
+      "marks": 15,
+      "markingGuide": [
+        "Resistance as microbial survival of normally inhibitory concentrations vs tolerance as reduced host response: 5 marks.",
+        "Distinguishes inherited/acquired resistance from tachyphylaxis/tolerance: 5 marks.",
+        "Five causes e.g. mutation, gene transfer, selection pressure, misuse, poor infection control: 5 marks."
+      ],
+      "modelAnswer": "Drug resistance is the ability of a microorganism to survive an antimicrobial concentration that would normally inhibit it; drug tolerance is a reduced response after repeated exposure and may be rapid (tachyphylaxis) or gradual. Resistance develops through mutation and horizontal gene transfer and is selected by inappropriate antimicrobial use, inadequate dosing, poor adherence, weak infection control and exposure pressure."
+    },
+    {
+      "id": "pharmacology-paper-002-b04",
+      "question": "Differentiate between: (i) Placebo and pro-drug (ii) Efficacy and potency (iii) Agonist and antagonist (iv) Potentiation and synergism. (8 marks)",
+      "marks": 8,
+      "markingGuide": [
+        "Placebo without specific action vs pro-drug converted to active form: 2 marks.",
+        "Efficacy as maximum effect vs potency as dose needed: 2 marks.",
+        "Agonist activates receptor vs antagonist binds without activation: 2 marks.",
+        "Potentiation as enhancement vs synergism as greater-than-sum effect: 2 marks."
+      ],
+      "modelAnswer": "A placebo has no specific pharmacological action for the condition; a pro-drug is inactive until converted to its active form. Efficacy is the maximum effect; potency is the dose needed for a specified effect. An agonist binds and activates a receptor; an antagonist binds without activation and blocks agonist action. Potentiation is enhancement of one drug by another; synergism is a combined effect greater than the sum of individual effects."
+    },
+    {
+      "id": "pharmacology-paper-002-b05",
+      "question": "Differentiate between: (i) Hyper-reactivity and hypersensitivity (ii) Tolerance and tachyphylaxis (iii) Maximum tolerated dose and lethal dose (iv) Bacteriostatic and bactericidal antibiotics. (8 marks)",
+      "marks": 8,
+      "markingGuide": [
+        "Hyper-reactivity as exaggerated pharmacological response vs hypersensitivity as immune-mediated allergy: 2 marks.",
+        "Tolerance as gradual reduced response vs tachyphylaxis as rapid loss: 2 marks.",
+        "Maximum tolerated dose as highest acceptable dose vs lethal dose as dose causing death: 2 marks.",
+        "Bacteriostatic inhibits growth vs bactericidal kills bacteria: 2 marks."
+      ],
+      "modelAnswer": "Hyper-reactivity is an exaggerated pharmacological response; hypersensitivity is an immune-mediated allergic response. Tolerance develops gradually with repeated exposure; tachyphylaxis is a rapid decrease in responsiveness. Maximum tolerated dose is the highest dose with acceptable toxicity; lethal dose causes death. Bacteriostatic agents inhibit bacterial growth; bactericidal agents kill bacteria."
+    }
+  ]
+}

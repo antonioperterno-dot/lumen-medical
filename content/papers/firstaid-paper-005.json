@@ -1,0 +1,325 @@
+{
+  "id": "firstaid-paper-005",
+  "courseUnit": "first-aid",
+  "title": "First Aid Paper 5: Fractures, Shock and Emergency Care",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T15:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided First Aid and Nursing question banks",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "firstaid-paper-005-q01",
+      "question": "First aid is the immediate action taken to:",
+      "options": [
+        "Care for the injured until medical help is available",
+        "Supplement proper treatment",
+        "Preserve vitality",
+        "Rescue and transport"
+      ],
+      "answerIndex": 0,
+      "explanation": "First aid cares until help arrives.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q02",
+      "question": "Which of the following is not a characteristic of good dressing?",
+      "options": [
+        "Absorbent soft and thick",
+        "Sterile or clean",
+        "Equal to the diameter of the wound",
+        "Lint free"
+      ],
+      "answerIndex": 2,
+      "explanation": "Dressing should extend beyond the wound.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q03",
+      "question": "After confirming the scene is safe, which immediate assessment priority follows the primary-survey sequence?",
+      "options": [
+        "Open and assess the airway while protecting the cervical spine",
+        "Control a minor bleed before checking airway",
+        "Determine the exact mechanism of injury before assessment",
+        "Begin a complete secondary examination"
+      ],
+      "answerIndex": 0,
+      "explanation": "After scene safety, the primary survey follows an airway-first approach (with spinal protection when indicated), followed by breathing and circulation. Catastrophic external bleeding may require immediate control in current XABCDE protocols.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q04",
+      "question": "Which step in emergency care should be taken first?",
+      "options": [
+        "Treat for shock",
+        "Remove victim from life-threatening situation",
+        "Summon police",
+        "Determine mechanism of injury"
+      ],
+      "answerIndex": 1,
+      "explanation": "Remove from danger first.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q05",
+      "question": "The condition where one gets reduced blood flow to the brain is called:",
+      "options": [
+        "Shock",
+        "Fainting",
+        "Asphyxia",
+        "Unconsciousness"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fainting is reduced brain blood flow.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q06",
+      "question": "Which of the following is used to immobilize a fracture?",
+      "options": [
+        "Stretcher",
+        "Gauze",
+        "Splints",
+        "Cotton wool"
+      ],
+      "answerIndex": 2,
+      "explanation": "Splints immobilize fractures.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q07",
+      "question": "A first aider involved in the look, listen and feel process is:",
+      "options": [
+        "Securing the scene",
+        "Checking for bleeding",
+        "Checking for circulation",
+        "Checking for breathing"
+      ],
+      "answerIndex": 3,
+      "explanation": "Look, listen and feel checks breathing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q08",
+      "question": "Which of the following fracture is common in babies?",
+      "options": [
+        "Simple",
+        "Spiral",
+        "Greenstick",
+        "Compound"
+      ],
+      "answerIndex": 2,
+      "explanation": "Greenstick is common in children.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q09",
+      "question": "The most reliable indication of airway blockage in a conscious person is:",
+      "options": [
+        "The inability to speak",
+        "Compression accident",
+        "Food in the mouth",
+        "Cherry-red skin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Inability to speak indicates blockage.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q10",
+      "question": "Which of the following is the best way of controlling severe bleeding?",
+      "options": [
+        "Elevation",
+        "Pressure point",
+        "Direct pressure",
+        "Tourniquet"
+      ],
+      "answerIndex": 2,
+      "explanation": "Direct pressure is best.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q11",
+      "question": "During first aid management for nose bleeding, the head should be held:",
+      "options": [
+        "Level",
+        "Backward",
+        "Tilted to side",
+        "Forward"
+      ],
+      "answerIndex": 3,
+      "explanation": "Lean forward for nosebleeds.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q12",
+      "question": "The primary objective in First aid care for a fracture is to:",
+      "options": [
+        "Set the bone",
+        "Stabilize the fracture site",
+        "Push bone back",
+        "Minimize pain"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stabilize the fracture site.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q13",
+      "question": "Which type of knot is most frequently used in bandaging?",
+      "options": [
+        "Square knot",
+        "Slip knot",
+        "Half knot",
+        "Reef knot"
+      ],
+      "answerIndex": 0,
+      "explanation": "Square/reef knot for bandaging.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q14",
+      "question": "Which of the following is a means of preventing shock?",
+      "options": [
+        "Keeping temperature normal",
+        "Reassure the victim",
+        "Loosen constrictive clothing",
+        "Give fluids by mouth"
+      ],
+      "answerIndex": 0,
+      "explanation": "Keep temperature normal in this set.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q15",
+      "question": "Unconscious casualty should be put in recovery position except if the casualty has:",
+      "options": [
+        "Spinal injury",
+        "Running stomach",
+        "Fracture",
+        "Headache"
+      ],
+      "answerIndex": 0,
+      "explanation": "Avoid recovery position with spinal injury.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q16",
+      "question": "The following are protective wear, except:",
+      "options": [
+        "Gloves",
+        "Plastic aprons",
+        "Face masks",
+        "Cleaning detergent"
+      ],
+      "answerIndex": 3,
+      "explanation": "Detergent is not protective wear.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q17",
+      "question": "A wound got as a result of a long stay in bed is:",
+      "options": [
+        "Pressure wound",
+        "Sore wound",
+        "Bed sore",
+        "Chronic ulcer"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bed sore from prolonged pressure.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q18",
+      "question": "During decontamination, soiled instruments are placed in which percentage of chlorine solution:",
+      "options": [
+        "0.5%",
+        "10%",
+        "0.05%",
+        "5%"
+      ],
+      "answerIndex": 0,
+      "explanation": "0.5% chlorine for decontamination.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q19",
+      "question": "A first aider should possess the following qualities, except:",
+      "options": [
+        "Empathetic",
+        "Sympathetic",
+        "Observant",
+        "Resourceful"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sympathetic alone is not listed in this set.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "firstaid-paper-005-q20",
+      "question": "Physical examination calls for the following essential skills except:",
+      "options": [
+        "Inspection",
+        "Palpation",
+        "Percussion",
+        "History taking"
+      ],
+      "answerIndex": 3,
+      "explanation": "History taking is not a physical skill.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "firstaid-paper-005-b01",
+      "question": "Explain five important items found in first aid kit and their use. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Five items with uses: 10 marks."
+      ],
+      "modelAnswer": "Dressings, bandages, gloves, antiseptic and scissors with uses."
+    },
+    {
+      "id": "firstaid-paper-005-b02",
+      "question": "Explain factors to consider before deciding on means of transporting a casualty. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Factors such as distance and severity: 10 marks."
+      ],
+      "modelAnswer": "Nature of injury, distance, transport and safety."
+    },
+    {
+      "id": "firstaid-paper-005-b03",
+      "question": "Explain the five components of the nursing process. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Assessment, diagnosis, planning, implementation, evaluation: 10 marks."
+      ],
+      "modelAnswer": "ADPIE nursing process steps."
+    },
+    {
+      "id": "firstaid-paper-005-b04",
+      "question": "Give and explain the first aid management for nose bleeding. (10 marks)",
+      "marks": 10,
+      "markingGuide": [
+        "Position, pinch, duration, referral: 10 marks."
+      ],
+      "modelAnswer": "Sit forward, pinch nose, monitor and refer."
+    },
+    {
+      "id": "firstaid-paper-005-b05",
+      "question": "Define haemorrhage and explain classification and management of minor lower limb bleeding. (20 marks)",
+      "marks": 20,
+      "markingGuide": [
+        "Definition: 2 marks.",
+        "Classification: 6 marks.",
+        "Management: 12 marks."
+      ],
+      "modelAnswer": "Haemorrhage is blood loss; arterial, venous, capillary; direct pressure and dressing."
+    }
+  ]
+}

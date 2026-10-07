@@ -57,8 +57,8 @@ export default async function QuizPage({
               className={cn(
                 "shrink-0 rounded-full border px-3.5 py-1.5 text-[12px] font-semibold transition-colors",
                 active
-                  ? "border-lumen/50 bg-lumen/15 text-lumen"
-                  : "border-white/10 bg-white/5 text-white/70",
+                  ? "glass-nested border-lumen/50 bg-lumen/15 text-lumen"
+                  : "glass-nested border-white/10 text-white/70",
               )}
             >
               {subject.label}

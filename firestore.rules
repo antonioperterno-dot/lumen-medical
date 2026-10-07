@@ -1,0 +1,13 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // LUMEN writes exclusively through the Admin SDK inside /api/progress and
+    // /api/quiz. The browser never touches Firestore directly (see
+    // lib/firebase/client.ts), so deny all direct client access by default.
+    // If a future feature needs direct reads, open only that collection with
+    // `allow get: if request.auth != null && request.auth.uid == userId;`
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

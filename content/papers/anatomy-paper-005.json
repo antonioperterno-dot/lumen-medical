@@ -1,0 +1,303 @@
+{
+  "id": "anatomy-paper-005",
+  "courseUnit": "anatomy",
+  "title": "Anatomy Paper 5: Musculoskeletal, Cardiovascular and Neuroanatomy",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Anatomy pages)",
+  "textbookReference": {
+    "label": "OpenStax Anatomy and Physiology 2e",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "objective": [
+    {
+      "id": "anatomy-paper-005-q01",
+      "question": "Which muscle is the major abductor of the arm after the initial 15 degrees?",
+      "options": [
+        "Biceps",
+        "Deltoid",
+        "Triceps",
+        "Latissimus dorsi"
+      ],
+      "answerIndex": 1,
+      "explanation": "Supraspinatus initiates the first approximately 15 degrees of abduction; the deltoid is the principal abductor through the subsequent range.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q02",
+      "question": "Muscle fibers in the skeletal muscle form bundles called:",
+      "options": [
+        "Tendons",
+        "Ligaments",
+        "Fascicles",
+        "Aponeurosis"
+      ],
+      "answerIndex": 2,
+      "explanation": "Skeletal muscle fibers are grouped into fascicles wrapped by perimysium.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q05",
+      "question": "Facial bones include:",
+      "options": [
+        "Lacrimal, nasal, maxillary and mandible",
+        "Frontal, temporal, parietal, occipital",
+        "Sphenoid, hyoid, mandible and vomer",
+        "Zygomatic, parietal, sphenoid and maxillary"
+      ],
+      "answerIndex": 0,
+      "explanation": "The facial skeleton includes the lacrimal, nasal, maxillary and mandible among others.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-005-q06",
+      "question": "The appendicular skeleton consists of:",
+      "options": [
+        "Pectoral and pelvic girdle",
+        "Bones of the upper and lower limbs",
+        "Limb bones, pectoral girdle and pelvic girdle",
+        "Vertebral column and sacrum"
+      ],
+      "answerIndex": 2,
+      "explanation": "The appendicular skeleton comprises the limbs plus the pectoral and pelvic girdles that attach them to the axial skeleton.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-005-q07",
+      "question": "The knee extensors known as the quadriceps femoris group, consists of:",
+      "options": [
+        "Three vastus muscles and rectus femoris",
+        "Biceps, semimembranosus and semitendinosus",
+        "Gracilis, sartorius and gastrocnemius",
+        "Gluteus maximus, medius and minimus"
+      ],
+      "answerIndex": 0,
+      "explanation": "The quadriceps = vastus lateralis, vastus medialis, vastus intermedius and rectus femoris.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q08",
+      "question": "The agonist muscle group for flexion at the elbow includes:",
+      "options": [
+        "Biceps brachii",
+        "Triceps brachii",
+        "Anconeus",
+        "Deltoid"
+      ],
+      "answerIndex": 0,
+      "explanation": "Biceps brachii is the primary agonist for elbow flexion; triceps and anconeus extend the elbow and deltoid acts at the shoulder.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q09",
+      "question": "Motor neurons that control skeletal muscles are described as:",
+      "options": [
+        "Multipolar",
+        "Bipolar",
+        "Unipolar",
+        "Anaxonic"
+      ],
+      "answerIndex": 0,
+      "explanation": "Somatic motor neurons are multipolar, with a single axon and many dendrites.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-005-q10",
+      "question": "One of the nerves that innervates anterior thigh muscles is:",
+      "options": [
+        "Tibial nerve",
+        "Femoral nerve",
+        "Common fibular nerve",
+        "Sciatic nerve"
+      ],
+      "answerIndex": 1,
+      "explanation": "The femoral nerve supplies the anterior compartment of the thigh.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q11",
+      "question": "Spinal nerves are called mixed nerves because they contain:",
+      "options": [
+        "Sensory and motor fibers",
+        "Only motor fibers",
+        "Sympathetic and parasympathetic fibers",
+        "Sensory fibers only"
+      ],
+      "answerIndex": 0,
+      "explanation": "Each spinal nerve carries both afferent (sensory) and efferent (motor) fibers.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q12",
+      "question": "Which chamber receives oxygenated blood from the pulmonary veins?",
+      "options": [
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pulmonary veins return oxygenated blood to the left atrium before it passes through the mitral valve to the left ventricle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q13",
+      "question": "Which of the following is the serous membrane covering the outer surface of the heart?",
+      "options": [
+        "Parietal pericardium",
+        "Visceral pericardium",
+        "Pleura",
+        "Peritoneum"
+      ],
+      "answerIndex": 1,
+      "explanation": "The visceral pericardium (epicardium) covers the outer surface of the heart; the parietal layer lines the fibrous pericardial sac.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-005-q14",
+      "question": "The layer of the arteriole wall that provides contractility and elasticity is the:",
+      "options": [
+        "Tunica intima",
+        "Tunica adventitia",
+        "Tunica media",
+        "Tunica externa"
+      ],
+      "answerIndex": 2,
+      "explanation": "The tunica media contains smooth muscle and elastic fibres that produce vasoconstriction and vasodilation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q15",
+      "question": "Blood in the hepatic portal system is best described as being compartmentalised within the:",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Systemic veins",
+        "Veins between two capillary beds"
+      ],
+      "answerIndex": 3,
+      "explanation": "A portal system carries blood through two consecutive capillary beds, e.g. the hepatic portal system.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-005-q16",
+      "question": "Which lymphatic structure drains most of the body, including both lower limbs?",
+      "options": [
+        "Right lymphatic duct",
+        "Thoracic duct",
+        "Right subclavian trunk",
+        "Jugular trunk"
+      ],
+      "answerIndex": 1,
+      "explanation": "The thoracic duct drains lymph from both lower limbs, the abdomen, the left thorax, and the left head and upper limb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "anatomy-paper-005-q17",
+      "question": "Which of the following is the main plantar flexor muscle?",
+      "options": [
+        "Gastrocnemius",
+        "Tibialis anterior",
+        "Soleus alone",
+        "Extensor digitorum"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gastrocnemius (with soleus) is the principal plantar flexor of the foot.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q18",
+      "question": "Which fetal vessel carries blood from the pulmonary trunk toward the aorta?",
+      "options": [
+        "Foramen ovale",
+        "Ductus arteriosus",
+        "Ductus venosus",
+        "Umbilical vein"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ductus arteriosus shunts blood from the pulmonary trunk to the aorta before birth.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q19",
+      "question": "Which structure normally initiates the electrical impulse for each heartbeat?",
+      "options": [
+        "Atrioventricular node",
+        "Sinoatrial node",
+        "Bundle branches",
+        "Purkinje fibres"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sinoatrial node is the usual pacemaker and initiates the cardiac impulse.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "anatomy-paper-005-q20",
+      "question": "The purpose of the valves in the heart and veins is to:",
+      "options": [
+        "Prevent backflow of blood",
+        "Increase blood pressure",
+        "Allow unidirectional blood flow",
+        "Both A and C"
+      ],
+      "answerIndex": 3,
+      "explanation": "Valves prevent backflow and ensure unidirectional flow; options A and C are both correct, so D is the best answer.",
+      "difficulty": "easy"
+    }
+  ],
+  "structured": [
+    {
+      "id": "anatomy-paper-005-b01",
+      "question": "Name the eight carpal bones.",
+      "marks": 4,
+      "markingGuide": [
+        "Scaphoid, lunate, triquetrum, pisiform: 2 marks.",
+        "Trapezium, trapezoid, capitate, hamate: 2 marks."
+      ],
+      "modelAnswer": "Proximal row: scaphoid, lunate, triquetrum, pisiform. Distal row: trapezium, trapezoid, capitate, hamate."
+    },
+    {
+      "id": "anatomy-paper-005-b02",
+      "question": "(a) Name the muscles in the anterior compartment of the thigh. (b) State two cartilages found in the lower part of the respiratory system.",
+      "marks": 5,
+      "markingGuide": [
+        "Names four anterior-thigh muscles (iliopsoas, sartorius, quadriceps group): 3 marks.",
+        "Names two cartilages such as tracheal/bronchial rings and laryngeal cartilages: 2 marks."
+      ],
+      "modelAnswer": "(a) Iliopsoas (iliacus + psoas major), sartorius, rectus femoris, vastus lateralis, vastus medialis and vastus intermedius. (b) Hyaline cartilage forms the tracheal and bronchial rings and the laryngeal cartilages (e.g. cricoid and thyroid cartilages)."
+    },
+    {
+      "id": "anatomy-paper-005-b03",
+      "question": "(a) Name the somatic nerves of the cervical plexus. (b) State two arteries that arise from the abdominal aorta.",
+      "marks": 6,
+      "markingGuide": [
+        "Phrenic, lesser occipital, greater auricular, transverse cervical, supraclavicular nerves: 4 marks.",
+        "Any two such as celiac trunk, superior mesenteric, renal, gonadal, inferior mesenteric, common iliac: 2 marks."
+      ],
+      "modelAnswer": "(a) Cervical plexus branches: phrenic nerve, lesser occipital, great auricular, transverse cervical and supraclavicular nerves. (b) Examples: celiac trunk, superior mesenteric artery, renal arteries, gonadal arteries, inferior mesenteric artery and common iliac arteries."
+    },
+    {
+      "id": "anatomy-paper-005-b04",
+      "question": "Describe the anatomical differences between arteries and veins. State two bones of the tarsus.",
+      "marks": 5,
+      "markingGuide": [
+        "Three differences (wall thickness, lumen, direction, valves/pressure): 3 marks.",
+        "Two tarsal bones such as talus, calcaneus, navicular, cuboid, cuneiforms: 2 marks."
+      ],
+      "modelAnswer": "Arteries have thick muscular walls with a small round lumen under high pressure and carry blood away from the heart; veins have thinner walls with a larger irregular lumen under low pressure, carry blood toward the heart and contain valves. Tarsal bones include the talus, calcaneus, navicular, cuboid and the medial, intermediate and lateral cuneiforms."
+    },
+    {
+      "id": "anatomy-paper-005-b05",
+      "question": "(a) Explain the association of the four muscular chambers of the heart. (b) Name the four cardinal signs of inflammation. (c) Where is the sternal angle and what is its significance?",
+      "marks": 20,
+      "markingGuide": [
+        "Chambers: atria receive blood, ventricles pump; right side handles pulmonary circulation, left side systemic; coordinated filling and ejection: 10 marks.",
+        "Redness, heat, swelling and pain: 4 marks.",
+        "Location at manubriosternal junction and significance (T4/T5 level, start of aortic arch, end of trachea, second costal cartilage): 6 marks."
+      ],
+      "modelAnswer": "The right atrium receives deoxygenated blood from the body and passes it to the right ventricle, which pumps it to the lungs; the left atrium receives oxygenated blood from the lungs and passes it to the left ventricle, which pumps it into the systemic circulation. Atrial contraction completes ventricular filling and ventricular contraction ejects blood, with valves ensuring unidirectional flow. The four cardinal signs of inflammation are redness, heat, swelling and pain. The sternal angle is the horizontal ridge at the junction of the manubrium and body of the sternum, at the level of the second costal cartilage; it marks the start of the aortic arch, the end of the trachea and the T4/T5 vertebral boundary."
+    }
+  ]
+}

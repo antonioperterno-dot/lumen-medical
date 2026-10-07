@@ -21,9 +21,20 @@ const config: Config = {
           glow: "rgba(57, 255, 136, 0.35)",
         },
         canvas: {
-          DEFAULT: "#0A0A0A",
-          elevated: "#121212",
-          border: "rgba(255, 255, 255, 0.10)",
+          DEFAULT: "#091321",
+          elevated: "#10213a",
+          border: "rgba(135, 190, 255, 0.16)",
+        },
+        quiz: {
+          card: "#1E293B",
+          border: "#334155",
+          question: "#F8FAFC",
+          label: "#94A3B8",
+          action: "#3B82F6",
+          selected: "#334155",
+          correct: "#166534",
+          wrong: "#991B1B",
+          answer: "#F8FAFC",
         },
       },
       fontFamily: {
@@ -46,7 +57,8 @@ const config: Config = {
       },
       boxShadow: {
         glow: "0 0 24px rgba(57, 255, 136, 0.25)",
-        card: "0 8px 32px rgba(0, 0, 0, 0.45)",
+        // Drop shadow + the lit top edge that makes glass read as glass.
+        card: "0 8px 32px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.07)",
       },
       keyframes: {
         shimmer: {

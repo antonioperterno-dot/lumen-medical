@@ -1,0 +1,326 @@
+{
+  "id": "psychology-paper-007",
+  "courseUnit": "psychology",
+  "title": "Psychology Paper 7: Sociology, Socialisation and Applied Psychology",
+  "level": 1,
+  "status": "published",
+  "publishAt": "2026-10-06T12:00:00+03:00",
+  "durationMinutes": 180,
+  "source": "Adapted from user-provided Dentistry past paper questions (Psychology pages)",
+  "textbookReference": {
+    "label": "Course sample paper",
+    "url": ""
+  },
+  "objective": [
+    {
+      "id": "psychology-paper-007-q01",
+      "question": "Sociology is concerned with:",
+      "options": [
+        "Social behavior and human groups",
+        "Study of the human body",
+        "Origin of microorganisms",
+        "The physical environment"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sociology is the systematic study of human social behaviour, groups and society.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q02",
+      "question": "Which statement about value is correct?",
+      "options": [
+        "Values are fixed and permanent",
+        "Values vary from one society to another",
+        "Values cannot be learned",
+        "Values are biologically determined"
+      ],
+      "answerIndex": 1,
+      "explanation": "Values are culturally shaped, so they differ between societies and change over time.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-007-q03",
+      "question": "Norms are formalised into:",
+      "options": [
+        "Morals",
+        "Folkways",
+        "Mores",
+        "Laws"
+      ],
+      "answerIndex": 3,
+      "explanation": "When norms are written down and formally enforced by the state they become laws.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-007-q04",
+      "question": "The institution most closely associated with the process of socialization is:",
+      "options": [
+        "Family",
+        "Government",
+        "Economy",
+        "Religion"
+      ],
+      "answerIndex": 0,
+      "explanation": "The family is the primary agent of socialization where basic norms and values are learned.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q05",
+      "question": "The term gender role refers to:",
+      "options": [
+        "Biological differences between sexes",
+        "The role assigned by nature",
+        "Behaviour expected of males and females",
+        "The role played in a family"
+      ],
+      "answerIndex": 2,
+      "explanation": "Gender roles are the behaviours and expectations a society considers appropriate for males and females.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q06",
+      "question": "The process of analysis, synthesis and evaluation used to arrive at a judgement is:",
+      "options": [
+        "Review",
+        "Critical",
+        "Convergent thinking",
+        "Divergent thinking"
+      ],
+      "answerIndex": 1,
+      "explanation": "Analysis, synthesis and evaluation to reach a reasoned judgement describe critical thinking.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-007-q07",
+      "question": "A man who is angry with his boss but yells at his children instead is using which defence mechanism?",
+      "options": [
+        "Aggression",
+        "Catharsis",
+        "Sublimation",
+        "Displacement"
+      ],
+      "answerIndex": 3,
+      "explanation": "Displacement redirects an impulse from a threatening target to a safer substitute target.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-007-q08",
+      "question": "Which hormone is released from the adrenal medulla during an acute stress response?",
+      "options": [
+        "Insulin",
+        "Adrenaline (epinephrine)",
+        "Thyroxine",
+        "Melatonin"
+      ],
+      "answerIndex": 1,
+      "explanation": "Acute sympathetic activation stimulates the adrenal medulla to release adrenaline, preparing the body for rapid action.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q09",
+      "question": "Attitudes are:",
+      "options": [
+        "Innate",
+        "Inherited",
+        "Learned",
+        "Unchangeable"
+      ],
+      "answerIndex": 2,
+      "explanation": "Attitudes are learned predispositions formed through experience and socialisation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q10",
+      "question": "A group of people who have known each other since childhood is referred to as:",
+      "options": [
+        "Primary group",
+        "Secondary group",
+        "Reference group",
+        "Outgroup"
+      ],
+      "answerIndex": 0,
+      "explanation": "Primary groups involve close, intimate, long-standing relationships such as family and childhood friends.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q11",
+      "question": "Failure to respect and obey social norms leads to the punishment called:",
+      "options": [
+        "Technique of neutralization",
+        "Deviance",
+        "Cultural transgression",
+        "Sanction"
+      ],
+      "answerIndex": 3,
+      "explanation": "A sanction is the punishment or social penalty applied when norms are violated.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-007-q12",
+      "question": "In Pavlov's experiment, the bell was the:",
+      "options": [
+        "Conditioned stimulus",
+        "Unconditioned response",
+        "Unconditioned stimulus",
+        "Conditioned response"
+      ],
+      "answerIndex": 0,
+      "explanation": "After pairing with food, the bell alone elicits salivation, so it becomes the conditioned stimulus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q13",
+      "question": "The parent-child relationship is of extreme importance in the development of:",
+      "options": [
+        "Intelligence",
+        "Personality",
+        "Emotion",
+        "Memory"
+      ],
+      "answerIndex": 1,
+      "explanation": "Early parent-child interaction shapes personality development.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q14",
+      "question": "Which of the following is a way of maintaining emotional balance?",
+      "options": [
+        "Family, work and play",
+        "Exercise only",
+        "Sleep only",
+        "Avoiding other people"
+      ],
+      "answerIndex": 0,
+      "explanation": "A healthy balance of family life, work and play supports emotional wellbeing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q15",
+      "question": "The family is most important in emotional development because it:",
+      "options": [
+        "Provides material needs only",
+        "Is where diseases are treated",
+        "Helps the individual learn their identity and social roles",
+        "Controls the government"
+      ],
+      "answerIndex": 2,
+      "explanation": "The family is where identity, values and social roles are first learned.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q16",
+      "question": "According to Freud, which component of personality operates according to the reality principle?",
+      "options": [
+        "Id",
+        "Ego",
+        "Superego",
+        "Unconscious"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ego operates on the reality principle, mediating between id, superego and external reality.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-007-q17",
+      "question": "The stage of development characterized by rapid growth and development, especially among females, is:",
+      "options": [
+        "Neonate",
+        "Infancy",
+        "Childhood",
+        "Adolescence"
+      ],
+      "answerIndex": 3,
+      "explanation": "Adolescence is the stage of the growth spurt and rapid development, beginning earlier in females.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q18",
+      "question": "For an infant, which of the following is a psychological need?",
+      "options": [
+        "Clothing",
+        "Food",
+        "Love",
+        "Education"
+      ],
+      "answerIndex": 2,
+      "explanation": "Love, warmth and attachment are psychological needs in addition to physical needs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "psychology-paper-007-q19",
+      "question": "A person hears a loud sound and immediately attends to it. This type of attention is:",
+      "options": [
+        "Involuntary attention",
+        "Voluntary attention",
+        "Selective attention",
+        "Divided attention"
+      ],
+      "answerIndex": 0,
+      "explanation": "Attention captured by a sudden stimulus without deliberate effort is involuntary (reflexive) attention.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "psychology-paper-007-q20",
+      "question": "The school of psychology that holds that it is impossible to objectively study the mind is:",
+      "options": [
+        "Functionalism",
+        "Behaviorism",
+        "Structuralism",
+        "Gestalt psychology"
+      ],
+      "answerIndex": 1,
+      "explanation": "Behaviorism rejects introspection of the mind and studies only observable behaviour.",
+      "difficulty": "medium"
+    }
+  ],
+  "structured": [
+    {
+      "id": "psychology-paper-007-b01",
+      "question": "Define the following terms: (a) Acculturation (b) Cultural shock (c) Deviance",
+      "marks": 5,
+      "markingGuide": [
+        "Acculturation defined: 2 marks.",
+        "Cultural shock defined: 2 marks.",
+        "Deviance defined: 1 mark."
+      ],
+      "modelAnswer": "Acculturation is the process by which a person adopts the cultural traits of another group through contact. Cultural shock is the disorientation and anxiety experienced when encountering an unfamiliar culture. Deviance is behaviour that violates the norms and expectations of a society."
+    },
+    {
+      "id": "psychology-paper-007-b02",
+      "question": "What are the elements of social structure?",
+      "marks": 5,
+      "markingGuide": [
+        "Any five such as social status, roles, groups, institutions, culture, stratification: 5 marks."
+      ],
+      "modelAnswer": "Elements of social structure include social status, social roles, groups and organisations, social institutions, culture, social stratification and demography. These recurring patterns organise social life and position individuals within society."
+    },
+    {
+      "id": "psychology-paper-007-b03",
+      "question": "Explain the elements (components) of communication between a health worker and a patient.",
+      "marks": 5,
+      "markingGuide": [
+        "Sender, receiver, message, channel/encoding, feedback, context/noise: 5 marks."
+      ],
+      "modelAnswer": "Communication involves a sender (health worker) who encodes a message, transmitted through a channel (verbal or non-verbal) to the receiver (patient), who decodes it and gives feedback. Context, cultural factors and noise influence the process, and effective communication requires active listening, empathy and clarification."
+    },
+    {
+      "id": "psychology-paper-007-b04",
+      "question": "Draw and label Maslow's hierarchy of needs and briefly explain each level.",
+      "marks": 5,
+      "markingGuide": [
+        "Pyramid drawn with five levels labelled: 2 marks.",
+        "Correct explanation of physiological, safety, love/belonging, esteem and self-actualisation: 3 marks."
+      ],
+      "modelAnswer": "From the base: physiological needs (food, water, sleep), safety needs (security, stability), love and belonging (family, friends, acceptance), esteem needs (respect, achievement, status) and self-actualisation (realising one's fullest potential). Lower needs must generally be met before higher needs motivate behaviour."
+    },
+    {
+      "id": "psychology-paper-007-b05",
+      "question": "Write an essay on the agents of socialization.",
+      "marks": 5,
+      "markingGuide": [
+        "Names and explains at least four agents (family, school, peers, media, religion, workplace): 5 marks."
+      ],
+      "modelAnswer": "Agents of socialization are the people and groups that transmit norms and values. The family is the primary agent, teaching language, behaviour and emotional habits. Schools formalise learning and authority relations. Peer groups develop cooperation and identity. The media, religion and the workplace further shape beliefs, roles and behaviour throughout life."
+    }
+  ]
+}
