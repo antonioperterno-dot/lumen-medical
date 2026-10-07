@@ -62,7 +62,7 @@ export default function PaperPlayer({ paper }: { paper: Paper }) {
                   );
                 })}
               </div>
-              {submitted && <div className="space-y-1"><p className={cn("text-[12px]", correct ? "text-lumen" : "text-[#FF9A9A]")}>{correct ? "Passed" : "Failed"}</p>{showCorrections && !correct && <p className="text-[12px] leading-relaxed text-dim">Correct answer: {LETTERS[question.answerIndex]}. {question.options[question.answerIndex]}{question.explanation ? ` - ${question.explanation}` : ""}</p>}</div>}
+              {submitted && <div className="space-y-1.5 rounded-xl border-white/10 bg-white/[0.03] p-3"><p className={cn("text-[12px] font-semibold", correct ? "text-lumen" : "text-[#FF9A9A]")}>{correct ? "Correct" : "Not quite"}</p>{!correct && <p className="text-[12px] leading-relaxed text-dim"><span className="font-semibold text-white">Correct answer: {LETTERS[question.answerIndex]}. {question.options[question.answerIndex]}.</span>{question.explanation ? ` ${question.explanation}` : ""}</p>}{correct && question.explanation && <p className="text-[12px] leading-relaxed text-dim">{question.explanation}</p>}</div>}
             </article>;
           })}
           {!submitted && <button type="button" disabled={Object.keys(answers).length !== paper.objective.length} onClick={() => { savePaperAttempt(paper.id, score); setSubmitted(true); }} className="quiz-action w-full rounded-xl bg-[#3B82F6] py-3 text-[13px] font-semibold text-white disabled:cursor-not-allowed disabled:bg-[#334155] disabled:text-[#94A3B8]">Submit objective paper</button>}
